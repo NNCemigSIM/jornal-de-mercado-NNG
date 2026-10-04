@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-03T23:28:26.881Z",
+ "geradoEm": "2026-10-04T14:44:21.545Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 13.82,
@@ -188,7 +188,8 @@
     "fonte": "Agência eixos",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Demanda por equipamentos solares cai quase pela metade no 1º semestre - CNN Brasil",
@@ -567,6 +568,14 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFJrUTdtWks3RVJjYTJicHo1c3hLS0tHQzV2ZExoZGVoTlA2QzR2ZE5FbThCZGZlUUFEMi1hOGJTOGowS2FWUU81OFM3WTFQU3hGTE1iNWJOWG1iSUY2ZW1jZGdCenhvdkdHRjhWY3pLYThmSW5NQmxVN09ROU1TQWp3dTVLd3V1bWxOZEhWaDQ5ckxvYXhlTWZoSmV3S1k3NFJ3MDBNOXlrbmhHTkowbVMzUXBuZU8xLXd3?oc=5",
     "fonte": "megawhat.uol.com.br",
     "data": "2026-08-28T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
+    "titulo": "Energia solar: estudo revela taxas de interesse por idade e gênero no Brasil - Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXR1M1lqQTJJU0dCaUI4bm13VDltak1NSmRncEJoLU1EMXFWdngxNllaLWhCVng2cTBEYU4wa091R0QtdEczWHZzeUUyVWlEQjlneEM4eV9HVE54d3M3TGJBUDFkNFZnTGJpbHpQOU96clk1MG9IQmNQUjZDd1hieHNZWFdta2JGTHVyYTZxX0VTRFFXSl9NUERRVUYyck1aWVhmQ055TTh4bUFl?oc=5",
+    "fonte": "Monitor Mercantil",
+    "data": "2026-08-25T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
@@ -1019,6 +1028,14 @@
     "catLabel": "Geração Distribuída"
    },
    {
+    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
+    "fonte": "BBC",
+    "data": "2026-08-07T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
     "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
     "fonte": "MegaWhat",
@@ -1030,14 +1047,6 @@
     "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - megawhat.uol.com.br",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
     "fonte": "megawhat.uol.com.br",
-    "data": "2026-08-07T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-    "fonte": "BBC",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1763,17 +1772,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Informação ainda é principal barreira para geração distribuída compartilhada no Brasil - noticenter.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzlzRmRaS21JSDg3cnVDQmFJeHNpQTZPVmowRUZ6Q2Vzd1lqd294cTVjVEJuOVhXZWQtY0t3cjJWU09iOEFmcXUzVGFxY2NKSGJIaDBqUDBZczRGNjFZT1BDcnVUZGx4bFVva3FTNFB5SjAzdU13cFp0MHJjYy1vaFZaQUstX1BheDlQNVlRRHNQQmJsSDE5R3FjNmdPSlBPdkU4cmlOTWFsbkl5SG1MVEJtclBDV0V2UGlic3BKb2dHa0I3R1BQRlN3?oc=5",
-    "fonte": "noticenter.com.br",
+    "titulo": "Falta de informação ainda limita avanço da geração distribuída compartilhada no Brasil - Bem Paraná",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeWZteHktOUNaVVRKaktjNVBwNC1kRmNvTF9Qemd4RmZaUEdoNm5iandEWTRDOGN3WFp0TnlyRmJIdExEd1RDT2w4RDZ3YzZLeHVyUmxDdmY1WHk2dGxVVFVMODBtSGtudERXTGVrTXZndEZiZUtDazdUMXQzcWE0VkxkUjlrOXA2SWpIZG9iNWtfNXhvY1BoSVNROTJFaU1oTkZ1RzBMYUdXUDdjTjJEcnQ1UzNGSjMyRXMwM3lHN0dnRnNBV2ZmaE80TmZFTTFRMmdYdG95a0lwWXhUSm43cm5Tb9IB6AFBVV95cUxOWkVYdmdCNy1VOHVuVXhhU0hHSS1ISzRDSzV5NEotQ2NQd0Q4WHFCLUhlSkRyQWJRZm5LazFBdC1KVlF4dzNkeDVtcHdpUGdKQVdWOG1rV0Fla3dzMDhDenU4bDJEbXdZYjg2ZF9xWXIwZFo0blZhTkJhWElsazZkTDlWUFBLR01NVmUybmRLWnZqU0JueHF4M0J4djFQX0laT1hsUHNJVXpULTNmVlRtSEVqMy1YR0VRZTZ3bUdweHZtUmRNb215SVB6UXJqaHkwN2lubGFGWnZ6XzdxYTdWTTlseW94N2o3?oc=5",
+    "fonte": "Bem Paraná",
     "data": "2026-05-27T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Falta de informação ainda limita avanço da geração distribuída compartilhada no Brasil - Bem Paraná",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeWZteHktOUNaVVRKaktjNVBwNC1kRmNvTF9Qemd4RmZaUEdoNm5iandEWTRDOGN3WFp0TnlyRmJIdExEd1RDT2w4RDZ3YzZLeHVyUmxDdmY1WHk2dGxVVFVMODBtSGtudERXTGVrTXZndEZiZUtDazdUMXQzcWE0VkxkUjlrOXA2SWpIZG9iNWtfNXhvY1BoSVNROTJFaU1oTkZ1RzBMYUdXUDdjTjJEcnQ1UzNGSjMyRXMwM3lHN0dnRnNBV2ZmaE80TmZFTTFRMmdYdG95a0lwWXhUSm43cm5Tb9IB6AFBVV95cUxOWkVYdmdCNy1VOHVuVXhhU0hHSS1ISzRDSzV5NEotQ2NQd0Q4WHFCLUhlSkRyQWJRZm5LazFBdC1KVlF4dzNkeDVtcHdpUGdKQVdWOG1rV0Fla3dzMDhDenU4bDJEbXdZYjg2ZF9xWXIwZFo0blZhTkJhWElsazZkTDlWUFBLR01NVmUybmRLWnZqU0JueHF4M0J4djFQX0laT1hsUHNJVXpULTNmVlRtSEVqMy1YR0VRZTZ3bUdweHZtUmRNb215SVB6UXJqaHkwN2lubGFGWnZ6XzdxYTdWTTlseW94N2o3?oc=5",
-    "fonte": "Bem Paraná",
+    "titulo": "Informação ainda é principal barreira para geração distribuída compartilhada no Brasil - noticenter.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzlzRmRaS21JSDg3cnVDQmFJeHNpQTZPVmowRUZ6Q2Vzd1lqd294cTVjVEJuOVhXZWQtY0t3cjJWU09iOEFmcXUzVGFxY2NKSGJIaDBqUDBZczRGNjFZT1BDcnVUZGx4bFVva3FTNFB5SjAzdU13cFp0MHJjYy1vaFZaQUstX1BheDlQNVlRRHNQQmJsSDE5R3FjNmdPSlBPdkU4cmlOTWFsbkl5SG1MVEJtclBDV0V2UGlic3BKb2dHa0I3R1BQRlN3?oc=5",
+    "fonte": "noticenter.com.br",
     "data": "2026-05-27T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1980,17 +1989,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "“Gato” de energia solar: a nova moda que causa choque no setor elétrico - braziljournal.com",
+    "titulo": "“Gato” de energia solar: a nova moda que causa choque no setor elétrico - Brazil Journal",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXhxV2gyTjh3Y1BYRW1ORXRKR0NWMU9RWWVUd3ZYRFdDV013Q1VyQ0N2aTNJc1NyczhrUHpKc0NxZFFkX1M1Ul83WjdVT2xkRWhqWjVLai1BQlZCTlBma1FRdE00a2JkcTAzZWtIakZYT05MVEF3VWRCMWgtdGZPRVJMQklPOGIzZkNjbWhZaS1JSXZScWwwMTZvdw?oc=5",
-    "fonte": "braziljournal.com",
+    "fonte": "Brazil Journal",
     "data": "2026-05-06T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "“Gato” de energia solar: a nova moda que causa choque no setor elétrico - Brazil Journal",
+    "titulo": "“Gato” de energia solar: a nova moda que causa choque no setor elétrico - braziljournal.com",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXhxV2gyTjh3Y1BYRW1ORXRKR0NWMU9RWWVUd3ZYRFdDV013Q1VyQ0N2aTNJc1NyczhrUHpKc0NxZFFkX1M1Ul83WjdVT2xkRWhqWjVLai1BQlZCTlBma1FRdE00a2JkcTAzZWtIakZYT05MVEF3VWRCMWgtdGZPRVJMQklPOGIzZkNjbWhZaS1JSXZScWwwMTZvdw?oc=5",
-    "fonte": "Brazil Journal",
+    "fonte": "braziljournal.com",
     "data": "2026-05-06T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2340,17 +2349,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Consumidor b-optante tem direito adquirido de enviar e receber excedentes e créditos de energia? - canalsolar.com.br",
+    "titulo": "Consumidor b-optante tem direito adquirido de enviar e receber excedentes e créditos de energia? - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEZpU3ZUeWpBYnMzNXV2cnZ5TW9mcjNoMlh1bmhLak9rN1dneXc4eWdlSmYxU2M5Nm9RTElhRF85UXR1Wktuam5EU3FyTExMc2xJN08zVTdfeC1HQXBfTzM4RnBIaURHRWVyLUQ2N1RCSmhhNWhtNGpRYm1yNkZEWFBFR0Exdw?oc=5",
-    "fonte": "canalsolar.com.br",
+    "fonte": "Canal Solar",
     "data": "2026-03-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Consumidor b-optante tem direito adquirido de enviar e receber excedentes e créditos de energia? - Canal Solar",
+    "titulo": "Consumidor b-optante tem direito adquirido de enviar e receber excedentes e créditos de energia? - canalsolar.com.br",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEZpU3ZUeWpBYnMzNXV2cnZ5TW9mcjNoMlh1bmhLak9rN1dneXc4eWdlSmYxU2M5Nm9RTElhRF85UXR1Wktuam5EU3FyTExMc2xJN08zVTdfeC1HQXBfTzM4RnBIaURHRWVyLUQ2N1RCSmhhNWhtNGpRYm1yNkZEWFBFR0Exdw?oc=5",
-    "fonte": "Canal Solar",
+    "fonte": "canalsolar.com.br",
     "data": "2026-03-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2431,14 +2440,6 @@
     "titulo": "Ampliação à revelia em sistemas solares: o que diz a regulação e como se defender - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbnEtbnZNNnhpTGtaR3V4Y1Z4cm5RM2RkbVAyQlhfNElkdlcyMlhlVTZGZkdNWTZHeGtiRG1hWnVCMnNZdkJIdnpWdDFNcVVVMDRURU1qWTJBYnV5ejI5aTBNZDlkUTBHNndvUGdneDhoeF9KRlFlTzZn?oc=5",
     "fonte": "Canal Solar",
-    "data": "2026-03-09T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Ampliação à revelia em sistemas solares: o que diz a regulação e como se defender - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbnEtbnZNNnhpTGtaR3V4Y1Z4cm5RM2RkbVAyQlhfNElkdlcyMlhlVTZGZkdNWTZHeGtiRG1hWnVCMnNZdkJIdnpWdDFNcVVVMDRURU1qWTJBYnV5ejI5aTBNZDlkUTBHNndvUGdneDhoeF9KRlFlTzZn?oc=5",
-    "fonte": "canalsolar.com.br",
     "data": "2026-03-09T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2550,17 +2551,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Mutirão para atualização na Tarifa Social de Energia chega a Três Lagoas na próxima semana - midiamax.com.br",
+    "titulo": "Mutirão para atualização na Tarifa Social de Energia chega a Três Lagoas na próxima semana - Midiamax",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ21IbU16OTh1ME9oeWF5U1RWaVN4RWFJUjVVS3A3Y2lIMDJjNnlQTFVMNjJPYk9hd19LWjd4NlhtQmtiajNEYkJYbHJpbndub3dTOV93NVN3TEg1NW1ZRE1kcWtueER2WGI0UW9RamRvanRjRkNBOW9SZjBkbHA3NGV1TVBKX1RweVd0Umh4WnRIM2dkYU1VQjVlRHRFbG93QTJINHFaWnR1dTZBUXpCam9WQk8?oc=5",
-    "fonte": "midiamax.com.br",
+    "fonte": "Midiamax",
     "data": "2026-10-01T16:40:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Mutirão para atualização na Tarifa Social de Energia chega a Três Lagoas na próxima semana - Midiamax",
+    "titulo": "Mutirão para atualização na Tarifa Social de Energia chega a Três Lagoas na próxima semana - midiamax.com.br",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ21IbU16OTh1ME9oeWF5U1RWaVN4RWFJUjVVS3A3Y2lIMDJjNnlQTFVMNjJPYk9hd19LWjd4NlhtQmtiajNEYkJYbHJpbndub3dTOV93NVN3TEg1NW1ZRE1kcWtueER2WGI0UW9RamRvanRjRkNBOW9SZjBkbHA3NGV1TVBKX1RweVd0Umh4WnRIM2dkYU1VQjVlRHRFbG93QTJINHFaWnR1dTZBUXpCam9WQk8?oc=5",
-    "fonte": "Midiamax",
+    "fonte": "midiamax.com.br",
     "data": "2026-10-01T16:40:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -2574,17 +2575,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde - Diário da Manhã",
+    "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde - dm.com.br",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5BSzBQUUh0TUl4eGZYcV9ZaXVPUmlJUm9hdzB6VFh6ektmYWVnUjZhWFpqMTgyRDAtUS04VURZN2VmWG80SlNCYWlDSmVJd0hpNHdnQ3RrakY3V25mVU1jaWUyLU5JZzFGODRqN21vOVF5WVh4ckZicDYyQkpzQ1BRNlpvbW1wdy1iRnI4Z1pGXzJuWVEwLXBSdkZOZVhTcnB0YmthMXJhd00?oc=5",
-    "fonte": "Diário da Manhã",
+    "fonte": "dm.com.br",
     "data": "2026-10-01T15:44:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde - dm.com.br",
+    "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde - Diário da Manhã",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5BSzBQUUh0TUl4eGZYcV9ZaXVPUmlJUm9hdzB6VFh6ektmYWVnUjZhWFpqMTgyRDAtUS04VURZN2VmWG80SlNCYWlDSmVJd0hpNHdnQ3RrakY3V25mVU1jaWUyLU5JZzFGODRqN21vOVF5WVh4ckZicDYyQkpzQ1BRNlpvbW1wdy1iRnI4Z1pGXzJuWVEwLXBSdkZOZVhTcnB0YmthMXJhd00?oc=5",
-    "fonte": "dm.com.br",
+    "fonte": "Diário da Manhã",
     "data": "2026-10-01T15:44:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -2670,10 +2671,18 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Consumidor não terá taxa extra de energia na conta de outubro - DeFato.com",
+    "titulo": "Consumidor não terá taxa extra de energia na conta de outubro - defato.com",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekxFYWRFV2k1Zmc5T3hqaHByS3lqdmRCeEprVkNsWVJMUF9scEF6dTdEck42cWlUbEFZMUhXcEhiU3M4WF9rZnFTNmw4TUVDamhmckFUR1VXSWJCeURsZFpqTEl1WHNTT1hnakM0R1hxZU0tWFpuYUpFUGRIV2pMTkdINGRrdHFMWUVxRUZRdVZQRFNTbzJ6cg?oc=5",
-    "fonte": "DeFato.com",
+    "fonte": "defato.com",
     "data": "2026-09-30T16:24:24.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Outubro terá bandeira verde na conta de energia, sem custo extra - nabocadanoite.com.br",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVlN0ajVmRk9YRHFlaGszSTIxMXIzcFhSeWg4UVVZUUEyb2t0dGdwU0VEek4tRHVLTW5zdENIakNva3BHdExqZ3NMMHkyNmxjdmRXNllSZU5aWUZJY3lJUFlSWFFkOEZYV1VNX1dZdEtFbzNETlZYVQ?oc=5",
+    "fonte": "nabocadanoite.com.br",
+    "data": "2026-09-30T16:09:26.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -2736,17 +2745,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - gazetasp.com.br",
+    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - Gazeta SP",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzAxWVFBNVF2TVJYQ2E4QTFRUGJoTU9ZdXZRRzN2UG1UaFd5OF9rOE1XRTQ2RDFraGgxYm1KTW5wTTUzdkhfYXpHenUyN09YN1pxOFJ0azR0NUJJM0s5TUZkNmY5UHRrTXpLTXpaNU9wbFJFUWEzSDB5SWtlUF9zY25vZ1ZUWHp2dmlLRkVMMVZzT0lhVGF1VGozOE5EME1jWk9UVHQ3SDVNYXc0Xy1LbkVpY1k2ZXcxU1VOd1pBdTc2WWNJSzJ6TQ?oc=5",
-    "fonte": "gazetasp.com.br",
+    "fonte": "Gazeta SP",
     "data": "2026-09-30T00:30:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - Gazeta SP",
+    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - gazetasp.com.br",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzAxWVFBNVF2TVJYQ2E4QTFRUGJoTU9ZdXZRRzN2UG1UaFd5OF9rOE1XRTQ2RDFraGgxYm1KTW5wTTUzdkhfYXpHenUyN09YN1pxOFJ0azR0NUJJM0s5TUZkNmY5UHRrTXpLTXpaNU9wbFJFUWEzSDB5SWtlUF9zY25vZ1ZUWHp2dmlLRkVMMVZzT0lhVGF1VGozOE5EME1jWk9UVHQ3SDVNYXc0Xy1LbkVpY1k2ZXcxU1VOd1pBdTc2WWNJSzJ6TQ?oc=5",
-    "fonte": "Gazeta SP",
+    "fonte": "gazetasp.com.br",
     "data": "2026-09-30T00:30:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -2809,7 +2818,7 @@
    },
    {
     "titulo": "Aneel reduz bandeira tarifária da conta de luz para verde em outubro - RibeiraoDasNeves.net",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTBzM3BiQTJtX092T0JFZ2Qzb25VclFNRkVZX18ydHZPU1pUUjN5eG8xTl9BZ1MzZjJkYkh5c3hLNWNRQkY3eDhhNWV4YnpPNHZOYVIxT2hTVUxNY0N1Q3FaQXNvVTVwWE1VOG9WTWswTkdiTVRIOXhIZklFT29lY2pNQkdsOEUtbWFYNmJhRTdSODhwbW1kbnhvdW4xU2JZS3Y1X3VXRzhZX3R6eDJGem5kS05zbkFKV0JpUlVtakN6alBXZUtSSFo0YmgwQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdkcDNROFBKUU9JTElMQ0JkeWNETHhMckUzbmJ6WUhSWHk5QnJHRjh1NWh1TjFabWJzNVJ6OVdRaDdQWTF6QWx5VU1pUTN2YWhlR0Zua1l1R0lobUNaWHFIOTVGZWdkUHZ1cW83MWpNcXNub1R5OTNFakRMeHF5SXRIMklueTJ6Um5TRk04RDZuVmF6X1MzTk5uOHRkYUZ0WktGVy1XN0pDcjJweFFJenNlNmx6WE90Rjl3ZVQ4bGtkZw?oc=5",
     "fonte": "RibeiraoDasNeves.net",
     "data": "2026-09-29T20:31:58.000Z",
     "catId": "tarifas",
@@ -2864,6 +2873,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Bandeira verde em outubro: veja cidades do AM sem custo extra na conta de luz - d24am.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORndqaFVremE1ajlnWldpcWZYMGlWT3BrSHZZNlRaeUNsUjN3VmFhamtsNFJiTFNXWF9SdFlGOC1nak1NVEJZLVY0ZGY5TDVhX25FM2R0R3gzdFpsSFgxYTZNZzM1NzJxZUFVUDRkem9mVHJhUUtucmpXTGpnek1qM3FzN0xfTHA3TDh5MUZkT0xkVG5nM0JLZFRZWlA3Rkw0WlNEbE16OA?oc=5",
+    "fonte": "d24am.com",
+    "data": "2026-09-29T14:24:44.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Bandeira verde em outubro: veja cidades do AM sem custo extra na conta de luz - D24AM",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORndqaFVremE1ajlnWldpcWZYMGlWT3BrSHZZNlRaeUNsUjN3VmFhamtsNFJiTFNXWF9SdFlGOC1nak1NVEJZLVY0ZGY5TDVhX25FM2R0R3gzdFpsSFgxYTZNZzM1NzJxZUFVUDRkem9mVHJhUUtucmpXTGpnek1qM3FzN0xfTHA3TDh5MUZkT0xkVG5nM0JLZFRZWlA3Rkw0WlNEbE16OA?oc=5",
     "fonte": "D24AM",
@@ -2904,9 +2921,9 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira verde deixa conta de luz sem cobrança extra - hojemais.com.br",
+    "titulo": "Bandeira verde deixa conta de luz sem cobrança extra - Hojemais.com.br",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU9aUGhFbVFYZUZ1M2x5d21jcWxhT1M5VTlDLTVkZHF6MGpJU212aGMxX2YtRWFHbWU1Zl9uenBTVnVuRC1mdXRGVGJnR0ZoTXd2MlgzMFluOUQ3T3FSRWRaQXk4OWRCa290VzlBR2hSVFBkQ3V4RkluVklVZEhsOFVkUmQ3dVVBUEFTMzNOeXpRb0t4dmNBdFcxdlhKQUxLQXZjTmFQd1BwNXJsU2c?oc=5",
-    "fonte": "hojemais.com.br",
+    "fonte": "Hojemais.com.br",
     "data": "2026-09-29T12:51:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -2984,17 +3001,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz fica sem cobrança extra em outubro com a volta da bandeira verde - JC",
+    "titulo": "Conta de luz fica sem cobrança extra em outubro com a volta da bandeira verde - jc.uol.com.br",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMaUZQcXRvOXc1d0o5dEJmalRpakl4Sm45dng4VXBscGZ2bWRYdEhXN2M1YUlDNHF1ZGRaeVdteUZ4aDE5VVZEdkFSYWZ4UFBVOXM5MGVFdlIzNmtnMEE5UnhXZlJjeDVuMlpIeHNubGZfVk4wODhMdURqUVczT0pqMTBpLVZkUEtPcHBpUjdoZldzQ0QyeTQ4eFNFYUQzamNkUTJqYTVNd01SVl85TTV1ZXE1MzU2Z0h6b3o1TFhOQQ?oc=5",
-    "fonte": "JC",
+    "fonte": "jc.uol.com.br",
     "data": "2026-09-28T22:20:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz fica sem cobrança extra em outubro com a volta da bandeira verde - jc.uol.com.br",
+    "titulo": "Conta de luz fica sem cobrança extra em outubro com a volta da bandeira verde - JC",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMaUZQcXRvOXc1d0o5dEJmalRpakl4Sm45dng4VXBscGZ2bWRYdEhXN2M1YUlDNHF1ZGRaeVdteUZ4aDE5VVZEdkFSYWZ4UFBVOXM5MGVFdlIzNmtnMEE5UnhXZlJjeDVuMlpIeHNubGZfVk4wODhMdURqUVczT0pqMTBpLVZkUEtPcHBpUjdoZldzQ0QyeTQ4eFNFYUQzamNkUTJqYTVNd01SVl85TTV1ZXE1MzU2Z0h6b3o1TFhOQQ?oc=5",
-    "fonte": "jc.uol.com.br",
+    "fonte": "JC",
     "data": "2026-09-28T22:20:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3104,17 +3121,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz fica mais barata em outubro com bandeira verde - Portal Tri Notícias",
+    "titulo": "Conta de luz fica mais barata em outubro com bandeira verde - portaltri.com.br",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkliT05qaHRTckZJX3FpVTQwaXkxUUVOMlprdC1scjhuR2F4dVFIeXdLYjBQZEdtZnRBMV9ZRXpXQXpSYk0yYmoteDQ1WUVhUDZQNEVHT29rejhFZHNYc2tsSmdoSU9FTEpVUWNOQXY1WkU3T0RTdVlHUHJBWGQzdVhDTGdPZUVETFJtX3hJMkZPbUYzRk9lQmJwSExFekZjUVVjS253?oc=5",
-    "fonte": "Portal Tri Notícias",
+    "fonte": "portaltri.com.br",
     "data": "2026-09-28T17:23:57.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz fica mais barata em outubro com bandeira verde - portaltri.com.br",
+    "titulo": "Conta de luz fica mais barata em outubro com bandeira verde - Portal Tri Notícias",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkliT05qaHRTckZJX3FpVTQwaXkxUUVOMlprdC1scjhuR2F4dVFIeXdLYjBQZEdtZnRBMV9ZRXpXQXpSYk0yYmoteDQ1WUVhUDZQNEVHT29rejhFZHNYc2tsSmdoSU9FTEpVUWNOQXY1WkU3T0RTdVlHUHJBWGQzdVhDTGdPZUVETFJtX3hJMkZPbUYzRk9lQmJwSExFekZjUVVjS253?oc=5",
-    "fonte": "portaltri.com.br",
+    "fonte": "Portal Tri Notícias",
     "data": "2026-09-28T17:23:57.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3184,17 +3201,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - goias365.com.br",
+    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - Goiás365",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1RrVXFzUDlGbkxJZDdBT3hYblM5dkFtQXRoZVE2N3kzUHd4T2RoOVFrWV9uazRYS2tXMUZGcG1Ja3c0dHFqOERPOFktOGtwbzFJbnlEQWNkR0VFUF8wZ2pEdmlfdU5ZOUszTkxPT1JjazNJb1Z6ZU50WGI2eXByT3RsQzlPZnVERHlrNzhFRU4?oc=5",
-    "fonte": "goias365.com.br",
+    "fonte": "Goiás365",
     "data": "2026-09-28T13:11:52.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - Goiás365",
+    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - goias365.com.br",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1RrVXFzUDlGbkxJZDdBT3hYblM5dkFtQXRoZVE2N3kzUHd4T2RoOVFrWV9uazRYS2tXMUZGcG1Ja3c0dHFqOERPOFktOGtwbzFJbnlEQWNkR0VFUF8wZ2pEdmlfdU5ZOUszTkxPT1JjazNJb1Z6ZU50WGI2eXByT3RsQzlPZnVERHlrNzhFRU4?oc=5",
-    "fonte": "Goiás365",
+    "fonte": "goias365.com.br",
     "data": "2026-09-28T13:11:52.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3236,6 +3253,14 @@
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSEJ6UUJoaTAxMUpmbU9iNVg5TGtqNHVPd3R2SFc4TGZXcnlLb1RFTkRDeHlmMElIQnZydU94VEpDR093NUlNMkozVHhCRHZRYXJYSkJKNlRJOFBoYVVrSnlRMWZrd1dxdWcwODFheGZUdW5lWmhqRVFPM0RzUmRlT1hyX29XMVcyWTR0TFR6YlZkUGIwOVhmUVZrbEdQRUJaSDgxc29DMUs2Y3F5dHJlbkxRRDhsR2VEbV9HVTc5Q3VpREFfTDhZREthZ1VDbVFuakhTSVItUnVjVG9E?oc=5",
     "fonte": "serrabrancafm.com.br",
     "data": "2026-09-28T11:39:56.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Conta de luz fica mais leve em outubro com retorno da bandeira verde - tribunadaregiao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZS1OMUp5SW12UE9ZX25vTDMwLVpkaWFQQ0xneXZvcmNJWVM3QUxaNXZfNjB1Sl9ZbkhKSGh3ejdHbGJCSkZqOUkyRGkwWDhfOWRnSWRPSGkzN2NOeGpDQ0RRdHd6YjFpNjduMzNUZ0hKQ1BWd3lXTGFPTW5WU3ZFLURGR0lwV3dYUVppeVZfRXlJZ0RhVENGMUZuc0lCdUxiUF9GSktFek5IS05DeFZCUG9TLWJHdw?oc=5",
+    "fonte": "tribunadaregiao.com.br",
+    "data": "2026-09-28T11:31:13.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3600,6 +3625,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Click Guarulhos",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZk5UR3ZSU1d0dkNCRS1NcWxlZjRjNHhUMG1SbjZwTnNEcXc4RWNVRExDMWlhNnZCbzltdGkzZFl5S2dJRHN2eTk3RC1BaGVoWU05d09EcGJ1Z29MZ1hTSk9HN0xRTk9YTnUybmZoYmhpUXVRS2xYU1YzbTktQXRKeXN1ci1WcE9tbTVfVTRIWDZUWEEzQ2s2RzFmdHNQQUdsU1ZMakUxVzJsbXRsTHJzSA?oc=5",
+    "fonte": "Click Guarulhos",
+    "data": "2026-09-26T14:02:10.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Conta de luz voltará a ter bandeira verde em outubro, afirma Aneel - Maringa.Com",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGxzRGJUSENFT3dZd0VGdWJDcjN4WFQ2MVpQOUhteW5nby15eVl6bUI1RWc3dnJUTkI4UlFvYk5iZjhZYVNqRG1uMTY1SHhTUUFUQUx3NDlJTG4zaWZRb2FrUmhaeS1HbXV6d0FHS0Nac2RxV1BvUHFWQkpzVHJhYXZURmxyTTBFWTE2R2NwWHlDNjhTenpBYmR5VVNISWZuTEE?oc=5",
     "fonte": "Maringa.Com",
@@ -3848,14 +3881,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz sem taxa extra: em outubro, bandeira tarifária será verde - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVFnU01YX0lKWk5LaXZjaVYwWXlCdUF5ZWtzUUs5T2ozelgwV0U0YmRBbHNvNVpyWFB3QUlPanQtQTRuRk9tN2ktdmJDeTA2R1RJb0xsRGFUUmNGdkM0cE5SU3NJWkxTYnNnZ3ppOVRYZnlYc2IxUjZRUjg2djZlWmZGWGtndEhZQ0Nuc0FVWGpyQ0J1RjdpTlZRU2FTcUJmTWNBRzd2NlU4b2pjYTI4b0dlcmJMWXRsWG5GQ0Z3eXEtS25INURsNmhOY19HajNELTUxVlVzUDdwak0?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-09-26T00:58:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Conta de luz sem taxa extra: em outubro, bandeira tarifária será verde - agenciabrasil.ebc.com.br",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVFnU01YX0lKWk5LaXZjaVYwWXlCdUF5ZWtzUUs5T2ozelgwV0U0YmRBbHNvNVpyWFB3QUlPanQtQTRuRk9tN2ktdmJDeTA2R1RJb0xsRGFUUmNGdkM0cE5SU3NJWkxTYnNnZ3ppOVRYZnlYc2IxUjZRUjg2djZlWmZGWGtndEhZQ0Nuc0FVWGpyQ0J1RjdpTlZRU2FTcUJmTWNBRzd2NlU4b2pjYTI4b0dlcmJMWXRsWG5GQ0Z3eXEtS25INURsNmhOY19HajNELTUxVlVzUDdwak0?oc=5",
     "fonte": "agenciabrasil.ebc.com.br",
@@ -3904,13 +3929,12 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVNPbFh1R25oRDNaWmd0UWV3VDZoRnpUTU9NSzNUZVIzMnJPdDhOMWN3bHhKZ2xZX1ZsTlRhYUo2VkJ0SF95WmhIWjJfX3NhM2RxVjJyaXo0b2Nfd055QTdrSnF5RWd3ZEdTN2lTR3lNYVhnTnM0azc0c21mVGxDQ0k5YVVvWjRoRGRPRGU4amF0T0gwUEl5Y2JGZ2paUXp5TlYzbHYzSmdiQi15aVU1LXFmdHJlSDJKZDNGckJn?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-09-25T23:54:00.000Z",
+    "titulo": "Bandeira verde volta à conta de luz - Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTFRoYi1ObFhqOW1YaWdaMDhDMFFzUENsUmVJUGpLTWRTLVByRnJOYWp4UzdhdVRKdXViSVdxVmRDZkhabmJvU1NGS3dCb19GaDh4YktvY1A4M25qMmNzOVhPTVJuOUhZNFJfRlRTUE9WRWhfMFk0?oc=5",
+    "fonte": "Monitor Mercantil",
+    "data": "2026-09-26T00:08:32.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - agenciabrasil.ebc.com.br",
@@ -4030,14 +4054,6 @@
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2MG9nNVhSRmpUdC15cjBRdm16aUJvTkdULVp1MFF3bGpUOVQzNzMyVlJuNXZTdkdXTzRjb2Jyb0JZQmItQmpKdGNId25NTGsyMmpoTHc0Y2JFV1R6dGJpVWNtNEFVUUdV?oc=5",
     "fonte": "ES Brasil",
     "data": "2026-09-25T22:23:16.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: Aneel determina bandeira tarifária verde em outubro e encerra cobrança extra - Olhar Digital",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHFFNGRMeDFhV2pBT3BqNUFneU0yMHpjb1c2NmFpNUVQdkJPZmZRc2VtNjh2dE5Nc0tUQmxVOUpOY2lCSEMtcmtLaWdUTHBJWUFLVmNBY0JfYUcwQUUySUpxVlg5cjhnZ2FxOWw3ZWZHVFlCczJUX005aDFud1hoSUFqQUJIVUluNXY3bUJBVDVtOVlkLWFQUExwQUVOZm01d0YybDRybk52OFhpT0g2aHFjc1R3NnRQbEpvOVRDd21HTHoyT2MyWFZjZjFKZw?oc=5",
-    "fonte": "Olhar Digital",
-    "data": "2026-09-25T22:21:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4411,26 +4427,10 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira tarifária em outubro será verde, sem adicional na conta de luz, após 5 meses de amarela - Terra",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOekdFSy1yMW5Ib2hDSU5kNkwwWm9JMWE1d2tIWkR4SDB3Q1BRM3M4cWJXamtNZTU4RHVJRVlVeExLUDdOSDZfeHBkQTM1LW9GTUh2Qmt4ODVveTQxQnVNeTIyZ0hCRURwSDBFcUZhaUJRRkRramxfQ2JCR2pRMUJBREZEZ0dLTTdpVXc5MjhPY2FTd180bjQwMzdlaE5ibXYzblZOUE5qYWxLWGdaMFBNX3NVRUZRVUJ2aG01VkFwWHo0V0psZjJuWmFGSjgwZDR5Szh0TG1EeDZmendaV0tkSUNDVkRlb0JwaTBmdlhwMFU3WU4xdHlTODE0MS11cHJHN2tIaw?oc=5",
-    "fonte": "Terra",
-    "data": "2026-09-25T20:41:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Bandeira tarifária em outubro será verde, sem adicional na conta de luz, após 5 meses de amarela - terra.com.br",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOekdFSy1yMW5Ib2hDSU5kNkwwWm9JMWE1d2tIWkR4SDB3Q1BRM3M4cWJXamtNZTU4RHVJRVlVeExLUDdOSDZfeHBkQTM1LW9GTUh2Qmt4ODVveTQxQnVNeTIyZ0hCRURwSDBFcUZhaUJRRkRramxfQ2JCR2pRMUJBREZEZ0dLTTdpVXc5MjhPY2FTd180bjQwMzdlaE5ibXYzblZOUE5qYWxLWGdaMFBNX3NVRUZRVUJ2aG01VkFwWHo0V0psZjJuWmFGSjgwZDR5Szh0TG1EeDZmendaV0tkSUNDVkRlb0JwaTBmdlhwMFU3WU4xdHlTODE0MS11cHJHN2tIaw?oc=5",
     "fonte": "terra.com.br",
     "data": "2026-09-25T20:41:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira tarifária de outubro será verde e não terá cobrança extra na conta de luz - Alô Alô Bahia",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGxfYVI1RzYzSnc1NEZ1ckx4ZUx6QzB0bmlTUzA5M2JIbF9mR3daV0VGY3dZNlRHeUZjNTJtX1BEVFRyelJnWTZDYURKRW9td1FsTFFBT0xhalJxUVB6MzJDcnNUOEFBWW9OS1FXdzJyVVhDZW5OXzNNQVBPczFvYWw4QXlzRGVkYUxYMWtReDlOVTR5SUtDV2dieEE3SmhkaVd2elkyN0toWkNyaG9BRkJ4SjJwbzlsY0FHS1c1cHVnNHN0X1E?oc=5",
-    "fonte": "Alô Alô Bahia",
-    "data": "2026-09-25T20:36:48.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4563,14 +4563,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de energia fica mais barata em outubro com bandeira verde, anuncia Aneel - itatiaia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXRHaFk0dVRlSkwxbFNLX0NtS25ZaHpGaHZ0RDZ4dXJnaGI5Um02TU5UOXpGMFEwbG5nSlVTdjNNZm0xTXkxMzRIVHFqMVlHdG9pUlJ0MFVyVkRRTk1uS1oxT2Jzdmllb09OeXVTQWZITU92MWg0RGFTcGNXYkJVRHJzbw?oc=5",
-    "fonte": "itatiaia.com.br",
-    "data": "2026-09-25T20:22:31.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Conta de energia fica mais barata em outubro com bandeira verde, anuncia Aneel - Rádio Itatiaia",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXRHaFk0dVRlSkwxbFNLX0NtS25ZaHpGaHZ0RDZ4dXJnaGI5Um02TU5UOXpGMFEwbG5nSlVTdjNNZm0xTXkxMzRIVHFqMVlHdG9pUlJ0MFVyVkRRTk1uS1oxT2Jzdmllb09OeXVTQWZITU92MWg0RGFTcGNXYkJVRHJzbw?oc=5",
     "fonte": "Rádio Itatiaia",
@@ -4607,14 +4599,6 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMm1rR1lJSHVwYkViZG94U3BKa2hURllaLVdqM0JrZ0VTTjZmMU9wSllfQ2dNZ1FLcjd2V28tSzRqcGhTQ1RnMTFLNVNtTWk4MEg1M2JCbVRSbEpwMlpyRkl3R2xIeXZCYUNJRE91OVdXRkthSnZQS3FfdDBndnNOdUhYVGR3V3JHejJRVVczbTZlSVBMMC1hVWxQdDhoSkdFdGFnWlBMVzh3Sko1R1hjUkw5MjZPb2dYcHc?oc=5",
     "fonte": "Alô Alô Bahia",
     "data": "2026-09-25T20:16:48.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "BANDEIRA TARIFÁRIA SERÁ VERDE EM OUTUBRO E DEVE REDUZIR CUSTO DA CONTA DE LUZ - - Bahia Economica",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRktVbTAwUUUtTjdLbmdrZ0RYZDRvTF9MMnY0Rl9fSkVrcGt3VmtMbXpMZ3lZMUd4UEJzRkZyVElOcTE4dnoxZEE4WTN6WHYxUUg1NFFpY0J5aW1IbDV6d0JsdkxhbkZJZVdQZ09vdm5yRkRISlVCRXZ5NVE3YU9vSlpXY2FLTWpNaWo0QUY2aHhPcVNta3kxNWxDWmdsNlVHVWlHYWxISlMzRmNBT19CS3BFM3VnRHhyMGtoMHY2UQ?oc=5",
-    "fonte": "- Bahia Economica",
-    "data": "2026-09-25T20:15:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4708,26 +4692,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica - gov.br",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
-    "fonte": "gov.br",
-    "data": "2026-09-25T20:04:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
-    "titulo": "Conta de luz: bandeira tarifária será verde em outubro e contas de luz devem ter alívio, decide Aneel - O GLOBO",
+    "titulo": "Conta de luz: bandeira tarifária será verde em outubro e contas de luz devem ter alívio, decide Aneel - oglobo.globo.com",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMEItaGtYTEYzR3czZHl2c2JrV09aZUdnQkx0aFhuajZFTzcxSHVicExObDAzWENrYVJNTzFZOWtiZ3cxd1ZBRkRYV0lBZXBRdjFMOTJzNDhUVFNkc3ppc3dyRjc3SlhIejYwd3liOGF5amplR05LNTJRUkM5ZmRaRHpQenNVNWN1dTlmSTRpNFNpMnYxWm96YlRESDNiN3diMWFjUlNrUUdrYTJ4UjdfR0dodUxvVzI3d29SR0I0VWtldXdpem1LTW1KN3ZIQ1FJS3NCY3ZJd1BiU1RxVlY2ekQxT3F3SHhFZkJfeGk5d9IB_gFBVV95cUxPNmlqSENYVnN0bm5YWU54RlMyTDhLdVVFMm9jVElfZGd4bnpIcV9aeGdJYXMyeTlmOFdNaU1UaXpSQ0ZCQkJic1hJZnNtYWlxellBRzBzNGpZZ0s4VTQ5Y3prRlFsaDhFeTJMT0swdlBReUNFM3BORkNNNkMxOHhuYUhMZ2g5bUQzTUt5RjBRU0pGdFlLSmJkcl81VVpfUGQ0T3ZMWUtVQ0lobGliWjBmY3lIbl9DcFBPWnlqV1ZMcTNYMFBzQ2l2bUpYYWhNejZ3U2JiZjdWOXR5cEtFNnliUks4UlpjR01YZXpfbmtCQ3FRSk9GTnY4a1dJOURudw?oc=5",
-    "fonte": "O GLOBO",
+    "fonte": "oglobo.globo.com",
     "data": "2026-09-25T19:57:35.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz: bandeira tarifária será verde em outubro e contas de luz devem ter alívio, decide Aneel - oglobo.globo.com",
+    "titulo": "Conta de luz: bandeira tarifária será verde em outubro e contas de luz devem ter alívio, decide Aneel - O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMEItaGtYTEYzR3czZHl2c2JrV09aZUdnQkx0aFhuajZFTzcxSHVicExObDAzWENrYVJNTzFZOWtiZ3cxd1ZBRkRYV0lBZXBRdjFMOTJzNDhUVFNkc3ppc3dyRjc3SlhIejYwd3liOGF5amplR05LNTJRUkM5ZmRaRHpQenNVNWN1dTlmSTRpNFNpMnYxWm96YlRESDNiN3diMWFjUlNrUUdrYTJ4UjdfR0dodUxvVzI3d29SR0I0VWtldXdpem1LTW1KN3ZIQ1FJS3NCY3ZJd1BiU1RxVlY2ekQxT3F3SHhFZkJfeGk5d9IB_gFBVV95cUxPNmlqSENYVnN0bm5YWU54RlMyTDhLdVVFMm9jVElfZGd4bnpIcV9aeGdJYXMyeTlmOFdNaU1UaXpSQ0ZCQkJic1hJZnNtYWlxellBRzBzNGpZZ0s4VTQ5Y3prRlFsaDhFeTJMT0swdlBReUNFM3BORkNNNkMxOHhuYUhMZ2g5bUQzTUt5RjBRU0pGdFlLSmJkcl81VVpfUGQ0T3ZMWUtVQ0lobGliWjBmY3lIbl9DcFBPWnlqV1ZMcTNYMFBzQ2l2bUpYYWhNejZ3U2JiZjdWOXR5cEtFNnliUks4UlpjR01YZXpfbmtCQ3FRSk9GTnY4a1dJOURudw?oc=5",
-    "fonte": "oglobo.globo.com",
+    "fonte": "O GLOBO",
     "data": "2026-09-25T19:57:35.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4851,6 +4826,32 @@
     "data": "2026-09-25T12:19:03.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica - gov.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
+    "fonte": "gov.br",
+    "data": "2026-09-25T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVNPbFh1R25oRDNaWmd0UWV3VDZoRnpUTU9NSzNUZVIzMnJPdDhOMWN3bHhKZ2xZX1ZsTlRhYUo2VkJ0SF95WmhIWjJfX3NhM2RxVjJyaXo0b2Nfd055QTdrSnF5RWd3ZEdTN2lTR3lNYVhnTnM0azc0c21mVGxDQ0k5YVVvWjRoRGRPRGU4amF0T0gwUEl5Y2JGZ2paUXp5TlYzbHYzSmdiQi15aVU1LXFmdHJlSDJKZDNGckJn?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-09-25T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Conta de luz sem taxa extra: em outubro, bandeira tarifária será verde - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVFnU01YX0lKWk5LaXZjaVYwWXlCdUF5ZWtzUUs5T2ozelgwV0U0YmRBbHNvNVpyWFB3QUlPanQtQTRuRk9tN2ktdmJDeTA2R1RJb0xsRGFUUmNGdkM0cE5SU3NJWkxTYnNnZ3ppOVRYZnlYc2IxUjZRUjg2djZlWmZGWGtndEhZQ0Nuc0FVWGpyQ0J1RjdpTlZRU2FTcUJmTWNBRzd2NlU4b2pjYTI4b0dlcmJMWXRsWG5GQ0Z3eXEtS25INURsNmhOY19HajNELTUxVlVzUDdwak0?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-09-25T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -4915,17 +4916,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - jota.info",
+    "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcENQSk5HUmNISFFOVGxSV2JZVU45TGFGNDItR3dPdHhkeWd5M1BsM052dmwxdTdYbE1aeTlXRWJPZUtvT1k3ampQSWdwc3k1RnNFdzNFQUNkME5aRVBtR2RzcFVIQjBYME9Hd2VoTWxZaVdOMGRPb1NsLVdPMGVDYWNUNkdkRDFid1RWZFliWEJCUTZCNVRmSUhNVWptV0s1MnMzM3IwN3N1d1V1?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - JOTA Jornalismo",
+    "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - jota.info",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcENQSk5HUmNISFFOVGxSV2JZVU45TGFGNDItR3dPdHhkeWd5M1BsM052dmwxdTdYbE1aeTlXRWJPZUtvT1k3ampQSWdwc3k1RnNFdzNFQUNkME5aRVBtR2RzcFVIQjBYME9Hd2VoTWxZaVdOMGRPb1NsLVdPMGVDYWNUNkdkRDFid1RWZFliWEJCUTZCNVRmSUhNVWptV0s1MnMzM3IwN3N1d1V1?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5005,18 +5006,18 @@
     "imagem": null
    },
    {
-    "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico - www.gov.br",
+    "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico - gov.br",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPelRHSlNyVEtEX0Qya2hUQW9zN1YyNnlQTExCUTBFMVprd3dUcDZGaW1SR2Q5a0JyV0J4MWFsZTdhYXE2a0lhQU5GbklFZk44ZFo0TzJiYVlydU1uSWxSTl80WDVZRU80Mks1cWJxdUdjZmtiNHhxUlpBeWctaGRDZllDRUNFMHlOWmV4OGEwWUp6aXJWdmN0TkI5R0hkYVZkUV8zUHMwdmpIZlVmUVE1endmVzQ2UVlzMktYU2hoOWVOakpTYmc3anVrb1Jnd2xvdmFDdTYtbjNaN3ZGRm12aXlBUXNMVV9TYzh4V0R1YncxNTdNZ1RfYTJYZk5IeS1fZXlVZDZuUQ?oc=5",
-    "fonte": "www.gov.br",
+    "fonte": "gov.br",
     "data": "2026-08-20T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
     "imagem": null
    },
    {
-    "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico - gov.br",
+    "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico - www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPelRHSlNyVEtEX0Qya2hUQW9zN1YyNnlQTExCUTBFMVprd3dUcDZGaW1SR2Q5a0JyV0J4MWFsZTdhYXE2a0lhQU5GbklFZk44ZFo0TzJiYVlydU1uSWxSTl80WDVZRU80Mks1cWJxdUdjZmtiNHhxUlpBeWctaGRDZllDRUNFMHlOWmV4OGEwWUp6aXJWdmN0TkI5R0hkYVZkUV8zUHMwdmpIZlVmUVE1endmVzQ2UVlzMktYU2hoOWVOakpTYmc3anVrb1Jnd2xvdmFDdTYtbjNaN3ZGRm12aXlBUXNMVV9TYzh4V0R1YncxNTdNZ1RfYTJYZk5IeS1fZXlVZDZuUQ?oc=5",
-    "fonte": "gov.br",
+    "fonte": "www.gov.br",
     "data": "2026-08-20T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
@@ -5079,17 +5080,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Armazenamento de energia avança no Brasil: o que muda com as novas regras da Aneel - alemdaenergia.engie.com.br",
+    "titulo": "Armazenamento de energia avança no Brasil: o que muda com as novas regras da Aneel - Além da Energia",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDN1b0paLTRjOFU1aDdPMGF6N0dURE1ZcXFtaHRfT2V2NHo2V2JwRGVWLWVCb3V1SWFZd0JFZGFHQ0doRk5EaG5Wa1hpX3ZFRC1UOWVBd0hZODZZLW0teWFNU09yZXo2aGppbzVla2hQSFpQdEtPMVdhc1RneEFNTDZvLU15V3pa?oc=5",
-    "fonte": "alemdaenergia.engie.com.br",
+    "fonte": "Além da Energia",
     "data": "2026-08-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Armazenamento de energia avança no Brasil: o que muda com as novas regras da Aneel - Além da Energia",
+    "titulo": "Armazenamento de energia avança no Brasil: o que muda com as novas regras da Aneel - alemdaenergia.engie.com.br",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDN1b0paLTRjOFU1aDdPMGF6N0dURE1ZcXFtaHRfT2V2NHo2V2JwRGVWLWVCb3V1SWFZd0JFZGFHQ0doRk5EaG5Wa1hpX3ZFRC1UOWVBd0hZODZZLW0teWFNU09yZXo2aGppbzVla2hQSFpQdEtPMVdhc1RneEFNTDZvLU15V3pa?oc=5",
-    "fonte": "Além da Energia",
+    "fonte": "alemdaenergia.engie.com.br",
     "data": "2026-08-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5255,17 +5256,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - www.gov.br",
+    "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - gov.br",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2FENXRVSEhueXpDUU11MjBiVWtqeTl1QW5MYnlxNXNLYUdPdEFlSTU3RVZEbm9WZ0RVQU9wRklvR2ZfRHFhT1hBandQd3JaME92WlpoUXBhX2VxLUd6dDhvMmlzNFdBUV8xVDFPZVQ0WlZ3aS1US2dyQnJGZzhTeWRIRWlyenRiZ1NiZF90YzlVb1RjR0Z3ZVhPdG03dTlLTmlWdzVRMHdvNjdMSFMyVWUyZ2x6SVBpXzNSWExfT2otX2pQNVVsZ3ZmcTdiNHBLa0NJY0VFUHZPYVdr?oc=5",
-    "fonte": "www.gov.br",
+    "fonte": "gov.br",
     "data": "2026-07-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - gov.br",
+    "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2FENXRVSEhueXpDUU11MjBiVWtqeTl1QW5MYnlxNXNLYUdPdEFlSTU3RVZEbm9WZ0RVQU9wRklvR2ZfRHFhT1hBandQd3JaME92WlpoUXBhX2VxLUd6dDhvMmlzNFdBUV8xVDFPZVQ0WlZ3aS1US2dyQnJGZzhTeWRIRWlyenRiZ1NiZF90YzlVb1RjR0Z3ZVhPdG03dTlLTmlWdzVRMHdvNjdMSFMyVWUyZ2x6SVBpXzNSWExfT2otX2pQNVVsZ3ZmcTdiNHBLa0NJY0VFUHZPYVdr?oc=5",
-    "fonte": "gov.br",
+    "fonte": "www.gov.br",
     "data": "2026-07-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5311,17 +5312,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Mercado de baterias no Brasil e o risco regulatório em jogo - jota.info",
+    "titulo": "Mercado de baterias no Brasil e o risco regulatório em jogo - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHJ2MmZvX1ZRdU4tSTBzQS1lM1lEZG4zbmxaQS1QZWN3RnFOS1hKbW1VZzVHOFlZYS12UG5tUEgwMTFZTTRaS0lnVU1nT3E4SGxRbWV5VHpnWWFYZlpLWW9xc0JuZ0EzQTJ5SUlhVExoa2tyOXVFUndpUHhPRk1TTWpNYXdpaXZFa0diUG9mR2U2NDc0TUFuLWcyYWMycTRzSzZWMlBVQ080WTg?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2026-06-27T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Mercado de baterias no Brasil e o risco regulatório em jogo - JOTA Jornalismo",
+    "titulo": "Mercado de baterias no Brasil e o risco regulatório em jogo - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHJ2MmZvX1ZRdU4tSTBzQS1lM1lEZG4zbmxaQS1QZWN3RnFOS1hKbW1VZzVHOFlZYS12UG5tUEgwMTFZTTRaS0lnVU1nT3E4SGxRbWV5VHpnWWFYZlpLWW9xc0JuZ0EzQTJ5SUlhVExoa2tyOXVFUndpUHhPRk1TTWpNYXdpaXZFa0diUG9mR2U2NDc0TUFuLWcyYWMycTRzSzZWMlBVQ080WTg?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2026-06-27T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5504,7 +5505,8 @@
     "fonte": "Migalhas",
     "data": "2026-06-09T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Capacidade institucional da ANEEL e deferência técnica no setor elétrico - migalhas.com.br",
@@ -5659,17 +5661,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "STF anula lei estadual que determinava indenização automática por queda de energia - Consultor Jurídico",
+    "titulo": "STF anula lei estadual que determinava indenização automática por queda de energia - conjur.com.br",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3VtMUg3TFN2TWFPajlQdTNUQWlRck9Db0NtY2VEMXRtZWgxMGtSTFZnT2FCN0ZSYUpnenp5aW1kRGU4d2F0QmFRa3ViTlZzOEJZNVFaZ3V5UWNTUGFoZ3FfOFN1RU5yMjE3ZDRSVlFIU3VyUGRzS3ZWS2JuVTRINTBJdDR3cHlhMFc5a1lQNjhtbEIxOWV6cGdXemthNzZrczZjb0lySWIxWjlkLWlCRi1CVElPMVlpeTJhdkpBRW9lSUE?oc=5",
-    "fonte": "Consultor Jurídico",
+    "fonte": "conjur.com.br",
     "data": "2026-05-22T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "STF anula lei estadual que determinava indenização automática por queda de energia - conjur.com.br",
+    "titulo": "STF anula lei estadual que determinava indenização automática por queda de energia - Consultor Jurídico",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3VtMUg3TFN2TWFPajlQdTNUQWlRck9Db0NtY2VEMXRtZWgxMGtSTFZnT2FCN0ZSYUpnenp5aW1kRGU4d2F0QmFRa3ViTlZzOEJZNVFaZ3V5UWNTUGFoZ3FfOFN1RU5yMjE3ZDRSVlFIU3VyUGRzS3ZWS2JuVTRINTBJdDR3cHlhMFc5a1lQNjhtbEIxOWV6cGdXemthNzZrczZjb0lySWIxWjlkLWlCRi1CVElPMVlpeTJhdkpBRW9lSUE?oc=5",
-    "fonte": "conjur.com.br",
+    "fonte": "Consultor Jurídico",
     "data": "2026-05-22T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5795,17 +5797,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Curtailment no setor elétrico: quem assume o risco? - jota.info",
+    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzFjWUpBbjJSeUd1SVByQS1fbk5BTEZjNU5CMFBkeElhdV9QcUVFVHJDMmZ6Q0tlYnlFZW0wZHM2aFU5T2FlWXF2bjBNcmhVT2c1S1hIel9hRG9ieFdxekJIQWJYRGUwS2ZHR1hJSHR6T2FkdkNOVE56ZWFYVmJZcHFjNGhZU2h5aVA3X3VHZEUxbmJBbEFHWklwRGFWQQ?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2026-03-05T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Jornalismo",
+    "titulo": "Curtailment no setor elétrico: quem assume o risco? - jota.info",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzFjWUpBbjJSeUd1SVByQS1fbk5BTEZjNU5CMFBkeElhdV9QcUVFVHJDMmZ6Q0tlYnlFZW0wZHM2aFU5T2FlWXF2bjBNcmhVT2c1S1hIel9hRG9ieFdxekJIQWJYRGUwS2ZHR1hJSHR6T2FkdkNOVE56ZWFYVmJZcHFjNGhZU2h5aVA3X3VHZEUxbmJBbEFHWklwRGFWQQ?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2026-03-05T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5831,6 +5833,14 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS291SUI2eG1fNUNoMnNoSmN5b0pzOUI4M0ZzWlBwR3BHSXNiaUNnZEFXVF9ZQUh2MG1ReHRhdG5ESFJDWFlhdEJoNExXSy04TTJRY1Z3UlB0cVRVZVhwWUk2VElDOHRXMnJiU3B5X0N6TUN3a2gwZDBDYTVvOW55Vm1HMjdfNEFLXzF4NHN0YUtDTmt0T3JMRmh4azFZV3diUVFKNDlRNUJCSnNMSEtCalItU3hWU19SM254N0daaDhfcXFGMldySWhNa1Q1TEU?oc=5",
     "fonte": "tagdlaw.com.br",
     "data": "2026-02-13T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Técnicos da Aneel mantêm 'tarifa dupla' e afastam consumidores de encargo das baterias - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUhlUXY5VjRiN2lVVWVrZElPVTVtQXBPZWpTR2huNHZKdGxBYVUxaGs1dndWN1g1WE4yZ002bUR2VHRia1FpSzU5ZERYV050d0hPckdQY3ZXZGM3R0RTZW50RzN2M2xyWTE4MVB0RFFSanFKc0JPNzgwcVI3Wnc1ZjhBdHNpcGxHYU1LWXNVWEZWMUtRZTM5aGNoQ2RwV3MwaVMxZW9qcXA4THZaMXV1eGhCZnphQV9XQlhFQlRFZzk?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-02-12T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5883,14 +5893,6 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
-    "fonte": "Livecoins",
-    "data": "2026-02-03T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
     "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - livecoins.com.br",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
     "fonte": "livecoins.com.br",
@@ -5899,10 +5901,10 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Iluminação pública: entenda quem deve realizar a manutenção de ruas e avenidas - pi.equatorialenergia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2taZk1zajFNbEx0LUkza3JMQmNJVFYzS0RSY3IxOEx0dXg4dVZWV3djWHQ4VEh4cjVwcUdIeVNhNjVFQnZqdVNyUWpUWEc1ejhYSmJsSldGUm14SEVzazBLU2g4T3JZSU9BNmZnbXJHWjVscDg5SmstekxaaGd0VlhlSHRCUnNhWmxkSmdTZ3UzX0NoNUZCN0xwcm04cE5wUHd3ZFd5ZmRqUWY0cndPdGZJRjE?oc=5",
-    "fonte": "pi.equatorialenergia.com.br",
-    "data": "2026-01-29T08:00:00.000Z",
+    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
+    "fonte": "Livecoins",
+    "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5910,6 +5912,14 @@
     "titulo": "Iluminação pública: entenda quem deve realizar a manutenção de ruas e avenidas - Equatorial Energia",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2taZk1zajFNbEx0LUkza3JMQmNJVFYzS0RSY3IxOEx0dXg4dVZWV3djWHQ4VEh4cjVwcUdIeVNhNjVFQnZqdVNyUWpUWEc1ejhYSmJsSldGUm14SEVzazBLU2g4T3JZSU9BNmZnbXJHWjVscDg5SmstekxaaGd0VlhlSHRCUnNhWmxkSmdTZ3UzX0NoNUZCN0xwcm04cE5wUHd3ZFd5ZmRqUWY0cndPdGZJRjE?oc=5",
     "fonte": "Equatorial Energia",
+    "data": "2026-01-29T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Iluminação pública: entenda quem deve realizar a manutenção de ruas e avenidas - pi.equatorialenergia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2taZk1zajFNbEx0LUkza3JMQmNJVFYzS0RSY3IxOEx0dXg4dVZWV3djWHQ4VEh4cjVwcUdIeVNhNjVFQnZqdVNyUWpUWEc1ejhYSmJsSldGUm14SEVzazBLU2g4T3JZSU9BNmZnbXJHWjVscDg5SmstekxaaGd0VlhlSHRCUnNhWmxkSmdTZ3UzX0NoNUZCN0xwcm04cE5wUHd3ZFd5ZmRqUWY0cndPdGZJRjE?oc=5",
+    "fonte": "pi.equatorialenergia.com.br",
     "data": "2026-01-29T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5931,17 +5941,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Quando o decreto regula: Aneel, ONS e a disputa pelo acesso à transmissão - jota.info",
+    "titulo": "Quando o decreto regula: Aneel, ONS e a disputa pelo acesso à transmissão - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlJqUXFndUdyVWVhVzV1UG1QbXk2eVU3XzNYdXEycU1wMG0tbW9wdWR5WEVndWRPdFlabkpTTGpYendfbTR4MGZxZThTTk03SHN6QWowdzNqb3pUc2h1d0dTOURVSzNBeGNSWG9nM3hrVjg3dzd5U2ZXMndhenB2QTh1UnJ0Z1hCM3V3aC1fOFBxSzNkYXZNNmljUWRrbGR1LXpLTFM1ZEI5VnJLTkIwQXhaUXBxMmZfdnlB?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2026-01-14T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Quando o decreto regula: Aneel, ONS e a disputa pelo acesso à transmissão - JOTA Jornalismo",
+    "titulo": "Quando o decreto regula: Aneel, ONS e a disputa pelo acesso à transmissão - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlJqUXFndUdyVWVhVzV1UG1QbXk2eVU3XzNYdXEycU1wMG0tbW9wdWR5WEVndWRPdFlabkpTTGpYendfbTR4MGZxZThTTk03SHN6QWowdzNqb3pUc2h1d0dTOURVSzNBeGNSWG9nM3hrVjg3dzd5U2ZXMndhenB2QTh1UnJ0Z1hCM3V3aC1fOFBxSzNkYXZNNmljUWRrbGR1LXpLTFM1ZEI5VnJLTkIwQXhaUXBxMmZfdnlB?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2026-01-14T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6019,17 +6029,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel consolida a vedação à cobrança pela arrecadação da Cosip - Consultor Jurídico",
+    "titulo": "Aneel consolida a vedação à cobrança pela arrecadação da Cosip - conjur.com.br",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHNOTHg3VHQzdTN3WnJLcDBTZUp0MHBuTkUxbjR1UEJ4NEh4OUpFN1dwVTlMUFhqN1daRUFZWTI2Q3ZscnhYcXd3TjZlUFYtTm5GVzFBYjVQenJ6NG8wTnR1NDN5clJGZ2Q3Y2x0dWZMVWhiZDRUZHFJT3dXdUVoOUdfRzBlUUF3NmNZQnhyZjZLX3IyR1ZfUlgzaVpEUQ?oc=5",
-    "fonte": "Consultor Jurídico",
+    "fonte": "conjur.com.br",
     "data": "2025-12-19T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel consolida a vedação à cobrança pela arrecadação da Cosip - conjur.com.br",
+    "titulo": "Aneel consolida a vedação à cobrança pela arrecadação da Cosip - Consultor Jurídico",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHNOTHg3VHQzdTN3WnJLcDBTZUp0MHBuTkUxbjR1UEJ4NEh4OUpFN1dwVTlMUFhqN1daRUFZWTI2Q3ZscnhYcXd3TjZlUFYtTm5GVzFBYjVQenJ6NG8wTnR1NDN5clJGZ2Q3Y2x0dWZMVWhiZDRUZHFJT3dXdUVoOUdfRzBlUUF3NmNZQnhyZjZLX3IyR1ZfUlgzaVpEUQ?oc=5",
-    "fonte": "conjur.com.br",
+    "fonte": "Consultor Jurídico",
     "data": "2025-12-19T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6059,17 +6069,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - teletime.com.br",
+    "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - TELETIME News",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkNTSGxoVzBNSlpuT3NlTG1JaHotcXZfeWgwX0g0T29Wcy1aVFFxbk13b0FTZ3VsTzk2Qm1EVFZuamJiNk55cjZLU2syWVB2S0lJMlN0dGZiRFVHSGxFOHN0eEp1QjZBXzhBclRkaWdXS3pxcWRqY1doaXhjdkpWa0VtT1BLdXpleGV2bjJFbWRPQUdkMmdKakxkUTVoRHJvUE5vT2pVUU8?oc=5",
-    "fonte": "teletime.com.br",
+    "fonte": "TELETIME News",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - TELETIME News",
+    "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - teletime.com.br",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkNTSGxoVzBNSlpuT3NlTG1JaHotcXZfeWgwX0g0T29Wcy1aVFFxbk13b0FTZ3VsTzk2Qm1EVFZuamJiNk55cjZLU2syWVB2S0lJMlN0dGZiRFVHSGxFOHN0eEp1QjZBXzhBclRkaWdXS3pxcWRqY1doaXhjdkpWa0VtT1BLdXpleGV2bjJFbWRPQUdkMmdKakxkUTVoRHJvUE5vT2pVUU8?oc=5",
-    "fonte": "TELETIME News",
+    "fonte": "teletime.com.br",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6131,17 +6141,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Governo sanciona projeto que define novo marco para o setor elétrico, com 10 vetos; veja - timesbrasil.com.br",
+    "titulo": "Governo sanciona projeto que define novo marco para o setor elétrico, com 10 vetos; veja - Times Brasil | CNBC",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkh2T1VTTFFTTG9MeHczQWtrbm1xVDM0Z01QazA2WUh4WmtVdFNCQzl3UjV4TUJzc09vN3dOOUF3aFdmWDZOdWlQVm43SFVBTDI4ZEJmczJYQmRocnM3N3RfV3pmbEVrUm84QVpNUkM2Vl95aVhWcXp2NEVwNk9qQWxWMzlUcUNTS25VdQ?oc=5",
-    "fonte": "timesbrasil.com.br",
+    "fonte": "Times Brasil | CNBC",
     "data": "2025-11-25T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Governo sanciona projeto que define novo marco para o setor elétrico, com 10 vetos; veja - Times Brasil | CNBC",
+    "titulo": "Governo sanciona projeto que define novo marco para o setor elétrico, com 10 vetos; veja - timesbrasil.com.br",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkh2T1VTTFFTTG9MeHczQWtrbm1xVDM0Z01QazA2WUh4WmtVdFNCQzl3UjV4TUJzc09vN3dOOUF3aFdmWDZOdWlQVm43SFVBTDI4ZEJmczJYQmRocnM3N3RfV3pmbEVrUm84QVpNUkM2Vl95aVhWcXp2NEVwNk9qQWxWMzlUcUNTS25VdQ?oc=5",
-    "fonte": "Times Brasil | CNBC",
+    "fonte": "timesbrasil.com.br",
     "data": "2025-11-25T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6211,9 +6221,9 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Regulação responsiva, legalidade e segurança jurídica em contratos de energia elétrica - jota.info",
+    "titulo": "Regulação responsiva, legalidade e segurança jurídica em contratos de energia elétrica - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNy1jS0E5Vk5sRVpxaDVSeGxBUUN5OHJ2Zmp6Wkh6eEViR3BuTk5UMUF6RTc2UmhMNm9DMWg1NEJtVkNaWDdMRkdERGxiYVduWUhxNlpKSTdmNm5WdHAySFBmV2Y1SHRuemVZZmFiOXFoTEx2MllEMS1SQTM1cmQ5SzZjbHpDRDM4cHI4YjJTSGJNdFM2NWtIYng0T0Q0eE9xaU8tb0pDNTZYSHNuemNfRTg3OEdyREVDeG1pdzZqcHpGWV9ENVNXd0RwaWlNMXVpWWRQSC1GSEsxZw?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2025-10-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6227,9 +6237,9 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Regulação responsiva, legalidade e segurança jurídica em contratos de energia elétrica - JOTA Jornalismo",
+    "titulo": "Regulação responsiva, legalidade e segurança jurídica em contratos de energia elétrica - jota.info",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNy1jS0E5Vk5sRVpxaDVSeGxBUUN5OHJ2Zmp6Wkh6eEViR3BuTk5UMUF6RTc2UmhMNm9DMWg1NEJtVkNaWDdMRkdERGxiYVduWUhxNlpKSTdmNm5WdHAySFBmV2Y1SHRuemVZZmFiOXFoTEx2MllEMS1SQTM1cmQ5SzZjbHpDRDM4cHI4YjJTSGJNdFM2NWtIYng0T0Q0eE9xaU8tb0pDNTZYSHNuemNfRTg3OEdyREVDeG1pdzZqcHpGWV9ENVNXd0RwaWlNMXVpWWRQSC1GSEsxZw?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2025-10-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6307,17 +6317,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - jota.info",
+    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2025-09-08T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Jornalismo",
+    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2025-09-08T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6395,14 +6405,6 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "O papel da Aneel na modernização da regulação do setor elétrico - Consultor Jurídico",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmFSZlloc001NDF3WkJiOU5ZTFBXSkwyVEFUY0tacUxzTVlpeEJLVFhMYXhXTllxSUl0WUVhTWpzZl9aaDhfMGVMY09saUljNW1tWC1ZNDJDUUstSE5SOTZwTjd6UzdzQjhhakFkMkR1QW1Db2VXbHJXUDhhbUROd3FaWWN4OEN2ZXlXMlo1ajFrRjNLWWtUUXBleFR5WldTQ0hkaUdhbUVtOHNNYjRWbGhyd21FdjVzeGdWMU9lcTUtaDcxSExLc05vSQ?oc=5",
-    "fonte": "Consultor Jurídico",
-    "data": "2025-07-20T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
     "titulo": "O papel da Aneel na modernização da regulação do setor elétrico - conjur.com.br",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmFSZlloc001NDF3WkJiOU5ZTFBXSkwyVEFUY0tacUxzTVlpeEJLVFhMYXhXTllxSUl0WUVhTWpzZl9aaDhfMGVMY09saUljNW1tWC1ZNDJDUUstSE5SOTZwTjd6UzdzQjhhakFkMkR1QW1Db2VXbHJXUDhhbUROd3FaWWN4OEN2ZXlXMlo1ajFrRjNLWWtUUXBleFR5WldTQ0hkaUdhbUVtOHNNYjRWbGhyd21FdjVzeGdWMU9lcTUtaDcxSExLc05vSQ?oc=5",
     "fonte": "conjur.com.br",
@@ -6411,10 +6413,10 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel adiará por até 60 dias decisão sobre regulamento de postes - teletime.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzktUU45R0JYSnNTeFIxdmtNU2VKdk9aZXBSc0VYa25EbzFubjJtVFFrM1pzdVRwY2dnWjAzdHRIU0ZURFNvUDBoWnBmZnlPNnd2RFRFelhqbW9PM0pkNk5Cd0FnaTBTcEVwUnlhc1F2SlpjbUV2LW1EcHZtY3FfOEh5WlU1Uzh3MmRoS0V1amg1TlhwcmhuOG9fLV9WSlRBamc?oc=5",
-    "fonte": "teletime.com.br",
-    "data": "2025-07-14T07:00:00.000Z",
+    "titulo": "O papel da Aneel na modernização da regulação do setor elétrico - Consultor Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmFSZlloc001NDF3WkJiOU5ZTFBXSkwyVEFUY0tacUxzTVlpeEJLVFhMYXhXTllxSUl0WUVhTWpzZl9aaDhfMGVMY09saUljNW1tWC1ZNDJDUUstSE5SOTZwTjd6UzdzQjhhakFkMkR1QW1Db2VXbHJXUDhhbUROd3FaWWN4OEN2ZXlXMlo1ajFrRjNLWWtUUXBleFR5WldTQ0hkaUdhbUVtOHNNYjRWbGhyd21FdjVzeGdWMU9lcTUtaDcxSExLc05vSQ?oc=5",
+    "fonte": "Consultor Jurídico",
+    "data": "2025-07-20T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -6427,10 +6429,10 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Reforma tributária e o setor elétrico - jota.info",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
-    "fonte": "jota.info",
-    "data": "2025-05-21T07:00:00.000Z",
+    "titulo": "Aneel adiará por até 60 dias decisão sobre regulamento de postes - teletime.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzktUU45R0JYSnNTeFIxdmtNU2VKdk9aZXBSc0VYa25EbzFubjJtVFFrM1pzdVRwY2dnWjAzdHRIU0ZURFNvUDBoWnBmZnlPNnd2RFRFelhqbW9PM0pkNk5Cd0FnaTBTcEVwUnlhc1F2SlpjbUV2LW1EcHZtY3FfOEh5WlU1Uzh3MmRoS0V1amg1TlhwcmhuOG9fLV9WSlRBamc?oc=5",
+    "fonte": "teletime.com.br",
+    "data": "2025-07-14T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -6438,6 +6440,14 @@
     "titulo": "Reforma tributária e o setor elétrico - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
     "fonte": "JOTA Jornalismo",
+    "data": "2025-05-21T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Reforma tributária e o setor elétrico - jota.info",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
+    "fonte": "jota.info",
     "data": "2025-05-21T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6451,17 +6461,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Geração distribuída de energia e direito dos 'prosumidores' diante das distribuidoras - Consultor Jurídico",
+    "titulo": "Geração distribuída de energia e direito dos 'prosumidores' diante das distribuidoras - conjur.com.br",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlc4R2c0WVl6aEZMVWhqZ24xV2plTGZYOWtuWWo1aFdfOUFlVFJlQVM1SGI3N1k2ZVVyMm81SUpBNU5mV0JfVzBWdi1KUjNPaVpEdDhHcG40U3UxNGZRbmFscHhZZWUxUS1mVk50emV1S3dvYmpfd1d6cVBUa3FnSXRMaUNLcDZoZldVdEptY3RqS1JuVFVyMWt3RjlhLWlfaGhPVkVzQ2dLWEV1Tmc5OWhsRy1lT21TdExRVQ?oc=5",
-    "fonte": "Consultor Jurídico",
+    "fonte": "conjur.com.br",
     "data": "2025-05-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Geração distribuída de energia e direito dos 'prosumidores' diante das distribuidoras - conjur.com.br",
+    "titulo": "Geração distribuída de energia e direito dos 'prosumidores' diante das distribuidoras - Consultor Jurídico",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlc4R2c0WVl6aEZMVWhqZ24xV2plTGZYOWtuWWo1aFdfOUFlVFJlQVM1SGI3N1k2ZVVyMm81SUpBNU5mV0JfVzBWdi1KUjNPaVpEdDhHcG40U3UxNGZRbmFscHhZZWUxUS1mVk50emV1S3dvYmpfd1d6cVBUa3FnSXRMaUNLcDZoZldVdEptY3RqS1JuVFVyMWt3RjlhLWlfaGhPVkVzQ2dLWEV1Tmc5OWhsRy1lT21TdExRVQ?oc=5",
-    "fonte": "conjur.com.br",
+    "fonte": "Consultor Jurídico",
     "data": "2025-05-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6491,17 +6501,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Por uma norma geral dos encargos e subsídios do setor elétrico - jota.info",
+    "titulo": "Por uma norma geral dos encargos e subsídios do setor elétrico - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWNZeEdPT2RFdzJpNVd4dEQyOV9WMWg5RXFLY0k0cFNSY2pHeFNGYnRTMkdvUnVweVJJcVhxQUtyd3NDQWZuNDIwUDNVN3c0b2ZNRGRHY1JZTUR0S1NqbnBsN0c3OUdyVTI0OTZGR2dieEo2ME5OODVjTmtqN2ZpT0RKUDM5NDN6ZktkNms5UVhjQnNNTFlIcW9UejdJTXBMSEozOFJUN18zeENac19n?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2025-04-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Por uma norma geral dos encargos e subsídios do setor elétrico - JOTA Jornalismo",
+    "titulo": "Por uma norma geral dos encargos e subsídios do setor elétrico - jota.info",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWNZeEdPT2RFdzJpNVd4dEQyOV9WMWg5RXFLY0k0cFNSY2pHeFNGYnRTMkdvUnVweVJJcVhxQUtyd3NDQWZuNDIwUDNVN3c0b2ZNRGRHY1JZTUR0S1NqbnBsN0c3OUdyVTI0OTZGR2dieEo2ME5OODVjTmtqN2ZpT0RKUDM5NDN6ZktkNms5UVhjQnNNTFlIcW9UejdJTXBMSEozOFJUN18zeENac19n?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2025-04-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6611,17 +6621,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - jota.info",
+    "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1iS1Z5RDJ3aWhsM01IbkFpY0V4SDJJZDlIVDJ2SnJPbW9MbGoybEpjOTZVLURKSnRtdjlCUHdvUGpqMkNxOEUyVWkwLXBrVE1UVjJBX1phc1BzVFVLWlZZNEVFRThuc2JQd2pYdF91RmUzZGRhRExxT2wxUHpnT3NHWjVqendrWkYzekdPdXEzSU9IMS1LVVZiR0xwWjJZZk1CS1Rra1Ywd1M3dHFsWXpZWlNSbk8xY25KMUZuUzQ?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2025-02-07T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - JOTA Jornalismo",
+    "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1iS1Z5RDJ3aWhsM01IbkFpY0V4SDJJZDlIVDJ2SnJPbW9MbGoybEpjOTZVLURKSnRtdjlCUHdvUGpqMkNxOEUyVWkwLXBrVE1UVjJBX1phc1BzVFVLWlZZNEVFRThuc2JQd2pYdF91RmUzZGRhRExxT2wxUHpnT3NHWjVqendrWkYzekdPdXEzSU9IMS1LVVZiR0xwWjJZZk1CS1Rra1Ywd1M3dHFsWXpZWlNSbk8xY25KMUZuUzQ?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2025-02-07T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6651,17 +6661,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ESG — Agência Nacional de Energia Elétrica - www.gov.br",
+    "titulo": "ESG — Agência Nacional de Energia Elétrica - gov.br",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTbk5KS3V6VlBJVVZVQkp2Qy1DbjVoRDVZM0JwVW5fYng4eEd3LUItR2xHZmtsNktFbi1ZYkpNR0RLbFp3b3FoUHBJQjdJZFYwNXpCVXVhUGNfVVBfajg0aXlheDRoS2NNc1ZsY041UG9fS2dCZDNyTjlFZ1Q?oc=5",
-    "fonte": "www.gov.br",
+    "fonte": "gov.br",
     "data": "2025-01-31T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ESG — Agência Nacional de Energia Elétrica - gov.br",
+    "titulo": "ESG — Agência Nacional de Energia Elétrica - www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTbk5KS3V6VlBJVVZVQkp2Qy1DbjVoRDVZM0JwVW5fYng4eEd3LUItR2xHZmtsNktFbi1ZYkpNR0RLbFp3b3FoUHBJQjdJZFYwNXpCVXVhUGNfVVBfajg0aXlheDRoS2NNc1ZsY041UG9fS2dCZDNyTjlFZ1Q?oc=5",
-    "fonte": "gov.br",
+    "fonte": "www.gov.br",
     "data": "2025-01-31T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6691,17 +6701,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - jota.info",
+    "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Q2aWpGRVl2UmI5bGxnYTJVc3NxYnhzcXdPOXhpQWprX3JJZDUyTzgyMnRTd2VSdVpEWFZQMzY4R19fZDU4d0sxQUNhVXVVNUU0TGdiM19ZT0I0eWUtSWcyNzI3QlRwVktoU0UtRnBFVWJNblppeHZuTC12SFdwbGdCV2ozQXM0N3E2bjMwcnBELTg1NjhSUjlOX1FJcWhJclRJM2xYbFlUVVQtWTY0Y2RZUjBITXFzdFE?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2025-01-23T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - JOTA Jornalismo",
+    "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Q2aWpGRVl2UmI5bGxnYTJVc3NxYnhzcXdPOXhpQWprX3JJZDUyTzgyMnRTd2VSdVpEWFZQMzY4R19fZDU4d0sxQUNhVXVVNUU0TGdiM19ZT0I0eWUtSWcyNzI3QlRwVktoU0UtRnBFVWJNblppeHZuTC12SFdwbGdCV2ozQXM0N3E2bjMwcnBELTg1NjhSUjlOX1FJcWhJclRJM2xYbFlUVVQtWTY0Y2RZUjBITXFzdFE?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2025-01-23T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6835,17 +6845,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Selo de Boas Práticas Regulatórias — Agência Nacional de Energia Elétrica - www.gov.br",
+    "titulo": "Selo de Boas Práticas Regulatórias — Agência Nacional de Energia Elétrica - gov.br",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnNyVGFSX0dxNFAwZkRkcWhCd0ZmUHVRMWthZ29YQUpNeC0xZjBydFZ6aVUxcFFxT09lRDd6MWhEb2hFU21kazZ3T05TVEt2cGFzUF9CLU5iUVZ6X3FHQzJIbDNFRERfTmxVT0hhaWdvYWdYS1dTUTd0aGJaOFNPR1psOUZwcm0tRWJFM2hEcFg4YVJVY2NMZExJeFJ2Zw?oc=5",
-    "fonte": "www.gov.br",
+    "fonte": "gov.br",
     "data": "2024-08-21T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Selo de Boas Práticas Regulatórias — Agência Nacional de Energia Elétrica - gov.br",
+    "titulo": "Selo de Boas Práticas Regulatórias — Agência Nacional de Energia Elétrica - www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnNyVGFSX0dxNFAwZkRkcWhCd0ZmUHVRMWthZ29YQUpNeC0xZjBydFZ6aVUxcFFxT09lRDd6MWhEb2hFU21kazZ3T05TVEt2cGFzUF9CLU5iUVZ6X3FHQzJIbDNFRERfTmxVT0hhaWdvYWdYS1dTUTd0aGJaOFNPR1psOUZwcm0tRWJFM2hEcFg4YVJVY2NMZExJeFJ2Zw?oc=5",
-    "fonte": "gov.br",
+    "fonte": "www.gov.br",
     "data": "2024-08-21T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6931,14 +6941,6 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Ajuste em contratos de mini e microgeração distribuída de energia - Consultor Jurídico",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2trLVUyOFdaS0dzZTQtejI0R19YSm5pckFjZW96MDVZaWc3RnAzSHBpalVVV1FlNHBNZXJwQ1JGNmxyRldWejZSQ1NQaHFXVHoxYktSZms0ZGJfV3lsVUdDc2FfTi1KM01LZjdPcnFvY3pNNS1PdnFCckdXZ2N1T2V4cUhzZ2pfdFpHeEluemRMQmRCblltQXlITnFyMUMyMVE?oc=5",
-    "fonte": "Consultor Jurídico",
-    "data": "2024-07-29T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
     "titulo": "Ajuste em contratos de mini e microgeração distribuída de energia - conjur.com.br",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2trLVUyOFdaS0dzZTQtejI0R19YSm5pckFjZW96MDVZaWc3RnAzSHBpalVVV1FlNHBNZXJwQ1JGNmxyRldWejZSQ1NQaHFXVHoxYktSZms0ZGJfV3lsVUdDc2FfTi1KM01LZjdPcnFvY3pNNS1PdnFCckdXZ2N1T2V4cUhzZ2pfdFpHeEluemRMQmRCblltQXlITnFyMUMyMVE?oc=5",
     "fonte": "conjur.com.br",
@@ -6947,10 +6949,10 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "TRF-2 confirma legalidade de normas da Aneel sobre créditos de energia - Consultor Jurídico",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUdackVvMVZ1UEJUSnRGX0JDWEdsQzY5OVFqczNvZGFYeUUxU0JSY2doTmplbjlYWWFaWnhrdjhmX2FUWDV2LUtGbEQzbGdJU0c2RGFMY0QwckZERDViYzFCbW9ocVpfbVJSWUF4UTl4NllYZjd0NjJ2WVFDa1BlT1U3bzcwZzNwUXprNWRKZk1aYUVaRFExZm9uQm5xQlNwd09DUVE3UGc2eHBlQkpxczY5OVRKUmFOcWFyMzdZRjFsUmxk?oc=5",
+    "titulo": "Ajuste em contratos de mini e microgeração distribuída de energia - Consultor Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2trLVUyOFdaS0dzZTQtejI0R19YSm5pckFjZW96MDVZaWc3RnAzSHBpalVVV1FlNHBNZXJwQ1JGNmxyRldWejZSQ1NQaHFXVHoxYktSZms0ZGJfV3lsVUdDc2FfTi1KM01LZjdPcnFvY3pNNS1PdnFCckdXZ2N1T2V4cUhzZ2pfdFpHeEluemRMQmRCblltQXlITnFyMUMyMVE?oc=5",
     "fonte": "Consultor Jurídico",
-    "data": "2024-06-29T07:00:00.000Z",
+    "data": "2024-07-29T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -6963,10 +6965,10 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Os limites do poder normativo das agências reguladoras - jota.info",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1huVEhVTDktanYzXzlGWXdMWUh6dmxudURyb2hGY1Z0Z0h0aXFPczQ5bmRObWZsSmt3dlh3cC1MMGFRVDNrYWlROERLM01RTkhwM01sa1JYTFNMVWdxQXJGaU02ZGNhOGU5alVEbzczUFdpVEZSVUJ4TEg1OFVrakNRNTkxb1psM2Fyb3Y3QXFVdmxqY0dRanN4djZTdXFaN1dqbTBNMEpwNV9OSVFCcnVtSEo5NFVxUEJ0ag?oc=5",
-    "fonte": "jota.info",
-    "data": "2023-12-05T08:00:00.000Z",
+    "titulo": "TRF-2 confirma legalidade de normas da Aneel sobre créditos de energia - Consultor Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUdackVvMVZ1UEJUSnRGX0JDWEdsQzY5OVFqczNvZGFYeUUxU0JSY2doTmplbjlYWWFaWnhrdjhmX2FUWDV2LUtGbEQzbGdJU0c2RGFMY0QwckZERDViYzFCbW9ocVpfbVJSWUF4UTl4NllYZjd0NjJ2WVFDa1BlT1U3bzcwZzNwUXprNWRKZk1aYUVaRFExZm9uQm5xQlNwd09DUVE3UGc2eHBlQkpxczY5OVRKUmFOcWFyMzdZRjFsUmxk?oc=5",
+    "fonte": "Consultor Jurídico",
+    "data": "2024-06-29T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -6974,6 +6976,14 @@
     "titulo": "Os limites do poder normativo das agências reguladoras - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1huVEhVTDktanYzXzlGWXdMWUh6dmxudURyb2hGY1Z0Z0h0aXFPczQ5bmRObWZsSmt3dlh3cC1MMGFRVDNrYWlROERLM01RTkhwM01sa1JYTFNMVWdxQXJGaU02ZGNhOGU5alVEbzczUFdpVEZSVUJ4TEg1OFVrakNRNTkxb1psM2Fyb3Y3QXFVdmxqY0dRanN4djZTdXFaN1dqbTBNMEpwNV9OSVFCcnVtSEo5NFVxUEJ0ag?oc=5",
     "fonte": "JOTA Jornalismo",
+    "data": "2023-12-05T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Os limites do poder normativo das agências reguladoras - jota.info",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1huVEhVTDktanYzXzlGWXdMWUh6dmxudURyb2hGY1Z0Z0h0aXFPczQ5bmRObWZsSmt3dlh3cC1MMGFRVDNrYWlROERLM01RTkhwM01sa1JYTFNMVWdxQXJGaU02ZGNhOGU5alVEbzczUFdpVEZSVUJ4TEg1OFVrakNRNTkxb1psM2Fyb3Y3QXFVdmxqY0dRanN4djZTdXFaN1dqbTBNMEpwNV9OSVFCcnVtSEo5NFVxUEJ0ag?oc=5",
+    "fonte": "jota.info",
     "data": "2023-12-05T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6987,17 +6997,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Alterações nas outorgas de geração de energia elétrica - jota.info",
+    "titulo": "Alterações nas outorgas de geração de energia elétrica - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3gzQW90X2NnbldCa0FGeURzNTJNUWNoSjhqNmJjN3ZOa214V2hLb1htbndFQ1U5aFBqVks0NlBSbVV0RmZkQzI2MWt3c21ickM1Z1ExdHdSWERBX1lNNFc3cnNwMkNxOFQ1cFRhZE5WNjQwempKRURoNVJDWkZnbnoybXZJYUlhN0VOdkxtWDZ4OXNlNWFyOU04aDB2d2NZWEpqaA?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2023-10-16T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Alterações nas outorgas de geração de energia elétrica - JOTA Jornalismo",
+    "titulo": "Alterações nas outorgas de geração de energia elétrica - jota.info",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3gzQW90X2NnbldCa0FGeURzNTJNUWNoSjhqNmJjN3ZOa214V2hLb1htbndFQ1U5aFBqVks0NlBSbVV0RmZkQzI2MWt3c21ickM1Z1ExdHdSWERBX1lNNFc3cnNwMkNxOFQ1cFRhZE5WNjQwempKRURoNVJDWkZnbnoybXZJYUlhN0VOdkxtWDZ4OXNlNWFyOU04aDB2d2NZWEpqaA?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2023-10-16T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7011,17 +7021,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Novas regras de outorgas e de acesso à rede básica no setor elétrico - jota.info",
+    "titulo": "Novas regras de outorgas e de acesso à rede básica no setor elétrico - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRXJzMXlHLWtyRTQ4elJsVG9HR0RaVlJqbmVYZzRaSExmUnBid0ZLWHpiY2ZuLXo1bUo4UUZzWXNWbmtheno1VXRua01DenBFVHh3dk1pT2NTLVJWQXhuaDIxRjkwdGF5STQ1RGtXdzVKVHJpYzFjRHZEU0t5ZWNCbWQzM1h6ZEQ0OTVBN2w0QjNGWWRiRm9nWURCSVZGbVB6dGhvSWwxWVdPQ3ZSQTRsc0lxVlc4SnNOZnRQeTFsT21tYVJiVTVwY3V1bjBHenM?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2023-09-26T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Novas regras de outorgas e de acesso à rede básica no setor elétrico - JOTA Jornalismo",
+    "titulo": "Novas regras de outorgas e de acesso à rede básica no setor elétrico - jota.info",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRXJzMXlHLWtyRTQ4elJsVG9HR0RaVlJqbmVYZzRaSExmUnBid0ZLWHpiY2ZuLXo1bUo4UUZzWXNWbmtheno1VXRua01DenBFVHh3dk1pT2NTLVJWQXhuaDIxRjkwdGF5STQ1RGtXdzVKVHJpYzFjRHZEU0t5ZWNCbWQzM1h6ZEQ0OTVBN2w0QjNGWWRiRm9nWURCSVZGbVB6dGhvSWwxWVdPQ3ZSQTRsc0lxVlc4SnNOZnRQeTFsT21tYVJiVTVwY3V1bjBHenM?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2023-09-26T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7123,17 +7133,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Presidente do STJ suspende liminar que interfere no cálculo do preço da energia - jota.info",
+    "titulo": "Presidente do STJ suspende liminar que interfere no cálculo do preço da energia - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTZNV3ktcm44d292UWxRaFhzVHhHS2kxM09qSVB2RmVrWjMzckhZUVVMaHZDNl92a29NcXBWTnZkMEd3WHVaOWNyU0l5TWd0VHZQYUVHVmYwU0FxWUx6UTFNQmxnWENZR0RudHBPY0pfQUZ4WXhrTURKWjBOYVRUOF9TTjFFZF9DUWp5QXgwWVBsY05tX215cmZ3ZTVmMC0wYmJnSnNiNFhKODE5WFE?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2023-04-18T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Presidente do STJ suspende liminar que interfere no cálculo do preço da energia - JOTA Jornalismo",
+    "titulo": "Presidente do STJ suspende liminar que interfere no cálculo do preço da energia - jota.info",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTZNV3ktcm44d292UWxRaFhzVHhHS2kxM09qSVB2RmVrWjMzckhZUVVMaHZDNl92a29NcXBWTnZkMEd3WHVaOWNyU0l5TWd0VHZQYUVHVmYwU0FxWUx6UTFNQmxnWENZR0RudHBPY0pfQUZ4WXhrTURKWjBOYVRUOF9TTjFFZF9DUWp5QXgwWVBsY05tX215cmZ3ZTVmMC0wYmJnSnNiNFhKODE5WFE?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2023-04-18T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7219,17 +7229,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel regulamenta cofaturamento dos serviços de resíduos sólidos - jota.info",
+    "titulo": "Aneel regulamenta cofaturamento dos serviços de resíduos sólidos - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnlkR1NwbjliLVJOUjRweTNaWmtRNVV3YmFFUW9RNXA1WVZYUVRZUHk5WVFveUFjRHFUaWdmYUpKV2xLR0xoblNFZ2ZvZExCS2ZjZFJHVTdmYjd2VmJuR2RUR1paRlQ4bDhLa0gtcmhGbHNVQnpzcktxWmpMZHVVVjZmY3ZObmpRN0MwY2YtTzU5SmdobVJnN293MEVBTGtBaFZmemNHTGY3cUs4alhiQllR?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2022-11-16T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel regulamenta cofaturamento dos serviços de resíduos sólidos - JOTA Jornalismo",
+    "titulo": "Aneel regulamenta cofaturamento dos serviços de resíduos sólidos - jota.info",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnlkR1NwbjliLVJOUjRweTNaWmtRNVV3YmFFUW9RNXA1WVZYUVRZUHk5WVFveUFjRHFUaWdmYUpKV2xLR0xoblNFZ2ZvZExCS2ZjZFJHVTdmYjd2VmJuR2RUR1paRlQ4bDhLa0gtcmhGbHNVQnpzcktxWmpMZHVVVjZmY3ZObmpRN0MwY2YtTzU5SmdobVJnN293MEVBTGtBaFZmemNHTGY3cUs4alhiQllR?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2022-11-16T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7257,17 +7267,18 @@
     "data": "2022-11-07T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "iNFRADebate: Segurança cibernética no setor elétrico e a resolução da ANEEL - Agência iNFRA",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3ZfVlUtZjNCTURUdlQtMVJHODhQVUxjMWZ0ekUtbjlFLWowNmNGeFRaeE9xTl9mM09GSURQMW5zU1I3Wjg0ZXh0UUFjSTlPSG5halhib0kzRXpJSjNrUFhmelBaZkptZW00S0lndndqS1NEc0lVUGxiQXFyOE9MRXkwa25kRTFpOTNWNWQtXy0taGRGREZkSldEejZNSkhLVThGajdjd3c?oc=5",
-    "fonte": "Agência iNFRA",
-    "data": "2022-10-19T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
+   {
+    "titulo": "Kardemir planeja investimento solar de 120,5 MWp para produção de aço - Notícias e Estatísticas - indexbox.io",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNW91RGNlaHRSQk1aeGlWT1JNVjgtNUpvc3pOSUNUZXZnOWFGZ3k1T0docDJJUDA0QlNpTE14SFFjSmNkaDNHZUc2SmdKdXBqLXFIcXExcHNDTmhFUExFMG1CeDZmSnpib283MUlPOGRQeURMX1dEZHRudXhtX3ByUExZYU4yUGZjM3hXdVd6ZEM1SWJmSS1HcFdTekxDWWFlOHF3Vw?oc=5",
+    "fonte": "indexbox.io",
+    "data": "2026-10-03T10:21:11.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado",
+    "imagem": null
+   },
    {
     "titulo": "Kardemir planeja investimento solar de 120,5 MWp para produção de aço - Notícias e Estatísticas - IndexBox",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNW91RGNlaHRSQk1aeGlWT1JNVjgtNUpvc3pOSUNUZXZnOWFGZ3k1T0docDJJUDA0QlNpTE14SFFjSmNkaDNHZUc2SmdKdXBqLXFIcXExcHNDTmhFUExFMG1CeDZmSnpib283MUlPOGRQeURMX1dEZHRudXhtX3ByUExZYU4yUGZjM3hXdVd6ZEM1SWJmSS1HcFdTekxDWWFlOHF3Vw?oc=5",
@@ -7332,7 +7343,8 @@
     "fonte": "Estadão",
     "data": "2026-07-23T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado"
+    "catLabel": "Players & Mercado",
+    "imagem": null
    },
    {
     "titulo": "Usinas eólicas e solares devem viver onda de fusões e aquisições a partir de 2027; entenda - estadao.com.br",
@@ -7348,8 +7360,7 @@
     "fonte": "Diário do Comércio",
     "data": "2026-06-05T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "Cemig SIM investe R$ 155 milhões na compra de 11 usinas solares em Minas Gerais - diariodocomercio.com.br",
@@ -7410,8 +7421,7 @@
     "fonte": "BPMoney",
     "data": "2026-05-20T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "No setor elétrico dos EUA, um M&A de US$ 67 bilhões para atender a AI - Brazil Journal",
@@ -7656,17 +7666,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Ações de empresa de mídia de Trump disparam 33% após acordo com grupo de fusão nuclear - flj.com.br",
+    "titulo": "Ações de empresa de mídia de Trump disparam 33% após acordo com grupo de fusão nuclear - FL Journal",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWwtTFdTS01BV25GektMNWlXVlNBOFd2TDVQMnQ0OXNXaXJJYU1zNlMzU3lnNk44ei1MNGwyQVFhSW1uQUJUbUdMNTNNb0pHYjFZQmpMZDVGVHloRXBZQTRXU29VU1ZVNGE5emtENjF6VmJScVpMS3E2ZUJOazI5RWF6SnJVcDVrQUFxUWU4Z0Q2anc5eU9DSzllVzdJYVQ2Z21CQlJMamc2TXZzb1duVmhCZHo?oc=5",
-    "fonte": "flj.com.br",
+    "fonte": "FL Journal",
     "data": "2025-12-18T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Ações de empresa de mídia de Trump disparam 33% após acordo com grupo de fusão nuclear - FL Journal",
+    "titulo": "Ações de empresa de mídia de Trump disparam 33% após acordo com grupo de fusão nuclear - flj.com.br",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWwtTFdTS01BV25GektMNWlXVlNBOFd2TDVQMnQ0OXNXaXJJYU1zNlMzU3lnNk44ei1MNGwyQVFhSW1uQUJUbUdMNTNNb0pHYjFZQmpMZDVGVHloRXBZQTRXU29VU1ZVNGE5emtENjF6VmJScVpMS3E2ZUJOazI5RWF6SnJVcDVrQUFxUWU4Z0Q2anc5eU9DSzllVzdJYVQ2Z21CQlJMamc2TXZzb1duVmhCZHo?oc=5",
-    "fonte": "FL Journal",
+    "fonte": "flj.com.br",
     "data": "2025-12-18T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -7680,17 +7690,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Ex-CEO critica entrada da Petrobras em energia solar e fala em \"má alocação de capital\" - flj.com.br",
+    "titulo": "Ex-CEO critica entrada da Petrobras em energia solar e fala em \"má alocação de capital\" - FL Journal",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXFtc093WmhKRmNTQW02ankyWVV1VEpGVDlyaURyQ1JKVE96TGQwRDA3V1J2Yy1jNHRTdnlrckZYamVYc0lIYTFMS3M5eERmMmlSdEg4VWZjc2ItWlM5UWlBZ1ZFMU9oM1JLN0VjcXNjZVotdGtyWWJIbFgwZFJoRFdOUU1kbW9sOTA0TlVuMndSazhTNWZaOG9Vbm9UR2YwY3liWlF3TmtkRzdVd1ZyZnV3QVU?oc=5",
-    "fonte": "flj.com.br",
+    "fonte": "FL Journal",
     "data": "2025-12-17T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Ex-CEO critica entrada da Petrobras em energia solar e fala em \"má alocação de capital\" - FL Journal",
+    "titulo": "Ex-CEO critica entrada da Petrobras em energia solar e fala em \"má alocação de capital\" - flj.com.br",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXFtc093WmhKRmNTQW02ankyWVV1VEpGVDlyaURyQ1JKVE96TGQwRDA3V1J2Yy1jNHRTdnlrckZYamVYc0lIYTFMS3M5eERmMmlSdEg4VWZjc2ItWlM5UWlBZ1ZFMU9oM1JLN0VjcXNjZVotdGtyWWJIbFgwZFJoRFdOUU1kbW9sOTA0TlVuMndSazhTNWZaOG9Vbm9UR2YwY3liWlF3TmtkRzdVd1ZyZnV3QVU?oc=5",
-    "fonte": "FL Journal",
+    "fonte": "flj.com.br",
     "data": "2025-12-17T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -7808,17 +7818,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Trazendo o Sol à Terra com a fusão nuclear: Por que a Alemanha quer construir a primeira usina de fusão do mundo - Xpert.Digital - Konrad Wolfenstein",
+    "titulo": "Trazendo o Sol à Terra com a fusão nuclear: Por que a Alemanha quer construir a primeira usina de fusão do mundo - xpert.digital",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNEFLT2Vsc0tYYmNqOG5WUjFkSGd2SlpZOG5NdGVBNmJFb2NuNmlkemxzdGh3dUIyeGNwRGxfdWxWeXZMU3VCcmxvbDZTb1o1MVE?oc=5",
-    "fonte": "Xpert.Digital - Konrad Wolfenstein",
+    "fonte": "xpert.digital",
     "data": "2025-10-05T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Trazendo o Sol à Terra com a fusão nuclear: Por que a Alemanha quer construir a primeira usina de fusão do mundo - xpert.digital",
+    "titulo": "Trazendo o Sol à Terra com a fusão nuclear: Por que a Alemanha quer construir a primeira usina de fusão do mundo - Xpert.Digital - Konrad Wolfenstein",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNEFLT2Vsc0tYYmNqOG5WUjFkSGd2SlpZOG5NdGVBNmJFb2NuNmlkemxzdGh3dUIyeGNwRGxfdWxWeXZMU3VCcmxvbDZTb1o1MVE?oc=5",
-    "fonte": "xpert.digital",
+    "fonte": "Xpert.Digital - Konrad Wolfenstein",
     "data": "2025-10-05T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -7936,17 +7946,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "De candidata a IPO à recuperação extrajudicial, Rio Alto atribui crise a \"confisco\" de energia - flj.com.br",
+    "titulo": "De candidata a IPO à recuperação extrajudicial, Rio Alto atribui crise a \"confisco\" de energia - FL Journal",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnJmQmlzRlVrcjBDeG1yMi1GLWt0QnlqVGI1VjZ3TUtQZFpFYXdRSE5hTng3aTNkanpoMnJTYzh1LUVHNFVXMm94UXlDNWtyU1dQY1dHcDNFNUFqUmV4dVZibURNeWJ1dzgzRmlJa3lfVGJZRUx0SXNXQjdsTFVlNDN1cFNvbnRiVi1tdGZpYWkxY2NmSFNURnJvU1NScFFjTTBHQTNoYm5ZU0NfREZXLWdRX3owUUZncmw2Vg?oc=5",
-    "fonte": "flj.com.br",
+    "fonte": "FL Journal",
     "data": "2025-08-13T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "De candidata a IPO à recuperação extrajudicial, Rio Alto atribui crise a \"confisco\" de energia - FL Journal",
+    "titulo": "De candidata a IPO à recuperação extrajudicial, Rio Alto atribui crise a \"confisco\" de energia - flj.com.br",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnJmQmlzRlVrcjBDeG1yMi1GLWt0QnlqVGI1VjZ3TUtQZFpFYXdRSE5hTng3aTNkanpoMnJTYzh1LUVHNFVXMm94UXlDNWtyU1dQY1dHcDNFNUFqUmV4dVZibURNeWJ1dzgzRmlJa3lfVGJZRUx0SXNXQjdsTFVlNDN1cFNvbnRiVi1tdGZpYWkxY2NmSFNURnJvU1NScFFjTTBHQTNoYm5ZU0NfREZXLWdRX3owUUZncmw2Vg?oc=5",
-    "fonte": "FL Journal",
+    "fonte": "flj.com.br",
     "data": "2025-08-13T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -8152,17 +8162,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - jota.info",
+    "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakxyWVZrOEpOM2JQdVR2RktPdHZKU1pyVHRmWWt4REs5QWIzR21FdnlpekhtU3dTdzlJdS1DRk1yQUw3OGZfTU5uWGJyaW1zT0tzbDFwbU5ISU5lQ2puQ0UwczAzRTF6bTJfX1BCc3Z3WXBZenpsLXBJYzA4Tk14TW9MVVE0NDExVGtYeDY2YTlJRXJ3U2ZQMmVqUUdxVldMS0dEX0d2TktySTB5bFpIcGZ6OUJmSnYxUlBpcm9iVjJHSm8?oc=5",
-    "fonte": "jota.info",
+    "fonte": "JOTA Jornalismo",
     "data": "2024-11-18T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - JOTA Jornalismo",
+    "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakxyWVZrOEpOM2JQdVR2RktPdHZKU1pyVHRmWWt4REs5QWIzR21FdnlpekhtU3dTdzlJdS1DRk1yQUw3OGZfTU5uWGJyaW1zT0tzbDFwbU5ISU5lQ2puQ0UwczAzRTF6bTJfX1BCc3Z3WXBZenpsLXBJYzA4Tk14TW9MVVE0NDExVGtYeDY2YTlJRXJ3U2ZQMmVqUUdxVldMS0dEX0d2TktySTB5bFpIcGZ6OUJmSnYxUlBpcm9iVjJHSm8?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "jota.info",
     "data": "2024-11-18T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -8384,14 +8394,6 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Fusão entre energia solar e sistemas de climatização oferece potencial significativo - Revista do Frio",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGpBQkZiNzVxaVVVMF9sUWwxaG84aE5Td2EyRnY1bFdzUWtsam5rNDA5V2J0T2ptNkxDN3Z1aUE1UE1yWDFJbF9tazZZUDNUNlFpbHZxSmZaWHY2b05QOWM3QUVmbnNOaXMyYnVEV1R5WU9IVlFnc2NXRGlMRWJ6MnZZSWFHN3pDSUN4YkppYnVoUFpMMHJoV1RnbF91cDhTVGtUU3AzUXpyYnJsNFltd0FJbmI?oc=5",
-    "fonte": "Revista do Frio",
-    "data": "2024-05-15T07:00:00.000Z",
-    "catId": "mea",
-    "catLabel": "Players & Mercado"
-   },
-   {
     "titulo": "Energia solar e sustentabilidade: geração impacta positivamente na economia e no meio ambiente - Tribuna Hoje",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUhiOW5uaGlqaF9zN0hzNWZndDdqU1dSNDJQMlRsaUpHNlBqWnowZEtILXVpZElSLURTSk1GT0w4T1VFQVdHNktoTXJGcDVXOFBlQV94SzI2Uk5jVEd3TkhhZThGRUNScmJzbTR3SHlQS3dIQkRvYmE4RllRekk2bUtDWHJnX2VLeHRZcFJnOWFFWkJZeDNqNEF2SkxIbEc4enlraEZMQ0xDT1VLOEhwZ0lSQXpfTjFhWmtMV3dRQ1A0Qk52OE4xdmdoYkNJbElSMjR2ZzJZWQ?oc=5",
     "fonte": "Tribuna Hoje",
@@ -8403,6 +8405,14 @@
     "titulo": "Auren (AURE3) compra AES Brasil (AESB3) e aumenta sua capacidade de geração por 2,4x - BPMoney",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHQ1ZkRKUXVwYTZjX1phZU1jWVhKN3BfNUE1YmNySUJuN2FkdmQxWXNDWElFV1lKdTRlbWNWc1FpTUVCZTVFWFYxY093c2JZbVZGaGRfRzdTaW5qZXFDVkxfSHVSbElYb1ZwenpxYV9SRXlnQ0xXUEVIRHo3WENrbzRrcWgzbkxMU2plUmh3Z19ScUZEOVdINm9sdWNtX2ZHbnphZTdleU5UTUw5UzN2MkpB?oc=5",
     "fonte": "BPMoney",
+    "data": "2024-05-15T07:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
+    "titulo": "Fusão entre energia solar e sistemas de climatização oferece potencial significativo - Revista do Frio",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGpBQkZiNzVxaVVVMF9sUWwxaG84aE5Td2EyRnY1bFdzUWtsam5rNDA5V2J0T2ptNkxDN3Z1aUE1UE1yWDFJbF9tazZZUDNUNlFpbHZxSmZaWHY2b05QOWM3QUVmbnNOaXMyYnVEV1R5WU9IVlFnc2NXRGlMRWJ6MnZZSWFHN3pDSUN4YkppYnVoUFpMMHJoV1RnbF91cDhTVGtUU3AzUXpyYnJsNFltd0FJbmI?oc=5",
+    "fonte": "Revista do Frio",
     "data": "2024-05-15T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -8720,6 +8730,14 @@
     "catLabel": "Players & Mercado"
    },
    {
+    "titulo": "Projetos de GD devem movimentar operações de fusões e aquisições nos próximos anos - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX3pybk1xcUE2WGkzM0VveDNBc19nNEZYM3FxdF84MkhXOXFlLWpJSEhBbkgwV1NaZVViQVAxMDZQbFRpVGRPaktPQ0hDdzNJNG5ObF9PYzJNbEY0UG0wR1J0LTU4UzVvTFhiRFA2TDFad2VmQ2VSRkR1UTMwTmhaY2Z4cHVGUVphelRKSGVtelowVG9DR0N2WTlrSXFrMmp3LXFiU1RROWoyVGViNFliWDd0WXQzY0loQWJwcDA0SGpDTlpxYlZUNFoyNlZ4b0Z5ZmgxSUpRYw?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2022-08-31T07:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
     "titulo": "Mauricio Bähr, CEO da Engie Brasil: \"Brasil continuará sendo o país mais relevante na área de renováveis\" - Agência iNFRA",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVlzUU03MVhIaEhocmZBYjF3MV8ydi1JbzZMNVNvQ0JiRmtjT2JXaTlERDhUZFZ0d0JCR1ZGQmdOYVQ4bnpORGlrRFRvTUZWaEtwX0UzLW9VbFVXVzYwY0pfXzc3YWQzOXNSN21TR1UxTWpRblhWajBnY3dtNWNPbTk2SHNKZ3A4Mi1ReGVwMkdBY1lhOW9LalA3ajZscTF0NjMyM3MyWnNWcFlrWWVBc1JHRWVBOENFbzJsZ3dzdTRPUHhROUJEUXpvU2Q?oc=5",
     "fonte": "Agência iNFRA",
@@ -8752,17 +8770,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Cesp: Fusão com Votorantim e CPPIB dá poder de fogo para energia renovável - moneytimes.com.br",
+    "titulo": "Cesp: Fusão com Votorantim e CPPIB dá poder de fogo para energia renovável - Money Times",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTUyRlJPWDFIUV9WamdiVHVJSzM3b0dMRk9hdDdkS1RNTGZPRXNaY1ZteFBjbjN1ZlFQZEtPWk9vZnZkSHNJc0FKSU9GSTlfUzlONUd0Zi15Q0JSZ0N6NWtLTS00dFJNSVN3MEptVW1tZkFSQlU4eURfbkRQRHc0XzZvblFaRVJma0hVN2NUWllKLXVTbjBZVnBUMjVaM0MyMVpyMUVEMA?oc=5",
-    "fonte": "moneytimes.com.br",
+    "fonte": "Money Times",
     "data": "2022-01-04T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Cesp: Fusão com Votorantim e CPPIB dá poder de fogo para energia renovável - Money Times",
+    "titulo": "Cesp: Fusão com Votorantim e CPPIB dá poder de fogo para energia renovável - moneytimes.com.br",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTUyRlJPWDFIUV9WamdiVHVJSzM3b0dMRk9hdDdkS1RNTGZPRXNaY1ZteFBjbjN1ZlFQZEtPWk9vZnZkSHNJc0FKSU9GSTlfUzlONUd0Zi15Q0JSZ0N6NWtLTS00dFJNSVN3MEptVW1tZkFSQlU4eURfbkRQRHc0XzZvblFaRVJma0hVN2NUWllKLXVTbjBZVnBUMjVaM0MyMVpyMUVEMA?oc=5",
-    "fonte": "Money Times",
+    "fonte": "moneytimes.com.br",
     "data": "2022-01-04T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -9051,18 +9069,18 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Fórum pós-missão à China aproxima empresários do DF das tendências que devem transformar o mercado de energia solar - Agência Sebrae de Notícias",
+    "titulo": "Fórum pós-missão à China aproxima empresários do DF das tendências que devem transformar o mercado de energia solar - df.agenciasebrae.com.br",
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdTJFYTl0a2IzWVJiRlctX3VxbWlNZ3hOWWVVN2xZbUMyaEdnanJVTDllT0ZPYjVCZzJPQUJleGtFOUhGbDJINkwwTEdEeTNWdzFmVGtKOTAtakZMNEZUMktJbVRKeENMVGlyQmQwbVdHeURaRDF2V0ZRaTllMWR2MzFGNXl1XzJQNERoN2NUQWs3NmEwUGFoVzNZcUQ2dlF4X3RMcTVSVkpKcm56WDAwM1hrdEZyX0JCc05tMnRLU0hpS1RENG5SSEgyOGxZSmVrWG9JMVR6Rm9kZGIzMWhrdmp3WFE1NDFqSmlqbGprWW4xelZiZEtsT3lnRzU0TzA?oc=5",
-    "fonte": "Agência Sebrae de Notícias",
+    "fonte": "df.agenciasebrae.com.br",
     "data": "2026-08-04T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências",
     "imagem": null
    },
    {
-    "titulo": "Fórum pós-missão à China aproxima empresários do DF das tendências que devem transformar o mercado de energia solar - df.agenciasebrae.com.br",
+    "titulo": "Fórum pós-missão à China aproxima empresários do DF das tendências que devem transformar o mercado de energia solar - Agência Sebrae de Notícias",
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdTJFYTl0a2IzWVJiRlctX3VxbWlNZ3hOWWVVN2xZbUMyaEdnanJVTDllT0ZPYjVCZzJPQUJleGtFOUhGbDJINkwwTEdEeTNWdzFmVGtKOTAtakZMNEZUMktJbVRKeENMVGlyQmQwbVdHeURaRDF2V0ZRaTllMWR2MzFGNXl1XzJQNERoN2NUQWs3NmEwUGFoVzNZcUQ2dlF4X3RMcTVSVkpKcm56WDAwM1hrdEZyX0JCc05tMnRLU0hpS1RENG5SSEgyOGxZSmVrWG9JMVR6Rm9kZGIzMWhrdmp3WFE1NDFqSmlqbGprWW4xelZiZEtsT3lnRzU0TzA?oc=5",
-    "fonte": "df.agenciasebrae.com.br",
+    "fonte": "Agência Sebrae de Notícias",
     "data": "2026-08-04T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências",
@@ -9074,8 +9092,7 @@
     "fonte": "Canal Solar",
     "data": "2026-07-24T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Bateria All-in-One conectada à tomada e BESS ultrarrápido: Fox ESS apresenta novidades para o Brasil - canalsolar.com.br",
@@ -9139,7 +9156,8 @@
     "fonte": "Agora RN",
     "data": "2026-05-15T16:53:11.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências"
+    "catLabel": "Tendências",
+    "imagem": null
    },
    {
     "titulo": "Sebrae-RN debate avanço da energia solar e novas tendências - agorarn.com.br",
@@ -9568,17 +9586,17 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "MIT lista 10 \"megatendências\" do setor de energia - alemdaenergia.engie.com.br",
+    "titulo": "MIT lista 10 \"megatendências\" do setor de energia - Além da Energia",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGJwVkJyVmxCR0ZnMkhyZTlPSFUwSDQ5azh0b2VjbElia2pHUDZPTFdCSFNoaE51QzhKRVVSQ0xSQWFyYU0teEIyNjdqRktLQzRabWhhY05tNUVKUFNVQ3BaTUhBcXp0WmFTamFsQ01JRnYxeDg2Y2dwUlZndlhvZ0xzajltajdVbmZZTnRuX0Q?oc=5",
-    "fonte": "alemdaenergia.engie.com.br",
+    "fonte": "Além da Energia",
     "data": "2025-07-17T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
    {
-    "titulo": "MIT lista 10 \"megatendências\" do setor de energia - Além da Energia",
+    "titulo": "MIT lista 10 \"megatendências\" do setor de energia - alemdaenergia.engie.com.br",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGJwVkJyVmxCR0ZnMkhyZTlPSFUwSDQ5azh0b2VjbElia2pHUDZPTFdCSFNoaE51QzhKRVVSQ0xSQWFyYU0teEIyNjdqRktLQzRabWhhY05tNUVKUFNVQ3BaTUhBcXp0WmFTamFsQ01JRnYxeDg2Y2dwUlZndlhvZ0xzajltajdVbmZZTnRuX0Q?oc=5",
-    "fonte": "Além da Energia",
+    "fonte": "alemdaenergia.engie.com.br",
     "data": "2025-07-17T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
@@ -9792,17 +9810,17 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "BESS, leilões e novas tecnologias: o futuro do setor solar em 2025 - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yUTVQcWZMRnNFbG1LYVlTUk85Q25yWmx3b0xaX1Y2dzFZdzF3WHRITXpOdWlFaEN1LVUyYjgydngwcUZPU3ZfUFdmRTJzOU1YbGZuQTVaLUNnUFptNGdjMVdrc1d6eVZiekZTbXgwQ01Edw?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "O que esperar do mercado de energia solar no Brasil em 2025 - Terra",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc19xcmdFRk81ZmdkNDhUa3dkQ2lnUEpMUFZSS05uUkllbkZJdml6WHdobjk5ZDlDbE5kbTBxdzdPNVU2b2x0LWNRbVY3TDh2RmNrcXp3TmV5enQyamJWTjVZY0QwSzJQU1BDdkd1M0NOWFFsdWFiTTlwNDdsdnBEUVV4UGR1N1F4QzJ0NkpwR0RIZ1JHTUZPRE9mR19XbkRoN2NXUm9CbExCUGVnTldQMGt4MjlYeF9od3NaN2JXWldETnRiUWxtSkIzSU1jaVBseF9QVUgwZGNwc3BaUkJNS3R1dXV2YjBLS1JRMFhfYmpFMUxVemRCVnZJWEh3bFNJdWN1OFhaTUY?oc=5",
+    "fonte": "Terra",
     "data": "2025-01-09T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
    {
-    "titulo": "O que esperar do mercado de energia solar no Brasil em 2025 - Terra",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc19xcmdFRk81ZmdkNDhUa3dkQ2lnUEpMUFZSS05uUkllbkZJdml6WHdobjk5ZDlDbE5kbTBxdzdPNVU2b2x0LWNRbVY3TDh2RmNrcXp3TmV5enQyamJWTjVZY0QwSzJQU1BDdkd1M0NOWFFsdWFiTTlwNDdsdnBEUVV4UGR1N1F4QzJ0NkpwR0RIZ1JHTUZPRE9mR19XbkRoN2NXUm9CbExCUGVnTldQMGt4MjlYeF9od3NaN2JXWldETnRiUWxtSkIzSU1jaVBseF9QVUgwZGNwc3BaUkJNS3R1dXV2YjBLS1JRMFhfYmpFMUxVemRCVnZJWEh3bFNJdWN1OFhaTUY?oc=5",
-    "fonte": "Terra",
+    "titulo": "BESS, leilões e novas tecnologias: o futuro do setor solar em 2025 - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yUTVQcWZMRnNFbG1LYVlTUk85Q25yWmx3b0xaX1Y2dzFZdzF3WHRITXpOdWlFaEN1LVUyYjgydngwcUZPU3ZfUFdmRTJzOU1YbGZuQTVaLUNnUFptNGdjMVdrc1d6eVZiekZTbXgwQ01Edw?oc=5",
+    "fonte": "Canal Solar",
     "data": "2025-01-09T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
@@ -10056,17 +10074,17 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "PPA de autoprodução solar onsite: tendências e vantagens - alemdaenergia.engie.com.br",
+    "titulo": "PPA de autoprodução solar onsite: tendências e vantagens - Além da Energia",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk5hZVlTVnZNUDhYLUdPSXNKRHR2cDVlcjNDRVVKdDdCMmVJWjF5Vk13eTZMaU5yVzI1VFpSV2NENUI0c1dqQnEtNURZSFNnREM5MVgxVV9ObmZsVzZkVkVvUFBKUjducFZnRkhic1FOdHpzVzdFQks0VjgxaXhzRDJJd1pzNVJN?oc=5",
-    "fonte": "alemdaenergia.engie.com.br",
+    "fonte": "Além da Energia",
     "data": "2024-06-10T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
    {
-    "titulo": "PPA de autoprodução solar onsite: tendências e vantagens - Além da Energia",
+    "titulo": "PPA de autoprodução solar onsite: tendências e vantagens - alemdaenergia.engie.com.br",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk5hZVlTVnZNUDhYLUdPSXNKRHR2cDVlcjNDRVVKdDdCMmVJWjF5Vk13eTZMaU5yVzI1VFpSV2NENUI0c1dqQnEtNURZSFNnREM5MVgxVV9ObmZsVzZkVkVvUFBKUjducFZnRkhic1FOdHpzVzdFQks0VjgxaXhzRDJJd1pzNVJN?oc=5",
-    "fonte": "Além da Energia",
+    "fonte": "alemdaenergia.engie.com.br",
     "data": "2024-06-10T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
@@ -10136,14 +10154,6 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Feira Sim, do Grupo Santander, impulsiona mercado de energia solar pelo 4º ano consecutivo Empresa referência no financiamento de placas fotovoltaicas participa de uma das maiores feiras brasileiras de energia renovável - Portal Terra da Luz",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMkxYRlRmcXF6SDZzckhzNWw0a0xHSW9XUmcxV3FLa3BhTmt0Y1JReWQtTHRjaWhfSXo4cWY2YmQtcEtuTlVOVjZLRVY0UHZwd1ZoNm5KcVkxR011Z0MtZzFKN1dhdkQtWnZzaEhGM0RXNFZ4MHFJTG9wLVZyenEwWWpEMUlEX2hPTi1ZLVlWNC04YjJtSVhmbG5tNFFRaFh5ZjJYVXZ3UnF0M1dlYkJHc0JmRWoyQ3IzQlBnUTg5Q1JMb0ZLOFNMYlV4Rm84a3czckVGN2x3?oc=5",
-    "fonte": "Portal Terra da Luz",
-    "data": "2024-04-11T19:22:30.000Z",
-    "catId": "tendencias",
-    "catLabel": "Tendências"
-   },
-   {
     "titulo": "Feira Sim, do Grupo Santander, impulsiona mercado de energia solar pelo 4º ano consecutivo Empresa referência no financiamento de placas fotovoltaicas participa de uma das maiores feiras brasileiras de energia renovável - portalterradaluz.com.br",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMkxYRlRmcXF6SDZzckhzNWw0a0xHSW9XUmcxV3FLa3BhTmt0Y1JReWQtTHRjaWhfSXo4cWY2YmQtcEtuTlVOVjZLRVY0UHZwd1ZoNm5KcVkxR011Z0MtZzFKN1dhdkQtWnZzaEhGM0RXNFZ4MHFJTG9wLVZyenEwWWpEMUlEX2hPTi1ZLVlWNC04YjJtSVhmbG5tNFFRaFh5ZjJYVXZ3UnF0M1dlYkJHc0JmRWoyQ3IzQlBnUTg5Q1JMb0ZLOFNMYlV4Rm84a3czckVGN2x3?oc=5",
     "fonte": "portalterradaluz.com.br",
@@ -10152,10 +10162,10 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Road show em Campo Grande discute tendências do mercado de energia solar - fiems.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2F3bXEyWFd5SUFMb1lDUGoyTDhYSjlabjRFNF91dVMyVTBWdlNLYWd5dGlNbDlPVHQxZGU0WExnV1BpOWY0bU1JMUEzZGsteGJuY2dnVzBPTFFtRkhNcWlvZVhXRWIyZzZwaWZudHNHdTZsWWhKV0JPNWZSYnI4elI0dy1Cc1pmNExHQkNyQVJNWDNvZk93NkhsZkJwVEw4TllLYUJIbmFPOGdjUEExQ3hB?oc=5",
-    "fonte": "fiems.com.br",
-    "data": "2024-04-10T07:00:00.000Z",
+    "titulo": "Feira Sim, do Grupo Santander, impulsiona mercado de energia solar pelo 4º ano consecutivo Empresa referência no financiamento de placas fotovoltaicas participa de uma das maiores feiras brasileiras de energia renovável - Portal Terra da Luz",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMkxYRlRmcXF6SDZzckhzNWw0a0xHSW9XUmcxV3FLa3BhTmt0Y1JReWQtTHRjaWhfSXo4cWY2YmQtcEtuTlVOVjZLRVY0UHZwd1ZoNm5KcVkxR011Z0MtZzFKN1dhdkQtWnZzaEhGM0RXNFZ4MHFJTG9wLVZyenEwWWpEMUlEX2hPTi1ZLVlWNC04YjJtSVhmbG5tNFFRaFh5ZjJYVXZ3UnF0M1dlYkJHc0JmRWoyQ3IzQlBnUTg5Q1JMb0ZLOFNMYlV4Rm84a3czckVGN2x3?oc=5",
+    "fonte": "Portal Terra da Luz",
+    "data": "2024-04-11T19:22:30.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
@@ -10163,6 +10173,14 @@
     "titulo": "Road show em Campo Grande discute tendências do mercado de energia solar - FIEMS",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2F3bXEyWFd5SUFMb1lDUGoyTDhYSjlabjRFNF91dVMyVTBWdlNLYWd5dGlNbDlPVHQxZGU0WExnV1BpOWY0bU1JMUEzZGsteGJuY2dnVzBPTFFtRkhNcWlvZVhXRWIyZzZwaWZudHNHdTZsWWhKV0JPNWZSYnI4elI0dy1Cc1pmNExHQkNyQVJNWDNvZk93NkhsZkJwVEw4TllLYUJIbmFPOGdjUEExQ3hB?oc=5",
     "fonte": "FIEMS",
+    "data": "2024-04-10T07:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Road show em Campo Grande discute tendências do mercado de energia solar - fiems.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2F3bXEyWFd5SUFMb1lDUGoyTDhYSjlabjRFNF91dVMyVTBWdlNLYWd5dGlNbDlPVHQxZGU0WExnV1BpOWY0bU1JMUEzZGsteGJuY2dnVzBPTFFtRkhNcWlvZVhXRWIyZzZwaWZudHNHdTZsWWhKV0JPNWZSYnI4elI0dy1Cc1pmNExHQkNyQVJNWDNvZk93NkhsZkJwVEw4TllLYUJIbmFPOGdjUEExQ3hB?oc=5",
+    "fonte": "fiems.com.br",
     "data": "2024-04-10T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
@@ -10240,17 +10258,17 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Intersolar Europe 2024: destaques e tendências em inversores - canalsolar.com.br",
+    "titulo": "Intersolar Europe 2024: destaques e tendências em inversores - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWxudFVWOHJGWmdoM0trdlUzRTNBaHBaU3ZUMFoxelVsMUtoa09rX1ZrSU5DT2xVY0wwZDc2WXZxenY4bnBaZFpnbFFVTXdueFpPa2JZaGF2SWRhWFZKV2hNV3dsOFNLRjhVUE1ORmF2aS1nZFN4QVp4cFIwREVpdktQODdhUUpaNExybnlBSQ?oc=5",
-    "fonte": "canalsolar.com.br",
+    "fonte": "Canal Solar",
     "data": "2024-02-12T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Intersolar Europe 2024: destaques e tendências em inversores - Canal Solar",
+    "titulo": "Intersolar Europe 2024: destaques e tendências em inversores - canalsolar.com.br",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWxudFVWOHJGWmdoM0trdlUzRTNBaHBaU3ZUMFoxelVsMUtoa09rX1ZrSU5DT2xVY0wwZDc2WXZxenY4bnBaZFpnbFFVTXdueFpPa2JZaGF2SWRhWFZKV2hNV3dsOFNLRjhVUE1ORmF2aS1nZFN4QVp4cFIwREVpdktQODdhUUpaNExybnlBSQ?oc=5",
-    "fonte": "Canal Solar",
+    "fonte": "canalsolar.com.br",
     "data": "2024-02-12T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
