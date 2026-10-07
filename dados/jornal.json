@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-10-07T00:19:22.923Z",
+ "geradoEm": "2026-10-07T16:18:28.620Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 15.4,
-   "pct": -0.901,
+   "preco": 15.47,
+   "pct": 0.455,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 77.88,
-   "pct": 2.098,
+   "preco": 76.98,
+   "pct": -1.156,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 33.91,
-   "pct": 1.375,
+   "preco": 32.74,
+   "pct": -3.45,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 179.8,
-   "pct": 2.066,
+   "preco": 177.01,
+   "pct": -1.552,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.42,
-   "pct": 4.252,
+   "preco": 29,
+   "pct": -1.43,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 11.99,
-   "pct": 0.083,
+   "preco": 11.87,
+   "pct": -1.002,
    "moeda": "BRL"
   }
  },
@@ -497,6 +497,14 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXVCRGRoU2FRYzFhTDNWSmZ0N3d0cGhRc00tRHN2ZXRFU0dkQVhLdFZQNmMxd2xJTzZXVlpzQzEtdG4xcmJ1M2Ezd1ZuaUI4N3BWMVUxd1N6bHpvTkR4R2EwRTMySWtlVm53TkY0eklYdVh3c2YwdldoQ3lzdkJqMURTUmR1NWRYTDZJSHA0bW05VE1nMHlnQUJpYXA2QV91R1QzSHllT1QzU0o4OGlERQ?oc=5",
     "fonte": "folha.uol.com.br",
     "data": "2026-09-01T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
+    "titulo": "Solar avança na África mais rápido do que os governos conseguem medir - Agência eixos",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXFJZlJWZlNxQ2hVdVd3YjI2TjFkN1UzaHgxWk80Zl8tNlduSWpwSFFXVVdNY05VaEV4ZUxoMHk2OERITnVNOTJuc2YzTHVlOS1zajhVbDZYdFFfOWRIZGoyMWwtbVU5WW1LQzhCUElYakg5b1FxNTFudzV4cjlHNXBzWHE4Q3B2ZmtTT2l2VnlEZ1VCY0hVMW1TTUdMR2pWZ0ZUWk0zR0dGUWt2bFRXV1BnYjI1M1V0V2ptc2ZjYlVYZ0U?oc=5",
+    "fonte": "Agência eixos",
+    "data": "2026-08-31T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
@@ -2435,17 +2443,35 @@
     "data": "2026-03-20T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Genial Solar inaugura 22ª usina de geração distribuída no Rio de Janeiro - megawhat.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFpMMnNaMDdwUGxWZU1TbWh5dlVKdFRoUUE0Tm5ENDlSWHVhdXp0R1FEXzU4TU9RZ3ZuMDNBM25nbHVqTzhnSWtESVUxdkR3VXU0cnBHXzQ1X0x4dlVfUG5aekh4MVE2UTQzU194S3gycTNLY2JaeVVjeTlweUtrNF9GeWRVaEEwcDVSUmZiR08tTFNjR1QtNFVDUThhRDFZTnlFTlJJRVAyb1FZY1hLYXlQXzBLcld0YXFyWDRsTHREaFpTcnMxMXZ3?oc=5",
-    "fonte": "megawhat.uol.com.br",
-    "data": "2026-03-20T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
+   {
+    "titulo": "CONTA MAIS BARATA – Equatorial alerta para consumo de energia mesmo com bandeira verde em outubro - Excelência Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUtKQzdSTHkyNkZUc1dvS3p6S0s3Mlo2d2J4ZlVybnZ2TTlKTmFtcC1Kd0ZKX0oySUo2QXR1cjE2OTBZUUZqSWNYNGU4d2VXbHNvb1BpWVNqRjVUVmQ2LXVjSlJxZndwV3RzcHI2b2h3bGptajJPS29TRjhUWmRqeGhncWd3UTB1TjctVnJmOGxGS05JejFubDVZd2h0VVNNZnpsOWk2QlVpNFhsaGc2UzdBYkFTaFdHbFMtY1RIU1JZbDBob2JoLUgxVUg4bzZ0bFF0VVFBWmI?oc=5",
+    "fonte": "Excelência Notícias",
+    "data": "2026-10-07T14:38:28.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Conta de luz deixa de ter cobrança extra em outubro - Hojemais.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVFd1VGSVZiX2JmOUh5MWw2OWI3QXBFNmhuREI1NGRlYVVCME55Y3BXX2JjQmxIdUNaMm1rNVotVTE4TFFBMmRVcVNCc1BxRTRTeWgyNllQWEh6enpKUkdFYWZGMldIN2o5TzRQR3JzQlZaWnJwdHVIcU5lUDdjTUlPZXRnQWNWUTVYbjFBWGg0d0YzNFlxenU0THF2V0RKNFhVTFh0Q1JCbnM?oc=5",
+    "fonte": "Hojemais.com.br",
+    "data": "2026-10-07T14:19:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Bandeira verde deixa conta de luz sem cobrança adicional em outubro - Portal ON",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT24wUDFXWGdoQ0ZsZm9CaXJkM0c0ZHNBRnUtZUppNUdXT0hGRlRSS2FVU3YzVXQwMXJGUkluc043bGZwbmxKX3ZKU3B1ekplS05wTEJVVTJWNjMxMHl5a0JUSEJYVFB0Z3ZuazVpLTBQeTdQenBtdjB5THRrVEF6LW9CVHNxMU0tdDhQSmZtVmNDQ0tnSHlfRTVJOFR4SHpWUkY5UWlR?oc=5",
+    "fonte": "Portal ON",
+    "data": "2026-10-07T12:54:23.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
    {
     "titulo": "Conta de luz não terá cobrança extra em outubro, define Aneel - Portal Arauto",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGc2TzdocTByRllBLWFZYk1nbzQ1TEpEc3UwemlLUUs4YU1PQTRqZVhlbEQ0UDMxRGw5SkN2cnZNN0psRmZVR0M2blVyUmNGVi1zdkhnLVI4R2Jab1p0YUJBMTNYX3IyMkRZS19jeVkwSy04SWNMOEZpMXkwc1JQb3NnbTBVWFJqM2IxWW5BcXpqeDctZGZiMVBaallkajBtY2c?oc=5",
@@ -2467,6 +2493,14 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjM4dlFXLVAwYUlhX2dITkhRZWlzNWhiYXhuMHY2WDYxdGRGQmI4ODBrNzVYVXR1TU5rdmlWVmJYWXlsV0l2QTVIZ0huc3JQMU5rM2UzUF9oRkpGX3QyTUlhXy1pdWF0VVVFTDhnNE9JaXpYeTEyOHExcVdUam5ucmtDTlJKYXlFcjJzT2NNN09aaThxV3NMMzZEUkU5SDhzM2FneHFFY2wxY2tLc0p5ejI5MEEzV2Y3WnVVa2VIcDFHNjBCY0RvT2RR?oc=5",
     "fonte": "Rádio Tropical FM 99.1",
     "data": "2026-10-05T12:36:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Impulsionado pelo El Niño, consumo de eletricidade residencial bate recorde histórico em agosto - Capital News",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkRrNld2TjRFcjN6SFNUM1BmYmdEVnVjSzYwdWw2NkE5NEU4dWJQQWhUUkNPTlpqZGc1elNFVUlrV1ZkbERQSElHVllCMFVvMlhVb0FxU1FTRjUyNldfUUNFNVJlT3lHNmNHbHRXaDI0U3lTakI4anZQdDB2SEdpeHhRZlBWZC1aYlVHSnZlQ04xUG0wdzZMeFFhSEViWENNejk0SUxoMFdkQmxkUlcxQWxLb05KUHdLd3FuelQ4dEMxdE5KSHRUNXp0aXYxSnI2RWVsZWFmb2s?oc=5",
+    "fonte": "Capital News",
+    "data": "2026-10-04T18:52:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -2780,8 +2814,7 @@
     "fonte": "Enel",
     "data": "2026-09-30T14:56:08.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Bandeira tarifária para outubro é verde: veja o que significa - enel.com.br",
@@ -2993,14 +3026,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel adota bandeira tarifária verde a partir de outubro; mudança vale para seis municípios do Amazonas - G1",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT1FyRG1hT3VXUlJKb3ZRU2VuM1VaaFBGNkZOYVZBRDUtcVRPRWNFSVdOZGdxalFGaEZtQTR4Mm1QZnExQW5wdnNmRkxnQUFsYjZsNGxDQVY0TTJUcEtCbGJDYktUcGVNc0o0dTBCcHkzOGZ4ZWhiLVVfcGxEYV9zQXhWSmd3bVNXZ0JwYXhQNFFVMHVYRGlPMnh4YlZPSkFIeEstVkdHbXA1T2Rxd3FYVzZwdm1hNGVEM0RfSW1jMm40X0NMd09PbUJfcUVlN2RNMjRxOXRPQVBiMDZjckN2amNrdDkwanRGM3U1dF8tSW9BUdIBgAJBVV95cUxPVDJNNnhqRklkRjhUYmdrdlFzRHpnWHNoMlduWmVKZTBfYnBmRnloU1ZEZ0Q5ZjJTYy1CUk1HVGZPa3c5dDdzOUdRMVVHUVJnUGdGV0I4OGh4RzlEazc4Q0lCbzQyaGZRdEtGY1U3T2Jkc25mcl9TUDVDcmxHbTRuNXRIQkhqdFBXNjJ5cEUxZkFiMlU2VG1obE1VVGJqOVhZelp5eGJiaFhCX2pEMXhncVNqRTZVaGcyVDVyMzZkbm5zUVludE05NWFQVGtsbk11Q0tXcUxpNHBIRjFGN1p5S3NZSExhcFFRcWZGYUh4dkVJSlk4MUNQWmpaRDRFQ2hT?oc=5",
-    "fonte": "G1",
-    "data": "2026-09-29T13:15:07.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Neoenergia Pernambuco destaca retorno da bandeira verde e conta de energia fica sem cobrança adicional em outubro - Fique Sabendo PE",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdjhtN0FWeGVFdmRFM29XRWtQYWNsTzRfOXRXRE1WNUtSUGNWT1NEYVhmNTZwa3lSeWZ5NC1zY3l0UDl6MlEtdjcwNUMtVk1BQ19hWHJYQU15cW1veXFDalVSbmtXM2pxNW45cXZUY3dvRk1oQ1RyNDNhSnp4U3BBOU85S3A1QXloMEo5eVBUNlRxVF9ENkpONV9EMWFTdW42dmE1QklpZm5EMlM5M0lkSHVVZTRVbUxjaTF5OGFQZ2ZYUDY1d3ZJV1g4YV9XN01IdWsxV2NyU0s?oc=5",
     "fonte": "Fique Sabendo PE",
@@ -3073,6 +3098,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Aneel adota bandeira tarifária verde a partir de outubro; mudança vale para seis municípios do Amazonas - G1",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT1FyRG1hT3VXUlJKb3ZRU2VuM1VaaFBGNkZOYVZBRDUtcVRPRWNFSVdOZGdxalFGaEZtQTR4Mm1QZnExQW5wdnNmRkxnQUFsYjZsNGxDQVY0TTJUcEtCbGJDYktUcGVNc0o0dTBCcHkzOGZ4ZWhiLVVfcGxEYV9zQXhWSmd3bVNXZ0JwYXhQNFFVMHVYRGlPMnh4YlZPSkFIeEstVkdHbXA1T2Rxd3FYVzZwdm1hNGVEM0RfSW1jMm40X0NMd09PbUJfcUVlN2RNMjRxOXRPQVBiMDZjckN2amNrdDkwanRGM3U1dF8tSW9BUdIBgAJBVV95cUxPVDJNNnhqRklkRjhUYmdrdlFzRHpnWHNoMlduWmVKZTBfYnBmRnloU1ZEZ0Q5ZjJTYy1CUk1HVGZPa3c5dDdzOUdRMVVHUVJnUGdGV0I4OGh4RzlEazc4Q0lCbzQyaGZRdEtGY1U3T2Jkc25mcl9TUDVDcmxHbTRuNXRIQkhqdFBXNjJ5cEUxZkFiMlU2VG1obE1VVGJqOVhZelp5eGJiaFhCX2pEMXhncVNqRTZVaGcyVDVyMzZkbm5zUVludE05NWFQVGtsbk11Q0tXcUxpNHBIRjFGN1p5S3NZSExhcFFRcWZGYUh4dkVJSlk4MUNQWmpaRDRFQ2hT?oc=5",
+    "fonte": "G1",
+    "data": "2026-09-29T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Contas de luz não terão custo extra em outubro - Diário de Petrópolis",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlZKWUl2ZTVIU2JfSWx5TDJnLXhDbHMzMlhOMzU1MkZTd3NyT0RDcFExTkJaR0JpWGRLWWdFZkpZTmtDZmFPSkJGZXVnc0Y0a3c4TG84RlJTdVJjbElSbnFxM3JBdFRyMkl2NGs3YUs0TDlNLTE1dEY2YXQzQjVmSVZqRDdtYkc4WS1QbnB1Z1ZPaW5NRFdJSDlB?oc=5",
     "fonte": "Diário de Petrópolis",
@@ -3141,14 +3174,6 @@
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSmVINHJvdzA4ZDNhUlhFUV9UQWpfVl9DeDRkaEJqYlppcFM0TTlSMjhIeDNvbGdGaVF6emhYRmhsaUpHTzM5TW9OWWJMeW9WZHc1OFVCZUVnVEZTRFJLd2EtTHJnclBBZm1MRXR3THpEdG4wbnBlQ0kwcHJQT3JpSHhsUjJZX0NHdTRmSEF2Z3J4a1NSZHVYS0djYVc2TmRXbXlkVEltZHZoU05RNHdBZEtoY0dvMG9fSjJ6TTQwQ3BZOC1NWGN4SXBGcXhDb1FhNGduMXR5XzdfTXpBVjB6T2RyUFdMNkllTERIWQ?oc=5",
     "fonte": "Muzambinho.com",
     "data": "2026-09-28T20:49:37.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz - Cemig",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
-    "fonte": "Cemig",
-    "data": "2026-09-28T20:46:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3437,6 +3462,14 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk8wSExhNUM2Um85N3pDeTZpeW1zTmtFZ0NFVXozcTlmYTJqaW9lRDEzMUpST25JcUV2bjF3clN1LWZuSmdwZi1pTFpKTGRxaGhadzRvUkdzMFowZWxuSkpTSGl1a0lZZUNzeU52SnRFTXMtT2NRdzBwN2Q1YmZ5NVlvbmJtQlhtMzd0bXY2cXpJbGgxcWVOQ2pFNFNsLWNxOTl0dVo4VG92cVRJ?oc=5",
     "fonte": "Gazeta do Paraná",
     "data": "2026-09-28T08:05:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz - Cemig",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
+    "fonte": "Cemig",
+    "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4818,43 +4851,18 @@
     "data": "2026-09-25T12:37:14.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-09-25T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVNPbFh1R25oRDNaWmd0UWV3VDZoRnpUTU9NSzNUZVIzMnJPdDhOMWN3bHhKZ2xZX1ZsTlRhYUo2VkJ0SF95WmhIWjJfX3NhM2RxVjJyaXo0b2Nfd055QTdrSnF5RWd3ZEdTN2lTR3lNYVhnTnM0azc0c21mVGxDQ0k5YVVvWjRoRGRPRGU4amF0T0gwUEl5Y2JGZ2paUXp5TlYzbHYzSmdiQi15aVU1LXFmdHJlSDJKZDNGckJn?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-09-25T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
-    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - G1",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmZpbG5iTV9JeVhXTVpxdTdQYUpjQmpCVlVlTThzdlBzb2M3ZVpTTFU2b1BlWGUyZXFXUlpiTHBmbElna1ZlbHllV05LOFhDNGtvc1htVHNVSUlEMGhQTlFRbmpINjBfM2dyMmVQYTN2c2g3LU5GM1VpRC05TjNOVkE0bnFLU2ZRaHZqRU9mTkFtajZQYXJ2M3RkT2ctV09vNk1WY1ZqUU1UbGpFbG5rWkxpWEdtaElVSXRYY9IBywFBVV95cUxOWFFUdjRoVmN3bFkxTHNReGtSckxDMHZ6azVUZVRKRkR5ajlDdkFnYVZDYmg3U3R2aXhfSnJaZVA3RFpkdjVXZmlfRkh4WmZXTWFLc3dWVGhKcTlkaDV6M25jZWlMN3lxR2NrZFdYYV9seTJiQ3FLS1Bad09NN09CaUVMV0g3R1hVdGczSEJtcWJlMTNseS1LTEtpYWlPbExsWjNWNTNwN0tpY2JXaWVUQTA3UnItRXRrMWZrM1FabnQ3YVhBazRhYmhyTQ?oc=5",
-    "fonte": "G1",
-    "data": "2026-09-25T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "BANDEIRA TARIFÁRIA SERÁ VERDE EM OUTUBRO E DEVE REDUZIR CUSTO DA CONTA DE LUZ - - Bahia Economica",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRktVbTAwUUUtTjdLbmdrZ0RYZDRvTF9MMnY0Rl9fSkVrcGt3VmtMbXpMZ3lZMUd4UEJzRkZyVElOcTE4dnoxZEE4WTN6WHYxUUg1NFFpY0J5aW1IbDV6d0JsdkxhbkZJZVdQZ09vdm5yRkRISlVCRXZ5NVE3YU9vSlpXY2FLTWpNaWo0QUY2aHhPcVNta3kxNWxDWmdsNlVHVWlHYWxISlMzRmNBT19CS3BFM3VnRHhyMGtoMHY2UQ?oc=5",
-    "fonte": "- Bahia Economica",
-    "data": "2026-09-25T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026 - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeUVEbjZOV1RvZkNTcWdpQTYwb2hWdlB2NzZZeC0tdEhEcTBsbl82NWhLNEx5RUxYMG5mdmRQOEIwM0RIaVB1b0FRb040dkZSWjl5eFgyYi1DNURRLXBOaTVTeU82Q0U3clIwUUg3VVJYaS1jZnB6QU44UGhITi1Nc1ZXQzFWSk50c0FaRXZUWW1LMXlmWXJ2OFRyZHkzcy1rR2FXZVRwd3piV0VYRGdQUTJ5T0RpbDNPVnJsWW5QZUxsQWNuNFZRQWpFVFpfU0Y1RWh5Z3pScUlSRTM0TW1pYnlSZVJMNDdndVR5N0pUVkItUTg3TTdkU2g2eXRfRUJHTmlXTDU5czJmdEp1VDBLWmxBME0tQmg3MEp4RTRPczVtN0ZHMUR1Rk5pRzZGRDhlaEdn?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-01T01:59:55.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
    {
     "titulo": "Regras de comercialização mudam atualização do CVU de térmicas - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1ZLZndMWGFBNzBJZ2dfZFQ2enNPTEI3TXBBN1k4Wlg1WDVCeXk2M1J6RVBGMUZHWGxadmlhSWpXaklFZE5NRWNTQnlGSFVvS2gxcmpQcWNBenl0RXNwMjFuRDhWOHBFV3NNS2M0OWpJcnc4LW0xMm9sVzlJR1lFN3pKcTJIaFJmWGRUcjBTdlBlQ2FZNER6dHhlVlBhZFRXUkFF?oc=5",
@@ -5006,13 +5014,20 @@
     "imagem": null
    },
    {
+    "titulo": "Geradores querem evitar que curtailment vire déficit contratual - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlV2Zk82SXdseF9HSHR6cjdOT29aZmdfZmtmVW1Gc2ZUVEFjS3N4b2l3Z2Ryb0lyU25jazJndV94N0JsM1ZjTEd4bjQ3QzJPVG9CMVJPUDNKRU1ZUklldUtoN2xFbDVkclp3YUVDREItUnBxSFdEcWhpU2c4TDFuVjFZTW45MFg2UUtFQmlRRTA1Y2loS1VrbUN3ZnpOSGp0d0E?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-08-31T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPelRHSlNyVEtEX0Qya2hUQW9zN1YyNnlQTExCUTBFMVprd3dUcDZGaW1SR2Q5a0JyV0J4MWFsZTdhYXE2a0lhQU5GbklFZk44ZFo0TzJiYVlydU1uSWxSTl80WDVZRU80Mks1cWJxdUdjZmtiNHhxUlpBeWctaGRDZllDRUNFMHlOWmV4OGEwWUp6aXJWdmN0TkI5R0hkYVZkUV8zUHMwdmpIZlVmUVE1endmVzQ2UVlzMktYU2hoOWVOakpTYmc3anVrb1Jnd2xvdmFDdTYtbjNaN3ZGRm12aXlBUXNMVV9TYzh4V0R1YncxNTdNZ1RfYTJYZk5IeS1fZXlVZDZuUQ?oc=5",
     "fonte": "Governo Federal",
     "data": "2026-08-20T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico - www.gov.br",
@@ -5901,17 +5916,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Anaeel libera o uso de blockchain no setor elétrico do Brasil - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUWl1YWdLY0JJeU5kRGtPUE5Kblk3OHBybXhWS09GNEswbXlLOXJQZXJlOEVnR05vTFdXN0RvcjFtcEVIWjZIYTJxY2ZJWXJ2LTlLajQtNjZoNXRBcDIyLWJMemVpaWl1QmU0MFpLdw?oc=5",
-    "fonte": "TradingView",
+    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
+    "fonte": "Livecoins",
     "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
-    "fonte": "Livecoins",
+    "titulo": "Anaeel libera o uso de blockchain no setor elétrico do Brasil - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUWl1YWdLY0JJeU5kRGtPUE5Kblk3OHBybXhWS09GNEswbXlLOXJQZXJlOEVnR05vTFdXN0RvcjFtcEVIWjZIYTJxY2ZJWXJ2LTlLajQtNjZoNXRBcDIyLWJMemVpaWl1QmU0MFpLdw?oc=5",
+    "fonte": "TradingView",
     "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7251,22 +7266,6 @@
     "data": "2023-03-06T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Convenção de arbitragem aprovada pela CCEE e homologada pela ANEEL - migalhas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFRna3kyaE14cG5wSHZuelpOcnFTdGljUmFPemgxRnVGYU8zSnRfNFhHRzQyRFpRaXdGbnc2MmJwOXBlMjJTR0Z0QUFPb0JMTWQ4aTlLeHA0OHhSdXFHdlVPNm5rNkc2OEhlVU9mTGFUTVFSZkp0M1d6a1RRNTE2R2JCc1ZjWXZSeUdiR2J3SWVrV0ZkU2RjbjB1RWtrZllCem5UUDZXazZsNzRp?oc=5",
-    "fonte": "migalhas.com.br",
-    "data": "2023-03-06T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Projeto pretende sustar efeitos de Resolução Normativa relacionada à micro e à minigeração distribuídas - tagdlaw.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORE4yWWpuUmtocldoR0VtdnRGd2ZZWXpWbVhFekQ1cjFyY1BScVI0ckJSdzZjcks1UnpRMk96Tmg5M0J2OHVadVREcXpyNjBWSzNxaENDZWNkRVYzWnZycUZCMXhvTUpHcTVxX21SbmxFeEZlYWpHX05qNlJ1WGQyZW5va1BfbHRwenVlUVlJa0k0SGVER0RIc3JGbklxYVBsMWFhSFRmVnVMRURudUVzVWVfYjVETjRRUDhoUGpVcVhBUHE2bVE?oc=5",
-    "fonte": "tagdlaw.com.br",
-    "data": "2023-03-06T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -7787,6 +7786,14 @@
     "catLabel": "Players & Mercado"
    },
    {
+    "titulo": "Brasol, apoiada pela BlackRock, mira R$ 20 bi em aquisições em energia solar no Brasil - Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0JYblBPdlhyNlFMVi1xWnJGZ2NVQm1NcHpmZWVMTWcxTTM0eGNVYmpxUUNKWlZHM09XY2U0R1lQZ0JmU3FsOUM3MmVJVlU5bU5XTmMydk8zVXJENWZTR2Y0eXFtTlZnUVlTaUZpbm5CQkhBbEFRUXZxTEZ5emE0NER3NzM0ZXB3RWZ1NmZMbHRVbFdfZHFwazdpSWtPazI2Y0FmNFVxbnUwTkluQkJtT2ZUVTDSAcgBQVVfeXFMTzU4cE00NDNLNDViUFZiX3A3c0M4NUxYVzVZUUw1NE5GRXlLYkxMYTZ3QzBRb3hySDB4a3VWUjdIVW0zcGdXRDUzRlB0MFhoRVRIM2RHSGJOWXJrNklNMnhPUUxDSGFUOGc4d04xWDVUaF9DSWJtQUhkQjBZQ1Q1MFJDQVlXcENVMTc4ZWxqNWRrUHdWWW9iMEh5T1VBUlVmcW5fM1JiSjgzYzdMTXlSRkNiaWp4S20yczhJdlBlV2xiSWhtRTFiVEk?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "data": "2025-11-12T08:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
     "titulo": "Alemanha faz aposta controversa em reator de fusão nuclear - DW.com",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3lwR2hWamZmMmtGMlNBbGFZYjBPamV1MjMwT1pwZTRfUmhXS093S0xyZWNud21tbkxvMjNnMEVFSWd2Qk43bkI4eWVOR1VsellndmRpRE1rVDc5Wk8teHJ1Z19kcVRQZWJmQXlPSjl2dlJIdF96c0MyX25hU2ZmQ3dlUktCcmxHdElJSnFLNW9OcXpEakpYek5GSEpBTndm0gGgAUFVX3lxTE5WRTNhb2VWVEhCeVQ4bW1pcHVOZThZNTlyMWJPX2YwdE44bXo4M05CaHJyMzlMNlFwODUzdG9nS3dDUmpoaGk2OU55RmpJYXJpSEd3eTN4Vm1UMFRETTRXOUJ4NmczYlB1cnNxbzBGUndlaTBqYmI2WmlpOXY3UFV0MzhRODJoLWFCdTZJT2k0aUFXdVBiOUpaa1Y4cjVJT2E?oc=5",
     "fonte": "DW.com",
@@ -8163,14 +8170,6 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Fusões e aquisições no setor de energia podem atingir R$ 120 bi em 2025 - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjaGd3R0ItaEhoMUVJQW12d2tjdWtLQklNdHRoc1lZb3hrdF82RnEwV3licDVocWZGOV9LQjhZcUhzWXpWUHhEeC0zdWY4aTBzUnZLeVVtelFYSS03TGxRVEtxXzZuZnhTTFFXVnZoZUQ?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2024-12-30T08:00:00.000Z",
-    "catId": "mea",
-    "catLabel": "Players & Mercado"
-   },
-   {
     "titulo": "Fusões e aquisições no setor de energia podem atingir R$ 120 bi em 2025 - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjaGd3R0ItaEhoMUVJQW12d2tjdWtLQklNdHRoc1lZb3hrdF82RnEwV3licDVocWZGOV9LQjhZcUhzWXpWUHhEeC0zdWY4aTBzUnZLeVVtelFYSS03TGxRVEtxXzZuZnhTTFFXVnZoZUQ?oc=5",
     "fonte": "Canal Solar",
@@ -8179,10 +8178,10 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakxyWVZrOEpOM2JQdVR2RktPdHZKU1pyVHRmWWt4REs5QWIzR21FdnlpekhtU3dTdzlJdS1DRk1yQUw3OGZfTU5uWGJyaW1zT0tzbDFwbU5ISU5lQ2puQ0UwczAzRTF6bTJfX1BCc3Z3WXBZenpsLXBJYzA4Tk14TW9MVVE0NDExVGtYeDY2YTlJRXJ3U2ZQMmVqUUdxVldMS0dEX0d2TktySTB5bFpIcGZ6OUJmSnYxUlBpcm9iVjJHSm8?oc=5",
-    "fonte": "JOTA Info",
-    "data": "2024-11-18T08:00:00.000Z",
+    "titulo": "Fusões e aquisições no setor de energia podem atingir R$ 120 bi em 2025 - canalsolar.com.br",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjaGd3R0ItaEhoMUVJQW12d2tjdWtLQklNdHRoc1lZb3hrdF82RnEwV3licDVocWZGOV9LQjhZcUhzWXpWUHhEeC0zdWY4aTBzUnZLeVVtelFYSS03TGxRVEtxXzZuZnhTTFFXVnZoZUQ?oc=5",
+    "fonte": "canalsolar.com.br",
+    "data": "2024-12-30T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
@@ -8190,6 +8189,14 @@
     "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakxyWVZrOEpOM2JQdVR2RktPdHZKU1pyVHRmWWt4REs5QWIzR21FdnlpekhtU3dTdzlJdS1DRk1yQUw3OGZfTU5uWGJyaW1zT0tzbDFwbU5ISU5lQ2puQ0UwczAzRTF6bTJfX1BCc3Z3WXBZenpsLXBJYzA4Tk14TW9MVVE0NDExVGtYeDY2YTlJRXJ3U2ZQMmVqUUdxVldMS0dEX0d2TktySTB5bFpIcGZ6OUJmSnYxUlBpcm9iVjJHSm8?oc=5",
     "fonte": "JOTA Jornalismo",
+    "data": "2024-11-18T08:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
+    "titulo": "Brasil x EUA: O potencial do mercado de energia renovável nas operações de M&As - JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakxyWVZrOEpOM2JQdVR2RktPdHZKU1pyVHRmWWt4REs5QWIzR21FdnlpekhtU3dTdzlJdS1DRk1yQUw3OGZfTU5uWGJyaW1zT0tzbDFwbU5ISU5lQ2puQ0UwczAzRTF6bTJfX1BCc3Z3WXBZenpsLXBJYzA4Tk14TW9MVVE0NDExVGtYeDY2YTlJRXJ3U2ZQMmVqUUdxVldMS0dEX0d2TktySTB5bFpIcGZ6OUJmSnYxUlBpcm9iVjJHSm8?oc=5",
+    "fonte": "JOTA Info",
     "data": "2024-11-18T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -8723,6 +8730,14 @@
     "catLabel": "Players & Mercado"
    },
    {
+    "titulo": "Energias renováveis: 3 ações para surfar no crescimento do setor no Brasil - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGRURTUtd0N0aE9yLUdJdlhnTWVIT2FQbU9ibktiQ3NSOVhRVHlDMGFvSERadlpWY3NJOGtvZTloZld0OEVzUWJoYmFnRzJXVmsyZjlkMFJhOFd2bFlJVER3aE5HYXR4TTdyVWVDaG1uSFVtQkxYMVhtTnZnZVd2MzBCZnRwbzJkZk94MENGZlNka29CUWNKSWY0SnM4Rm56RFFoa1VKMA?oc=5",
+    "fonte": "Money Times",
+    "data": "2023-02-03T08:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
     "titulo": "O crescimento da energia solar no Brasil. E o seu futuro - Nexo Jornal",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVdMbGFzakNHM2ZaZUNoSE1GOVpvMEdrOEh0c2liR3FiZHdxd0ZJWFhMMWFocHhYeDllOVlZRlJtYWNHaFVDblprU1lNOFhSN0ZtV1N4alZaLXFFaW82RkdlanU1N29MWmliZWNHdG0wcGdSdkN5NWM3MUJpam1pRXJWOW9Yb0ZSeEJ4TExPbGVxM0hFa245WnlKcHV5NHJiU0V0NXMxZG8?oc=5",
     "fonte": "Nexo Jornal",
@@ -8964,6 +8979,30 @@
    }
   ],
   "tendencias": [
+   {
+    "titulo": "Mercado de Embalagens Ativas Movidas a Energia Solar até 2035: Conformidade na Cadeia de Frio Farmacêutica Impulsiona o Crescimento - Notícias e Estatísticas - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ1M3MGVUak1udUxXLVhTVUtHa2taYUxVZ1dteFN2M292UFNiSUVQeW1IbWpieXFDT3U4UG40MDhQWmlSMUs4RE95TUM1clJtTFRBaFk3dlRialRGTEctZGl0Qm05bjlCMmlMUlpWa3R2QjgzQ2tpcjR0ZG5rSXRneW9CU1lRRC04OFh1UTVxdFQxeHFpd1JDSjdpLUgtNkdTal8wd2VIeC1UYlNSeXV4cXg2R081OEEzclR3NkNNcXRnUzh6ZVJRamo4QlFpV3NHQjRVdXlBcw?oc=5",
+    "fonte": "IndexBox",
+    "data": "2026-10-05T16:06:04.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Mercado de Armazenamento de Energia Híbrido Solar-Eólico até 2035: Substituição do Diesel e Demanda por Energia Limpa 24 Horas por Dia Impulsionam o Crescimento - Notícias e Estatísticas - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNWVBcHlCeW16RHpZM1JVR1B5bEF0LVN0Um1lU2VqSmRmM2VpVDN4WTdUcXBsWS1saDJrUmNUd092M1hTV3Q0TXlaalMwVGJkY196bU5NOXFUQnl4U0hOWkZ1R2NaWWFQRXdLbmV2XzZ6ejVzYWpIdU1vTUljd2tGY0R1WVJ1VjVhR3BGRWZDbFRMZDlwZzZFTGtqdXVpZmdDbllWZTg1ZGFYVGEtU3VZbEdQN3NzeE9WdDlENnNIeFBobWQ0UXhmYkRGT0VEaERTY2lSelQxQ0hBNWRRYzdCRzFZcGQ1UWh6?oc=5",
+    "fonte": "IndexBox",
+    "data": "2026-10-05T15:51:04.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Mercado de Grampos e Fixadores para Montagem em Telhados: Previsão até 2035 Impulsionada pela Expansão Solar Fotovoltaica - Notícias e Estatísticas - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFhCdW5RS3U2SzJjYmRnTjM0akxOUkJ6dWFNWHdJRk5kc28wWUhicnV1LWdWaHVpelZHMDRNWnloRU51N2lGZlItaW14Z0RSNmVGbnczcmM1MFpqLUlUb0lLamFJUHJiQ3RsZEtYMEdRUzUzaVFGaHdaVlY4VUVfaUJfa2xFNE1uZlNXaUloVTVUMmtxUk01MG12Y0trUExSYTVqaTFmUm5sX25FcUVVYVBlNUo3VzJNVWVkdW84NEJGMlMxRTNHalZvWmVCeW9QaWJZRWtjOC1BSzFHbnZIek1pakUySzQ?oc=5",
+    "fonte": "IndexBox",
+    "data": "2026-10-04T13:46:04.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
    {
     "titulo": "Mercado global de suportes de montagem de aço para fotovoltaicos: Tamanho, Tendências e Previsão até 2035 - IndexBox",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkVJcjRicjlZVGRwNmZzSENnV3FWVjJibkkzVEU4amt5WVgyR1NzdDdPVFZKcVR5cndSX0laOXB6aU9BMS1xYTBYd2RtajQ4ZXN1ellnTjhReGlNdUJrZnBpOHRzN1RLbjQ1RmpaN1ZVU3VYOXZLYTVfSDR5ZEhyblJnUkFielJrZ192X3FrOF9uRlZYems3VkxoU0FFMVI0bWpCT0oxS05oUTFTbUVUdUsyTUd4U0g0SjNlMVVEaTRKSDAzajlCR0ZB?oc=5",
