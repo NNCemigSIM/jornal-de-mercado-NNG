@@ -1,39 +1,48 @@
 {
- "geradoEm": "2026-10-09T00:55:57.724Z",
+ "geradoEm": "2026-10-09T16:04:25.035Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 16.06,
-   "pct": 1.774,
+   "pct": 0,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 77.37,
-   "pct": 0.402,
+   "preco": 77.34,
+   "pct": -0.039,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 32.91,
-   "pct": -1.761,
+   "preco": 32.145,
+   "pct": -2.325,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 178.85,
-   "pct": -0.711,
+   "preco": 177.33,
+   "pct": -0.85,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.29,
-   "pct": -0.476,
+   "preco": 29.59,
+   "pct": 1.024,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 12.07,
-   "pct": 1.685,
+   "preco": 12.23,
+   "pct": 1.326,
    "moeda": "BRL"
   }
  },
  "categorias": {
   "gd": [
+   {
+    "titulo": "Geração distribuída representará 38% da expansão elétrica do Brasil até 2036 - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFdRdUl1S3RoNFVmeDcycjk0dkVXRjBXZElJY21oS3NoaHdFNWVlOW9rcUJSaDJmb0FlcmdSYUh3SWg0NTZIVmxwcHEtOUdJMHFTOU9KbFlGWDdsTXV2XzlyRlJmTUNKUXFhWVFrUFpDcU5mT0tyWUR0cDlGelo1bjloOWttT3BLRUlaaDg2QngzMUpKNzBQQ05NcDZRNGhyVl9MeWk4ZndYTzk0TUZ4Q191VXpQN1pO?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-10-08T14:36:42.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída",
+    "imagem": null
+   },
    {
     "titulo": "Geração distribuída terá 38% da expansão elétrica do Brasil até 2036 - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRnFkVmtiM3g4Z3Y2Q3ZzYjBxNHIxSW9jR3RGRDRvay1xUURiWWUxbW01SzBaQ0NhMGhDLUVfcmJtaUVkandhcWo0U1lIb2VfWmRYUnRDSjBwejQ3akpRS081bTVPMU9vZ0xIekFCc0xCWWpDT085amFPeW9pNVBkbmJuN1ZLZlJvbFZmQ1Q1UEJtLUQwbE0ycDRGRzM5VkhYaUpJbF85TGhjeGoyM1E?oc=5",
@@ -1837,17 +1846,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Informação ainda é principal barreira para geração distribuída compartilhada no Brasil - Noticenter",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzlzRmRaS21JSDg3cnVDQmFJeHNpQTZPVmowRUZ6Q2Vzd1lqd294cTVjVEJuOVhXZWQtY0t3cjJWU09iOEFmcXUzVGFxY2NKSGJIaDBqUDBZczRGNjFZT1BDcnVUZGx4bFVva3FTNFB5SjAzdU13cFp0MHJjYy1vaFZaQUstX1BheDlQNVlRRHNQQmJsSDE5R3FjNmdPSlBPdkU4cmlOTWFsbkl5SG1MVEJtclBDV0V2UGlic3BKb2dHa0I3R1BQRlN3?oc=5",
-    "fonte": "Noticenter",
+    "titulo": "Falta de informação ainda limita avanço da geração distribuída compartilhada no Brasil - Bem Paraná",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeWZteHktOUNaVVRKaktjNVBwNC1kRmNvTF9Qemd4RmZaUEdoNm5iandEWTRDOGN3WFp0TnlyRmJIdExEd1RDT2w4RDZ3YzZLeHVyUmxDdmY1WHk2dGxVVFVMODBtSGtudERXTGVrTXZndEZiZUtDazdUMXQzcWE0VkxkUjlrOXA2SWpIZG9iNWtfNXhvY1BoSVNROTJFaU1oTkZ1RzBMYUdXUDdjTjJEcnQ1UzNGSjMyRXMwM3lHN0dnRnNBV2ZmaE80TmZFTTFRMmdYdG95a0lwWXhUSm43cm5Tb9IB6AFBVV95cUxOWkVYdmdCNy1VOHVuVXhhU0hHSS1ISzRDSzV5NEotQ2NQd0Q4WHFCLUhlSkRyQWJRZm5LazFBdC1KVlF4dzNkeDVtcHdpUGdKQVdWOG1rV0Fla3dzMDhDenU4bDJEbXdZYjg2ZF9xWXIwZFo0blZhTkJhWElsazZkTDlWUFBLR01NVmUybmRLWnZqU0JueHF4M0J4djFQX0laT1hsUHNJVXpULTNmVlRtSEVqMy1YR0VRZTZ3bUdweHZtUmRNb215SVB6UXJqaHkwN2lubGFGWnZ6XzdxYTdWTTlseW94N2o3?oc=5",
+    "fonte": "Bem Paraná",
     "data": "2026-05-27T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Falta de informação ainda limita avanço da geração distribuída compartilhada no Brasil - Bem Paraná",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeWZteHktOUNaVVRKaktjNVBwNC1kRmNvTF9Qemd4RmZaUEdoNm5iandEWTRDOGN3WFp0TnlyRmJIdExEd1RDT2w4RDZ3YzZLeHVyUmxDdmY1WHk2dGxVVFVMODBtSGtudERXTGVrTXZndEZiZUtDazdUMXQzcWE0VkxkUjlrOXA2SWpIZG9iNWtfNXhvY1BoSVNROTJFaU1oTkZ1RzBMYUdXUDdjTjJEcnQ1UzNGSjMyRXMwM3lHN0dnRnNBV2ZmaE80TmZFTTFRMmdYdG95a0lwWXhUSm43cm5Tb9IB6AFBVV95cUxOWkVYdmdCNy1VOHVuVXhhU0hHSS1ISzRDSzV5NEotQ2NQd0Q4WHFCLUhlSkRyQWJRZm5LazFBdC1KVlF4dzNkeDVtcHdpUGdKQVdWOG1rV0Fla3dzMDhDenU4bDJEbXdZYjg2ZF9xWXIwZFo0blZhTkJhWElsazZkTDlWUFBLR01NVmUybmRLWnZqU0JueHF4M0J4djFQX0laT1hsUHNJVXpULTNmVlRtSEVqMy1YR0VRZTZ3bUdweHZtUmRNb215SVB6UXJqaHkwN2lubGFGWnZ6XzdxYTdWTTlseW94N2o3?oc=5",
-    "fonte": "Bem Paraná",
+    "titulo": "Informação ainda é principal barreira para geração distribuída compartilhada no Brasil - Noticenter",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzlzRmRaS21JSDg3cnVDQmFJeHNpQTZPVmowRUZ6Q2Vzd1lqd294cTVjVEJuOVhXZWQtY0t3cjJWU09iOEFmcXUzVGFxY2NKSGJIaDBqUDBZczRGNjFZT1BDcnVUZGx4bFVva3FTNFB5SjAzdU13cFp0MHJjYy1vaFZaQUstX1BheDlQNVlRRHNQQmJsSDE5R3FjNmdPSlBPdkU4cmlOTWFsbkl5SG1MVEJtclBDV0V2UGlic3BKb2dHa0I3R1BQRlN3?oc=5",
+    "fonte": "Noticenter",
     "data": "2026-05-27T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2435,25 +2444,66 @@
     "data": "2026-03-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Genial inaugura usina solar de quase R$ 10 milhões no interior do RJ - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USWhFUWFPMW5IeExhOFdPV1kyMTVwRWp0aVpvZDFPM2pteG8xMUQ2NXNHZ2R5VDNadmw0XzNVM2FVRlM4X0lGN0RtSGFEZVJqN1luOC03cWFTUFNRVjI5YnpaX0hUUThkSGtvVA?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-03-23T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
+   {
+    "titulo": "Inflação fica em 0,82% em setembro, puxada por tarifa de energia - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0pLU1EtcjNpN0pHa05zUENKazlWZkZhWV9KSEF3NjdIMlh2cHNyTzdqMFBCQlp5MzFWYkVkeUNGRWNnQkh4RDhUTG1MMjZwQ0N6My1iQ2h0NUVyMTBwUTYxY09xb0tkWG9zbWxGVzRjcXBTUXZXMXM2Q1NQWjg1U0R2RjZkazItQW1icEd3V2VYZ21weGhDX3ZNREozY0hhVE9SNkdKVVlZdkVDUWRZX054TkwycWlNWEFfdEcxQktHT2wtY3hCbUFsM2tZQzcxU0JnUHR3?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-10-09T15:51:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Aumento das tarifas de energia elétrica impacta IPCA em setembro - Tribuna do Agreste",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFFGYU9SSEVReXBjN012MlRjT0lLVzdhOVJSMzk2czZmelh3OWdGM1VuTU5qLTNxT1JCQ0RPaTNJeS1HZi1kZ0tLVjBnbXVidzQ5SEVBVXZpSFlZQ0p3T2xoUkFkWTZuNW5VU2ZRT2VDRjAyVGR2M1luYW1MeFdlclhHM0xnM3E1VjdWS1hDZ0tOQjRVeFhBc0JDaUk4TnF4RE91Q0VZcXd5a1pxWlJuOF8xWF9DR1cwalcwM29QVUxZQQ?oc=5",
+    "fonte": "Tribuna do Agreste",
+    "data": "2026-10-09T12:53:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "IPCA sobe 0,82% em setembro, puxado por energia elétrica - EuQueroInvestir",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMml6TnpmS3VMN2FlLWp4aVdNLUdEczdNeWM4RDRMX0I0Nzh4OXhhSTd3LXJlRmlUdTJsZEFpNzF2dUNJc1hIVnVhN1g1NFRrTmUwNXZnMEctMFBYQmw1MGREUjdkS3VJYnZYMEZTZ0JsREVCUGJ2NFRMUmtReDBlTVk2eGV0YldaX1doclJkQk1mYndD?oc=5",
+    "fonte": "EuQueroInvestir",
+    "data": "2026-10-09T12:25:28.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "IPCA em setembro fica em 0,82%, puxado pela alta na conta de luz; resultado vem acima do esperado - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIX0UySWxLRC1JQUs2a0pvNnZ6RDhub0JwZlVNaVR5MUlORWlmNVFnTG5WbUFzN3NUZ0d3OU9IdVdjVWlzZDNaWm9XWnZnRnk5X0F4TWxOVklqR3NJUEFLQTNYdERJd3Rab0FpZW9UelBScFlhaHN6TdIBfkFVX3lxTE1naWJJMlJHTC1mbTFud3lRVTRFT1VyeUdaQmhrMlo5ZE43MUI5Q0FabzhWb2IyVzFiZFRlM2dLTVFneFZSUEtzZllfcHIyM1JWMzVHNjlUTEloaThDYkZJLTFRV2YtNVgzcnNQS1RsRy1sa3pKTzMxUHo1UjZsQQ?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-10-09T12:08:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "IPCA: inflação sobe 0,82% em setembro, acima do esperado - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXZJVVVwNllXUXRfX19CdnlCdGVlbU9XWVc3TlNMOFpYU29KdUFaaWg4aWdWN0hLVU9Kb2hHT3RNYWtocXNUeF84WUlHRkJVbkx4ZG5BRmlXcTVHV1pQc1AwTl9UbGVZQ0Jic3ZQZlZwTUdjX3R0OGpIMnlETm4yYUhiVdIBiAFBVV95cUxPWk1SNU92VFV1clJrQ01zVHZoZkN4eTZPTmxMZXdCOVZzTUxsTlV0VW9iMFZDb0RHYm4xbmNzMktVQmhCeHdaWWNLb3h2dVMwTFQ4OU9SZDlDLUdHVmRNbGVyNG4xaXNjOVo4c0NRblNSMFMzUUMybjVuQzdVeDZ3b0FSNTNvd0FY?oc=5",
+    "fonte": "InfoMoney",
+    "data": "2026-10-09T12:01:10.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação sobe 0,82% em setembro, com fim do alívio da conta de luz e alta dos alimentos - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUkwRUx0Ql9xNlMtbVFBOXZnTHNpc1o4b1A2STJESXJaV08xU2RjTjZHRWotd1VUODZwUm51ZnFBVU5raU80TWRaMFNRT3RkTU5QdkNuRE83eW1ES2xzTWZBOXFFbXZnVmVoXzR1Q0RZUmVmVHhfRFhqU1VsSW55OVpfYnBDLVFDM05pVmpSeHhFN242T1ZCc1lGak9IcEZFeGRfaWtHZ1dHOVXSAboBQVVfeXFMTWZ4aWMwRURNZVAxSzhzS2Fxem16UlA2SVljXzB3TkNwVXhTcXJYaDZpZ2VTMjJTdUtQa0hIbFJtRkJ4V0JnOE8xaFA3NEREVmxuVmF2Zk5tUzFuNjNUSGdZRFpfUFpOOTlEV2xOWGotc0dLdkFzQmFTejBJVHhhWkQwUE4yVWtnZzNDY0lVaGNyd3FBNVZ4LVRSckE0dFo5QUZad0RVMVowRjdKWWtpMWdIeEo1N3dkazJB?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-10-09T12:00:46.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
    {
     "titulo": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro - Portal ON",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajNWMndINWlUWk42bnJybFY3Y2hDSm1Lek9NcVhWeS15dkgyVURwbkV2cnJhNmVfc2ZuVWkyNjVXb285aGpXOHpuZnB2SFlRa0NvQnZ3MFBOMERTeVViS21xQjVSRHhxTFA3REdIc1p3NjhKYTlaMksteWRKSGFFNEFPMFNodVRMSl9XQVpvQUxScmRad3ZoaFFiTzR5R0RzaENYeHBicldLTDA?oc=5",
     "fonte": "Portal ON",
     "data": "2026-10-08T18:02:45.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Bandeira verde em outubro: sua conta de luz vai baixar mesmo? - Portal Solar",
@@ -2461,8 +2511,7 @@
     "fonte": "Portal Solar",
     "data": "2026-10-08T14:32:23.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Cooperativas de energia lideram satisfação e cobram tarifas mais baixas - Tribuna do Paraná",
@@ -2717,6 +2766,14 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5BSzBQUUh0TUl4eGZYcV9ZaXVPUmlJUm9hdzB6VFh6ektmYWVnUjZhWFpqMTgyRDAtUS04VURZN2VmWG80SlNCYWlDSmVJd0hpNHdnQ3RrakY3V25mVU1jaWUyLU5JZzFGODRqN21vOVF5WVh4ckZicDYyQkpzQ1BRNlpvbW1wdy1iRnI4Z1pGXzJuWVEwLXBSdkZOZVhTcnB0YmthMXJhd00?oc=5",
     "fonte": "dm.com.br",
     "data": "2026-10-01T15:44:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Após cinco meses, conta de luz fica mais barata em outubro com bandeira verde; veja tarifas - AF Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0tfN1ZhM19MTzBkMTFDdndmbzAybUQwWXROazcyakdtNzM1ZDZ2MnlqUWxiS2dSZW81OU5ZVmZROEFFLUhxQWM3RV9lbl81ckk0XzZialJBRmE3WjE0RDVFMjhRLUpFOVpYMlMxRWNmOFdjVk0wZlhZZHgxM2NMeGx6WTFtYXdtZjJuc3doaTlkNktNOGtPVzRTUXNjS0VTRnVyUHo2Y1o4Wm1UdUN3LVZSenRZSTlTWnRQMHBJQQ?oc=5",
+    "fonte": "AF Notícias",
+    "data": "2026-10-01T14:06:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4795,62 +4852,6 @@
     "data": "2026-09-25T19:57:35.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Noticia - Roraima na Rede",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUGNETTZxR1lWcHZvaTRBV0NUeV91ZFcxRWNSU05ueG12dEtsa1lSTmZ4d3pwcXhWbkcwNE1FYThOZWhRWHhzN2d4NHdVNTBZeDB1Y1RrcmtVTTFsMS1XUnFMaFZCR3VvYTA5QkN4N0lRdVJXZ2lEWjFKbXUzMURhVDYzenFLR3lfZkpmN0M5dWl6Z1lJRzNSVnNNZ1ViMEw2dlN0RzJR?oc=5",
-    "fonte": "Roraima na Rede",
-    "data": "2026-09-25T19:54:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "IPCA-15: energia elétrica residencial sobe 7,42% em setembro e puxa prévia da inflação oficial - Cenário Energia",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVzIwWHF2ZmdXeHJTb0xBQlUzbHdXcHFLMHJQQkc3NFU0MUJYVGZTdmdRdjRsa2gwb3d5ZXdPdlRscmNuU19YRGRhLTI0MjNqSXRFOGxIeERWM1A5MDNKVFl3VGVBS0Q4VTJpaDNNV3FYU0RTOTVOZmJXX1VkcVdzYVlRajNISTFDaVZYQXFJQQ?oc=5",
-    "fonte": "Cenário Energia",
-    "data": "2026-09-25T18:06:07.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz pode voltar a ter bandeira verde em outubro, apontam análises - Diário do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5LW1JM1k5TFFnYU9qNGZkXzQxY05YMmV0bFA1NWFQRWNTR0hZUmQ2LWZTNFpRaVhDYzRSRFFGajJ3cHNhazdKRS15dUVTbU94aGx2RmhVaVNvdXJPSjNKZzFKTkRTTVhEdkZldW5CSnJxUnR0QTdhUw?oc=5",
-    "fonte": "Diário do Comércio",
-    "data": "2026-09-25T17:53:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz pode voltar a ter bandeira verde em outubro, apontam análises - diariodocomercio.com.br",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5LW1JM1k5TFFnYU9qNGZkXzQxY05YMmV0bFA1NWFQRWNTR0hZUmQ2LWZTNFpRaVhDYzRSRFFGajJ3cHNhazdKRS15dUVTbU94aGx2RmhVaVNvdXJPSjNKZzFKTkRTTVhEdkZldW5CSnJxUnR0QTdhUw?oc=5",
-    "fonte": "diariodocomercio.com.br",
-    "data": "2026-09-25T17:53:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz pode ter bandeira verde em outubro - BPMoney",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzlzRFgzNTNFRDQ4MHVvQTRIbmhyTTFTVjd4OWQ4QkcxbnpZWnJicENEdGJJdFZJNy1hRGREUUxWT3AzUGhHRmZhSURxT0hNS0hLaUFRTEtBSWlhWnhvWGxFdGs4TDVPN1h6NllzMEtSZl9tMGF0QU03SzFTeTZRa19yOVZaZw?oc=5",
-    "fonte": "BPMoney",
-    "data": "2026-09-25T17:25:56.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz pode ter bandeira verde em outubro, aponta análise - istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tWkNOc2VDWlNDREV3V1doM3ZNYkVINHU4Sk5OSE9FQndpX3NqZUQyY1Y3ZE1maGlwM3ltdFhES3BCdTdmRW1TeElaWEgwZGV1NGs4MHFDZTV3OHJmeVEwVEl2YjBlcmdUR1FPT2EwMl9PMlZqdWM0?oc=5",
-    "fonte": "istoedinheiro.com.br",
-    "data": "2026-09-25T17:09:08.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde: Conta de luz pode ficar mais barata em outubro - ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tWkNOc2VDWlNDREV3V1doM3ZNYkVINHU4Sk5OSE9FQndpX3NqZUQyY1Y3ZE1maGlwM3ltdFhES3BCdTdmRW1TeElaWEgwZGV1NGs4MHFDZTV3OHJmeVEwVEl2YjBlcmdUR1FPT2EwMl9PMlZqdWM0?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "data": "2026-09-25T17:09:08.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -6364,17 +6365,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel publica revisão das normas de processo decisório - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemY5aWZPWFRDSnpHQjVWdGlvdVEtQ2VQR285SHNzZDNXSTFBYkRWUVpONHM2WlEtSmZxXzNxQl9YQWI2R3FoQlZlOGt1Q0VWRkRQQmUwZ1Jwc05NTzdKNUpDaFpLTnRVUERvTEhXUDlxWDdNbVNtVXhtU1NJRFBmMkJFNFhtN3k3NTRLNUc5SzZxdkNTV3Z3SlNQcEcyUQ?oc=5",
-    "fonte": "Poder360",
+    "titulo": "Aneel cria votação online e reduz prazos de vista em novo regimento - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU21sdDV2RUpGNWVlQkh2cHJlSXhySGdnbENXdHI3YXNwRGhoNjd2Y0lzNnVMMi1HbjJaZjRCMkdlUEJTb281dEZXV0RSQlF1cUhHU3JKRlRVZzdaX1RoUWF4ZHpPX3MydV9hb0IzTE9pUURJMHhkNmtxYkFhVDMyV0xvQm5fWnozSDdUNDNTZGtjdHN4c3ZsQ243Nl9tUlk4aU5yZkVaaS1IQQ?oc=5",
+    "fonte": "MegaWhat",
     "data": "2025-09-22T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel cria votação online e reduz prazos de vista em novo regimento - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU21sdDV2RUpGNWVlQkh2cHJlSXhySGdnbENXdHI3YXNwRGhoNjd2Y0lzNnVMMi1HbjJaZjRCMkdlUEJTb281dEZXV0RSQlF1cUhHU3JKRlRVZzdaX1RoUWF4ZHpPX3MydV9hb0IzTE9pUURJMHhkNmtxYkFhVDMyV0xvQm5fWnozSDdUNDNTZGtjdHN4c3ZsQ243Nl9tUlk4aU5yZkVaaS1IQQ?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Aneel publica revisão das normas de processo decisório - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemY5aWZPWFRDSnpHQjVWdGlvdVEtQ2VQR285SHNzZDNXSTFBYkRWUVpONHM2WlEtSmZxXzNxQl9YQWI2R3FoQlZlOGt1Q0VWRkRQQmUwZ1Jwc05NTzdKNUpDaFpLTnRVUERvTEhXUDlxWDdNbVNtVXhtU1NJRFBmMkJFNFhtN3k3NTRLNUc5SzZxdkNTV3Z3SlNQcEcyUQ?oc=5",
+    "fonte": "Poder360",
     "data": "2025-09-22T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
