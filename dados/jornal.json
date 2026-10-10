@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-10-09T16:04:25.035Z",
+ "geradoEm": "2026-10-10T00:27:15.695Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 16.06,
-   "pct": 0,
+   "preco": 15.59,
+   "pct": -2.927,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 77.34,
-   "pct": -0.039,
+   "preco": 77.38,
+   "pct": 0.013,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 32.145,
-   "pct": -2.325,
+   "preco": 32.81,
+   "pct": -0.304,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 177.33,
-   "pct": -0.85,
+   "preco": 177.82,
+   "pct": -0.576,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.59,
-   "pct": 1.024,
+   "preco": 29.53,
+   "pct": 0.819,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 12.23,
-   "pct": 1.326,
+   "preco": 12.13,
+   "pct": 0.497,
    "moeda": "BRL"
   }
  },
@@ -58,8 +58,7 @@
     "fonte": "CPG Click Petróleo e Gás",
     "data": "2026-10-05T01:24:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "A energia solar ainda vale a pena? - Portal Solar",
@@ -67,7 +66,8 @@
     "fonte": "Portal Solar",
     "data": "2026-10-01T19:23:08.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Excedente de MMGD pode entrar na contabilização do mercado de energia - Canal Solar",
@@ -567,7 +567,7 @@
    },
    {
     "titulo": "Energia de telhado: geração distribuída avança e desafia o equilíbrio do sistema elétrico - G1",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2ItMnNwcENNVThJSFM2VXRHYU8wNURYZTBsX2RHdm5rY0NDRXZqdjZqN0htS0h0NVRyTkcyS2hFb1pmWE9zb01rcjdhcTREOGpHMHhSNjU3VVRTOUptMGNtTy1vUWdLQ2tMbEVJNC1NeGJEUzl0dkJQaXU2bTlxT204Qy1pdmhMS2JqYThVLTVvYXhZdHg2VEt4VVpiMmVxSGw4aDVKUWx0bGNPaDk1ODE5QnZyQ3N3SDJ6bE92X3lSME12OW0yS1pwcXVhYlpSSlg3V3F4ZE5TMTjSAeoBQVVfeXFMTW5kbGt0TjR2RFFmUW9SMzVKT2RXdUVPdUFqUEFKb0JLZUVxZUI1bDg1TmVEaFRxdVBwMGNWZTBuWE03QnUzVk84djRDR0ZHQlBuSFFNT25MWEpMdlptQmN4QlN6NnFLZTB5QlZlbGtDNkplVFZqemZjVlpvLS1HY3YwaDdJTzNfNWE0S0Q4Tl9VZmVMaER2SHgzOGw5TngweTNDOTdhTGNES0ZBX0ZqbVdqdFk3SlRpcWtZT3hFaS14X1NVazNBSXgtZU1kemRfbGJlM0dOamU1MWxnS2htSWdLT2M1TTFLTmJn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2ItMnNwcENNVThJSFM2VXRHYU8wNURYZTBsX2RHdm5rY0NDRXZqdjZqN0htS0h0NVRyTkcyS2hFb1pmWE9zb01rcjdhcTREOGpHMHhSNjU3VVRTOUptMGNtTy1vUWdLQ2tMbEVJNC1NeGJEUzl0dkJQaXU2bTlxT204Qy1pdmhMS2JqYThVLTVvYXhZdHg2VEt4VVpiMmVxSGw4aDVKUWx0bGNPaDk1ODE5QnZyQ3N3SDJ6bE92X3lSME12OW0yS1pwcXVhYlpSSlg3V3F4ZE5TMTg?oc=5",
     "fonte": "G1",
     "data": "2026-08-29T07:00:00.000Z",
     "catId": "gd",
@@ -1718,17 +1718,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "ONS aciona corte de geração distribuída e preocupa setor - bnamericas.com",
+    "titulo": "ONS aciona corte de geração distribuída e preocupa setor - BNamericas",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUElKYmUzeFpIVF9Md0k4eGV6QkVoOTR3YV9FTjhTWC1VMHFOVllnZDBsak5rd1JsbWVoMzRNZlpOV1pseG5QWjRIaUIyak9LTUsxWWFLV3hiUHFpRGVTVXpVWjhCQWgxb0o4QnU4NkYzaXFqVEdCV0FKWjBHclpjNVRZTTA2OVVnV0dZbUlob29kejhUQy1ZVDFB?oc=5",
-    "fonte": "bnamericas.com",
+    "fonte": "BNamericas",
     "data": "2026-06-09T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "ONS aciona corte de geração distribuída e preocupa setor - BNamericas",
+    "titulo": "ONS aciona corte de geração distribuída e preocupa setor - bnamericas.com",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUElKYmUzeFpIVF9Md0k4eGV6QkVoOTR3YV9FTjhTWC1VMHFOVllnZDBsak5rd1JsbWVoMzRNZlpOV1pseG5QWjRIaUIyak9LTUsxWWFLV3hiUHFpRGVTVXpVWjhCQWgxb0o4QnU4NkYzaXFqVEdCV0FKWjBHclpjNVRZTTA2OVVnV0dZbUlob29kejhUQy1ZVDFB?oc=5",
-    "fonte": "BNamericas",
+    "fonte": "bnamericas.com",
     "data": "2026-06-09T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2448,6 +2448,39 @@
   ],
   "tarifas": [
    {
+    "titulo": "Cergral tem redução média de 47,06% nas tarifas de energia - Hora Hiper",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkc5MUoyN1U1ZWx0ODRmM0xXVGxwbm5tcXlqZ0dLYUFiZEVvNi16cmIyaERoczRvb3JYclVlMXhjNG9KTjJNQmg4QWctbnRuWS0wNFBlX3B2eURpdFBtb2RJaFQtemthbG9DTkFNOHl1T3h2cUoyTWhCQ0Z6LVZkekxzT2pnMGJHTUZDV2o0VXE0ZFNYYXNOcWtlQQ?oc=5",
+    "fonte": "Hora Hiper",
+    "data": "2026-10-09T19:45:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação na RMBH supera média nacional e atinge 1,05% em setembro - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUhkQWgxRVgydVpBR3F2ZWF4UnkwZ00yU0EyX0NPSVJJbGJ6RXpkUndvMktKTHhPNEQ3ZTJoWTVHbmhzSmx5X2xEd0JfOF9KdWkyWWxSN01EazdOQlVmYm9ZUmg5N082MGFPbTdBTnlLa0MxRmF3N3FERTlLVVRsdEZzNHhHdw?oc=5",
+    "fonte": "Diário do Comércio",
+    "data": "2026-10-09T19:12:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação sobe para 0,82% em setembro e conta de luz pesa no bolso dos brasileiros - Folha do ES",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOG1qblhFZ2lzQmtrS2hlTm5JN0I1cTFSNGEzWGk2MWtwSkF5TmNGX3pNUE5fRE43eEdHYjdxN0ROX3FLSmdhX3o0T2lISXpvUlZGdWFtR2hqekt4aFlpS3Nwd0NFLVh0ZjFsczR0bWplMGcwaUQ5YWVjU2dRZ3dORGVCbnRib3JqVERYWXAwWndoWHVQMklqSElhYkN6UWFEczZ5NA?oc=5",
+    "fonte": "Folha do ES",
+    "data": "2026-10-09T18:42:05.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho? - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRnBSQWxCUlVCT0RRd0lTX2U0Tkt6bmJ2WXdyNHFBbmdGNjE1emxadGkzaXlZYUljVUZvT0RoQUYzbnJ4Vm9oR1E1bHJiSWlDUEQwQV9jbDh3VWpyNzZBNkxidlFQVDlpd0pFSTBla01MS1FOQjJXLW9pelh4UQ?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-10-09T15:53:57.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Inflação fica em 0,82% em setembro, puxada por tarifa de energia - Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0pLU1EtcjNpN0pHa05zUENKazlWZkZhWV9KSEF3NjdIMlh2cHNyTzdqMFBCQlp5MzFWYkVkeUNGRWNnQkh4RDhUTG1MMjZwQ0N6My1iQ2h0NUVyMTBwUTYxY09xb0tkWG9zbWxGVzRjcXBTUXZXMXM2Q1NQWjg1U0R2RjZkazItQW1icEd3V2VYZ21weGhDX3ZNREozY0hhVE9SNkdKVVlZdkVDUWRZX054TkwycWlNWEFfdEcxQktHT2wtY3hCbUFsM2tZQzcxU0JnUHR3?oc=5",
     "fonte": "Agência Brasil",
@@ -2457,19 +2490,26 @@
     "imagem": null
    },
    {
+    "titulo": "Inflação sobe 0,82% em setembro, com fim do alívio da conta de luz e alta dos alimentos - Tribuna do Sertão",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFhVTE90TG94VHZFLUlGZXhEeXNtVFVheG9Gcm55eS1ScUI2Y21Jc3dVUHltTUJpZjNnbjA5NnFBZ3E3akdCNUFLaWZIQXdob2QwXzNxQWFzbVpGZEZFRjVfTUhaUG52T09kWWZUOXNOaEh3Nl80SFJjTnlkekFocFRocHZJRXpsVHhfTGcyaUtlcG01eUs3eHJJdGNCOTVKbmVGemhYcHpaYnFEcWRMcU5TeVFGMGdhc0FmUjdMZU9PRnAzZWI4V3FsRGFZZXhYcHVscnlISHE0RHdJclpN?oc=5",
+    "fonte": "Tribuna do Sertão",
+    "data": "2026-10-09T15:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Aumento das tarifas de energia elétrica impacta IPCA em setembro - Tribuna do Agreste",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFFGYU9SSEVReXBjN012MlRjT0lLVzdhOVJSMzk2czZmelh3OWdGM1VuTU5qLTNxT1JCQ0RPaTNJeS1HZi1kZ0tLVjBnbXVidzQ5SEVBVXZpSFlZQ0p3T2xoUkFkWTZuNW5VU2ZRT2VDRjAyVGR2M1luYW1MeFdlclhHM0xnM3E1VjdWS1hDZ0tOQjRVeFhBc0JDaUk4TnF4RE91Q0VZcXd5a1pxWlJuOF8xWF9DR1cwalcwM29QVUxZQQ?oc=5",
     "fonte": "Tribuna do Agreste",
     "data": "2026-10-09T12:53:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "IPCA sobe 0,82% em setembro, puxado por energia elétrica - EuQueroInvestir",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMml6TnpmS3VMN2FlLWp4aVdNLUdEczdNeWM4RDRMX0I0Nzh4OXhhSTd3LXJlRmlUdTJsZEFpNzF2dUNJc1hIVnVhN1g1NFRrTmUwNXZnMEctMFBYQmw1MGREUjdkS3VJYnZYMEZTZ0JsREVCUGJ2NFRMUmtReDBlTVk2eGV0YldaX1doclJkQk1mYndD?oc=5",
     "fonte": "EuQueroInvestir",
-    "data": "2026-10-09T12:25:28.000Z",
+    "data": "2026-10-09T12:32:31.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -2619,9 +2659,9 @@
    },
    {
     "titulo": "Conta de luz não terá cobrança extra em outubro com bandeira tarifária verde - G1",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMDEwQ0FOeGxmUk1UMXZNekxMc3BsUFNYYU9VM3B3cWItYldJSS1PLXdUN0VpUmVXdWZRMUNxaUpVYUpLQXVCN0FHUEpHQ29KTGRYSllUSXFPVDdGOFRKRnctWGxLR2JwN2RuR2xLcXl0VFdDcU4wM1hwbzNIcE1keG1iM3RGcTJ5UUh2YjlPbEhISG84S0NGU1ZELUtRVlJWeG1oN2RIaWpoY05Kb2ozOURyaDFuQjZETElCUC1nNTFzX3V2UUxZc2VPc2pzOW5xdkVnRmNma3hfQjd4b0JnODdvNi1aZ9IB9AFBVV95cUxPWkdiUTRTR24wVW1JajJ0REhRSDkxQkdxZldUNXM1VDBFWEdBUEV4UHJSTEpkZGVoY3c3TURSNks4ZzNBT0ZqOXdpZVJYSWNtcUtzeXNiUWJfU0Q5UENBa1VMMTV3Sk9mNVM2NEd5dHRjZjd4Z0s2eElOc1dQYVFiNEltM2lmY0xqSmFHc2Ita1p5SnE4bmpieXU5ZktJRHJLNXZoVXJJaEdaS3lQc2pRVlllSmh0ZnFWd3g2T1k5d1JJNnlFeWVmbERwclo0amxlMTdMeVNxMjlYaFlOVndtMmhJSUlHY1dsOFNucmt2dWhYVEcy?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYXFVMmxERGJnTjhNNUVqUkRDMkpQa29nTkw4bnBMRXQ0b2RENUZGWnBmVHB2bldBLXZZeHBCM1dzMXdaN1RTTWppR0VjMjR2Yi1DTmNFTFNNcUh0dDM5RnJtVGJ2dVZzN0dvN3paaWh2eWhnY1dGNW5wNmw4U21JOFNZVWFSZTJSQVhRU1BDOE90TUVmWVh0a2VTcEhZaTJuTDhRSl8ybnU1eFZRMUdBb2poNU5GYUx1bHBxcng0cU9EUzB6Nzk0dzZZby0wc3R2eGtockwtWHRZSzNQQXZtbVVTM2JJQ2RCMmdB0gH6AUFVX3lxTFBrRnpIank3c3NQZkxNZEZEZlk3aG1kYzNlWGpURWpJQ0N4bGlrQlpJb2JTcnlQR29ES2h1SkJsZVFFaUk0c3lLdFY5a0s4S1dNbWlURGJzYlY5Mzk0bkpRUE8yTXBRTmNtTEU2cFpUUXFfSTVjSTZ4U2RGSE1iMktUZ05hUjdWck03VjZmTDdjd1hfd0xEbDlmQ0J1Mm9TUm9WUG5iaHF0emdrSnEwOG5yMEZjbFpFUFJSZHhzYkRwNHhXN0dWNXNERnBmZ0V6TnlwRTY3YTlQOUh2Nm1McWIwUHdDMWFlSWVMZmFHajJFWkVXMW5ha0kyMXc?oc=5",
     "fonte": "G1",
-    "data": "2026-10-02T23:42:03.000Z",
+    "data": "2026-10-02T23:43:18.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4811,47 +4851,6 @@
     "data": "2026-09-25T20:13:29.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Após seis meses, conta de luz terá bandeira verde novamente - cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0FZM1RfR196cVlEbVVUY3JIVHBJbU8tWFZNQkRJWndxUTV0MjFrWDdHdWhoaTlSV3lpNTFSUm9wOTZhRy1MMWE3azJPUUprZUh5Skw4dUFtT1hCUFZKalNJbWdINjBudFZVOWRWWDN4Q1U1R2R1TzRCYS1CclotcHpFVQ?oc=5",
-    "fonte": "cnnbrasil.com.br",
-    "data": "2026-09-25T20:10:48.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - avozdocampo.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0E2eWEyQmdDVkUtZk43Tkp3WTdLUjdnMk1uXzNKdXJ6VTFqT1FibUR3YVlDZnh2dWNGUzhXSjQ0c2Q3QUY0czVpZlRSbHN3YVNWTkUwOFBZVjRQVTlLeFRJMEQxLVVyWkZ6by1zcF9MTjdtVklPWHV5NGl1TkVMX0ZEd3lqZmFGeERqR1ppNzNqUmc4RllZaWVDMktKTnBC?oc=5",
-    "fonte": "avozdocampo.com",
-    "data": "2026-09-25T20:06:50.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmZpbG5iTV9JeVhXTVpxdTdQYUpjQmpCVlVlTThzdlBzb2M3ZVpTTFU2b1BlWGUyZXFXUlpiTHBmbElna1ZlbHllV05LOFhDNGtvc1htVHNVSUlEMGhQTlFRbmpINjBfM2dyMmVQYTN2c2g3LU5GM1VpRC05TjNOVkE0bnFLU2ZRaHZqRU9mTkFtajZQYXJ2M3RkT2ctV09vNk1WY1ZqUU1UbGpFbG5rWkxpWEdtaElVSXRYY9IBywFBVV95cUxOWFFUdjRoVmN3bFkxTHNReGtSckxDMHZ6azVUZVRKRkR5ajlDdkFnYVZDYmg3U3R2aXhfSnJaZVA3RFpkdjVXZmlfRkh4WmZXTWFLc3dWVGhKcTlkaDV6M25jZWlMN3lxR2NrZFdYYV9seTJiQ3FLS1Bad09NN09CaUVMV0g3R1hVdGczSEJtcWJlMTNseS1LTEtpYWlPbExsWjNWNTNwN0tpY2JXaWVUQTA3UnItRXRrMWZrM1FabnQ3YVhBazRhYmhyTQ?oc=5",
-    "fonte": "g1.globo.com",
-    "data": "2026-09-25T20:06:50.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro - megawhat.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOENyS2hraU5lM0ZScTJXNmZKTjRDZ0Jld0xZeUVHMFkweXluVnVTNW1nQ2JTM0QybFVMQ2RzdU9NcVQyTFJXS2FkNUMxVjRDZUN1VGFBS0w0OWJOejlPVXN1dTRkNmMteFhuWXZQdGtQVjJTYWRQZEFta0tzZ3A3SzNjVVBQRlRUM1J2MnZn?oc=5",
-    "fonte": "megawhat.uol.com.br",
-    "data": "2026-09-25T20:04:53.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: bandeira tarifária será verde em outubro e contas de luz devem ter alívio, decide Aneel - oglobo.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMEItaGtYTEYzR3czZHl2c2JrV09aZUdnQkx0aFhuajZFTzcxSHVicExObDAzWENrYVJNTzFZOWtiZ3cxd1ZBRkRYV0lBZXBRdjFMOTJzNDhUVFNkc3ppc3dyRjc3SlhIejYwd3liOGF5amplR05LNTJRUkM5ZmRaRHpQenNVNWN1dTlmSTRpNFNpMnYxWm96YlRESDNiN3diMWFjUlNrUUdrYTJ4UjdfR0dodUxvVzI3d29SR0I0VWtldXdpem1LTW1KN3ZIQ1FJS3NCY3ZJd1BiU1RxVlY2ekQxT3F3SHhFZkJfeGk5d9IB_gFBVV95cUxPNmlqSENYVnN0bm5YWU54RlMyTDhLdVVFMm9jVElfZGd4bnpIcV9aeGdJYXMyeTlmOFdNaU1UaXpSQ0ZCQkJic1hJZnNtYWlxellBRzBzNGpZZ0s4VTQ5Y3prRlFsaDhFeTJMT0swdlBReUNFM3BORkNNNkMxOHhuYUhMZ2g5bUQzTUt5RjBRU0pGdFlLSmJkcl81VVpfUGQ0T3ZMWUtVQ0lobGliWjBmY3lIbl9DcFBPWnlqV1ZMcTNYMFBzQ2l2bUpYYWhNejZ3U2JiZjdWOXR5cEtFNnliUks4UlpjR01YZXpfbmtCQ3FRSk9GTnY4a1dJOURudw?oc=5",
-    "fonte": "oglobo.globo.com",
-    "data": "2026-09-25T19:57:35.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -5853,17 +5852,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Info",
+    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzFjWUpBbjJSeUd1SVByQS1fbk5BTEZjNU5CMFBkeElhdV9QcUVFVHJDMmZ6Q0tlYnlFZW0wZHM2aFU5T2FlWXF2bjBNcmhVT2c1S1hIel9hRG9ieFdxekJIQWJYRGUwS2ZHR1hJSHR6T2FkdkNOVE56ZWFYVmJZcHFjNGhZU2h5aVA3X3VHZEUxbmJBbEFHWklwRGFWQQ?oc=5",
-    "fonte": "JOTA Info",
+    "fonte": "JOTA Jornalismo",
     "data": "2026-03-05T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Jornalismo",
+    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Info",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzFjWUpBbjJSeUd1SVByQS1fbk5BTEZjNU5CMFBkeElhdV9QcUVFVHJDMmZ6Q0tlYnlFZW0wZHM2aFU5T2FlWXF2bjBNcmhVT2c1S1hIel9hRG9ieFdxekJIQWJYRGUwS2ZHR1hJSHR6T2FkdkNOVE56ZWFYVmJZcHFjNGhZU2h5aVA3X3VHZEUxbmJBbEFHWklwRGFWQQ?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "fonte": "JOTA Info",
     "data": "2026-03-05T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
