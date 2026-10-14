@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-10-14T14:27:15.099Z",
+ "geradoEm": "2026-10-14T23:36:20.795Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 14.74,
-   "pct": -3.66,
+   "preco": 15.21,
+   "pct": -0.588,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 77.835,
-   "pct": -0.492,
+   "preco": 78.37,
+   "pct": 0.192,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 29.87,
-   "pct": -6.744,
+   "preco": 29.35,
+   "pct": -8.367,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 180.574,
-   "pct": -3.229,
+   "preco": 179.08,
+   "pct": -4.03,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 28.16,
-   "pct": -1.676,
+   "preco": 27.9,
+   "pct": -2.584,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 11.77,
-   "pct": -1.092,
+   "preco": 11.9,
+   "pct": 0,
    "moeda": "BRL"
   }
  },
@@ -2449,6 +2449,31 @@
   ],
   "tarifas": [
    {
+    "titulo": "Por que cada onda de calor deixa sua conta de luz mais cara - CidadeVerde.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjhsaFdwMFd6WGRoX1JReFdDRkFzcmNNWGZHb2I4Tl9ySGNnMUdCN3FLTGRFZVFUVlR4WGxVNFdxNGpjLWF3RUZDb2J1V3BPdG84MUhUaGxiOVpNS3d6SkpQa2hFRkpPZlZoT2R4QU1BaXJCWmtJZDU0cEFSbXA0dThTVFROWS0tTFZZVVlSUURuNEVsWkt0Q3VpbUJyQjg3WEh5all3?oc=5",
+    "fonte": "CidadeVerde.com",
+    "data": "2026-10-14T20:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Créditos de PIS e Cofins poderão reduzir tarifas de energia após 2026 - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUh4T1BSUm1INHRpMXpKRVR1cUFnY3BYQXdOZWZrYnEtTlFmNDNyMWhJY2xia19XQUdJT3BqWGpoemF5MWZCVEhobUo3QTRiQlRmUUNibl93Z3RNU2lZZUFCV2hrQ1B3RTc1NkdDRzZsVVhBMEl4NEhHWURpQTNIbmxtNmNNRWlZVWVQb3RQMUhIQnZBRnNSZGVObVFvSldqR2tGQzBNT0hqN1lV?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-10-14T18:42:17.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Tarifas De Energia Sobem 9,4% Em 2026 E Pressionam Indústria A Rever Consumo - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNem1UZ19tR254Ylp5b2psTkU1ZnQ2cUdUMUNOZXhXMklGMk9ZNEt2OVQ1bkREUWI3M0FVZ0hhOU9MOXV1VGd5RkJOOFVOc1Z5eHFkS1hTUm81REVoN21PQVhhQThacUc2N3owQ2JlaXhFM2Z6X19aZDF2RlY3bEg2aC1HRnVYaXplYXQtZXNhalduUGFLTVV5Rk1JUjB1TnFiRjNOdnhjc252SEgzTGZwc29GUVNZTWs?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-10-14T17:13:07.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "IPCA sobe 0,82% em setembro, pressionado pela energia elétrica e pelos alimentos - Brasil 61",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVUw5dUZlaDlSeGlzU0hFWnFSSVZ5N2JYM2FFdEJUT0pScktYVGVxT1NJcE1uRkJpcVFaUHl5eTJENk5sTmNtX3VaV0ZHd1A5MnRDRlNGcUtWdVdERVkzMzhBVENOdXlsNEdCX05URDkxb1Bnamp2V3V5bnpQNk44MUZqTGF6RFZOM1BvUk5xVm1BNVhnWXFrYzRVaTJiRUtyVTMzZHBKelpfZlh6aEE3SEt6MNIBuAFBVV95cUxPblhOdThxSEVyY3ZWSUIwQlVYOTl4TUtVMjQ0c3I3dU05VmluekFJRHFaY2MxRUJnZVpwY0FCbFFIT2xJQ29MOVVuUktqWnJORER2bGhUckJVMXdHZ2hFZ1hFOXRwNjlWS1V0Nlp0WVVNT3VaTWFiMUpXWkwtVlJSaWp4M3hVRHllV3NwTHVDbXZaWXg4ZmZWMlpVdTNRc044WllGQ2EwdEdJakRHQTY3MXpkek1qVlBu?oc=5",
     "fonte": "Brasil 61",
@@ -3063,8 +3088,7 @@
     "fonte": "Enel",
     "data": "2026-09-30T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz terá bandeira verde em outubro após 5 meses de taxa extra - Ao Vivo de Brasília",
@@ -4827,30 +4851,6 @@
     "data": "2026-09-25T20:29:28.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Alívio no bolso: conta de luz terá bandeira verde em outubro, anuncia Aneel - Agenda do Poder",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUpRbnZ5NjFMYVhDcHN1anYtQWhOOTNfTnN4N1ZLb2VCd25MSGxtX0dSekpGUUF0UVJoUXQ3amNVaVd2QU5QQ1hPdlV4cDRlelhMZ3VyNUlzZ3drVWs3YXZVMHdILVJRV1NQTVBMUmp3el8tT0h4QUJjMDNNZy13c25YdGw5cFV1OGR0djJNOGFNbmZEWkJUamFOT1QyTS1UVDJINllR?oc=5",
-    "fonte": "Agenda do Poder",
-    "data": "2026-09-25T20:29:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz não terá cobrança extra em outubro com bandeira verde - Rádio Independente",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjZhay1kbDV5ZWhFcGgwUVo2QkNnc1JNdDlYT0hYakNSdk9hd2hEUnpsRlh2Skl2S0JtTmFGXzBmT014Qk1JWjhPbnFYNVQteTVUdUxrVjJhNWN3NE9uTWdVeFJLZ3ZHUlBqazhUM2hKM2UyLWJoYWNMbkVIQjZKSVJjejF6dG9jakJDTFF6bTdNaGt1LWM5YWZTYXBFQmg4bW9ONUJSQzQ?oc=5",
-    "fonte": "Rádio Independente",
-    "data": "2026-09-25T20:28:01.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "País terá bandeira tarifária verde após cinco meses de bandeira amarela - Jovem Pan",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY21ZVlk0MFh2WkRldlkyMV9DRHJmSDlXSnpWQm9yU1I1Mmdnd2N1dVdLZkk3cUZ5dm0yUGZ3Ti1ZaEtqWktQVXp5eHRuZ2p4Q01nRHdZTVA0ZWdHYk1CdS1zOGFVek45d3l5QmRweDhrZDN6STlvc2FoYmlCZ1RBX2JHczRXaVlKUFNSNjBtMG5VbVAxT1F1V0pERngtUDhGcUV6SWZCa1g?oc=5",
-    "fonte": "Jovem Pan",
-    "data": "2026-09-25T20:26:13.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -4980,7 +4980,8 @@
     "fonte": "JOTA Info",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - JOTA Jornalismo",
@@ -5489,6 +5490,14 @@
     "titulo": "Dia do Perdão atrai 223 projetos e supera expectativa da ANEEL - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsd21KbVVvbVFvd2J0S2ZiU0FIZE92VFdreHZhWkdJZzVKRWVQRmhQVF9INUdtaExQbWM5QjBXUllWMTlxd3lZeGRYSjNCblBrRDlENnlGeVZJWjVHQVN6dHIyVlBPTnhLYUgwNEhEQQ?oc=5",
     "fonte": "Canal Solar",
+    "data": "2026-06-22T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Aneel adia para 22 de junho votação da regra de curtailment - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzhJSVQ0OGdZX3E2cjVGSWduT1k4SmFZM0lwV0Z0bG9ONjlQYXFScC0zd1plTmVtZjRhVkpKbGdUdnltY3RpUWxEMGVCTmc4RFRDNEkzRVM4SDVkLU1uaE90RWVXWEdVVWxLZFpVV2lxMk9DMG50VDR5SUVyVk5ERFItVTU3TVloX3laTjhvbmRPMDhvTnJLZHVNU2ZWZw?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-06-22T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6742,6 +6751,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1iS1Z5RDJ3aWhsM01IbkFpY0V4SDJJZDlIVDJ2SnJPbW9MbGoybEpjOTZVLURKSnRtdjlCUHdvUGpqMkNxOEUyVWkwLXBrVE1UVjJBX1phc1BzVFVLWlZZNEVFRThuc2JQd2pYdF91RmUzZGRhRExxT2wxUHpnT3NHWjVqendrWkYzekdPdXEzSU9IMS1LVVZiR0xwWjJZZk1CS1Rra1Ywd1M3dHFsWXpZWlNSbk8xY25KMUZuUzQ?oc=5",
+    "fonte": "JOTA Info",
+    "data": "2025-02-07T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1iS1Z5RDJ3aWhsM01IbkFpY0V4SDJJZDlIVDJ2SnJPbW9MbGoybEpjOTZVLURKSnRtdjlCUHdvUGpqMkNxOEUyVWkwLXBrVE1UVjJBX1phc1BzVFVLWlZZNEVFRThuc2JQd2pYdF91RmUzZGRhRExxT2wxUHpnT3NHWjVqendrWkYzekdPdXEzSU9IMS1LVVZiR0xwWjJZZk1CS1Rra1Ywd1M3dHFsWXpZWlNSbk8xY25KMUZuUzQ?oc=5",
     "fonte": "JOTA Jornalismo",
@@ -6753,14 +6770,6 @@
     "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - jota.info",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1iS1Z5RDJ3aWhsM01IbkFpY0V4SDJJZDlIVDJ2SnJPbW9MbGoybEpjOTZVLURKSnRtdjlCUHdvUGpqMkNxOEUyVWkwLXBrVE1UVjJBX1phc1BzVFVLWlZZNEVFRThuc2JQd2pYdF91RmUzZGRhRExxT2wxUHpnT3NHWjVqendrWkYzekdPdXEzSU9IMS1LVVZiR0xwWjJZZk1CS1Rra1Ywd1M3dHFsWXpZWlNSbk8xY25KMUZuUzQ?oc=5",
     "fonte": "jota.info",
-    "data": "2025-02-07T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Apropriação de créditos PIS/Cofins sobre P&D Aneel pelas empresas de energia - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1iS1Z5RDJ3aWhsM01IbkFpY0V4SDJJZDlIVDJ2SnJPbW9MbGoybEpjOTZVLURKSnRtdjlCUHdvUGpqMkNxOEUyVWkwLXBrVE1UVjJBX1phc1BzVFVLWlZZNEVFRThuc2JQd2pYdF91RmUzZGRhRExxT2wxUHpnT3NHWjVqendrWkYzekdPdXEzSU9IMS1LVVZiR0xwWjJZZk1CS1Rra1Ywd1M3dHFsWXpZWlNSbk8xY25KMUZuUzQ?oc=5",
-    "fonte": "JOTA Info",
     "data": "2025-02-07T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7257,14 +7266,6 @@
     "titulo": "Projeto suspende dispositivos de resolução da Aneel sobre geração distribuída - Portal da Câmara dos Deputados",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUFQZG5nZjZRcUF3VjVWa1RRTnp5ZFRROExGS0tGMzg2QmFIdzB3aFFYN1hyRTc1dnNYSDZMR1RzODhid1hNVjhJdmlTVFZaNDVELVA5UW9jcEZsSVZxX2dZZlpSaENPRUxqcHJCUG00eDM0QXh1Zk9TcER0cFhPUVVlMkJ0WDV0b2ZQdFNrZXFsMGRhdmpIV2lyazllbnpLaTdacXVwLVQ5OGFyRUtJclMxdFVIeTM3eUlNVQ?oc=5",
     "fonte": "Portal da Câmara dos Deputados",
-    "data": "2023-05-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Projeto suspende dispositivos de resolução da Aneel sobre geração distribuída - camara.leg.br",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUFQZG5nZjZRcUF3VjVWa1RRTnp5ZFRROExGS0tGMzg2QmFIdzB3aFFYN1hyRTc1dnNYSDZMR1RzODhid1hNVjhJdmlTVFZaNDVELVA5UW9jcEZsSVZxX2dZZlpSaENPRUxqcHJCUG00eDM0QXh1Zk9TcER0cFhPUVVlMkJ0WDV0b2ZQdFNrZXFsMGRhdmpIV2lyazllbnpLaTdacXVwLVQ5OGFyRUtJclMxdFVIeTM3eUlNVQ?oc=5",
-    "fonte": "camara.leg.br",
     "data": "2023-05-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
