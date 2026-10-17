@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-16T23:12:52.949Z",
+ "geradoEm": "2026-10-17T12:53:12.538Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 14.82,
@@ -58,8 +58,7 @@
     "fonte": "Tribuna do Norte",
     "data": "2026-10-10T20:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Geração distribuída representará 38% da expansão elétrica do Brasil até 2036 - MegaWhat",
@@ -296,8 +295,7 @@
     "fonte": "Canal Solar",
     "data": "2026-09-10T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "A próxima etapa regulatória da geração distribuída - canalsolar.com.br",
@@ -1110,17 +1108,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-    "fonte": "BBC",
+    "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
+    "fonte": "BBC",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2051,7 +2049,8 @@
     "fonte": "NeoFeed",
     "data": "2026-05-13T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Energia solar reduz conta de luz sem instalação de placas - G1",
@@ -2488,6 +2487,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Tarifa da CPFL Piratininga terá alta média de 5,41% - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3BvbGloZGY4dk5SSkYxRS10akhXZWg2akViWkpLa0EwTnNQaURfNU9WcmVoMF9VWUNGQk9KT2pvUXdscmlEMjJzLXhKa2ZfQmN2VzBZTXBfT2ZsUGk0aUhWZ1ZIeWdWRFRlQUJxUDVsU0s4UTBnQW5SM3lybTFUa1dnRUJvVGVXWGczSnBPZVFjUQ?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-10-13T21:40:57.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "ANEEL anuncia bandeira verde nas tarifas de energia para outubro - Equatorial Energia",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0UzTlBiTzZra0dXOWtCSW1SMi1RNXNEVmRPMGRkZlVyMi02MVV2cExEcWpVUlZnM0NHSnhrX29rdUVKcGdRQ2tnZGNSY2FJbTl6VFp6UGxjSzVuREFJOVhkWHBnT3hTUThlNXU5d2JmSkhma3drQVN3MFFFLU1qUkd5dzJoRWRQOEo1QktqYUFJNUFkenlBSVY5c0xZb0wzdW5V?oc=5",
     "fonte": "Equatorial Energia",
@@ -2619,7 +2626,7 @@
     "titulo": "IPCA em setembro fica em 0,82%, puxado pela alta na conta de luz; resultado vem acima do esperado - Estadão",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIX0UySWxLRC1JQUs2a0pvNnZ6RDhub0JwZlVNaVR5MUlORWlmNVFnTG5WbUFzN3NUZ0d3OU9IdVdjVWlzZDNaWm9XWnZnRnk5X0F4TWxOVklqR3NJUEFLQTNYdERJd3Rab0FpZW9UelBScFlhaHN6TdIBfkFVX3lxTE1naWJJMlJHTC1mbTFud3lRVTRFT1VyeUdaQmhrMlo5ZE43MUI5Q0FabzhWb2IyVzFiZFRlM2dLTVFneFZSUEtzZllfcHIyM1JWMzVHNjlUTEloaThDYkZJLTFRV2YtNVgzcnNQS1RsRy1sa3pKTzMxUHo1UjZsQQ?oc=5",
     "fonte": "Estadão",
-    "data": "2026-10-09T12:11:13.000Z",
+    "data": "2026-10-09T12:08:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4843,15 +4850,6 @@
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
-   },
-   {
-    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - G1",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmZpbG5iTV9JeVhXTVpxdTdQYUpjQmpCVlVlTThzdlBzb2M3ZVpTTFU2b1BlWGUyZXFXUlpiTHBmbElna1ZlbHllV05LOFhDNGtvc1htVHNVSUlEMGhQTlFRbmpINjBfM2dyMmVQYTN2c2g3LU5GM1VpRC05TjNOVkE0bnFLU2ZRaHZqRU9mTkFtajZQYXJ2M3RkT2ctV09vNk1WY1ZqUU1UbGpFbG5rWkxpWEdtaElVSXRYYw?oc=5",
-    "fonte": "G1",
-    "data": "2026-09-25T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
    }
   ],
   "regulacao": [
@@ -4981,8 +4979,7 @@
     "fonte": "JOTA Info",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - JOTA Jornalismo",
@@ -5587,6 +5584,14 @@
     "titulo": "Leilão de baterias: o que muda para investidores, geradores e grandes consumidores? - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVJpajlGckxjTFNQLWpXdzVjUExCTlFGS19nZV9hMmgwR29NM3lMWlg5eU9mcWs4dFhVS24xLTRvcVM2c19mbm0xaEk1MllteFJ1dGpFNWtpUnhTWjg2WVkwQmNaa2RJdU5DeEtzWmNlbTVfOFVEUVkyMFVSYVg5QlF1STQwdU5ROVY3Z05pZw?oc=5",
     "fonte": "Canal Solar",
+    "data": "2026-06-12T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Aneel pauta votação de regra que cria fila e rateio para cortes de geração - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2JLRWRZVXBQWnlBeEt5LTJJcTBBQ0xfaEZiMzY1NjhrNVp6RVIzTEVpdkFhdjdacmlqekJxdnJKcF9rSnN6VTNpeGRBSmp6OTFOVnU5X2lOQnBaY09KSExmeHdJelVWYlRsTnZSQzlXSTVJMlpYbTFDbUtMckVMNHB5U2tVWlJBN2VQOHpiZ0txaWdlTWNGVHU2NWp2T3lpX3dabnZ4eDlLeVd2S2hmVUhZOA?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-06-12T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6568,6 +6573,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Reforma tributária e o setor elétrico - JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
+    "fonte": "JOTA Info",
+    "data": "2025-05-21T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Reforma tributária e o setor elétrico - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
     "fonte": "JOTA Jornalismo",
@@ -6579,14 +6592,6 @@
     "titulo": "Reforma tributária e o setor elétrico - jota.info",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
     "fonte": "jota.info",
-    "data": "2025-05-21T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Reforma tributária e o setor elétrico - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVERMTGE1ZkVzLU1fZmpXYTNlbGJUZnZhVTNySFE4QWlaYXg3SW1PMVA1RW1FRHlTa3JYT3lZbmFTNVEwaUl2dzRMNEFEaF9PMWczdzlnVFo0U1BYOUc3R0ZFVFIyNGJ2Q3ktUDZRQWlkNVFQLTBZcExVZFRfNmZMNUlDeVN0RU5tcVY0QnFDZm4?oc=5",
-    "fonte": "JOTA Info",
     "data": "2025-05-21T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7260,14 +7265,6 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEZ6TTY4X3hMaDdab0V3TURWVGFBQUJZUG9IdXZVdDMwTGxxTmlUdTdrd01mUjRwT1hLdFdaWEtqODU0OFZCZnJQaVE1ZTA2SXF2RHgyRXVmcFVjN1hVLU9UMmhUbmF4RTdWSEotTkxVXzk2aS1PcWdCeF9ZRUxRdEtVZ1RqOG96Wjd0ZGRKejVPM2ozN29wRnh2SXpaV1dZWVJ5YUNnNHdka3VVbWVFbkhvMmlSM01q?oc=5",
     "fonte": "camara.leg.br",
     "data": "2023-05-17T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Projeto suspende dispositivos de resolução da Aneel sobre geração distribuída - Portal da Câmara dos Deputados",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUFQZG5nZjZRcUF3VjVWa1RRTnp5ZFRROExGS0tGMzg2QmFIdzB3aFFYN1hyRTc1dnNYSDZMR1RzODhid1hNVjhJdmlTVFZaNDVELVA5UW9jcEZsSVZxX2dZZlpSaENPRUxqcHJCUG00eDM0QXh1Zk9TcER0cFhPUVVlMkJ0WDV0b2ZQdFNrZXFsMGRhdmpIV2lyazllbnpLaTdacXVwLVQ5OGFyRUtJclMxdFVIeTM3eUlNVQ?oc=5",
-    "fonte": "Portal da Câmara dos Deputados",
-    "data": "2023-05-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -9848,17 +9845,17 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Representantes do agro e da energia solar debatem tendências do mercado para 2025 - O Presente Rural",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0QwQjVnc05ORmdMdzFkNm5RMEtwckgtekxmQ3VaT2NCXzVXdFlTS2loenlJX0RKcUhhaUxoUm1WWENSUVhRUDVncTRyQUg1ZkxEWkRVOHI1UGFDVEc5TXNORG5ySkwxRkNQZ3A5SmYteThuUWdhbDFTZFNCM01UWjZtTzF6NjgwQUdpME1lV29vdlNNb2pSaDVuQmlLMVU4ZGJiM0FQd1lVeTc2MjM1X09n?oc=5",
-    "fonte": "O Presente Rural",
+    "titulo": "Liderança feminina, armazenamento e mercado livre: tendências que estão transformando o setor - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcU1hOFpTR3VPelRkTVc3RTUtVGRuMl9BZG9VTjM2eV92SVF6NVBlWTNrLWtTSzRDUTUzYlVZRzJOTUxPYkIyaXF3bXdxWlhSeDMwNExsbDNmMjBYd3ZmdVVWZjZoNnZGeXk5UVk0N2NvZzRDY3Q4SThUX005dw?oc=5",
+    "fonte": "Canal Solar",
     "data": "2025-03-14T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Liderança feminina, armazenamento e mercado livre: tendências que estão transformando o setor - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcU1hOFpTR3VPelRkTVc3RTUtVGRuMl9BZG9VTjM2eV92SVF6NVBlWTNrLWtTSzRDUTUzYlVZRzJOTUxPYkIyaXF3bXdxWlhSeDMwNExsbDNmMjBYd3ZmdVVWZjZoNnZGeXk5UVk0N2NvZzRDY3Q4SThUX005dw?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "Representantes do agro e da energia solar debatem tendências do mercado para 2025 - O Presente Rural",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0QwQjVnc05ORmdMdzFkNm5RMEtwckgtekxmQ3VaT2NCXzVXdFlTS2loenlJX0RKcUhhaUxoUm1WWENSUVhRUDVncTRyQUg1ZkxEWkRVOHI1UGFDVEc5TXNORG5ySkwxRkNQZ3A5SmYteThuUWdhbDFTZFNCM01UWjZtTzF6NjgwQUdpME1lV29vdlNNb2pSaDVuQmlLMVU4ZGJiM0FQd1lVeTc2MjM1X09n?oc=5",
+    "fonte": "O Presente Rural",
     "data": "2025-03-14T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
@@ -11076,6 +11073,14 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVm5PbzdyYmRXYlhXYVBudGxvTldVa2VQZTZBTWp2Zm4xYmFNc2ZqR3FHYm43dTdsaVZMVDhua3ZveDlJYmlwMEhsRXJCb3k0T0YtNnFCb3pVM3FEZ1NnNTc5VzRKRVJTMUI0VjNmVVNyRjV6emQ5ZXQwb2ZCakdRVUdfekx1Ykh1MWtMTi1RZXhwclJIT3U5SGxNaW43WWQwelhKeUNKVG9nN0RL?oc=5",
     "fonte": "pensamentoverde.com.br",
     "data": "2021-01-01T08:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Visão geral e tendências do mercado de veículos elétricos - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVFwVW5WLVAyZ0ZhekpPOHN3WTFLZmdJMEtLX0lFU2dqQ3lOZVA2b01WUHRsb1RaWDVrWWVIN2dTYTM3cmYyS2hDWE91bGpNdFVEUFpBNjVBc0ZfZkg0ZFlEY2FCODRtbWhmdHN1MzR5c25sck1CbDlHNjNaVjJsOURFUVNWcG9zQjlwbg?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2020-05-27T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
