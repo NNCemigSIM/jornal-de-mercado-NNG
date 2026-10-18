@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-17T22:49:45.558Z",
+ "geradoEm": "2026-10-18T13:09:09.622Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 14.82,
@@ -2567,14 +2567,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho? - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRnBSQWxCUlVCT0RRd0lTX2U0Tkt6bmJ2WXdyNHFBbmdGNjE1emxadGkzaXlZYUljVUZvT0RoQUYzbnJ4Vm9oR1E1bHJiSWlDUEQwQV9jbDh3VWpyNzZBNkxidlFQVDlpd0pFSTBla01MS1FOQjJXLW9pelh4UQ?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-10-09T15:53:57.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Inflação fica em 0,82% em setembro, puxada por tarifa de energia - Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0pLU1EtcjNpN0pHa05zUENKazlWZkZhWV9KSEF3NjdIMlh2cHNyTzdqMFBCQlp5MzFWYkVkeUNGRWNnQkh4RDhUTG1MMjZwQ0N6My1iQ2h0NUVyMTBwUTYxY09xb0tkWG9zbWxGVzRjcXBTUXZXMXM2Q1NQWjg1U0R2RjZkazItQW1icEd3V2VYZ21weGhDX3ZNREozY0hhVE9SNkdKVVlZdkVDUWRZX054TkwycWlNWEFfdEcxQktHT2wtY3hCbUFsM2tZQzcxU0JnUHR3?oc=5",
     "fonte": "Agência Brasil",
@@ -2651,6 +2643,14 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUkwRUx0Ql9xNlMtbVFBOXZnTHNpc1o4b1A2STJESXJaV08xU2RjTjZHRWotd1VUODZwUm51ZnFBVU5raU80TWRaMFNRT3RkTU5QdkNuRE83eW1ES2xzTWZBOXFFbXZnVmVoXzR1Q0RZUmVmVHhfRFhqU1VsSW55OVpfYnBDLVFDM05pVmpSeHhFN242T1ZCc1lGak9IcEZFeGRfaWtHZ1dHOVXSAboBQVVfeXFMTWZ4aWMwRURNZVAxSzhzS2Fxem16UlA2SVljXzB3TkNwVXhTcXJYaDZpZ2VTMjJTdUtQa0hIbFJtRkJ4V0JnOE8xaFA3NEREVmxuVmF2Zk5tUzFuNjNUSGdZRFpfUFpOOTlEV2xOWGotc0dLdkFzQmFTejBJVHhhWkQwUE4yVWtnZzNDY0lVaGNyd3FBNVZ4LVRSckE0dFo5QUZad0RVMVowRjdKWWtpMWdIeEo1N3dkazJB?oc=5",
     "fonte": "O GLOBO",
     "data": "2026-10-09T12:00:46.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho? - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRnBSQWxCUlVCT0RRd0lTX2U0Tkt6bmJ2WXdyNHFBbmdGNjE1emxadGkzaXlZYUljVUZvT0RoQUYzbnJ4Vm9oR1E1bHJiSWlDUEQwQV9jbDh3VWpyNzZBNkxidlFQVDlpd0pFSTBla01MS1FOQjJXLW9pelh4UQ?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-10-09T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -5636,17 +5636,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Aneel aprova regras para baterias no mesmo dia de anúncio do leilão - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGVVNUVNREtqNnhjOWNzNGNsMHFVb1BmM2ktY0JHcG90QjhONmRjY01rTlNrbTlDbmc4SmkwelFoeTVmYndRa2dXQTkySDZfMTl2LWR2c2FUODc4YUs4dV9CNzlEcXVXNEFVcjVUaUV4ZkNCTDZtaXFMN2l5ekwxNU9nVXFuSUpGTzlHU3Y2OFNBS2tTZjU5UG1ibGFFc0d2by1Zbzh3?oc=5",
+    "fonte": "CNN Brasil",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova regras para baterias no mesmo dia de anúncio do leilão - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGVVNUVNREtqNnhjOWNzNGNsMHFVb1BmM2ktY0JHcG90QjhONmRjY01rTlNrbTlDbmc4SmkwelFoeTVmYndRa2dXQTkySDZfMTl2LWR2c2FUODc4YUs4dV9CNzlEcXVXNEFVcjVUaUV4ZkNCTDZtaXFMN2l5ekwxNU9nVXFuSUpGTzlHU3Y2OFNBS2tTZjU5UG1ibGFFc0d2by1Zbzh3?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5988,17 +5988,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
-    "fonte": "Livecoins",
+    "titulo": "Anaeel libera o uso de blockchain no setor elétrico do Brasil - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUWl1YWdLY0JJeU5kRGtPUE5Kblk3OHBybXhWS09GNEswbXlLOXJQZXJlOEVnR05vTFdXN0RvcjFtcEVIWjZIYTJxY2ZJWXJ2LTlLajQtNjZoNXRBcDIyLWJMemVpaWl1QmU0MFpLdw?oc=5",
+    "fonte": "TradingView",
     "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Anaeel libera o uso de blockchain no setor elétrico do Brasil - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUWl1YWdLY0JJeU5kRGtPUE5Kblk3OHBybXhWS09GNEswbXlLOXJQZXJlOEVnR05vTFdXN0RvcjFtcEVIWjZIYTJxY2ZJWXJ2LTlLajQtNjZoNXRBcDIyLWJMemVpaWl1QmU0MFpLdw?oc=5",
-    "fonte": "TradingView",
+    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
+    "fonte": "Livecoins",
     "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6452,6 +6452,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Diretora da Aneel propõe mais dois meses de discussão sobre postes - TELETIME News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjM0Q0w5dVhFV00wYUJNdTZaWDRrbHUxVkxkbVRyWHBUcGQ4VzFTenpFVUxmMm41WG9UaUs2Nk95VUlCVEpnYW5fRHJSMDRjWk5XaTlyQ3N5djZ0ZWh0aVZGaVZiMHBhcDU5VW5vWkJnX3laOFUydWpzTkpIaFhRck1lS21LTGx5cno2b1BRWGJmLWx4VEl5cWFFLXpOOTRxeVRrbQ?oc=5",
+    "fonte": "TELETIME News",
+    "data": "2025-09-08T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Info",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
     "fonte": "JOTA Info",
@@ -6844,6 +6852,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Q2aWpGRVl2UmI5bGxnYTJVc3NxYnhzcXdPOXhpQWprX3JJZDUyTzgyMnRTd2VSdVpEWFZQMzY4R19fZDU4d0sxQUNhVXVVNUU0TGdiM19ZT0I0eWUtSWcyNzI3QlRwVktoU0UtRnBFVWJNblppeHZuTC12SFdwbGdCV2ozQXM0N3E2bjMwcnBELTg1NjhSUjlOX1FJcWhJclRJM2xYbFlUVVQtWTY0Y2RZUjBITXFzdFE?oc=5",
+    "fonte": "JOTA Info",
+    "data": "2025-01-23T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Q2aWpGRVl2UmI5bGxnYTJVc3NxYnhzcXdPOXhpQWprX3JJZDUyTzgyMnRTd2VSdVpEWFZQMzY4R19fZDU4d0sxQUNhVXVVNUU0TGdiM19ZT0I0eWUtSWcyNzI3QlRwVktoU0UtRnBFVWJNblppeHZuTC12SFdwbGdCV2ozQXM0N3E2bjMwcnBELTg1NjhSUjlOX1FJcWhJclRJM2xYbFlUVVQtWTY0Y2RZUjBITXFzdFE?oc=5",
     "fonte": "JOTA Jornalismo",
@@ -6863,14 +6879,6 @@
     "titulo": "Aneel pede e STJ barra ressarcimento por corte em geração de energia solar e eólica - migalhas.com.br",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTJmTVRqMllaZXZaVUE3UHdnTm0xSV8xajJnUlllMENqU2FWWXBoZGVodmg1MV9ESm1ZRVRMVS02UHJqaVRKQzdZLV9mRG9reERIbTdDcmJuQkY0UGF1TTQ1VWc4dkdybDQ2VDVDT1VCcHhDVzNiekZ2YnVjS1U2Yy0yMUh3UGF4T0JWNUdhWTdZbTRfamF3V2tQLVJNMnF3ci1GVjdPdjg5TmpfejREQg?oc=5",
     "fonte": "migalhas.com.br",
-    "data": "2025-01-23T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Presidente do STJ suspende ressarcimento por cortes de geração de energia eólica e solar - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Q2aWpGRVl2UmI5bGxnYTJVc3NxYnhzcXdPOXhpQWprX3JJZDUyTzgyMnRTd2VSdVpEWFZQMzY4R19fZDU4d0sxQUNhVXVVNUU0TGdiM19ZT0I0eWUtSWcyNzI3QlRwVktoU0UtRnBFVWJNblppeHZuTC12SFdwbGdCV2ozQXM0N3E2bjMwcnBELTg1NjhSUjlOX1FJcWhJclRJM2xYbFlUVVQtWTY0Y2RZUjBITXFzdFE?oc=5",
-    "fonte": "JOTA Info",
     "data": "2025-01-23T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7255,14 +7263,6 @@
     "titulo": "Deputados criticam regulamentação da Aneel para lei da geração distribuída - Portal da Câmara dos Deputados",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEZ6TTY4X3hMaDdab0V3TURWVGFBQUJZUG9IdXZVdDMwTGxxTmlUdTdrd01mUjRwT1hLdFdaWEtqODU0OFZCZnJQaVE1ZTA2SXF2RHgyRXVmcFVjN1hVLU9UMmhUbmF4RTdWSEotTkxVXzk2aS1PcWdCeF9ZRUxRdEtVZ1RqOG96Wjd0ZGRKejVPM2ozN29wRnh2SXpaV1dZWVJ5YUNnNHdka3VVbWVFbkhvMmlSM01q?oc=5",
     "fonte": "Portal da Câmara dos Deputados",
-    "data": "2023-05-17T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Deputados criticam regulamentação da Aneel para lei da geração distribuída - camara.leg.br",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEZ6TTY4X3hMaDdab0V3TURWVGFBQUJZUG9IdXZVdDMwTGxxTmlUdTdrd01mUjRwT1hLdFdaWEtqODU0OFZCZnJQaVE1ZTA2SXF2RHgyRXVmcFVjN1hVLU9UMmhUbmF4RTdWSEotTkxVXzk2aS1PcWdCeF9ZRUxRdEtVZ1RqOG96Wjd0ZGRKejVPM2ozN29wRnh2SXpaV1dZWVJ5YUNnNHdka3VVbWVFbkhvMmlSM01q?oc=5",
-    "fonte": "camara.leg.br",
     "data": "2023-05-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -9271,6 +9271,14 @@
     "catLabel": "Tendências"
    },
    {
+    "titulo": "Líderes do turismo brasileiro se encontram em Foz do Iguaçu para debater tendências e desafios do mercado - Portal IN - Pompeu Vasconcelos",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZUtqLWlCUlQ4U3RlWkJMU3AwQllaSFhwV3ZJQzlnY0ROXzRZUEhDWUhhMTQyT0NXNlFXelhaNlB1VVo5MDhqT1R6dWl4UXpHdzVXa2pCQk1fNmV5RkpkZ0RjZmpocV8tOG1VXzI4NXFTMGZVd1k0ZW1TeGNQTzJEUVZWbF9ncDVFLTZVbXIyVG94c0gxdjVZV1A0TXEtVGFMcHU4bnNLeXN3aS1DMm5VYmI4anFPTDNmcjBYNVp1WVNLQ2xYbFhoMnF0dno5ZHpWMDhlcFNaeGg5Zw?oc=5",
+    "fonte": "Portal IN - Pompeu Vasconcelos",
+    "data": "2026-06-20T07:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
     "titulo": "Ronma Solar recompensa principais parceiros do Brasil em imersão tecnológica e cultural - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWR4Wlp0TTcxV0JFb1NfOWZHN3pUMmI4RHItNlFTczQzcmJMblAyajVPd2Eyc3pLa1VGazVBM1k5amgwdVk1MDlmU1Z2TFc4MGtscEJ2ZXNfOFBpV1lUT2RKdE5iS2pPbkctNFluQTFVV2RjQ2FOT1NoU0l0UEpSb0JLVnRsd0VlOHZGMXdiaklqRGZDMGoyNGc2Yk9RSUwyb0p2Mm9Xam1ZN3hEeERLSGdtdkg?oc=5",
     "fonte": "Canal Solar",
@@ -9647,6 +9655,14 @@
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Q5MVN1aDFCLU1EVS1ramNmeVZ1VVpsaTZMelhwUExLZ0tyRkF5RWdaaEMybS1LSDFMOXdOaE1ZTEVDdGhGRnVTQ0VOMkVKVUg3UHNfT1Fwa0drVFI2cmJaVk96Y1VfaE5qRXZXa0g3WFJQOG9IWmowbmF4Q19iRmN4b2Z6TExScUt0RnI4OV9ZOFB5UzhEeA?oc=5",
     "fonte": "RADAR DIGITAL BRASÍLIA",
     "data": "2025-09-24T07:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "As 50 tecnologias que podem revolucionar o mercado financeiro até 2035 - Portal IN - Pompeu Vasconcelos - Portal IN - Pompeu Vasconcelos",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0h1OFZDRjlvSmtOVGUyelBVVjFwbHNfaWV6ZVg2WmZYdUt5Vi1NaFJCbUpDWEYxel9vaDFMM19WRWJwRzBNUlRCQ21MSXZ4cTg5WkhNSWZhemZtZS0xWFdEZlRuX1pla2VvQnhHZnFLd1puaEVaY2VyZ2QxY3JBTHNSWk11NHQ3TDB2RFhnak1ZdDhnSnlId3NjTFZvOXpCSVVacXJHUXBHUUs1?oc=5",
+    "fonte": "Portal IN - Pompeu Vasconcelos",
+    "data": "2025-09-10T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
@@ -10078,6 +10094,14 @@
     "titulo": "TOP 3: tendências na indústria de painéis solares - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQX0NEWFFyUjdtY1dzZk9hS3ZJMFA5b3VRXy1qUzJCdEdzYWNpLXNLNXViM19DaGZoQ0RQSU0zMXY0QjVjNWU2d0RXclFjOEdaQndaV0JGazNKdERuaHp5U1BRdXluTHNONlVGbW5raw?oc=5",
     "fonte": "Canal Solar",
+    "data": "2024-10-01T07:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "BNB promove evento sobre tendências do mercado de tecnologia da informação - Portal IN - Pompeu Vasconcelos - Portal IN - Pompeu Vasconcelos",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWpwZ1FKci14bDBEbTdZMlhneS1HekVvWTFmcXFCSl9ILWlXVXM4bU5UTkczY05ac1Qxa09WQWpOc3p3eWZPQjQ4QktTMnV0YXBlbk9sODdHZDE1U3FBRG9zYk5lMm5Ra3dCMEVsYjBBaWRTV1g2cE5oMDkzMVVoOFI2WXJzQ09IOG1oYWlSakVZb2hFTGxUVlVlSUdLVERxMmpjTFRmeF9mT1VMUWtaU3p3?oc=5",
+    "fonte": "Portal IN - Pompeu Vasconcelos",
     "data": "2024-10-01T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
@@ -10519,6 +10543,14 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjBDRWg1ZFR0TVMwS2tjbW1RVW5EdnVSWGx1ekY4Wko1VHo2LVlHZEdiN1RQZHU3bnlJUy1fWDdUUi1QUWkyRWMzQ3M0cmtCZ0d3YmJGeGtfb2YzV0Joamkydnh5TkQtWlJvWjRjSXNiMDdKNTk4TnViaWR6eXVSOUJvV0dtdjNiWngxNVlGNWpBM0df?oc=5",
     "fonte": "canalsolar.com.br",
     "data": "2023-11-23T08:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Fecomércio-CE: Fórum de Saúde no Trabalho debate inovações e tendências do mercado - Portal IN - Pompeu Vasconcelos",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQekxlZ3p0VE50VFpyMDVuc0I0ZzNSc2xic2hUYzg5YUF5bnZJbUtRX0ZodmpZWG8zOWltTE5CV2lSaTBKZmFESEF4MDhzVkJJdTNkdWsxVVRCSG9EVjB2OV8yMTJ0aWVDUnVZTDFoakVHUmpCN3hyaERZN09SU2lkN0dGUVdZMDdLcnRSWmtrTzdaeThBSk1RMGZ2d1pKdmZob0Y5SURwa1d3RW5GTDN3RFRsZVZERXAtYm9F?oc=5",
+    "fonte": "Portal IN - Pompeu Vasconcelos",
+    "data": "2023-11-21T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
