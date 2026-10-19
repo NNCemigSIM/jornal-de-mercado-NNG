@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-10-18T22:42:57.349Z",
+ "geradoEm": "2026-10-19T16:24:05.410Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 14.82,
-   "pct": -0.202,
+   "preco": 14.88,
+   "pct": 0.405,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 79.8,
-   "pct": 1.064,
+   "preco": 78.56,
+   "pct": -1.554,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 30.62,
-   "pct": -0.649,
+   "preco": 30.405,
+   "pct": -0.702,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 172.64,
-   "pct": -3.451,
+   "preco": 170.745,
+   "pct": -1.098,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 28.4,
-   "pct": -0.873,
+   "preco": 28.23,
+   "pct": -0.599,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 11.83,
-   "pct": 0.595,
+   "preco": 11.67,
+   "pct": -1.352,
    "moeda": "BRL"
   }
  },
@@ -49,8 +49,7 @@
     "fonte": "TrendsCE",
     "data": "2026-10-12T06:02:54.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "RN soma 233 mil novas unidades de geração solar distribuída desde 2024 - Tribuna do Norte",
@@ -61,15 +60,6 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Geração distribuída representará 38% da expansão elétrica do Brasil até 2036 - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFdRdUl1S3RoNFVmeDcycjk0dkVXRjBXZElJY21oS3NoaHdFNWVlOW9rcUJSaDJmb0FlcmdSYUh3SWg0NTZIVmxwcHEtOUdJMHFTOU9KbFlGWDdsTXV2XzlyRlJmTUNKUXFhWVFrUFpDcU5mT0tyWUR0cDlGelo1bjloOWttT3BLRUlaaDg2QngzMUpKNzBQQ05NcDZRNGhyVl9MeWk4ZndYTzk0TUZ4Q191VXpQN1pO?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-10-08T14:36:42.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
-   },
-   {
     "titulo": "Geração distribuída terá 38% da expansão elétrica do Brasil até 2036 - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRnFkVmtiM3g4Z3Y2Q3ZzYjBxNHIxSW9jR3RGRDRvay1xUURiWWUxbW01SzBaQ0NhMGhDLUVfcmJtaUVkandhcWo0U1lIb2VfWmRYUnRDSjBwejQ3akpRS081bTVPMU9vZ0xIekFCc0xCWWpDT085amFPeW9pNVBkbmJuN1ZLZlJvbFZmQ1Q1UEJtLUQwbE0ycDRGRzM5VkhYaUpJbF85TGhjeGoyM1E?oc=5",
     "fonte": "MegaWhat",
@@ -77,6 +67,14 @@
     "catId": "gd",
     "catLabel": "Geração Distribuída",
     "imagem": null
+   },
+   {
+    "titulo": "Geração distribuída representará 38% da expansão elétrica do Brasil até 2036 - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFdRdUl1S3RoNFVmeDcycjk0dkVXRjBXZElJY21oS3NoaHdFNWVlOW9rcUJSaDJmb0FlcmdSYUh3SWg0NTZIVmxwcHEtOUdJMHFTOU9KbFlGWDdsTXV2XzlyRlJmTUNKUXFhWVFrUFpDcU5mT0tyWUR0cDlGelo1bjloOWttT3BLRUlaaDg2QngzMUpKNzBQQ05NcDZRNGhyVl9MeWk4ZndYTzk0TUZ4Q191VXpQN1pO?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-10-08T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Geração distribuída solar chega a 54 GW e já supera a potência de todas as termelétricas do Brasil (49,9 GW), mostram dados da ANEEL - CPG Click Petróleo e Gás",
@@ -92,8 +90,7 @@
     "fonte": "Portal Solar",
     "data": "2026-10-01T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Excedente de MMGD pode entrar na contabilização do mercado de energia - Canal Solar",
@@ -321,7 +318,8 @@
     "fonte": "Canal Solar",
     "data": "2026-09-09T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Aneel propõe que distribuidoras de energia possam controlar 33 GW de geração distribuída - NovaCana",
@@ -1125,17 +1123,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
+    "fonte": "BBC",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-    "fonte": "BBC",
+    "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1909,17 +1907,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Informação ainda é principal barreira para geração distribuída compartilhada no Brasil - Noticenter",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzlzRmRaS21JSDg3cnVDQmFJeHNpQTZPVmowRUZ6Q2Vzd1lqd294cTVjVEJuOVhXZWQtY0t3cjJWU09iOEFmcXUzVGFxY2NKSGJIaDBqUDBZczRGNjFZT1BDcnVUZGx4bFVva3FTNFB5SjAzdU13cFp0MHJjYy1vaFZaQUstX1BheDlQNVlRRHNQQmJsSDE5R3FjNmdPSlBPdkU4cmlOTWFsbkl5SG1MVEJtclBDV0V2UGlic3BKb2dHa0I3R1BQRlN3?oc=5",
-    "fonte": "Noticenter",
+    "titulo": "Falta de informação ainda limita avanço da geração distribuída compartilhada no Brasil - Bem Paraná",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeWZteHktOUNaVVRKaktjNVBwNC1kRmNvTF9Qemd4RmZaUEdoNm5iandEWTRDOGN3WFp0TnlyRmJIdExEd1RDT2w4RDZ3YzZLeHVyUmxDdmY1WHk2dGxVVFVMODBtSGtudERXTGVrTXZndEZiZUtDazdUMXQzcWE0VkxkUjlrOXA2SWpIZG9iNWtfNXhvY1BoSVNROTJFaU1oTkZ1RzBMYUdXUDdjTjJEcnQ1UzNGSjMyRXMwM3lHN0dnRnNBV2ZmaE80TmZFTTFRMmdYdG95a0lwWXhUSm43cm5Tb9IB6AFBVV95cUxOWkVYdmdCNy1VOHVuVXhhU0hHSS1ISzRDSzV5NEotQ2NQd0Q4WHFCLUhlSkRyQWJRZm5LazFBdC1KVlF4dzNkeDVtcHdpUGdKQVdWOG1rV0Fla3dzMDhDenU4bDJEbXdZYjg2ZF9xWXIwZFo0blZhTkJhWElsazZkTDlWUFBLR01NVmUybmRLWnZqU0JueHF4M0J4djFQX0laT1hsUHNJVXpULTNmVlRtSEVqMy1YR0VRZTZ3bUdweHZtUmRNb215SVB6UXJqaHkwN2lubGFGWnZ6XzdxYTdWTTlseW94N2o3?oc=5",
+    "fonte": "Bem Paraná",
     "data": "2026-05-27T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Falta de informação ainda limita avanço da geração distribuída compartilhada no Brasil - Bem Paraná",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeWZteHktOUNaVVRKaktjNVBwNC1kRmNvTF9Qemd4RmZaUEdoNm5iandEWTRDOGN3WFp0TnlyRmJIdExEd1RDT2w4RDZ3YzZLeHVyUmxDdmY1WHk2dGxVVFVMODBtSGtudERXTGVrTXZndEZiZUtDazdUMXQzcWE0VkxkUjlrOXA2SWpIZG9iNWtfNXhvY1BoSVNROTJFaU1oTkZ1RzBMYUdXUDdjTjJEcnQ1UzNGSjMyRXMwM3lHN0dnRnNBV2ZmaE80TmZFTTFRMmdYdG95a0lwWXhUSm43cm5Tb9IB6AFBVV95cUxOWkVYdmdCNy1VOHVuVXhhU0hHSS1ISzRDSzV5NEotQ2NQd0Q4WHFCLUhlSkRyQWJRZm5LazFBdC1KVlF4dzNkeDVtcHdpUGdKQVdWOG1rV0Fla3dzMDhDenU4bDJEbXdZYjg2ZF9xWXIwZFo0blZhTkJhWElsazZkTDlWUFBLR01NVmUybmRLWnZqU0JueHF4M0J4djFQX0laT1hsUHNJVXpULTNmVlRtSEVqMy1YR0VRZTZ3bUdweHZtUmRNb215SVB6UXJqaHkwN2lubGFGWnZ6XzdxYTdWTTlseW94N2o3?oc=5",
-    "fonte": "Bem Paraná",
+    "titulo": "Informação ainda é principal barreira para geração distribuída compartilhada no Brasil - Noticenter",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzlzRmRaS21JSDg3cnVDQmFJeHNpQTZPVmowRUZ6Q2Vzd1lqd294cTVjVEJuOVhXZWQtY0t3cjJWU09iOEFmcXUzVGFxY2NKSGJIaDBqUDBZczRGNjFZT1BDcnVUZGx4bFVva3FTNFB5SjAzdU13cFp0MHJjYy1vaFZaQUstX1BheDlQNVlRRHNQQmJsSDE5R3FjNmdPSlBPdkU4cmlOTWFsbkl5SG1MVEJtclBDV0V2UGlic3BKb2dHa0I3R1BQRlN3?oc=5",
+    "fonte": "Noticenter",
     "data": "2026-05-27T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2066,7 +2064,8 @@
     "fonte": "NeoFeed",
     "data": "2026-05-13T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Energia solar reduz conta de luz sem instalação de placas - G1",
@@ -2446,6 +2445,14 @@
    }
   ],
   "tarifas": [
+   {
+    "titulo": "IPCA sobe 0,82% em setembro, pressionado pela energia elétrica e pelos alimentos - Capital News",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUZqVW85Zm55bk41RWJUSjkxV1FNZVM1Y2RGUzcwZjZsWklESWZSSTJUbEJaaUZfZ3piTUs0eEpPd0FwWHRlWnVaUVFadGlqY0kwaGlJSGRpR1VGaEM5QVA0YjJTYmlYVjk3UksxOUo1TWJXU0Z6bDRyOVVORDZ6WGhOYVJJSU9ucEdsMGZCMlFPaldNcXVNN21HOWJzUHpWYkxpR2o4SVh1UWt4d05FWGRRU0JoZ3VXWXEtNE1fUUhIUQ?oc=5",
+    "fonte": "Capital News",
+    "data": "2026-10-18T16:51:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
    {
     "titulo": "Bandeira verde reduz custo da conta de energia em outubro; Neoenergia orienta sobre consumo consciente - Blog Nossa Voz",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05YWxNNkhPM0tzdjF1SW9EaXc0NmNZQlo0TXJBblRyMjBka1VnZTEtbXExa3c4dXBzcWMwdU1WRTluazAyOGJkc1NlVVhnUzhmbDhwQg?oc=5",
@@ -4217,6 +4224,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "A conta de luz terá bandeira verde em outubro, sem cobrança adicional sobre o consumo de energia. A mudança foi anunciada na sexta-feira (25) pela Agência Nacional de Energia Elétrica (Aneel), após cinco meses de bandeira amarela. A bandeira amarel - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4b21LUnpuT0k4ODltTDlfOUtWdUlZSGtmV3JrcVU3OTNGWE81X3h3Y2dnQ3RRMGtRR3JSQmNLcURhTXdHRElkN0RLNXNxLTZiaGc?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-09-26T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Conta de luz terá bandeira verde em outubro - Acia Araçatuba",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vOVBSSktIRG9VdlhKQ2cwY09zWHpSTlN5N2pzaUw2Y01yZ2VLT05aUUtxZ25uUDUtaVc0QUZlN3BUZTlJVGd3T3FPUDg0NGtMY1hGcDdIRnctelBTV3FqSU9PLU9xRXd3VGZjLTdOa2lycEV3?oc=5",
     "fonte": "Acia Araçatuba",
@@ -4430,6 +4445,14 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOci1fN1FaZ0ZKZmViQ0U0bUhLU1Z0dkRvcHBjSl9NbE9oTHpiMnhoWElkRFpaSE1CMVA0c2ZiYXp1dHM5UDlFUVBPd2Q0WHZoc3dKLWlFa2NiX2haRjVhYnQyVWh6RmcyQVJCQnFGeG44cHhwOTA4UVRwMGhpOFdWR253VTZ2RUdwQXUtb2h3WG1BMUc3MTRWa2xNYy1HLWVnTHVv?oc=5",
     "fonte": "amazonas atual",
     "data": "2026-09-25T23:36:09.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Rio Grande TEM",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVl2WVhVaFZ0dlhQcXdZdWRLbkRRWWZSdXhjcW9XcWxyU2pfd2ZKMG1RMGFjbEVaNUo1MzZqZXJJLUZxYVpxcU42cjdjVDFaTGg3elJNX2k1TnJOVkhyRVE1QVMxV1pzSHREdHBDYnRzNnNjaDN2anp4X0p5ZHB5UnVjcVgzcklUc0VmMjhoZlVJb2Z1WnQzUzBvbDl5VFk?oc=5",
+    "fonte": "Rio Grande TEM",
+    "data": "2026-09-25T23:18:15.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4825,30 +4848,6 @@
     "data": "2026-09-25T20:30:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Retorno da bandeira verde reduz custos de energia para indústria e consumidores, destaca FIEMG - fiemg.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1l2X1FDT1VCajh0MGZWX2MtSjdad25mdXNQWlNCT2JTOWNLeTdGdVlCV21NVzI1eG9YUEphRHg2RHo2Yno1X2hhU0Z1NkZxVEFHdXF4ZmtLa1FqMXJVdmdjd0c0MEpLcFFSVmhOWEdoajBPSDRsWVVodVJyRVd1QUJ1MFJQMllvbV9VcFo4cFN4T1BJdzdpWXdlZlZwMkRkQXZRdUxBMnBZeUw3bUsxS0VOQ3VNWGg3dnY0R2pwazRGcjVuWTdHOFUtUE50UzlnOGJIemNzYVM?oc=5",
-    "fonte": "fiemg.com.br",
-    "data": "2026-09-25T20:30:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro - Jornal O Sul",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iS3AtS0VZcEs4Y0NyejdLRXJKZTlBU2xyNEQ4UzdsNWV5ODVwV0RMVElCb2dlRDZmdllfV25iZ1U1WkR5QU0waGFCZ2h2d1lXakliUlhwM2tDMEFsQ2IzWjZoTWxZUTZHVFJUMkhfaFhYYlNJbzZqMXhTZ1rSAXxBVV95cUxNYktwLUtFWXBLOGNDcno3S0VySmU5QVNscjREOFM3bDVleTg1cFdETFRJQm9nZUQ2ZnZZX1duYmdVNVpEeUFNMGhhQmdodndZV2pJYlJYcDNrQzBBbENiM1o2aE1sWVE2R1RSVDJIX2hYWGJTSW82ajF4U2da?oc=5",
-    "fonte": "Jornal O Sul",
-    "data": "2026-09-25T20:29:49.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "País terá bandeira tarifária verde após cinco meses de bandeira amarela - Tribuna do Sertão",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRpeU5OZGk1S0RjdjQ0c3NfM0s5NkM4alZiaTZxbDFYbzJ0cXZzMzdTMXlqNEhIOHFVSzU5V2txNUlnaGZISEdBcXJ0S0lFRlN1QkVKSzhGQnI3cldfaTdNbXFwVlZYRDRMbkNzNWtTcmFjd1hYX2JqNUdxZmg1VS0xZFEyNFBtd0Z1YnZsbTd4V2h3cmZNOGxsZGFMNU5UTk10MDV3dHBPbXZfbWUxUGxwVmlIcDNUTHlXQzU0Tlo5YWhxSDFZLWRB?oc=5",
-    "fonte": "Tribuna do Sertão",
-    "data": "2026-09-25T20:20:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -4866,8 +4865,7 @@
     "fonte": "Correio do Povo Penedo",
     "data": "2026-10-08T19:15:05.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ANEEL aprova novas regras para cortes de geração de energia - Litoral Notícias",
@@ -4978,7 +4976,8 @@
     "fonte": "JOTA Info",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Distribuidoras no varejo de energia: separar, vedar ou limitar? - JOTA Jornalismo",
@@ -5944,6 +5943,14 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUhlUXY5VjRiN2lVVWVrZElPVTVtQXBPZWpTR2huNHZKdGxBYVUxaGs1dndWN1g1WE4yZ002bUR2VHRia1FpSzU5ZERYV050d0hPckdQY3ZXZGM3R0RTZW50RzN2M2xyWTE4MVB0RFFSanFKc0JPNzgwcVI3Wnc1ZjhBdHNpcGxHYU1LWXNVWEZWMUtRZTM5aGNoQ2RwV3MwaVMxZW9qcXA4THZaMXV1eGhCZnphQV9XQlhFQlRFZzk?oc=5",
     "fonte": "MegaWhat",
     "data": "2026-02-12T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL aprova nova regra de delegação de competências e redefine modelo de fiscalização do setor elétrico nos estados - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDV6QmczTlZveUNFSFpFTWRvcHpydEdDTERwc3QzMnRFdlFBc05DSGtYajBwY0wxR1JhSGJaRHBjbkhCRk5GOUdCV1p6MFR5ZkF3aDVwU2E5eFVRRVh3ZVRZbENrUE90ZG5RWXl0LUVGdHNfYUlQMnR2UjIwajR4VVRBTVZZZ2k5SUFTYXRLNjMzbUpfRl9BNVBrMGdqazRHZF8xcS1hdDBCc1c2NmhqNmFkekd3cEhjc1NJQnJCaE1NU2dYMjFzZjVESkMtMV9sb2ZyUmJISWt6TXpIVGhXS2lFTDdraDc2VEZKc1ZMWQ?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-02-10T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -7255,14 +7262,6 @@
     "titulo": "Deputados criticam regulamentação da Aneel para geração distribuída - Agência eixos",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXFpc1NSUlVNN3JSOUwyeEl1aEViN3VDMTZucEhuNzE2SUFOaVBJRUxNTk9YcTFhQUVNYjBpcmdwRjh4cE52REE1OEFYVUY4cGdsMTJhODFBWktIVVV6ejZ5VVdYbWsybWdyTmlTSWRsWi02T19XblBYV2hyWldNVUJvenA1Vm93a1BuSG4tQTJibEZ4dnY0SWxZRnVFNTU2VnhRYXdEUUpSQQ?oc=5",
     "fonte": "Agência eixos",
-    "data": "2023-05-17T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Deputados criticam regulamentação da Aneel para lei da geração distribuída - Portal da Câmara dos Deputados",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEZ6TTY4X3hMaDdab0V3TURWVGFBQUJZUG9IdXZVdDMwTGxxTmlUdTdrd01mUjRwT1hLdFdaWEtqODU0OFZCZnJQaVE1ZTA2SXF2RHgyRXVmcFVjN1hVLU9UMmhUbmF4RTdWSEotTkxVXzk2aS1PcWdCeF9ZRUxRdEtVZ1RqOG96Wjd0ZGRKejVPM2ozN29wRnh2SXpaV1dZWVJ5YUNnNHdka3VVbWVFbkhvMmlSM01q?oc=5",
-    "fonte": "Portal da Câmara dos Deputados",
     "data": "2023-05-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -9089,8 +9088,7 @@
     "fonte": "Canal Solar",
     "data": "2026-08-25T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Dia 1: Intersolar 2026 começa com novidades e debates sobre o futuro da energia solar - canalsolar.com.br",
@@ -9228,8 +9226,7 @@
     "fonte": "Canal Solar",
     "data": "2026-07-24T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Bateria All-in-One conectada à tomada e BESS ultrarrápido: Fox ESS apresenta novidades para o Brasil - canalsolar.com.br",
@@ -9415,7 +9412,8 @@
     "fonte": "Canal Solar",
     "data": "2026-02-02T08:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências"
+    "catLabel": "Tendências",
+    "imagem": null
    },
    {
     "titulo": "As cinco principais tendências do mercado global de armazenamento de energia em 2026 - canalsolar.com.br",
@@ -9504,7 +9502,8 @@
     "fonte": "MegaWhat",
     "data": "2025-12-12T08:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências"
+    "catLabel": "Tendências",
+    "imagem": null
    },
    {
     "titulo": "Tendências que impactarão o consumidor de energia nos próximos anos - megawhat.uol.com.br",
@@ -9867,17 +9866,17 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Liderança feminina, armazenamento e mercado livre: tendências que estão transformando o setor - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcU1hOFpTR3VPelRkTVc3RTUtVGRuMl9BZG9VTjM2eV92SVF6NVBlWTNrLWtTSzRDUTUzYlVZRzJOTUxPYkIyaXF3bXdxWlhSeDMwNExsbDNmMjBYd3ZmdVVWZjZoNnZGeXk5UVk0N2NvZzRDY3Q4SThUX005dw?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "Representantes do agro e da energia solar debatem tendências do mercado para 2025 - O Presente Rural",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0QwQjVnc05ORmdMdzFkNm5RMEtwckgtekxmQ3VaT2NCXzVXdFlTS2loenlJX0RKcUhhaUxoUm1WWENSUVhRUDVncTRyQUg1ZkxEWkRVOHI1UGFDVEc5TXNORG5ySkwxRkNQZ3A5SmYteThuUWdhbDFTZFNCM01UWjZtTzF6NjgwQUdpME1lV29vdlNNb2pSaDVuQmlLMVU4ZGJiM0FQd1lVeTc2MjM1X09n?oc=5",
+    "fonte": "O Presente Rural",
     "data": "2025-03-14T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
    {
-    "titulo": "Representantes do agro e da energia solar debatem tendências do mercado para 2025 - O Presente Rural",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0QwQjVnc05ORmdMdzFkNm5RMEtwckgtekxmQ3VaT2NCXzVXdFlTS2loenlJX0RKcUhhaUxoUm1WWENSUVhRUDVncTRyQUg1ZkxEWkRVOHI1UGFDVEc5TXNORG5ySkwxRkNQZ3A5SmYteThuUWdhbDFTZFNCM01UWjZtTzF6NjgwQUdpME1lV29vdlNNb2pSaDVuQmlLMVU4ZGJiM0FQd1lVeTc2MjM1X09n?oc=5",
-    "fonte": "O Presente Rural",
+    "titulo": "Liderança feminina, armazenamento e mercado livre: tendências que estão transformando o setor - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcU1hOFpTR3VPelRkTVc3RTUtVGRuMl9BZG9VTjM2eV92SVF6NVBlWTNrLWtTSzRDUTUzYlVZRzJOTUxPYkIyaXF3bXdxWlhSeDMwNExsbDNmMjBYd3ZmdVVWZjZoNnZGeXk5UVk0N2NvZzRDY3Q4SThUX005dw?oc=5",
+    "fonte": "Canal Solar",
     "data": "2025-03-14T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
