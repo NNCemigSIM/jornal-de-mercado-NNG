@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-10-20T00:04:17.351Z",
+ "geradoEm": "2026-10-20T14:14:37.750Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 14.89,
-   "pct": 0.472,
+   "preco": 15.46,
+   "pct": 3.826,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 78.17,
-   "pct": -2.043,
+   "preco": 79.07,
+   "pct": 1.151,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 30.63,
-   "pct": 0.033,
+   "preco": 31.295,
+   "pct": 2.174,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 171.8,
-   "pct": -0.487,
+   "preco": 174.93,
+   "pct": 1.822,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 28.15,
-   "pct": -0.88,
+   "preco": 28.353,
+   "pct": 0.722,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 11.61,
-   "pct": -1.86,
+   "preco": 11.79,
+   "pct": 1.55,
    "moeda": "BRL"
   }
  },
@@ -38,7 +38,7 @@
     "titulo": "ONS prepara esquema de corte automático de minigeração distribuída - BNamericas",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFRCN1FyMmcyS3FCSmJ5aFhoRW5CQ2JuWUNGcUs1WVR6ZXN2NkhzalhKR3JHTUlFdTlxZzFJWGdaSnlta25RTjg2RVlPMHFlekFqbjdzLVRncHpkS3ZKNDY1b0xyZHotcU9uOHlXOVJUTktSOXY3clNJOHoxeVF2ZDZBbGpTZFB0aDR2R1ZBaGNnQ3JEdmpDOGZIYndCemVEM3RWb19iNzBzb2w0N2IyUmVSR2k?oc=5",
     "fonte": "BNamericas",
-    "data": "2026-10-19T20:03:45.000Z",
+    "data": "2026-10-19T20:05:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída",
     "imagem": null
@@ -4852,6 +4852,15 @@
   ],
   "regulacao": [
    {
+    "titulo": "ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcEg0STcxOTdDeXNObFYtVnhyenVJM1Vub29nYVkyMHRhRTBJbWtkS2RtQkJGa2dUaDJkcnJSTDJOaEZjUng2dkhtaGE4RF9nWU01N1c0Y18wejdPUzdHcGp4ZG05RzlFMnNHN3drYWdNQldVeG9pMnc1aVpVMWhLTGV4OUJpQS05TWVfZENjOWFLLW9zWGxsUjhhUDkzQ2pBdFVOUldvdVNsZV8wN05xUUN3RkN3NTUyRHJSMGljOXp6T01EOXdwRHM4R3hlRzQ4TUFva1AzdFIwc25uNndpd09sTlFBRHpYVWdyNXVGSGRlRnRqYklqSlUtRlZiamV0VDdldW9qQWZmZ21ZcjQwWWpWQWdvZ3I2SzBYUnVn?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-14T20:06:44.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
     "titulo": "Nova regra da Aneel iguala cortes de eólicas e hidrelétricas - SpaceMoney",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWNXUkJuR1VHc1NvTmJ3LTk4X2pNcXFXQms4TjdtVGFaY0lBbkNTWHpuSFE4NldRTVZsbENObzEwWHNYajFhRlQ2U29YOWw1SjJTaFQ0VERjUzhYNkt0SmhBTmNlNFhFM2R3aXBYMEU2Q2dsZlFoY0drTXkxdlpEam1IWmdjRWhTeUIwNDFicVJzd0ZEYVBvQmFtYVhOSUdsTFBn?oc=5",
     "fonte": "SpaceMoney",
@@ -4865,8 +4874,7 @@
     "fonte": "Correio do Povo Penedo",
     "data": "2026-10-08T19:15:05.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ANEEL aprova novas regras para cortes de geração de energia - Litoral Notícias",
@@ -6451,17 +6459,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Jornalismo",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
-    "fonte": "JOTA Jornalismo",
+    "titulo": "Diretora da Aneel propõe mais dois meses de discussão sobre postes - TELETIME News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjM0Q0w5dVhFV00wYUJNdTZaWDRrbHUxVkxkbVRyWHBUcGQ4VzFTenpFVUxmMm41WG9UaUs2Nk95VUlCVEpnYW5fRHJSMDRjWk5XaTlyQ3N5djZ0ZWh0aVZGaVZiMHBhcDU5VW5vWkJnX3laOFUydWpzTkpIaFhRck1lS21LTGx5cno2b1BRWGJmLWx4VEl5cWFFLXpOOTRxeVRrbQ?oc=5",
+    "fonte": "TELETIME News",
     "data": "2025-09-08T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Diretora da Aneel propõe mais dois meses de discussão sobre postes - TELETIME News",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjM0Q0w5dVhFV00wYUJNdTZaWDRrbHUxVkxkbVRyWHBUcGQ4VzFTenpFVUxmMm41WG9UaUs2Nk95VUlCVEpnYW5fRHJSMDRjWk5XaTlyQ3N5djZ0ZWh0aVZGaVZiMHBhcDU5VW5vWkJnX3laOFUydWpzTkpIaFhRck1lS21LTGx5cno2b1BRWGJmLWx4VEl5cWFFLXpOOTRxeVRrbQ?oc=5",
-    "fonte": "TELETIME News",
+    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Jornalismo",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
+    "fonte": "JOTA Jornalismo",
     "data": "2025-09-08T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7255,14 +7263,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTZnSWxpeHJxNV8yeHU0VXBXZU5ZSElYUXFmSDFlcExvSk9ucTU3YVJ1bFdfS3podm5KYjNqLWVnUmJreTJIemJvVzBYUlR3LW82NVVDd2l5bFlUZ3FicFdkLW4xT0xRcVpjajlmY3dtcUI0WTZrc3V3VjBXZUNCS19RYTMtenRWMGViU0pVYmY0MUt3WldDZndNaUVGU0VLTV9DaHYxTXVyQ01PSFNTQnZJOU51ZW5OZm5VbzhGTXJzYUdkYWdwNk1wMm1LR0XSAboBQVVfeXFMT1RGUV9ia1FSQUF4SWhXOFN1T0NiZWR2dk96cFZfdzdjSnFIblZBQld1VVUwRE9fRW1FSlpDaUg0N0R1Qy1ZV2RaUzdVUS1vUnVpNXBweW1NbmtGYl9xTVZvNDBTc3hqd1JxSzN5enBqQWlWUzNpQTNQeGtnRHZJdVByOGRyZGdaMFRWRmlYUGtUOEZsaFNCZTRsbWlyWTJJVXB5SWpOa0lfQ1h5MTJkN2FUOFZLaEpfUF9n?oc=5",
     "fonte": "msnoticias.com.br",
     "data": "2023-06-13T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Deputados criticam regulamentação da Aneel para geração distribuída - Agência eixos",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXFpc1NSUlVNN3JSOUwyeEl1aEViN3VDMTZucEhuNzE2SUFOaVBJRUxNTk9YcTFhQUVNYjBpcmdwRjh4cE52REE1OEFYVUY4cGdsMTJhODFBWktIVVV6ejZ5VVdYbWsybWdyTmlTSWRsWi02T19XblBYV2hyWldNVUJvenA1Vm93a1BuSG4tQTJibEZ4dnY0SWxZRnVFNTU2VnhRYXdEUUpSQQ?oc=5",
-    "fonte": "Agência eixos",
-    "data": "2023-05-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
