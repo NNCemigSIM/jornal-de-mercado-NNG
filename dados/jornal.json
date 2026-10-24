@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-24T13:13:50.673Z",
+ "geradoEm": "2026-10-24T22:49:37.381Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 15.24,
@@ -2510,8 +2510,7 @@
     "fonte": "Neoenergia",
     "data": "2026-10-22T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz sobe de novo em Goiás nesta quinta (22); veja quanto vai pesar no seu bolso - Mais Goiás",
@@ -3539,17 +3538,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro - Folha PE",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
-    "fonte": "Folha PE",
+    "titulo": "Aneel reduz bandeira tarifária da conta de luz para verde em outubro - RibeiraoDasNeves.net",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdkcDNROFBKUU9JTElMQ0JkeWNETHhMckUzbmJ6WUhSWHk5QnJHRjh1NWh1TjFabWJzNVJ6OVdRaDdQWTF6QWx5VU1pUTN2YWhlR0Zua1l1R0lobUNaWHFIOTVGZWdkUHZ1cW83MWpNcXNub1R5OTNFakRMeHF5SXRIMklueTJ6Um5TRk04RDZuVmF6X1MzTk5uOHRkYUZ0WktGVy1XN0pDcjJweFFJenNlNmx6WE90Rjl3ZVQ4bGtkZw?oc=5",
+    "fonte": "RibeiraoDasNeves.net",
     "data": "2026-09-29T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel reduz bandeira tarifária da conta de luz para verde em outubro - RibeiraoDasNeves.net",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdkcDNROFBKUU9JTElMQ0JkeWNETHhMckUzbmJ6WUhSWHk5QnJHRjh1NWh1TjFabWJzNVJ6OVdRaDdQWTF6QWx5VU1pUTN2YWhlR0Zua1l1R0lobUNaWHFIOTVGZWdkUHZ1cW83MWpNcXNub1R5OTNFakRMeHF5SXRIMklueTJ6Um5TRk04RDZuVmF6X1MzTk5uOHRkYUZ0WktGVy1XN0pDcjJweFFJenNlNmx6WE90Rjl3ZVQ4bGtkZw?oc=5",
-    "fonte": "RibeiraoDasNeves.net",
+    "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro - Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
+    "fonte": "Folha PE",
     "data": "2026-09-29T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3907,17 +3906,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz - Cemig",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
-    "fonte": "Cemig",
+    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Sindifiscal/MS",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TV0pMeFEwa3dyMDI1bk0tTWlralJXM2ZBQk5hQzlBV1l5NXZIMDA0RE9TTEllVXRON3BnTG50MmVLV0ZwVS1yczBTc3ZjZG9iYURCRDJvbDlPVnY1ck81N3pHbw?oc=5",
+    "fonte": "Sindifiscal/MS",
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira tarifária de energia muda e promete alívio na conta de luz - ND Mais",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUVaT2lsMjhVdlZSYzVVeWdTUUwyc1Y0ZFVrWl81MmNLQl91aDZSU2NTNlVPOE54alhZVERNX0lCSEZvc3VjWWprU3VmMkV0T0Q0eGJLQlRoeVV5aGRtV19JVlJEZXBBS1FkN2FqcnBvYXVmVXlTQ0YwR1JTM2NRMk5WTF9pdm1MYmFvYzAtcVNpbXowb3FwQ3Q2Wjc?oc=5",
-    "fonte": "ND Mais",
+    "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz - Cemig",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
+    "fonte": "Cemig",
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3931,17 +3930,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - 98FM Curitiba",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSExjZ3hRS2xOWW1maEc5ajRaU19jT2ZxNkVsX3N6ZC1uSHZ4Uy1zdmVWMHNNMXdSaVF3U0xQODFNZ0NNQzRJRGdWMF8wSlRORGFzMFEtWnM3UndrdG1NaUdmNGxoQ0ZUMms3MWFHaUV1dWwySV9ZbzZGbEg1bmxQbG9zY0gzQlFha2NldEdlS2FPbVNIUEd6WDhQZGVVRWg0?oc=5",
-    "fonte": "98FM Curitiba",
+    "titulo": "Bandeira tarifária de energia muda e promete alívio na conta de luz - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUVaT2lsMjhVdlZSYzVVeWdTUUwyc1Y0ZFVrWl81MmNLQl91aDZSU2NTNlVPOE54alhZVERNX0lCSEZvc3VjWWprU3VmMkV0T0Q0eGJLQlRoeVV5aGRtV19JVlJEZXBBS1FkN2FqcnBvYXVmVXlTQ0YwR1JTM2NRMk5WTF9pdm1MYmFvYzAtcVNpbXowb3FwQ3Q2Wjc?oc=5",
+    "fonte": "ND Mais",
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Sindifiscal/MS",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TV0pMeFEwa3dyMDI1bk0tTWlralJXM2ZBQk5hQzlBV1l5NXZIMDA0RE9TTEllVXRON3BnTG50MmVLV0ZwVS1yczBTc3ZjZG9iYURCRDJvbDlPVnY1ck81N3pHbw?oc=5",
-    "fonte": "Sindifiscal/MS",
+    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - 98FM Curitiba",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSExjZ3hRS2xOWW1maEc5ajRaU19jT2ZxNkVsX3N6ZC1uSHZ4Uy1zdmVWMHNNMXdSaVF3U0xQODFNZ0NNQzRJRGdWMF8wSlRORGFzMFEtWnM3UndrdG1NaUdmNGxoQ0ZUMms3MWFHaUV1dWwySV9ZbzZGbEg1bmxQbG9zY0gzQlFha2NldEdlS2FPbVNIUEd6WDhQZGVVRWg0?oc=5",
+    "fonte": "98FM Curitiba",
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -6247,17 +6246,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - TELETIME News",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkNTSGxoVzBNSlpuT3NlTG1JaHotcXZfeWgwX0g0T29Wcy1aVFFxbk13b0FTZ3VsTzk2Qm1EVFZuamJiNk55cjZLU2syWVB2S0lJMlN0dGZiRFVHSGxFOHN0eEp1QjZBXzhBclRkaWdXS3pxcWRqY1doaXhjdkpWa0VtT1BLdXpleGV2bjJFbWRPQUdkMmdKakxkUTVoRHJvUE5vT2pVUU8?oc=5",
-    "fonte": "TELETIME News",
+    "titulo": "Aneel prioriza tarifas, PLD, cortes e recursos distribuídos em 2026 - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEJoalEtb1Z3eXBvTTlZY0diYzlnOG9lQU9TcEdrXzZOLXBwTkt5WkowczlQQ3gwZWFKamFDNHBvenZGM21iZlJwanRsWmhyM1FRQ2t0bFB4T0kzcUoyZjB0RWw5NWwxX2hjWG5KZGc0cEY3c2syVlIyVUFWMlJqM1lnQmM5Yi05dDVCZkxEUWMzbGNnWXNUcUYyWmpQS05YM0p1S1V0RQ?oc=5",
+    "fonte": "MegaWhat",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel prioriza tarifas, PLD, cortes e recursos distribuídos em 2026 - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEJoalEtb1Z3eXBvTTlZY0diYzlnOG9lQU9TcEdrXzZOLXBwTkt5WkowczlQQ3gwZWFKamFDNHBvenZGM21iZlJwanRsWmhyM1FRQ2t0bFB4T0kzcUoyZjB0RWw5NWwxX2hjWG5KZGc0cEY3c2syVlIyVUFWMlJqM1lnQmM5Yi05dDVCZkxEUWMzbGNnWXNUcUYyWmpQS05YM0p1S1V0RQ?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - TELETIME News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkNTSGxoVzBNSlpuT3NlTG1JaHotcXZfeWgwX0g0T29Wcy1aVFFxbk13b0FTZ3VsTzk2Qm1EVFZuamJiNk55cjZLU2syWVB2S0lJMlN0dGZiRFVHSGxFOHN0eEp1QjZBXzhBclRkaWdXS3pxcWRqY1doaXhjdkpWa0VtT1BLdXpleGV2bjJFbWRPQUdkMmdKakxkUTVoRHJvUE5vT2pVUU8?oc=5",
+    "fonte": "TELETIME News",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7370,6 +7369,14 @@
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xVy1nM05MMlB6UVBiZWFIaEdvdkZaUUNXZW1XYlBVUTM4N2dCZlZoLUFvemZ4a1lBTVZ5TjhzZ2hoQ2JVakVLckRBaTJZWTJLYk9pZXJyakxZMVpDMkg5Si04RzVRNXdfcHBJSXVKcVY2Z9IBd0FVX3lxTE5peDB0UFUtNUJib0plOF82ZmFWQXJacXR2ZXh1SVhFTk5DRl8tTTl2RG10dFdJVER5OEZKRl9xN0JBVm5uOS15dl9fdW4ydnBxeTE3VnVlSm5aQkJwNGZMSE02YjlQelZqbzlXYjRhbTdDQi04NWw0?oc=5",
     "fonte": "InvestNews",
     "data": "2026-08-05T07:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
+    "titulo": "TotalEnergies compra negócios de energia renovável da Shell na Europa - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTl0WmlqeUtYb3FnNHF1cno4d20wbGZlZ0hiTy1jNGRYblk2UkR6eWdHWEpyaExUeWhrRjVDOWJ4dzUtcy1pNEVGX1dYZTR3dzBKa3lzalNNM1dzdkpyMGlkOTBZckdQNVBBVktuYThKUzZ2ajhsQWYtREhKT1Rwalh6YktiV0dHV1VxWDQ2TXBoQnNUU1lBRjR5RWEyV296LWthc1otVDlLZ0VGNDVJ0gG0AUFVX3lxTE44ZnpGQWtFRXk4WVBTdXROa0g4VGh5dS15UXhCTUtGN3BZNzNwUnJjXzRvbFY2bzJRVzlUX0xsdGtFV1JqemVJclVFNE9xanM2TjR5N3V0YTRLbi1oTmYxOUVxb2xvTmlodGR2b0tNUUtvbUVTck9CMjBNemNVV3R2ZjdkWjl5cXctYW9MZC0xNUcybFlENWE0dDRBbUdJWVZRbzNHZ1AyQVNRRXpHZ3ZiVEROcQ?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-08-03T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
