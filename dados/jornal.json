@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-24T22:49:37.381Z",
+ "geradoEm": "2026-10-25T13:39:26.151Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 15.24,
@@ -323,17 +323,17 @@
     "imagem": null
    },
    {
-    "titulo": "Inversão de fluxo: quando a distribuidora pode negar a conexão da geração distribuída? - eixos",
+    "titulo": "Inversão de fluxo: quando a distribuidora pode negar a conexão da geração distribuída? - Agência eixos",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSE5nQkFzQkNNaXdYdjdYZzNadHE2bEpnaEVoWHhaR3lYcm9lRWhGN0tLbzd6Y1ZOdGJJNlE1b3l2YkJfaHh5V2paTk1EMHo1WGViY3hwTnB1SE9Xb3BQcWxmV1lFa1Z5R1RzY2lkM2ZrbEtjV2h2T2FOdnk2OGprQmIxcGxyTkk4RkF0M0JkRnFWS0pmelVaR29fQnVuQ3l0aFFRdmRCNHNldlVfTlJkNEVB?oc=5",
-    "fonte": "eixos",
+    "fonte": "Agência eixos",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Inversão de fluxo: quando a distribuidora pode negar a conexão da geração distribuída? - Agência eixos",
+    "titulo": "Inversão de fluxo: quando a distribuidora pode negar a conexão da geração distribuída? - eixos",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSE5nQkFzQkNNaXdYdjdYZzNadHE2bEpnaEVoWHhaR3lYcm9lRWhGN0tLbzd6Y1ZOdGJJNlE1b3l2YkJfaHh5V2paTk1EMHo1WGViY3hwTnB1SE9Xb3BQcWxmV1lFa1Z5R1RzY2lkM2ZrbEtjV2h2T2FOdnk2OGprQmIxcGxyTkk4RkF0M0JkRnFWS0pmelVaR29fQnVuQ3l0aFFRdmRCNHNldlVfTlJkNEVB?oc=5",
-    "fonte": "Agência eixos",
+    "fonte": "eixos",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2510,7 +2510,8 @@
     "fonte": "Neoenergia",
     "data": "2026-10-22T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Conta de luz sobe de novo em Goiás nesta quinta (22); veja quanto vai pesar no seu bolso - Mais Goiás",
@@ -3538,17 +3539,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel reduz bandeira tarifária da conta de luz para verde em outubro - RibeiraoDasNeves.net",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdkcDNROFBKUU9JTElMQ0JkeWNETHhMckUzbmJ6WUhSWHk5QnJHRjh1NWh1TjFabWJzNVJ6OVdRaDdQWTF6QWx5VU1pUTN2YWhlR0Zua1l1R0lobUNaWHFIOTVGZWdkUHZ1cW83MWpNcXNub1R5OTNFakRMeHF5SXRIMklueTJ6Um5TRk04RDZuVmF6X1MzTk5uOHRkYUZ0WktGVy1XN0pDcjJweFFJenNlNmx6WE90Rjl3ZVQ4bGtkZw?oc=5",
-    "fonte": "RibeiraoDasNeves.net",
+    "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro - Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
+    "fonte": "Folha PE",
     "data": "2026-09-29T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro - Folha PE",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
-    "fonte": "Folha PE",
+    "titulo": "Aneel reduz bandeira tarifária da conta de luz para verde em outubro - RibeiraoDasNeves.net",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdkcDNROFBKUU9JTElMQ0JkeWNETHhMckUzbmJ6WUhSWHk5QnJHRjh1NWh1TjFabWJzNVJ6OVdRaDdQWTF6QWx5VU1pUTN2YWhlR0Zua1l1R0lobUNaWHFIOTVGZWdkUHZ1cW83MWpNcXNub1R5OTNFakRMeHF5SXRIMklueTJ6Um5TRk04RDZuVmF6X1MzTk5uOHRkYUZ0WktGVy1XN0pDcjJweFFJenNlNmx6WE90Rjl3ZVQ4bGtkZw?oc=5",
+    "fonte": "RibeiraoDasNeves.net",
     "data": "2026-09-29T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3922,17 +3923,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - Goiás365",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1RrVXFzUDlGbkxJZDdBT3hYblM5dkFtQXRoZVE2N3kzUHd4T2RoOVFrWV9uazRYS2tXMUZGcG1Ja3c0dHFqOERPOFktOGtwbzFJbnlEQWNkR0VFUF8wZ2pEdmlfdU5ZOUszTkxPT1JjazNJb1Z6ZU50WGI2eXByT3RsQzlPZnVERHlrNzhFRU4?oc=5",
-    "fonte": "Goiás365",
+    "titulo": "Bandeira tarifária de energia muda e promete alívio na conta de luz - ND Mais",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUVaT2lsMjhVdlZSYzVVeWdTUUwyc1Y0ZFVrWl81MmNLQl91aDZSU2NTNlVPOE54alhZVERNX0lCSEZvc3VjWWprU3VmMkV0T0Q0eGJLQlRoeVV5aGRtV19JVlJEZXBBS1FkN2FqcnBvYXVmVXlTQ0YwR1JTM2NRMk5WTF9pdm1MYmFvYzAtcVNpbXowb3FwQ3Q2Wjc?oc=5",
+    "fonte": "ND Mais",
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira tarifária de energia muda e promete alívio na conta de luz - ND Mais",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUVaT2lsMjhVdlZSYzVVeWdTUUwyc1Y0ZFVrWl81MmNLQl91aDZSU2NTNlVPOE54alhZVERNX0lCSEZvc3VjWWprU3VmMkV0T0Q0eGJLQlRoeVV5aGRtV19JVlJEZXBBS1FkN2FqcnBvYXVmVXlTQ0YwR1JTM2NRMk5WTF9pdm1MYmFvYzAtcVNpbXowb3FwQ3Q2Wjc?oc=5",
-    "fonte": "ND Mais",
+    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - Goiás365",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1RrVXFzUDlGbkxJZDdBT3hYblM5dkFtQXRoZVE2N3kzUHd4T2RoOVFrWV9uazRYS2tXMUZGcG1Ja3c0dHFqOERPOFktOGtwbzFJbnlEQWNkR0VFUF8wZ2pEdmlfdU5ZOUszTkxPT1JjazNJb1Z6ZU50WGI2eXByT3RsQzlPZnVERHlrNzhFRU4?oc=5",
+    "fonte": "Goiás365",
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4418,17 +4419,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz terá bandeira verde em outubro - Acia Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vOVBSSktIRG9VdlhKQ2cwY09zWHpSTlN5N2pzaUw2Y01yZ2VLT05aUUtxZ25uUDUtaVc0QUZlN3BUZTlJVGd3T3FPUDg0NGtMY1hGcDdIRnctelBTV3FqSU9PLU9xRXd3VGZjLTdOa2lycEV3?oc=5",
-    "fonte": "Acia Araçatuba",
+    "titulo": "Conta de luz volta à bandeira verde em outubro após cinco meses de cobrança extra - Folha BV",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFpteThlNFc3cUZxNEdsWThPaXFIcFZwREdnczd3V29GOWxockNtTlpTNkZhRWZfQlVWSDhIOXc3V3RjZ0RfaWFVZlVCYmdmRE1rcEhZOTkxQ0laLXFNQ2tmRm9EcUVDOVdLdWZHMEZkSjlFa09mUVRMNU1Dc1doY3pMeWk5dmpMTll3SWJueWVuS09uUGJSU1hUam1hVXRTbXlfT05JSzNQLW50ZEExSGhFYzgxZnR3MEFv?oc=5",
+    "fonte": "Folha BV",
     "data": "2026-09-26T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz volta à bandeira verde em outubro após cinco meses de cobrança extra - Folha BV",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFpteThlNFc3cUZxNEdsWThPaXFIcFZwREdnczd3V29GOWxockNtTlpTNkZhRWZfQlVWSDhIOXc3V3RjZ0RfaWFVZlVCYmdmRE1rcEhZOTkxQ0laLXFNQ2tmRm9EcUVDOVdLdWZHMEZkSjlFa09mUVRMNU1Dc1doY3pMeWk5dmpMTll3SWJueWVuS09uUGJSU1hUam1hVXRTbXlfT05JSzNQLW50ZEExSGhFYzgxZnR3MEFv?oc=5",
-    "fonte": "Folha BV",
+    "titulo": "Conta de luz terá bandeira verde em outubro - Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vOVBSSktIRG9VdlhKQ2cwY09zWHpSTlN5N2pzaUw2Y01yZ2VLT05aUUtxZ25uUDUtaVc0QUZlN3BUZTlJVGd3T3FPUDg0NGtMY1hGcDdIRnctelBTV3FqSU9PLU9xRXd3VGZjLTdOa2lycEV3?oc=5",
+    "fonte": "Acia Araçatuba",
     "data": "2026-09-26T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4442,9 +4443,9 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Click Guarulhos",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZk5UR3ZSU1d0dkNCRS1NcWxlZjRjNHhUMG1SbjZwTnNEcXc4RWNVRExDMWlhNnZCbzltdGkzZFl5S2dJRHN2eTk3RC1BaGVoWU05d09EcGJ1Z29MZ1hTSk9HN0xRTk9YTnUybmZoYmhpUXVRS2xYU1YzbTktQXRKeXN1ci1WcE9tbTVfVTRIWDZUWEEzQ2s2RzFmdHNQQUdsU1ZMakUxVzJsbXRsTHJzSA?oc=5",
-    "fonte": "Click Guarulhos",
+    "titulo": "Jornal Midiamax. . As contas de luz voltarão em outubro à bandeira verde, sem cobrança de tarifas adicionais, informou nesta sexta-feira (25) a Agência Nacional de Energia Elétrica (Aneel). A bandeira tarifária voltará a vigorar após cinco meses de bandeira - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVGRfQ1EyWW41bFJiTzhsUTNmdHNDSGxQS093dmt2eHFRdEpZcFJJTmVaWnU4N2VQUlctUFVsMUI5M0ZGaE1fXzZZVTNGX2tIV0RCeG51NUR0TmZRcWN1c2htLVZvN21KQUoxbFI2QUg2dmN1VWhGTkRMU3dNcW9ISWx0S0JueUl6LWZnVXJqX0tnU1p3TW5XUHpmbDdLZUxpLUJ1RVJtN3BydEk4emdkbkdDM3Q1RTNZMUtTWkJwbThJeXh4Y01seVM0d09Ec3NNQW1tdWFSajBoN3hxQmRJRDIxbHFUYlRFTURj?oc=5",
+    "fonte": "Facebook",
     "data": "2026-09-26T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4458,9 +4459,9 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Jornal Midiamax. . As contas de luz voltarão em outubro à bandeira verde, sem cobrança de tarifas adicionais, informou nesta sexta-feira (25) a Agência Nacional de Energia Elétrica (Aneel). A bandeira tarifária voltará a vigorar após cinco meses de bandeira - Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVGRfQ1EyWW41bFJiTzhsUTNmdHNDSGxQS093dmt2eHFRdEpZcFJJTmVaWnU4N2VQUlctUFVsMUI5M0ZGaE1fXzZZVTNGX2tIV0RCeG51NUR0TmZRcWN1c2htLVZvN21KQUoxbFI2QUg2dmN1VWhGTkRMU3dNcW9ISWx0S0JueUl6LWZnVXJqX0tnU1p3TW5XUHpmbDdLZUxpLUJ1RVJtN3BydEk4emdkbkdDM3Q1RTNZMUtTWkJwbThJeXh4Y01seVM0d09Ec3NNQW1tdWFSajBoN3hxQmRJRDIxbHFUYlRFTURj?oc=5",
-    "fonte": "Facebook",
+    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Click Guarulhos",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZk5UR3ZSU1d0dkNCRS1NcWxlZjRjNHhUMG1SbjZwTnNEcXc4RWNVRExDMWlhNnZCbzltdGkzZFl5S2dJRHN2eTk3RC1BaGVoWU05d09EcGJ1Z29MZ1hTSk9HN0xRTk9YTnUybmZoYmhpUXVRS2xYU1YzbTktQXRKeXN1ci1WcE9tbTVfVTRIWDZUWEEzQ2s2RzFmdHNQQUdsU1ZMakUxVzJsbXRsTHJzSA?oc=5",
+    "fonte": "Click Guarulhos",
     "data": "2026-09-26T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4868,8 +4869,7 @@
     "fonte": "MegaWhat",
     "data": "2026-10-19T11:37:40.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico - Governo Federal",
@@ -4902,7 +4902,8 @@
     "fonte": "Jornal de Uberaba",
     "data": "2026-10-08T17:44:33.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "ANEEL aprova novas regras para cortes de geração de energia - Litoral Notícias",
@@ -5694,17 +5695,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova regras para baterias no mesmo dia de anúncio do leilão - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGVVNUVNREtqNnhjOWNzNGNsMHFVb1BmM2ktY0JHcG90QjhONmRjY01rTlNrbTlDbmc4SmkwelFoeTVmYndRa2dXQTkySDZfMTl2LWR2c2FUODc4YUs4dV9CNzlEcXVXNEFVcjVUaUV4ZkNCTDZtaXFMN2l5ekwxNU9nVXFuSUpGTzlHU3Y2OFNBS2tTZjU5UG1ibGFFc0d2by1Zbzh3?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Aneel aprova regras para baterias no mesmo dia de anúncio do leilão - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGVVNUVNREtqNnhjOWNzNGNsMHFVb1BmM2ktY0JHcG90QjhONmRjY01rTlNrbTlDbmc4SmkwelFoeTVmYndRa2dXQTkySDZfMTl2LWR2c2FUODc4YUs4dV9CNzlEcXVXNEFVcjVUaUV4ZkNCTDZtaXFMN2l5ekwxNU9nVXFuSUpGTzlHU3Y2OFNBS2tTZjU5UG1ibGFFc0d2by1Zbzh3?oc=5",
+    "fonte": "CNN Brasil",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6230,17 +6231,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Manual do setor prevê nova arquitetura para ativos e armazenamento - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3JEUENMbkpFUFVRWndnaG92ZTlxYklYTHlRam5jSzVwX0RSVnBWeUFkUFpvTE9ndVR1YnhNVWE1UjRlaXR3NlVzU1Q2d2RadHNsRWo2N1p2dzg5eG5iSm1qRFF6d2R6Slh1RXRNOVoyemRta3RxZE95Q1lqamhrajNwUzRrT2VKYXhHZU8xYmtZVzdlSWVIdks4YlhJTzM3RUtLbnNFb0g?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Aneel vê avanço regulatório para mercado de energia a baixa tensão em 2027 - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlFyLTJLZmNMeURtUUU5aFFRb0pYTDlpa2J3VFVfZHBtR1hLc2hMaGRLU2hQeTljeGpsRVpWN25rRkRQNXcxUGtiZGdRVDl4YVNfR3JFVjB6SzladkEwYVlfUUh3UVBoeklaQ1FvR29adkNTMWl3NW5vUUVQd000YndtUWxVZHlUZDhFazZqU1dfOGYzbGRmYjl0RG4xeVZoaTF6VTEyNlBLVWU3b3hDSlZRRmlIaXk5Y0daOE5valNXc2JhdUFRczVJVnlhdw?oc=5",
+    "fonte": "CNN Brasil",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel vê avanço regulatório para mercado de energia a baixa tensão em 2027 - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlFyLTJLZmNMeURtUUU5aFFRb0pYTDlpa2J3VFVfZHBtR1hLc2hMaGRLU2hQeTljeGpsRVpWN25rRkRQNXcxUGtiZGdRVDl4YVNfR3JFVjB6SzladkEwYVlfUUh3UVBoeklaQ1FvR29adkNTMWl3NW5vUUVQd000YndtUWxVZHlUZDhFazZqU1dfOGYzbGRmYjl0RG4xeVZoaTF6VTEyNlBLVWU3b3hDSlZRRmlIaXk5Y0daOE5valNXc2JhdUFRczVJVnlhdw?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Manual do setor prevê nova arquitetura para ativos e armazenamento - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3JEUENMbkpFUFVRWndnaG92ZTlxYklYTHlRam5jSzVwX0RSVnBWeUFkUFpvTE9ndVR1YnhNVWE1UjRlaXR3NlVzU1Q2d2RadHNsRWo2N1p2dzg5eG5iSm1qRFF6d2R6Slh1RXRNOVoyemRta3RxZE95Q1lqamhrajNwUzRrT2VKYXhHZU8xYmtZVzdlSWVIdks4YlhJTzM3RUtLbnNFb0g?oc=5",
+    "fonte": "MegaWhat",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6330,6 +6331,14 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVms5T0I2RGRTb2NDcWxwWkpEcnJTLUIyZlpiOG5VdEVrVWdBbjI5dS12blQxN2VXZWVvbjdxcDBReVdRVnVaOEd5MXpobXZFelA1QU1jZm9SMTQ3N0pSY1ZtYklBUUwxS1dXRzNSSTY0YmlPVk1YbTlHN1A4emhGOXMxUjNUT08wM0d4WFlYbWlkcjFvaGNzOXRBVTAyQ0UtdEhzSmhYaWxPUjJ2OWdRdG5HU3VXdlNzVm83TTljQzMtTG5oU3BlSWJ3?oc=5",
     "fonte": "Cenário Energia",
     "data": "2025-11-26T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Reforma do setor elétrico é sancionada e convertida na Lei 15.269/2025 - Portal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW5tbGx6dzFEU0lVZFl3NmFyQ3ZnalVRTDh3V0ZJekxiNHcyS1g0SDdHNS1hUDEzM2RncV9zXzJuUlpxUHNDeURnNlVmb1I1OGt6T1dlQnlxZ2xBVmp4c0t6YXRpbFBLSVFBU2dnY2o3UUszby13dnpXdjNnMnZkT18tQWNyMWhiS1FOVGhaV25PYXIxZ2lvTVhCbmRWelQwREx0c3RKQm5jV01wamF4ams1YUVpUEJCVkxvYnZ0Q0lkSy11cGQ1eg?oc=5",
+    "fonte": "Portal Solar",
+    "data": "2025-11-25T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -7260,14 +7269,6 @@
     "data": "2023-10-16T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Alterações nas outorgas de geração de energia elétrica - jota.info",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3gzQW90X2NnbldCa0FGeURzNTJNUWNoSjhqNmJjN3ZOa214V2hLb1htbndFQ1U5aFBqVks0NlBSbVV0RmZkQzI2MWt3c21ickM1Z1ExdHdSWERBX1lNNFc3cnNwMkNxOFQ1cFRhZE5WNjQwempKRURoNVJDWkZnbnoybXZJYUlhN0VOdkxtWDZ4OXNlNWFyOU04aDB2d2NZWEpqaA?oc=5",
-    "fonte": "jota.info",
-    "data": "2023-10-16T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -7402,7 +7403,8 @@
     "fonte": "Estadão",
     "data": "2026-07-23T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado"
+    "catLabel": "Players & Mercado",
+    "imagem": null
    },
    {
     "titulo": "Usinas eólicas e solares devem viver onda de fusões e aquisições a partir de 2027; entenda - estadao.com.br",
@@ -7957,17 +7959,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Corte da GD remota será analisado pela Aneel e pelo ONS; veja o Radar Energia XP | Agosto - XP",
+    "titulo": "Corte da GD remota será analisado pela Aneel e pelo ONS; veja o Radar Energia XP | Agosto - XP Investimentos",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHRlV1RxeEoyZTlTUmV1ZXBqb3ZudzZWQkdUQ2NDNmZ3NUFmTm5JY29WcFdxOVNjVEMyUWxZZzU1c1E4NDN4S0lmZHFTSHpNZzhSRHM2MEJORHhobEVud2pmaE5VMjFDVUdTb2haMHBkdnVVMGJIdXg4RkNoSDdZVnE3TTdrNmFteGhxdWJlU3Z1RldGaXl6X3ZudDVVaDJvamx3allIdEhZcm1wNkdKc0tLdThRSzZUR3dwbkkzNExUbWg0b3JLbVdWeDZsQQ?oc=5",
-    "fonte": "XP",
+    "fonte": "XP Investimentos",
     "data": "2025-09-22T10:58:51.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Corte da GD remota será analisado pela Aneel e pelo ONS; veja o Radar Energia XP | Agosto - XP Investimentos",
+    "titulo": "Corte da GD remota será analisado pela Aneel e pelo ONS; veja o Radar Energia XP | Agosto - XP",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHRlV1RxeEoyZTlTUmV1ZXBqb3ZudzZWQkdUQ2NDNmZ3NUFmTm5JY29WcFdxOVNjVEMyUWxZZzU1c1E4NDN4S0lmZHFTSHpNZzhSRHM2MEJORHhobEVud2pmaE5VMjFDVUdTb2haMHBkdnVVMGJIdXg4RkNoSDdZVnE3TTdrNmFteGhxdWJlU3Z1RldGaXl6X3ZudDVVaDJvamx3allIdEhZcm1wNkdKc0tLdThRSzZUR3dwbkkzNExUbWg0b3JLbVdWeDZsQQ?oc=5",
-    "fonte": "XP Investimentos",
+    "fonte": "XP",
     "data": "2025-09-22T10:58:51.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -11241,6 +11243,14 @@
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DOHJhRGtDUHlURFJYclRhcVdTRi1nM2h2dTVhV1dtd2FQZU9tcEJpNzl4TzY1c3BNRzNMMmVKQ014d3pqOGpzZ0JlR0h6eVU5YXdGcTdNR0ZHVmVaOHdkZEhXeUktZkFXdzF0SkIyWmd2TE9OZjEwTFVwaw?oc=5",
     "fonte": "Portal Solar",
     "data": "2020-01-29T19:00:31.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Energia Solar e Microrredes: Tendência mundial, mas alvo de ataques no Brasil - InovaSocial",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rWDZLMDQxSFh1RzRJNGNiMFdaS3BUM2NNdGptaVZkSkhmOXdiR2xIRUVzZ1lDekRFMVdTa3FQZVhTLXBYU2NvTk9QUTRpUFM5Y2owbndlQXZwUEQwSmMzUUpHMDF2V3Rtc2ozbmFrXy1fQU0w?oc=5",
+    "fonte": "InovaSocial",
+    "data": "2019-11-26T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
