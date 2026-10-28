@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-10-27T15:16:46.547Z",
+ "geradoEm": "2026-10-28T00:13:03.631Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11,
-   "pct": 2.23,
+   "preco": 11.09,
+   "pct": 3.067,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 82.315,
-   "pct": 0.335,
+   "preco": 82.42,
+   "pct": 0.463,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 30.66,
-   "pct": 0.988,
+   "preco": 29.76,
+   "pct": -1.976,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 174.79,
-   "pct": 3.949,
+   "preco": 175.85,
+   "pct": 4.579,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 28.88,
-   "pct": 1.12,
+   "preco": 29.27,
+   "pct": 2.486,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.4,
-   "pct": 0.58,
+   "preco": 10.45,
+   "pct": 1.064,
    "moeda": "BRL"
   }
  },
@@ -569,7 +569,8 @@
     "fonte": "Portal Solar",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia - Canal Solar",
@@ -2185,8 +2186,7 @@
     "fonte": "NeoFeed",
     "data": "2026-05-13T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Energia solar reduz conta de luz sem instalação de placas - G1",
@@ -2447,6 +2447,15 @@
   ],
   "tarifas": [
    {
+    "titulo": "Bandeira tarifária da energia elétrica permanece verde graças às chuvas intensas - Diário da Guanabara",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejd1eThpVlZQVVF0amtpdVlPYi11clJfOVktcG5QV1RLNHM1SERRSHZsdG03WkVTSDd5bDRMa1N1NUFOU2p6azJfYW5jWkx4R2hhaVdHYURsc2lDakdsVk9TbmhpMWxyUC1FVTZPb0lCN0NKU1N0ZnRsS3Zyak1KRlNLck5HT2VtelJkNWFwQVdGWWoyWFNwYkhvVUhfZGpZNTY0NFMyNTk?oc=5",
+    "fonte": "Diário da Guanabara",
+    "data": "2026-10-27T20:30:01.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Bandeira verde mantém conta de luz sem cobrança extra em outubro - O Alagoano",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTNCVmlnT3BtbjRnaldKNk9Qd1BIZDNVZktNTE45Uzk4VDM2LTFOZHk1SW9jNE54SkI5ajFEWWJpenNQVHcyOWVDVVVDODdYSmRaNDdoLTBhY2xLYTVTWXVUQlZaMWNVMjFmNnA4Q20wNm9TVFUySTV1bFgzZXBmdUNFUHRvRmM0RWt3T0JRZmI3T0J0NlVlSm41ckRrZWhvR2UtbkRBaUoySkRValZnYWI1ejJaUQ?oc=5",
     "fonte": "O Alagoano",
@@ -2461,8 +2470,7 @@
     "fonte": "Canal Solar",
     "data": "2026-10-26T13:31:14.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Com bandeira verde, preço da energia elétrica recua 0,89% no IPCA-15 em outubro - Valor Econômico",
@@ -4844,22 +4852,54 @@
     "data": "2026-09-25T21:46:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Energia fica mais barata em outubro com bandeira verde e fim da cobrança extra - Diário do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aNElCT3NjYTlvVkZXM2xvVkJScWJmSXdQalhJM0RaX1U5UnBhcHZ1aGNpQzFuNjdaZXFWUkdEYmF1ZmhTMmhUYzBiRGVuX3ZmMERIY09LTFBRSy1qbkhUcElzZUJYbzJ1SWc0NHVpaldUdWgwc281WQ?oc=5",
-    "fonte": "Diário do Comércio",
-    "data": "2026-09-25T21:42:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Aneel aprova editais de leilões de baterias e conta fica com geradores - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmJDOGt2dEU2aUhHR1dKYnJaT1hoWUxGX1o0bnM4VXB3NzlZOW1rcVhyWTN0aWo5emh0VXQtOU5ZMzdvLVpqWWtIOUl1clp6anAwQnFhdWtmVVFkbmh4dURLMUo4eE1SZVprVFZieEpZOVJmWXcyVXpJTEl2aGhHVXp3ZHlDRjAxeTFfeTh5c3ZKUEVfdmdLZnNlR3loel84WFdYa0JxLVU3cXpLTGNzZDdIMA?oc=5",
+    "fonte": "Poder360",
+    "data": "2026-10-27T23:26:33.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Após três anos de estagnação, curtailment precisa ser resolvido, diz Elera - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3V6bVFPaTRMTDFmSzNTMDVqcmVqZy1iQ3hUT3UzcVRJOVVLWVRlVEFGa2o5SXZkbDhOY04ySC1pX3IwMHlPUk9OTWxQNEVWQzlnaU5OX25aNDRRZFpMalNOM0RzWGVRSU1sd0FlNVh5cXZXWnNPLWZoNmlOeG1nVXR6M0tQMUlEdDcwazY1OXFySVI0U012bDJqTzlIdkQ4UzA1ZXlsSFVSNlZQZFZObEtaN09nYzZwNDlyUEtOT1NldV9LUk5Hc2JB?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-10-27T18:43:46.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "CNI homenageia Aneel pelos 30 anos e destaca papel da agência para a indústria - Agência de Notícias da Indústria",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcm52YUJyakdSSHEyd1BLVkVKOGZPWXVzZ1hTanRLWDg4QzlUdmtocGxfS19pUXhMUDFjcUMzT1ZFRE1rSEpGQTNmTjEybXRFTWhDTmVfek14SUFYSFJzbjF0T2pQdWZ3SDZCZ1ZoYjFWUklUNzJKRHJBbUlndVZvbUFKYmNiVEN0V1hyMGs4VmVvTEFsUWZOSzZTajVXRW4wRjUwUUxMVHdLc3AtbGtUUXFIRFJhOWJ0aDVhZTJhRzhhN3lhckZYMmNyV2JPRE10dFY1NEpSS0NQLXhD?oc=5",
+    "fonte": "Agência de Notícias da Indústria",
+    "data": "2026-10-27T00:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Fase cobra regulamentação urgente do Redata e alerta para risco sobre R$ 5,2 bilhões em incentivos - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONFB2aU5LNzI3UWw4QmtXZjdFREZwbmZJRmVOMjJabEI3czZPRFFNckNXbzZ3V1p4aTJsRUZGajBjaWItc1FKU3lrbHVvSjFaUDRqbWljQVdVVGdyQm5RZXV0Wm5XQ1Jpa0FXRDh4VU1JNXZuWUR6UEV2V2puYTdhOWJ4dFY2NkdQeTV2cDBINlVCcTducXhvYjR0SE4yZGQyVG1pV1BtSXFKdjRJMEh3T0hRa3FZQ19KRU4zNnRCQmxfeHowZ2J4V0N4aEFhY3pNMThySg?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-10-26T21:10:17.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Curtailment: novas regras e quem paga a conta - SpaceMoney",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG1fanh3VkNMVV8zbW0tMW9waHhpVDhlZy1NNlJXVUFKVjJHcWliOERPaTB5TEM1VUFpNnBMVjdWVHFsRTJuV1oxb0JyMjd3ZDgzYThyQlhiVXVOZWdSOUxIdm1jUEhXVHVBQVJCRi1Oa0YtclNFSDEwMl9PRzVGdGVFWjdlMkk0TXc?oc=5",
     "fonte": "SpaceMoney",
     "data": "2026-10-26T16:33:50.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL, ONS e EPE revisam nota técnica com os quantitativos da capacidade remanescente para conexão de novos sistemas de armazenamento no LRCAP 2026 - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQREpwbW13MlVKaWZHN1V5X2RDVTdtbkMxT1NiRUxNSlAwZGxUWjJsOUNNelZVd1J0eWM4amhUNEpYNTVUeXlkMzRxdFN1eFVCTUQxQV85VVVCbXNuLS03LTlBdXlaMGxIYVEtUzJhVVpkNHN1ZzVUb1pMUGtPVURlR2JxNDg2dHhIMUlMa3N0MHFQRlc3SGl5VmZwYUp0N2tUWlhtM1NWLXk1QTZJLTlBVG4yeHFBQ1haMjRsNDVjQjVYNkl0aG1tMzRYb215X2FNZGRscHBMVTJORkFXVHJ5eGN3NWFQUm5LTGx4U240aWtFRnVKTGI2VGZzZGZfYkdiSE9ZaWl5UGVvX2xadnJxZDMwcFMzbUhoSEZxckUycXM4Q2R0Y3Bv?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-26T16:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5044,8 +5084,7 @@
     "fonte": "MegaWhat",
     "data": "2026-10-01T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026 - Governo Federal",
@@ -5606,7 +5645,8 @@
     "fonte": "Canal Solar",
     "data": "2026-06-26T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Armazenamento de energia como ativo regulado - canalsolar.com.br",
@@ -7233,46 +7273,6 @@
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnNyVGFSX0dxNFAwZkRkcWhCd0ZmUHVRMWthZ29YQUpNeC0xZjBydFZ6aVUxcFFxT09lRDd6MWhEb2hFU21kazZ3T05TVEt2cGFzUF9CLU5iUVZ6X3FHQzJIbDNFRERfTmxVT0hhaWdvYWdYS1dTUTd0aGJaOFNPR1psOUZwcm0tRWJFM2hEcFg4YVJVY2NMZExJeFJ2Zw?oc=5",
     "fonte": "www.gov.br",
     "data": "2024-08-21T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Selo de Boas Práticas Regulatórias — Agência Nacional de Energia Elétrica - gov.br",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnNyVGFSX0dxNFAwZkRkcWhCd0ZmUHVRMWthZ29YQUpNeC0xZjBydFZ6aVUxcFFxT09lRDd6MWhEb2hFU21kazZ3T05TVEt2cGFzUF9CLU5iUVZ6X3FHQzJIbDNFRERfTmxVT0hhaWdvYWdYS1dTUTd0aGJaOFNPR1psOUZwcm0tRWJFM2hEcFg4YVJVY2NMZExJeFJ2Zw?oc=5",
-    "fonte": "gov.br",
-    "data": "2024-08-21T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Novo Guia PDI da ANEEL agiliza processos no setor - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02MVNqaFJFZXlIbVhiLXBVanZWVWxJQXctbGJXNkFJNmYzcDdxQTI4YlFQQ0Flek96aHo0M05QcWQ5OHJCSm4wU0FSbUhPZl9icDZmYzhJWW1adWt6Ujl3QlRnOGpVOW5Cai1DNUJJdk1ZTTZRcjBBbUpB?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2024-08-16T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Novo Guia PDI da ANEEL agiliza processos no setor - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02MVNqaFJFZXlIbVhiLXBVanZWVWxJQXctbGJXNkFJNmYzcDdxQTI4YlFQQ0Flek96aHo0M05QcWQ5OHJCSm4wU0FSbUhPZl9icDZmYzhJWW1adWt6Ujl3QlRnOGpVOW5Cai1DNUJJdk1ZTTZRcjBBbUpB?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2024-08-16T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "entenda a nova resolução da ANEEL - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrcW9yTlRtWWFpMEY4THZvYi1KNG1wLXJGZTVpOXZ4NEg3cS1kSV9pOXNIeU0zOVpkSEJra0hJOEJyM094TkhNZUpuM2N5elZyWHFBWkNwOEl6NzFWQ1c4aE50SVZjZk9FVU8xaHZ6bTM?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2024-08-06T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "entenda a nova resolução da ANEEL - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrcW9yTlRtWWFpMEY4THZvYi1KNG1wLXJGZTVpOXZ4NEg3cS1kSV9pOXNIeU0zOVpkSEJra0hJOEJyM094TkhNZUpuM2N5elZyWHFBWkNwOEl6NzFWQ1c4aE50SVZjZk9FVU8xaHZ6bTM?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2024-08-06T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -9386,8 +9386,7 @@
     "fonte": "Canal Solar",
     "data": "2026-06-17T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Ronma Solar recompensa principais parceiros do Brasil em imersão tecnológica e cultural - canalsolar.com.br",
