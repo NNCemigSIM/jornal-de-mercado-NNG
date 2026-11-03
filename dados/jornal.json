@@ -1,39 +1,48 @@
 {
- "geradoEm": "2026-11-03T02:44:22.071Z",
+ "geradoEm": "2026-11-03T16:57:13.001Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 10.87,
-   "pct": -0.912,
+   "preco": 10.52,
+   "pct": -3.22,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 85.03,
-   "pct": 1.577,
+   "preco": 84.61,
+   "pct": -0.494,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 27.93,
-   "pct": 8.889,
+   "preco": 30.085,
+   "pct": 7.716,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 182.05,
-   "pct": 4.386,
+   "preco": 185.19,
+   "pct": 1.725,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.05,
-   "pct": 4.887,
+   "preco": 30.25,
+   "pct": 0.665,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.07,
-   "pct": 0,
+   "preco": 9.9,
+   "pct": -1.688,
    "moeda": "BRL"
   }
  },
  "categorias": {
   "gd": [
+   {
+    "titulo": "Fotus aposta em BESS e crédito para ampliar atuação na geração distribuída - BNamericas",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk5WZnNqcFFWN0R4ZkpPX2k1Q3FxTmxTY2c0M1FzYlNCWWdpNVRJd0ZpTHpHSndDZWJBcW55eG9GR3dTbnRHYzdiM3RJY1FJY1BRa0lEZUF2ZXBFNXlqMVRvN2c4NF9ubkZna1JjVGFmcEZqOGg2MzV5TVQ0Z21uT2hOaWNxdjNObDUyYTdGM3lJTThGSG1TU1ByZVBxOTRQM3hRdXpIX21ONmFtVnFlQ0x1bVZlTkE?oc=5",
+    "fonte": "BNamericas",
+    "data": "2026-11-03T15:31:56.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída",
+    "imagem": null
+   },
    {
     "titulo": "Cemig promove fórum de tecnologia e inovação sobre geração distribuída - Agência Minas",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWdRRmQzeU1SanliM2dyUHRCN2YtcmxWalJIamR3ZjJJdm1EM3dHcm9pZ2ZHamRpUjdvbkFjODlrVm9mS2VjRVdoSzFDdkowRmpSbnpOOFhKZEtDMHdpMnJLVF9CMWxQM0FIMGlOUzZ0VmtkbVNmcGp5a1Zxb2JiNmhzcWFCcE15eTA5aFNTN0FpX1MtcE90RzJwRzU3aVNSN0tTdHRCUEFRWE9LdGhpVmxUcnRPVFZWb2c?oc=5",
@@ -74,8 +83,7 @@
     "fonte": "Monitor Mercantil",
     "data": "2026-10-20T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Geração Distribuída Acima De 50 GW Pressiona Distribuidoras A Modernizar Redes Elétricas - Cenário Energia",
@@ -155,7 +163,7 @@
     "titulo": "Geração distribuída solar chega a 54 GW e já supera a potência de todas as termelétricas do Brasil (49,9 GW), mostram dados da ANEEL - CPG Click Petróleo e Gás",
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbkVkSGhSZEZRRi1GRWJRTTR1Y3hmdFVLTlJqcWwxdUUxeXFIZ1pCajc5QUZNbzgzVVIyTU1OZXhobjFVdTk5ZEY4Rjl4WDVlXzFSSWZySXpiTU8tUHhJVXJxcm1jdzkxOUxBWTRjQmIwN2NlWHh0RjhUanQ5Nlo5bkIxeEZpSjF3cTFKb2VCYWE2akM4ZkZrS1lsZVg4N05jcGsxaVcxekhvNFphNEtlZjF2SXhNaWVvMFhBTUthU0xtQXVKdmlfdWlZUE9DMldDZlAwbkJJRWY2RmpnOE9JUWRfbEVLdnlJM1haVkNIdmJuOEJkSkR2WlpWLXdBeDA?oc=5",
     "fonte": "CPG Click Petróleo e Gás",
-    "data": "2026-10-05T01:24:00.000Z",
+    "data": "2026-10-04T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
@@ -885,6 +893,14 @@
     "catLabel": "Geração Distribuída"
    },
    {
+    "titulo": "ONS corta geração distribuída emergencialmente por excesso de energia - Tribuna Online",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGg2TVlmQy1Ha1BUc1o3M0tFOHd0NXFjM3NacUVKaU1qcDBzZkRsLUNjbWs0VzBweDIxYjBqZG53czV1QXpYYXk3MG9UQ0NrOUVrSEl0WDVXWDN4TV9Ld2t0ZmFmTlc4MExpRldiSl9RTGRjRzVIeWRtdWMtVTBDZUNLUHJFUnRDRHNWVXVyM09UdjN4OVB5eFk1cmhHMnN2YWZ3Z1Y0bXZMVXRBU0tDM0U3RlnSAbwBQVVfeXFMUE16QmNGdXdHVkttVDVyeVl3QnIxdVprSlNxT3FicnBFNzJPbmJQVVh0emxGZ0RyRGV4bXpQdnM3TFU3YXE0OWNNUzl2U2Nvczk0emFXR1ctZWtqeXlmVW1CYU4zZjZKb2p4U01kZ2ZFcXlUX2RZXzMweHJSQkcyemo4RjdNU3huRURhZlpVa1V4VklBQVFMeHBLbXl3bzJLbVpOS2Z3Q0owWXV3Qjk4Tm5qR3JaQ3BSUXE4aUQ?oc=5",
+    "fonte": "Tribuna Online",
+    "data": "2026-08-23T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
     "titulo": "ONS determina corte de geração distribuída de energia para evitar sobrecarga neste domingo - Rádio Metrópole",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWNPeUowS2FnWS1BdXB1T3NuVHM4dE1QeDBqaURJd0dEZ3pLU19PRnlkY29BMWJGVDZSQllHVS01d1dvR3hSeTdRLVM0RWNXQkNrOUF5ZWxCMUZVM2ktNHF0YWtBYnZTWnV1Q29rbGlGWkUyY3JZa0tTMUs5aXBNOHRVbmNTYjFoTmRVRGlmd2ZBVGx5cC13STlIQjU0VXJwUE9BUVlTRkVERFBHS0s4NmpfTFdxZXk0TEdlY08yNXlHc091X1poM00tQlFndDQ5SXBZb05R?oc=5",
     "fonte": "Rádio Metrópole",
@@ -896,14 +912,6 @@
     "titulo": "ONS aciona plano emergencial após excesso de energia no sistema elétrico; entenda - InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazBfZld1OEtJN1FQdmkxOWlLb0pqelJJZHc2cTlBNG80RkdwaWRtUHpQWHYzM001UkNMT0hZcVlZNFBQV2diYlpsOGQ3VWFFQ0tGR0F5a1NtdFJ1dEd6QjVXR05UVjkzWm5WVmxOcWpBZUhHM1VnMy1NeDUtdUdqbXM4Tmp1SU91RVFXY0tHdUxpVXdYWmtnN2JIdmRDeDMzUU9vQ0hVWXhLVXhYMWJXYzFZdGEwQWVa0gG-AUFVX3lxTE5LNVM3NzNqdTVnVUFGOVR3bzhLYUJtbm9wUklIRWU4ckI3MnRyQ2hucmI3UWVUdnZtZXNKcDl3MHNkSmdyZTJoYzFqRnZXb1dYUU1zV3BkeU1WYllKaF9FRkEtZVNDbXZfMTU0MDBMckQwUmZaMDR5MEZNazZhRGRxeUMyOVF5a0pybEEycVF0eDB2c0xmdllRVU01T2ExeU91Wl9RU3VZUmN2WmdsdlVvN2R2ajh3MWJUaWhkN0E?oc=5",
     "fonte": "InfoMoney",
-    "data": "2026-08-23T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "ONS corta geração distribuída emergencialmente por excesso de energia - Tribuna Online",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGg2TVlmQy1Ha1BUc1o3M0tFOHd0NXFjM3NacUVKaU1qcDBzZkRsLUNjbWs0VzBweDIxYjBqZG53czV1QXpYYXk3MG9UQ0NrOUVrSEl0WDVXWDN4TV9Ld2t0ZmFmTlc4MExpRldiSl9RTGRjRzVIeWRtdWMtVTBDZUNLUHJFUnRDRHNWVXVyM09UdjN4OVB5eFk1cmhHMnN2YWZ3Z1Y0bXZMVXRBU0tDM0U3RlnSAbwBQVVfeXFMUE16QmNGdXdHVkttVDVyeVl3QnIxdVprSlNxT3FicnBFNzJPbmJQVVh0emxGZ0RyRGV4bXpQdnM3TFU3YXE0OWNNUzl2U2Nvczk0emFXR1ctZWtqeXlmVW1CYU4zZjZKb2p4U01kZ2ZFcXlUX2RZXzMweHJSQkcyemo4RjdNU3huRURhZlpVa1V4VklBQVFMeHBLbXl3bzJLbVpOS2Z3Q0owWXV3Qjk4Tm5qR3JaQ3BSUXE4aUQ?oc=5",
-    "fonte": "Tribuna Online",
     "data": "2026-08-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1058,8 +1066,7 @@
     "fonte": "CNN Brasil",
     "data": "2026-08-19T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Elera vê GD como causa de desequilíbrio entre oferta e demanda de energia - CNN Brasil",
@@ -2436,17 +2443,25 @@
     "data": "2026-04-29T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Produção da própria energia: casas correspondem a 92% da geração solar distribuída no Ceará - Diário do Nordeste",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVVRPNE5kV1BycWJfUXMxUGlJbXhud0txMlN2TWk3VS1tNDZLcHRBYVZPTmJaOXlnWnRCYW9YRS16QWYweWVKX0JidWpfZFNMaFZwMjZWMTRObGY1NDVSRkdYZ3hYUzkyaGxxNE9SQXhYTXFvemNGQXZweFE3a0hxbjY3NDJOeTVIOS1wcHdESFhLV213QkNzV3Z3c3ZTRXVtc3YyUzYyeFVVMGRCSmZGUjYwNjQ4RUExd3JjWkJVcWtsSjJJZW5VbkJka1hFVE1aWk9ZaXdyZmItdFp2Y1NOMlhKeE5vNkg1MEgwUFp1dWlmeC0xNGJ3Y245ZmpJbFg0NFV6Rk1OTQ?oc=5",
-    "fonte": "Diário do Nordeste",
-    "data": "2026-04-28T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
+   {
+    "titulo": "Bandeira tarifária verde em novembro e consumidores ficam livres de cobrança extra na conta de luz - Portal Alegrete Tudo",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDJOSEdlYWxvV05MNmlNNHNMeHBGeHIySmJyUE9OOHVvbVJhM21wLXdGQ3BPVDFpeTR0WExEcEJUQzRKb1duQWUwemRVLTJ0bTBJaWl1d19HN2I5UV80YU1DR1lQVUkyVEtTMXFfZjF4QUdidTJmaHliS3hDV1dtN0RWM003bXd6RkxTZnYxMmF1dmJ4el92RlZ3Q2NuemU1cmhjcVhEckNTa19tZk56cmZldUUySk9iZzFUMGtZUGVpUDJDUGNCNWVYdw?oc=5",
+    "fonte": "Portal Alegrete Tudo",
+    "data": "2026-11-03T11:05:30.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Morador vê a conta de luz subir de R$ 210 para R$ 260 sem mudar os hábitos em casa e descobre que a bandeira tarifária vermelha pode aumentar o valor cobrado pela energia - Super Rádio Tupi",
+    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZmMxVkxpR1pzT3B4c280aWtSbklBZXRZbGQxTjhhNDRUcnBxamlTd0tLc1dZa3JQLUgtaXlXcVdLcHNCQzMzcnFibzI1c2szQzlFdElJX0djaUdVOUN1RExMVTNscUlxbEVOSXlFR19aZWo0d21LSUZDaHFhLXpwSU9UX1h5S0xJNHRNZXFTVGFMdWNIaVhjR0x2SmNvTUxZRGlaX29uOGFyVmZTRUtXTVU4dzZScVVuS1l4V21RcGVBb2pXclZfQUo4X1RYaEdlYkFTMlRReGZaM090QkwwSjNQbzlRTXZoS3VVYzNEOVA3MUNiVjJpTlhJU052Qk1PWGlhNm1FMEEzOXYtWmpsMmNJTUN6ckJRbzVhVVZqcTJpX1BE?oc=5",
+    "fonte": "Super Rádio Tupi",
+    "data": "2026-11-03T06:01:35.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
    {
     "titulo": "SEM COBRANÇA EXTRA: Aneel mantém bandeira tarifária verde em novembro - Alô Juca",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTF9nT1o2OVJGTW5CRDFMYWtMMVZJRGJUVzlJTlo3X252NUlJVmVjYTdkYkIxNE9wbW55UWRUbmxON2pRdnFWQUpHdFpuYV9wNXlTenItNldfYzEwU3lTYlVLbklmcWNrX0F5bDktQ3llSlZoaF93TF9nYUlIdElELW5URGRLYlRnQUtabnBYUGNtRDRobEpIRDRweWtQUWdDa1lkeVFn?oc=5",
@@ -4839,22 +4854,6 @@
     "data": "2026-09-26T08:06:10.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira tarifária verde: veja o que muda na sua conta de luz em outubro - exame.com",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lIYUtoak5ROUp3NUNUYTZ6Mmd3YWxYMnpsTklTemlpMnZhMUs5cFpxSGM2OXV0Wi1JM2QxSnAwYjlGcjUwYzU2M2tJaU12UFpNaEFXOFB5YUk0c1B1RkptUk5zZVJPTUxfb05VeTdMTVZQQ2h6X0Rqa1FEOUZGcHJGaFJqZnNNUzZnTlVwZHJGU2c?oc=5",
-    "fonte": "exame.com",
-    "data": "2026-09-26T07:04:47.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz volta à bandeira verde em outubro após cinco meses de cobrança extra - Folha BV",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFpteThlNFc3cUZxNEdsWThPaXFIcFZwREdnczd3V29GOWxockNtTlpTNkZhRWZfQlVWSDhIOXc3V3RjZ0RfaWFVZlVCYmdmRE1rcEhZOTkxQ0laLXFNQ2tmRm9EcUVDOVdLdWZHMEZkSjlFa09mUVRMNU1Dc1doY3pMeWk5dmpMTll3SWJueWVuS09uUGJSU1hUam1hVXRTbXlfT05JSzNQLW50ZEExSGhFYzgxZnR3MEFv?oc=5",
-    "fonte": "Folha BV",
-    "data": "2026-09-26T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -5304,7 +5303,8 @@
     "fonte": "Brazil Journal",
     "data": "2026-10-13T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "ANEEL estabelece novas regras para cortes de energia - Correio do Povo Penedo",
@@ -5988,8 +5988,7 @@
     "fonte": "Canal Solar",
     "data": "2026-06-26T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Armazenamento de energia como ativo regulado - canalsolar.com.br",
@@ -6235,17 +6234,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ANEEL define regras para armazenamento no Brasil com dois modelos distintos de tarifação - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlpTNHJNZEZpWWRoQVJLU3lYY3pXdGNXd3pfam1pTXhtRlJTNHNNR2Z5MnFrV3hCLTVodFBqNVU0WF83ZEo3bGhvdFI0aGd4SDdJclpvMXhBbnc1Y3VTbVhLLW42QmpPUklSWGtIUFY2bm1PQTBjZXhDX1FKSXpFTjFzY0RjY0Q2cEQ0UTZ1NmJxbXplSzlmcU5hTmMwUnNXRDVhc0luM1NFYVpBMy1lMGxZV2QwZw?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "ANEEL define regras para armazenamento no Brasil com dois modelos distintos de tarifação - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlpTNHJNZEZpWWRoQVJLU3lYY3pXdGNXd3pfam1pTXhtRlJTNHNNR2Z5MnFrV3hCLTVodFBqNVU0WF83ZEo3bGhvdFI0aGd4SDdJclpvMXhBbnc1Y3VTbVhLLW42QmpPUklSWGtIUFY2bm1PQTBjZXhDX1FKSXpFTjFzY0RjY0Q2cEQ0UTZ1NmJxbXplSzlmcU5hTmMwUnNXRDVhc0luM1NFYVpBMy1lMGxZV2QwZw?oc=5",
+    "fonte": "Canal Solar",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6320,8 +6319,7 @@
     "fonte": "Canal Solar",
     "data": "2026-05-29T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Autoprodução no ACL após a Lei 15.269 e novas regras da ANEEL e CCEE - canalsolar.com.br",
@@ -6645,7 +6643,7 @@
    },
    {
     "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g50gGyAUFVX3lxTE1YdU1HSEZodlEtWXBKNXdyeF9PMm1MZ2JoVm1hYWtNOGY0SXNEWkVBamVrTkVZOG9hbmFXc253aldtVUNVcUlJVjRnVE5UdktVMDZtNm1Sc185NzlGaHljb3BPYkpJYkpjRFJvZENiM3cwYVBxSVpBRE5nNXFVSmtqd3lvaDZlTFRzVnR3d2U4a1BiMEhzVVFzWlFPZVVaQUpVWi1ULS1GQ3J3OGxYLUQxd3c?oc=5",
     "fonte": "Livecoins",
     "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
@@ -6820,6 +6818,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Aneel prioriza tarifas, PLD, cortes e recursos distribuídos em 2026 - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEJoalEtb1Z3eXBvTTlZY0diYzlnOG9lQU9TcEdrXzZOLXBwTkt5WkowczlQQ3gwZWFKamFDNHBvenZGM21iZlJwanRsWmhyM1FRQ2t0bFB4T0kzcUoyZjB0RWw5NWwxX2hjWG5KZGc0cEY3c2syVlIyVUFWMlJqM1lnQmM5Yi05dDVCZkxEUWMzbGNnWXNUcUYyWmpQS05YM0p1S1V0RQ?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2025-12-02T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Aneel aprova nova versão do regulamento de compartilhamento de postes - TELETIME News",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkNTSGxoVzBNSlpuT3NlTG1JaHotcXZfeWgwX0g0T29Wcy1aVFFxbk13b0FTZ3VsTzk2Qm1EVFZuamJiNk55cjZLU2syWVB2S0lJMlN0dGZiRFVHSGxFOHN0eEp1QjZBXzhBclRkaWdXS3pxcWRqY1doaXhjdkpWa0VtT1BLdXpleGV2bjJFbWRPQUdkMmdKakxkUTVoRHJvUE5vT2pVUU8?oc=5",
     "fonte": "TELETIME News",
@@ -6831,14 +6837,6 @@
     "titulo": "Aneel vê avanço regulatório para mercado de energia a baixa tensão em 2027 - CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlFyLTJLZmNMeURtUUU5aFFRb0pYTDlpa2J3VFVfZHBtR1hLc2hMaGRLU2hQeTljeGpsRVpWN25rRkRQNXcxUGtiZGdRVDl4YVNfR3JFVjB6SzladkEwYVlfUUh3UVBoeklaQ1FvR29adkNTMWl3NW5vUUVQd000YndtUWxVZHlUZDhFazZqU1dfOGYzbGRmYjl0RG4xeVZoaTF6VTEyNlBLVWU3b3hDSlZRRmlIaXk5Y0daOE5valNXc2JhdUFRczVJVnlhdw?oc=5",
     "fonte": "CNN Brasil",
-    "data": "2025-12-02T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel prioriza tarifas, PLD, cortes e recursos distribuídos em 2026 - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEJoalEtb1Z3eXBvTTlZY0diYzlnOG9lQU9TcEdrXzZOLXBwTkt5WkowczlQQ3gwZWFKamFDNHBvenZGM21iZlJwanRsWmhyM1FRQ2t0bFB4T0kzcUoyZjB0RWw5NWwxX2hjWG5KZGc0cEY3c2syVlIyVUFWMlJqM1lnQmM5Yi05dDVCZkxEUWMzbGNnWXNUcUYyWmpQS05YM0p1S1V0RQ?oc=5",
-    "fonte": "MegaWhat",
     "data": "2025-12-02T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7212,17 +7210,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Armazenamento de energia: ANEEL publica análise das contribuições recebidas em consulta pública - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMTA4UGVIdF90QTRhdjBjNnZJTEVBN0RwQVliZDRRY1JiN3MzTE10aElPZHV6TXJIb2RyUlpXV3ZDTVozVjVUSWxBc1pGLUlhX05BTHdub0hRT2Exam5BLWZaaFdZbW1FczNRd2xIQzJEbjNGWW84aWRYbklNSFgzQm5MZUhQTmJtN3N6NHFHT2NVRGQtNmR1eXA5bDVPTTJEUDduMXIxenZITTNFaG5Qc3NrM05SSmRjTklzbE9OQVpkSE1ISWstbzhaYWctcXJBZWw2WUJWMmdGMTdYTmdxcEtn?oc=5",
-    "fonte": "GOV.BR",
+    "titulo": "ANEEL define base regulatória para sistemas de armazenamento de energia - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzFsdTRVY3BzSG0wcnNhUFFBUVZ4Uk5Ja0VySlNoME5QVG5BTGJ1bmlLT3hyNWlEZ0tmRWVpbGtFb0IzRFpGa0RPUjgyOVY0NHdILWF5THB5ekdxOWFtUmswdFRNTWtlX2Ffc2VUWUFiTC1DMnpzOVpCX3lFb2xvM1FBTmh4YzBRbHc?oc=5",
+    "fonte": "Canal Solar",
     "data": "2025-08-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ANEEL define base regulatória para sistemas de armazenamento de energia - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzFsdTRVY3BzSG0wcnNhUFFBUVZ4Uk5Ja0VySlNoME5QVG5BTGJ1bmlLT3hyNWlEZ0tmRWVpbGtFb0IzRFpGa0RPUjgyOVY0NHdILWF5THB5ekdxOWFtUmswdFRNTWtlX2Ffc2VUWUFiTC1DMnpzOVpCX3lFb2xvM1FBTmh4YzBRbHc?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "Armazenamento de energia: ANEEL publica análise das contribuições recebidas em consulta pública - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMTA4UGVIdF90QTRhdjBjNnZJTEVBN0RwQVliZDRRY1JiN3MzTE10aElPZHV6TXJIb2RyUlpXV3ZDTVozVjVUSWxBc1pGLUlhX05BTHdub0hRT2Exam5BLWZaaFdZbW1FczNRd2xIQzJEbjNGWW84aWRYbklNSFgzQm5MZUhQTmJtN3N6NHFHT2NVRGQtNmR1eXA5bDVPTTJEUDduMXIxenZITTNFaG5Qc3NrM05SSmRjTklzbE9OQVpkSE1ISWstbzhaYWctcXJBZWw2WUJWMmdGMTdYTmdxcEtn?oc=5",
+    "fonte": "GOV.BR",
     "data": "2025-08-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
