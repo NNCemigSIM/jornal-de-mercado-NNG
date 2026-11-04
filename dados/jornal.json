@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-03T16:57:13.001Z",
+ "geradoEm": "2026-11-04T01:00:04.587Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 10.52,
-   "pct": -3.22,
+   "preco": 10.61,
+   "pct": -2.392,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 84.61,
-   "pct": -0.494,
+   "preco": 84.33,
+   "pct": -0.823,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 30.085,
-   "pct": 7.716,
+   "preco": 30.42,
+   "pct": 8.915,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 185.19,
-   "pct": 1.725,
+   "preco": 185.9,
+   "pct": 2.115,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.25,
-   "pct": 0.665,
+   "preco": 30.3,
+   "pct": 0.832,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 9.9,
-   "pct": -1.688,
+   "preco": 9.86,
+   "pct": -2.085,
    "moeda": "BRL"
   }
  },
@@ -885,6 +885,14 @@
     "catLabel": "Geração Distribuída"
    },
    {
+    "titulo": "ONS suspende geração excedente de energia pela segunda vez no ano - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGpzT243d1dWN0JIUVlVRVVfTTctR0hmM2Itazl1eEp0VVUyVGtGajNrbFhYR0J4bUJIREJTTUFNdlAwMFZJdUl0R0x1R0JZNXZUSTBJVGtfcUJkOXdNd2xpeDQxY1BpWWdnbzI2emNRNmJ1a09YdmtYOGpsZFpaNm9kSFRyYlhSQVJZNTR5MWdPOGJqQjF3amQ5QzlKc3gzQ3NzbHdXOXRLR0M1ZExHTTJGbUJCN195X2lMWmhhdVg?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-08-23T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
     "titulo": "ONS suspende geração excedente de energia pela segunda vez no ano - CartaCapital",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUhZZE9CSzkwMGZGbWU3bURNcnJMYnFvTHlHaVFoUXliRlZmc2NWdU1Ya3pSM05NVWJFQ3paeXJNTkhJczJ6Q3NPV1Y4eV9PaDF3eVZsQzZROExJTUM0cC1CSWtNbkVjVTA2ZmFXNTd4VE1IeFJtUi1QMGJQNXBmcmQ3Ml82VnFOTVdGSlZRUmZxbGFqM0pBSHJqTzBQYWhabUtHV2tTMi1OZjg?oc=5",
     "fonte": "CartaCapital",
@@ -920,14 +928,6 @@
     "titulo": "Para evitar apagões, ONS manda cortar geração de energia solar - ParaibaOnline",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOV9VS0NKV3BqR21MS2ZmNmZhbnZWVml6bDlQcC1ZOGV4MTJUUTBJVlJEWWZmNGlnTElCV1JhcG5pV1JtclNpekR0SVRoTWlyWnBZNkk2LXNKR2JJMjZFOVJWekR6blpmNmdfa0ZUS2xvSHF2RjdQbjllNmt4NjFhV0hPYjZsbGd5T1RIejhieTJ3N0tUSHdjR00wLU51blhOY0dyaWR0emlxSV91SFE?oc=5",
     "fonte": "ParaibaOnline",
-    "data": "2026-08-23T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "ONS suspende geração excedente de energia pela segunda vez no ano - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGpzT243d1dWN0JIUVlVRVVfTTctR0hmM2Itazl1eEp0VVUyVGtGajNrbFhYR0J4bUJIREJTTUFNdlAwMFZJdUl0R0x1R0JZNXZUSTBJVGtfcUJkOXdNd2xpeDQxY1BpWWdnbzI2emNRNmJ1a09YdmtYOGpsZFpaNm9kSFRyYlhSQVJZNTR5MWdPOGJqQjF3amQ5QzlKc3gzQ3NzbHdXOXRLR0M1ZExHTTJGbUJCN195X2lMWmhhdVg?oc=5",
-    "fonte": "Agência Brasil",
     "data": "2026-08-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2447,6 +2447,14 @@
   ],
   "tarifas": [
    {
+    "titulo": "Tarifas devem subir no Norte e Nordeste e cair no Sul e Sudeste em 2027, aponta Thymos Energia - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3dkYyNndQbXQwYTlhbFFlUWxVVWxIQWk0WHo2ODF5RklQZEJHczk4VWVIcW9lN09CaUdDSm9jZG1aeFkxNHhXT0czU0pudXZWNVlndjAtZGYxVVZsd1VLOG9LM2IzWlM3SDc2WDFUSkxpRzg1cVlYeU9BclM?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-03T19:00:52.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Bandeira tarifária verde em novembro e consumidores ficam livres de cobrança extra na conta de luz - Portal Alegrete Tudo",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDJOSEdlYWxvV05MNmlNNHNMeHBGeHIySmJyUE9OOHVvbVJhM21wLXdGQ3BPVDFpeTR0WExEcEJUQzRKb1duQWUwemRVLTJ0bTBJaWl1d19HN2I5UV80YU1DR1lQVUkyVEtTMXFfZjF4QUdidTJmaHliS3hDV1dtN0RWM003bXd6RkxTZnYxMmF1dmJ4el92RlZ3Q2NuemU1cmhjcVhEckNTa19tZk56cmZldUUySk9iZzFUMGtZUGVpUDJDUGNCNWVYdw?oc=5",
     "fonte": "Portal Alegrete Tudo",
@@ -2480,9 +2488,9 @@
    },
    {
     "titulo": "Bandeira tarifária de novembro é verde: veja o que significa - Enel",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV193dl9GeHVjUnFmVkRkSnRqSWdPdmxKbm5BTDFiWURpb0lCR25xZU5DbURFSGxXZTVsNDNrSVFxakp2dElHRlRqTW81OU9PaGxMTGotdzNzUUNrUXVjb3Y5MmdRTGJLY1FJOXk1RkQ3V01jRDA1LWFrOWRLa2gtZUpXY1I1WEs4RVp1RFVKWU1LNGdDMG5QVTBITWJKODFsN2czNHJ3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmo5N00tV2o1akNyTXJiWUNzLTdwcGx6RzY1cFJUWkhUaGR1LVpoOGI5VEZSU0Jib05vMjczZ0lQT1MtZjZFR1R6R0FZb3d2T2lpV1RZaUNvV013WjY3YS02X2J2a3d4THVvUDhOb0s5TzFwTldVZy1RYVV4NFAzUDI5ZUtsQ01TWnhSaEs1bHlZRVBTZHNZN25EWWQzNTJreEdTU1VUQVNXNThEWjlsY2VB?oc=5",
     "fonte": "Enel",
-    "data": "2026-11-01T18:08:37.000Z",
+    "data": "2026-11-02T01:39:21.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
@@ -2629,8 +2637,7 @@
     "fonte": "Tribuna do Sertão",
     "data": "2026-10-30T23:59:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Bandeira Tarifária de Novembro é Verde e Trará Alívio nas Contas de Luz para Consumidores, Anuncia a Aneel - Repórter Maceió",
@@ -4846,17 +4853,25 @@
     "data": "2026-09-26T10:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Portal AL 7",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2RJLUtNYkwtdmxwV0psaGNhclgxN2U5MEl3S19Rc1Q1SmhWX1ViR3I5UGZTYkRSVWtNV2ZGREMtdTZtNTEyQXpaZHZocVdhNHpLdTNsUHBKNjFDbVpTcm9GZDJFQlNfaWVCajAxSThJLTFlVTd2Z0xWU3loYnhUdHFBMEFaZFItd2F0Qk8yN3BRdk9Pbnc?oc=5",
-    "fonte": "Portal AL 7",
-    "data": "2026-09-26T08:06:10.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Procon-MPMG promove encontro com a Cemig para esclarecer direitos dos consumidores de energia elétrica - MPMG",
+    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMkRZNVQ5U05Dc2RWcWFZUlFnV1lRVVhCSEZCanhZOEZHc2ZMZ3hnbEM3SmxwYmZ0aEh4SHN0VXhvWEY2UTlMNWlfTnpkRVVLM2pSNGJYbWhKY083ZDhickdzdTloTVdYOUJibm5sVEFrTm5FeXMwa000ZDQzN2phSU9BX3hFcFZFU09KOXhVYUs1QU4xbjViMWc0Tm1sN1I0ZF94Yi1rWGZYMjNlWnpacFZVOVBNb1lVcHVyVTliRzQ2T1pNdko1SEs4aXdld00xODBGdEtOVEZ3cXk1X0txaWl0V0RTY0tfVzBNRjJEVlc5V2lyTkM2ZUpxRXRoZkRMZmVrQW1hcXhBZkJKTWJGc3dvcDl6QjNOUFFUTG5sZGxpRXhiNlRv?oc=5",
+    "fonte": "MPMG",
+    "data": "2026-11-03T16:58:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL Revoga 178 Outorgas E Libera 7,68 GW Na Malha De Transmissão - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOENvQ2dwSlNWWUlaVEZuYk1vVkIxQW0zVV9haUQwZFlmN1ZhN3BUQndwcnZKRWdJMkN1dExNcGFBSXF5UEZlUzFESlZ6dS1ETlFIbVVZbW8tekl4TjdmbnZKWE9zX0o4eGhaMWZOckRyUW1Ham04R3BlZW1pUlVGX05Ic1BZUUNxal9HWWJhSUZwYVFYYmI0aVZKaGk0eU85Njl3MFpQNlhtT1U?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-11-03T15:57:17.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Aposentado de 73 anos tem luz cortada por conta paga há três dias e empresa é obrigada a pagar R$ 6 mil - Midiamax",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlZJN05lMUFacUNvQ2tON2dzQ3MtT2FVNEU3REEzcGtOT2stajZ5aTRhVUNZQWFXdTlRcGZrUGRlRDY3a2JvVzJjemR5RDNxS1BwYmhZMDJLRDNzdXdJVXNUek1tTVZnd3pfU1hPMTl1MHU0T3FjV0ZuSGJQcEVIdEFiZGV1X1AzR2pGdlBpcXRSRkR3T3BFMmNIRWlZM2FKY05YZU9WbXpJSlJNeWVNU0oyRWZTVU9pdDVRV1Vpd3NiXzdSY19nYWxZTlh1Z2FYUkVYQURrcy1GTF9EcWc?oc=5",
@@ -4882,17 +4897,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - GOV.BR",
+    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-10-30T13:20:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - Governo Federal",
+    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-10-30T13:20:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5025,8 +5040,7 @@
     "fonte": "Poder360",
     "data": "2026-10-27T23:26:33.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Aneel aprova editais para a contratação inédita de baterias em dezembro de 2026 - Tribuna do Sertão",
@@ -5066,6 +5080,14 @@
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcm52YUJyakdSSHEyd1BLVkVKOGZPWXVzZ1hTanRLWDg4QzlUdmtocGxfS19pUXhMUDFjcUMzT1ZFRE1rSEpGQTNmTjEybXRFTWhDTmVfek14SUFYSFJzbjF0T2pQdWZ3SDZCZ1ZoYjFWUklUNzJKRHJBbUlndVZvbUFKYmNiVEN0V1hyMGs4VmVvTEFsUWZOSzZTajVXRW4wRjUwUUxMVHdLc3AtbGtUUXFIRFJhOWJ0aDVhZTJhRzhhN3lhckZYMmNyV2JPRE10dFY1NEpSS0NQLXhD?oc=5",
     "fonte": "Agência de Notícias da Indústria",
     "data": "2026-10-27T18:21:02.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkpGZUQzQUpKRjlER3JBWHFpOFM4S3dmMjY0aVBURm0xSXZkSUlqX2xyRGFuVmlFV2VlRWYwUTF3YmRNTG1SSXlaYW9MQUNZS1VhdzZWdlFydkdySE5aQ2tVY3N1azJOZDhzVU9peVNIZFZSamt4MTNPUURyS05ERmpxbThlanlxNVEwVjdtMnllSGJZU3ZzNnd1WHkzTXB1VUU1akhISGdMcE1SRm0tdVF1R0VlMXFkTzRvSTV5MGpTVjBlUU83VWpSNlYtdkJIallSbUFNSWJEU2cwZDBlUFY2eWs?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-27T18:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5170,7 +5192,7 @@
     "titulo": "Empréstimo Crefaz na conta de luz da Copel: quem está por trás, como funciona e como cancelar - Jornal Plural",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jekw5MGtFUEc5STVXYWFvMllVZGJGTXFMSVE0WlFaWll5S1dhd3VOS1IxdEJOZHBZQUhUUnRMVFlESDJqYWI4QXZtOThmNHRUM3ctRDM1ZGt6ckZNM2FyUi1FcGl2eDNlbWJYVA?oc=5",
     "fonte": "Jornal Plural",
-    "data": "2026-10-25T07:50:33.000Z",
+    "data": "2026-10-25T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5652,7 +5674,8 @@
     "fonte": "MegaWhat",
     "data": "2026-08-17T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Armazenamento de energia: de equipamento complementar a ativo estratégico do sistema elétrico brasileiro - Canal Solar",
@@ -7210,17 +7233,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "ANEEL define base regulatória para sistemas de armazenamento de energia - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzFsdTRVY3BzSG0wcnNhUFFBUVZ4Uk5Ja0VySlNoME5QVG5BTGJ1bmlLT3hyNWlEZ0tmRWVpbGtFb0IzRFpGa0RPUjgyOVY0NHdILWF5THB5ekdxOWFtUmswdFRNTWtlX2Ffc2VUWUFiTC1DMnpzOVpCX3lFb2xvM1FBTmh4YzBRbHc?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "Armazenamento de energia: ANEEL publica análise das contribuições recebidas em consulta pública - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMTA4UGVIdF90QTRhdjBjNnZJTEVBN0RwQVliZDRRY1JiN3MzTE10aElPZHV6TXJIb2RyUlpXV3ZDTVozVjVUSWxBc1pGLUlhX05BTHdub0hRT2Exam5BLWZaaFdZbW1FczNRd2xIQzJEbjNGWW84aWRYbklNSFgzQm5MZUhQTmJtN3N6NHFHT2NVRGQtNmR1eXA5bDVPTTJEUDduMXIxenZITTNFaG5Qc3NrM05SSmRjTklzbE9OQVpkSE1ISWstbzhaYWctcXJBZWw2WUJWMmdGMTdYTmdxcEtn?oc=5",
+    "fonte": "GOV.BR",
     "data": "2025-08-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Armazenamento de energia: ANEEL publica análise das contribuições recebidas em consulta pública - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMTA4UGVIdF90QTRhdjBjNnZJTEVBN0RwQVliZDRRY1JiN3MzTE10aElPZHV6TXJIb2RyUlpXV3ZDTVozVjVUSWxBc1pGLUlhX05BTHdub0hRT2Exam5BLWZaaFdZbW1FczNRd2xIQzJEbjNGWW84aWRYbklNSFgzQm5MZUhQTmJtN3N6NHFHT2NVRGQtNmR1eXA5bDVPTTJEUDduMXIxenZITTNFaG5Qc3NrM05SSmRjTklzbE9OQVpkSE1ISWstbzhaYWctcXJBZWw2WUJWMmdGMTdYTmdxcEtn?oc=5",
-    "fonte": "GOV.BR",
+    "titulo": "ANEEL define base regulatória para sistemas de armazenamento de energia - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzFsdTRVY3BzSG0wcnNhUFFBUVZ4Uk5Ja0VySlNoME5QVG5BTGJ1bmlLT3hyNWlEZ0tmRWVpbGtFb0IzRFpGa0RPUjgyOVY0NHdILWF5THB5ekdxOWFtUmswdFRNTWtlX2Ffc2VUWUFiTC1DMnpzOVpCX3lFb2xvM1FBTmh4YzBRbHc?oc=5",
+    "fonte": "Canal Solar",
     "data": "2025-08-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7254,30 +7277,6 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGtxRGwtWHg2Z3l2OW9WcTl4MEhyUFQweUtxc1NPMDNXQkpLcGVKN1V2RG9BQnRFVFcteFAtRDlWS0p0UlJzNEtfUVB4Tl9aWFI5YlFkdDJmR0s5QUlxWmNwa3FxU2V5UWREbTJoeGZpcXh0X01HSms3RzhJV1dXakpBTW4telRPZGlmcy1raDdFbURvWmNvdWtJRTZwNGsyQi1UUGlFTjlsU1I5a2JOTkRuWVBEUHdJOGxEMTdzX2NfZS1wRlhUZGxGemR4QUtCMmRZWjA3Q2U?oc=5",
     "fonte": "www.gov.br",
     "data": "2025-07-21T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "O papel da Aneel na modernização da regulação do setor elétrico - Consultor Jurídico",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmFSZlloc001NDF3WkJiOU5ZTFBXSkwyVEFUY0tacUxzTVlpeEJLVFhMYXhXTllxSUl0WUVhTWpzZl9aaDhfMGVMY09saUljNW1tWC1ZNDJDUUstSE5SOTZwTjd6UzdzQjhhakFkMkR1QW1Db2VXbHJXUDhhbUROd3FaWWN4OEN2ZXlXMlo1ajFrRjNLWWtUUXBleFR5WldTQ0hkaUdhbUVtOHNNYjRWbGhyd21FdjVzeGdWMU9lcTUtaDcxSExLc05vSQ?oc=5",
-    "fonte": "Consultor Jurídico",
-    "data": "2025-07-20T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "O papel da Aneel na modernização da regulação do setor elétrico - conjur.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmFSZlloc001NDF3WkJiOU5ZTFBXSkwyVEFUY0tacUxzTVlpeEJLVFhMYXhXTllxSUl0WUVhTWpzZl9aaDhfMGVMY09saUljNW1tWC1ZNDJDUUstSE5SOTZwTjd6UzdzQjhhakFkMkR1QW1Db2VXbHJXUDhhbUROd3FaWWN4OEN2ZXlXMlo1ajFrRjNLWWtUUXBleFR5WldTQ0hkaUdhbUVtOHNNYjRWbGhyd21FdjVzeGdWMU9lcTUtaDcxSExLc05vSQ?oc=5",
-    "fonte": "conjur.com.br",
-    "data": "2025-07-20T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel adiará por até 60 dias decisão sobre regulamento de postes - TELETIME News",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzktUU45R0JYSnNTeFIxdmtNU2VKdk9aZXBSc0VYa25EbzFubjJtVFFrM1pzdVRwY2dnWjAzdHRIU0ZURFNvUDBoWnBmZnlPNnd2RFRFelhqbW9PM0pkNk5Cd0FnaTBTcEVwUnlhc1F2SlpjbUV2LW1EcHZtY3FfOEh5WlU1Uzh3MmRoS0V1amg1TlhwcmhuOG9fLV9WSlRBamc?oc=5",
-    "fonte": "TELETIME News",
-    "data": "2025-07-14T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
