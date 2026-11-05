@@ -1,39 +1,48 @@
 {
- "geradoEm": "2026-11-05T01:15:02.096Z",
+ "geradoEm": "2026-11-05T17:16:39.747Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 10.99,
-   "pct": 3.582,
+   "preco": 11.14,
+   "pct": 1.366,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 88.45,
-   "pct": 4.886,
+   "preco": 88.235,
+   "pct": -0.243,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 31.55,
-   "pct": 3.715,
+   "preco": 28.245,
+   "pct": -10.475,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 194.51,
-   "pct": 4.632,
+   "preco": 193.045,
+   "pct": -0.753,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.91,
-   "pct": 2.013,
+   "preco": 30.35,
+   "pct": -1.813,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.2,
-   "pct": 3.448,
+   "preco": 10.19,
+   "pct": -0.098,
    "moeda": "BRL"
   }
  },
  "categorias": {
   "gd": [
+   {
+    "titulo": "Aneel propõe regras mais rígidas para energia solar por assinatura - Paraíba Business",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkl0VUpud2ZMTG1xdlVQOVg2bmpUTEZqQzNqMzltd2tBalJVSDU1bXVPdl9uaGp4eS0yOGFoRGpOdmRMVTBhNWtCZ05NOTlyT0ZndG1SLUh3QXhtUWNtWkExMjBoSHBlVFRGTlBYS0cyS2Q0bjlzeXEyd3Ryd0dOcS1PYWE1WmtlejFWcUJxLUNfc0pLaGlXWExFZUc5WU0?oc=5",
+    "fonte": "Paraíba Business",
+    "data": "2026-11-05T12:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída",
+    "imagem": null
+   },
    {
     "titulo": "Taxação do sol: como funciona o marco da energia solar? - Conectado News",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUdNc0ZqRkNiTGlwSENJSVJZZkdZYWN0Y05zVGVlbGpWMTRkZmFlNjhmaVBkdEVYWWt3TFRraVk4TVl2cXlqZmxiOW5OWXNhT0JSZmpyMVIzLW14X2k4UkdfcG8yVkRJbjZNLUZ3ZjkzblVsUGNxbXNiYVhyR3dpZzRCbjl1cFk1MW9yaE5KaDdOZE1RSFhZQTNxV3g?oc=5",
@@ -50,6 +59,14 @@
     "catId": "gd",
     "catLabel": "Geração Distribuída",
     "imagem": null
+   },
+   {
+    "titulo": "Taxação do sol: como funciona o marco da energia solar? - Portal VV8",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXBLTVNUT1p3Qk1TQS1TeDRWUFBGTEU0bmQtWVo2QVpmSEpQbGRuZmRyVmVlNDZqbzljRWxveVhrWVc5c3VXeXlQRzFhaWYxSzBtYVNzVVd4U0I4UEMwVlpFRHJWUHgxN1oxSG5sWkx6YkVzNmhTYjc4NHpKeFE2ZEMtZlRtblZJaF9vUFM1TGd4bjFKejlj?oc=5",
+    "fonte": "Portal VV8",
+    "data": "2026-11-04T18:22:41.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Fotus aposta em BESS e crédito para ampliar atuação na geração distribuída - BNamericas",
@@ -2428,25 +2445,26 @@
     "data": "2026-05-01T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "MMGD sob pressão: o Brasil flerta com um cerco regulatório à energia solar - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZE9raDdLVEVuakQ2WW8xVEkwdkxORU1SX2Y5eGx3c1FDZ3ZsbDJoX3Q3WGQyQmplaV9KRjVqeXYzdERGY2VEcTBielhCUkNxMHhqNnhRREdzM193Y25NLXVxaVFyUHhvaWtMMjkwSWM4eGJZMnhoaGk3ejRxZzYwUg?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-04-29T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Aneel punirá 'duramente' irregularidades na geração distribuída, afirma diretor-geral - Agência eixos",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzBxbWpsVm9XdXBXQ3Jld0NieGEwY3RIZURWN0xtUFQyeHNqMHVnTDZSS0UycTV3Zkl5YVVGYlQxTFd5Qm4xZV9sakJtc1Z3S3hXOGhxUWFJcEdqZG4xeUcyQ0RyUE42S29QZXVSelp5ZlQ2U3VaSkVCVWxIZWkzeDR5OGx5cktOYVh3QUVNdFZrYWdUZFFKTXZwYU9kUDFvbzJZR0F4dmJvYlVXRGpXZjdURmdiMnV3b2g1TlN3?oc=5",
-    "fonte": "Agência eixos",
-    "data": "2026-04-29T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
+   {
+    "titulo": "Conta de luz segue sem cobrança extra em novembro - Chuville Notícias",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUJDQ180N3VPbDNIVVJBWFFxTWxUQndfVS1wSVVNTlB4QmtnRUw2cW85RjlyOXBFRDExTEpvVGk1ZTE4UHdsOXkwT09HTGVtMElBZEtKeG1RTFF0N005THAwVVoxUnItU3V3N2pSM0hkbDZmLTc0QzNsOU5jZW9JaDEyYlM?oc=5",
+    "fonte": "Chuville Notícias",
+    "data": "2026-11-05T14:48:55.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "BANDEIRA TARIFÁRIA VERDE GARANTE SEGUNDO MÊS CONSECUTIVO SEM COBRANÇA EXTRA NA CONTA DE ENERGIA - mundial.fm.br",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnVEVjVxLUdBZTVaNHhfZVBQekNEWmQ4d3BTSW5xMHF3VDYxM3ZrV0hrcXI3UTYyVUZvckIyMkZIRE1CR1kyOXljRlg1WURJT1dyN25tdEFmTUlFZGluYmNtQm1GZ1Z1MzRVSUthd2VRZ2VOOXpfaDJINlE0WFQ2ZTd5aVMtVnN0V2pvbUowdkpQMk1pX1ZrRzlpRmd0OHVrM3I4TXNhSV9uT2NSVldZbjRjdnAtZGI4eVE?oc=5",
+    "fonte": "mundial.fm.br",
+    "data": "2026-11-05T12:04:07.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
    {
     "titulo": "ANEEL confirma bandeira verde para novembro e conta de luz segue sem taxa extra - Varginha Online",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1kwakNubnNPeXprWW50ZGlMcE9URl81NFFPamhwRER4X3hGTXVMQzJqRE4ySnl4TFBkZUhkUVRaa3MyY3JWZFlxNUtiRDFLekpVcXNQUUdyVDFfWjlnNGd5QWxxeV9rSDQzOFh2c1lfaVEtRkg4d3ZLaFBFSkJPQV9nbzRXM2trS3c?oc=5",
@@ -2477,8 +2495,7 @@
     "fonte": "A Voz dos Municípios",
     "data": "2026-11-04T12:36:25.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Novembro bandeira tarifária da conta de luz será verde - A Voz dos Municípios",
@@ -2526,6 +2543,14 @@
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBubzk2cEtWdk5rVzViOER0MFRqM0NYdGtnSE5XejItcWxoYzRyN3F5Y3A2VVkyYkZNTkp2bko3Q1puajhPMnBqT25Wekt0YjNYWVhnQVJJczF1a1llbFlaTzh5SVRZZnFXSUppeU9HYnV2djFLYWNJ?oc=5",
     "fonte": "TAGD Advogados",
     "data": "2026-11-03T19:47:10.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Conta de luz segue sem cobrança extra em novembro em Douradina e região - Portal da Cidade - Douradina / PR",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWgxZnZfdkJBS0ZpVGpBOTYzcmVqaHpEVmVWcUxTOERmRzdHS2c5c01ZZzI2d1hnUG9WalpYR2RYQzRORy1zQ2RhdVhvWTVUeEZnSGZTQ19wekJZdDRZTlhQWi11SE5TM2VBZmppcUhjM2FYR2JtSkNJckhDZ08yUEtaa1hTODNqS25oZEQyU3I5bFp0bjc2bTl3T1JPTm9zZHJfN1RJbDJtRVMyMkFrbmRKZS1WM09YdDlPOEFLQ1pKSl8yWlY0X1Bpcw?oc=5",
+    "fonte": "Portal da Cidade - Douradina / PR",
+    "data": "2026-11-03T19:08:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -2685,9 +2710,10 @@
     "titulo": "Bandeira tarifária de novembro é verde: veja o que significa - Enel",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV193dl9GeHVjUnFmVkRkSnRqSWdPdmxKbm5BTDFiWURpb0lCR25xZU5DbURFSGxXZTVsNDNrSVFxakp2dElHRlRqTW81OU9PaGxMTGotdzNzUUNrUXVjb3Y5MmdRTGJLY1FJOXk1RkQ3V01jRDA1LWFrOWRLa2gtZUpXY1I1WEs4RVp1RFVKWU1LNGdDMG5QVTBITWJKODFsN2czNHJ3?oc=5",
     "fonte": "Enel",
-    "data": "2026-11-01T18:08:37.000Z",
+    "data": "2026-11-01T18:08:06.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Conta de luz seguirá sem cobrança extra de bandeira tarifária em novembro - AM POST",
@@ -3058,6 +3084,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Bandeira tarifária verde segue em novembro, diz Aneel - ES Brasil",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Wd3FvUjdZVTQ2emJIVmtQNTV4R25JNEthY1BUTnNoREZ5ZUhXSWEtX0xOd1M2RUpfem82bG5TUFd2OEF5ZlQ0eHJwRnpMcW9CSkNTd2p1cGQzLXkyYm56U1VJVFREZzl2ZEdKU21Jem55Zw?oc=5",
+    "fonte": "ES Brasil",
+    "data": "2026-10-30T21:35:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Aneel mantém bandeira tarifária verde em novembro - Blog do Elvis",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckpEMlpNR0M5Y21KN2dhajF0d0ZVTHJEWFRkaEIxc2dRVXpRa3FPRWdjZEV0X1BsWWZ5Mk9LWVVUWXVYNURScXFXTUJJdDJPTHJ5a1VoSDRfaDN6Q0U4dXA1R09SclJod0hqTXFadDZobDlEelFFdWN4ZW05VzBRdWNydy1uSm9tNFIySmNlTFU0SmM0Rms5SEt3?oc=5",
     "fonte": "Blog do Elvis",
@@ -3160,8 +3194,7 @@
     "fonte": "G1",
     "data": "2026-10-30T20:41:24.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
@@ -4823,41 +4856,41 @@
     "data": "2026-09-28T06:00:14.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro, anuncia Aneel - RÁDIO ALVORADA",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ19XRXhRcDhFOU90T2JQQzJIQ1lZazA4R0JWRUVqRHZHdVlHYWtQQzVWVENuY0pGZW51VUtXNXdjdzBwX2xZSjZpZTl6blpFZEJvVXFzb1pXRV8tZkR5SnlZdXoyMDlOdkl0MlFGS18tcEctNHBBZHJvTUMwWV90SFl0OTlEUXlBaTJDVmVXRE41TWJpX3BxWDVDYlZkSEFQNDY4OGdyUjVpVkQ5SFRQNl90aw?oc=5",
-    "fonte": "RÁDIO ALVORADA",
-    "data": "2026-09-28T06:00:14.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro, anuncia Aneel - alvoradafm.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ19XRXhRcDhFOU90T2JQQzJIQ1lZazA4R0JWRUVqRHZHdVlHYWtQQzVWVENuY0pGZW51VUtXNXdjdzBwX2xZSjZpZTl6blpFZEJvVXFzb1pXRV8tZkR5SnlZdXoyMDlOdkl0MlFGS18tcEctNHBBZHJvTUMwWV90SFl0OTlEUXlBaTJDVmVXRE41TWJpX3BxWDVDYlZkSEFQNDY4OGdyUjVpVkQ5SFRQNl90aw?oc=5",
-    "fonte": "alvoradafm.com.br",
-    "data": "2026-09-28T06:00:14.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro; tarifa extra amarela deixará de ser aplicada - INFOSAJ",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFYyUDNzdW1ZVXBfZzVVUERMZHRGSzh5X2ZPNmdPUlZDNGtuRnNxZDBTaTBxWkwwLWN3TDFITWhrV2tCSGoyRzBNcktEVVh4RVNQd2NXUkVRak9Ua09jZ0JkNGE5QTU3eGUwU1dOa0NxdlVwN1BfZjhWaXJkRXdjQ1ZaeFFBWXZ2Sk1VZEY2a0R3MG9jQi1tZ1NtVFRSTUNkaklhU1Rma2w1YTh5cFYzSk5mNlVDMEdvaXlCQ09WYlc4RUVBTEZ4NTI0cFZ1YW8?oc=5",
-    "fonte": "INFOSAJ",
-    "data": "2026-09-28T04:09:04.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz volta a ficar em bandeira verde em outubro - Bem Paraná",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWllxZEtlLUdfcDFSaWd6YmZrRGlucWU3S0N2UTg0VEt1WVJSZEc3SUNMRXFRWUpBS3hwUVUyZ1NCekFWRFFpNUFIYW1QRTI5Z3hHSzkyTmo3amt3NVpaNzdhSmZxeF9pWUpJeHRIN2xVa0JLTnJvVGRqYmhwcERWVkdTcnJzc1ZTTUQzRnJHbUZzQ1NsSEcwblcyaFhLYVZUamVn0gGoAUFVX3lxTE52c0R6X2ttaUVYdXE4anlFRHJjQUZmVFIzUktBTFlnSjBJcXJLNThBcURwdlZnZ1c5MjluT010bWVyWGpXMEw3NjFqNXN5TnRyRFZsNW5zeGg4WmVyYjFkRHM1TGNJeTJmNmtSWS0yb3ktTC1iU2JkZzRBeFNUOWFHb2k4WHpITUdMMGtQbVpKZ0xoRDNXWkhQcU1Dc1Njc19Ua2NoZk9jVg?oc=5",
-    "fonte": "Bem Paraná",
-    "data": "2026-09-28T01:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Câmara aprova PL sobre uso de postes após impasse de agências - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUY4cWZFMmw3aktRNEJkZklpS2dJU1Jmb3NCT3J1NkJHN09EaXpGcHZ3R0F3R2RIT3ZsbHNVckdMcUVCV2JZRUVldVBZY3IwUy1KUEpoRlJ3dVpOaGhNWVBKeFV2Nkc1SnAyU0FPbk5rUzctb25DRkRpOVY0R3hxUjI2ZWVMcmFteFByMjZ2ZURXUTZyYXU4YXVlc2s5N05jMnBzQQ?oc=5",
+    "fonte": "Poder360",
+    "data": "2026-11-05T14:37:55.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Câmara aprova PL que dá à Aneel e à Anatel poder para definir preço de postes - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzA3bDRkUDhhWXMzSnVpRWdqYzFoVTVqMExGSm43Y1RWU1FUNTJhdXY3eFdYS3JEUF9tVDhoRVo1T3phb3pvckRvX3BxbVhnY1hpWm9KRWg2LXRQUUVMUTVfSXlqdkxPSVp6bUxZSkNMYWVoR3pfbWRvM245TXAyb0VtRWJwd3BGS0c0SkVEVFRpME5wQlplbVBiTVpteEN0Rm9HWTNfRWVjSHMtQjdIeFFCTjFJOFVWSFhz?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-05T12:48:37.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL revoga autorizações de 178 usinas solares e eólicas que somam 7,8 GW e abre espaço na rede de transmissão - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNVE5xOUx1TTY0QzRDTEx0aTFuYzdhaDQ4ZDFZbUdYcUltZTg2OThVS3Jyd2FSdWpqX0hiZHg0Q0EzeVJqU1FnRFlPXzI3ZHNhb241VDQ0S2Njay1mMGltZ3pNeVlfWE11S0xkOF9XTWNaNjNyaTlXTXl3Zi0xZFpTTTJHdVNzTnBSdThhOHZneDFIWFhwZFdPcHNTemI5TFNjcjFsLTdBWUdFYmd2dzBJcHJzbUthbXlfeldYREpPT0NaejdUQUEwc21nVjkxV1MzVkQ0QldLSm5nRkItWDBvaHIwck1VNktBOWZzYkFuR0hTcThtQkVUSTdrYWdTdGsweFUzMTVyYWllLXNQZ09pZV9NX0JTcVlSS1Y5czU0WExwOHQxc3hsc2ZTc0c3RzRsNHFxY2tib05vcW9KZUtxWV9PWERHNlkyVjAxT1VTNC1rUDIyVzNoSGJKNTRGbDl6SFhLU3E2OXZWbFM1S2VXUDFIN1dLaHoway1DWnZsQUFKNlJTTU55THNzSFFVazIyc1FjcjBzNkdfdlMtU183WTZvZWFtUGlOVGhDWUtvbVN6aW9aMmZMYncxWG8?oc=5",
+    "fonte": "CPG Click Petróleo e Gás",
+    "data": "2026-11-05T07:36:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL reformula obrigação imposta à Energisa Mato Grosso e mantém multa diária por auto de infração da AGER/MT - atlaspublico.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRaSnhwX3g2QnhIZGNQYk1wQjFzMkhvZzNFSzJQbTlfb3JxLWIyNEpKQ181bHRUdndBdlFVWk12c1FwREsxaEtlMVZkZmR1a1ZNTzNuME1VS01JZk1jcURiN2xSNWlMT3l3Y3VrTXB3WGFnT1JHZExBdlNIbGZzNzBKYTNrSTU0aTRNTE05bWNSU0dYNmNCblJoYk1rbW5nVmE0?oc=5",
+    "fonte": "atlaspublico.com.br",
+    "data": "2026-11-05T06:04:43.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Taxação do sol: como funciona o marco da energia solar? - Arena de Notícias",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGQxRHhQMTFPUjFNRm02b3ZzVlV6X3BDSWN5SUtVOHNHa1lQYm5mazJTcHZ5anlPS3otS184aXQ3enV3SlJQRlNJNDhoZUFhS05xSm1vZG82NUVuOW9XMmxjT1FUV1RKMGhGaGNTTVc1UWp6Um1fMU51REU3RGxtaU9DekhDNjlnQzVOTjFiUHg2RkZJQklsZFNpVktHU1lN?oc=5",
@@ -4920,6 +4953,14 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGdBQkp5YzBIRGpQb05GQzdSbnc3QnZjdHAtdXM3U2dzdVJOM2FQanNyTkN3REdKZm1Kb093X25kOXNWZzVmVGFVbzBTT3UteFc4QVMyYkNKMFRrd241SkNsQXpUTHVUSm9oSF9UN3Uzc1lrSlZvMXh3Rnp0eVU1Zl9CRzlSeTVORm83MFJUN0V6ZmRkSkhBVmJYZVRBZ2JnWjRZMVdfVGpMUjk2SURIb241Q3A0YXc?oc=5",
     "fonte": "DataPortuaria",
     "data": "2026-11-03T22:25:28.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Folha da Região: Apagões e picos de energia preocupam moradores de Araçatuba - sampi.net.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3A2NXJwbTdHVWJ0WVlaYUhXS2hEMzlWdU5ONjVNT0UwVnVEaktGQU45dnFINGhXZFdjS1ZjdXRjSjhlMEdHVGlEdF9tbTh3YzRqVmtUV2l5Mm02U2ZOSFJ2eFNlcGFrUDRrZ2R6dWZiWENJSkhFVnJ3Ynd6N0lTeEtFRjVXV1liaF9UUzFKUnJnZnYzTGNEeW01VUNreFJjNUpuUS1tSDhaOHZzMmJMeXQwVk1ZZDl2dlc5UjhNdHdMWXM?oc=5",
+    "fonte": "sampi.net.br",
+    "data": "2026-11-03T17:37:42.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -7239,46 +7280,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjM0Q0w5dVhFV00wYUJNdTZaWDRrbHUxVkxkbVRyWHBUcGQ4VzFTenpFVUxmMm41WG9UaUs2Nk95VUlCVEpnYW5fRHJSMDRjWk5XaTlyQ3N5djZ0ZWh0aVZGaVZiMHBhcDU5VW5vWkJnX3laOFUydWpzTkpIaFhRck1lS21LTGx5cno2b1BRWGJmLWx4VEl5cWFFLXpOOTRxeVRrbQ?oc=5",
     "fonte": "TELETIME News",
     "data": "2025-09-08T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Jornalismo",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
-    "fonte": "JOTA Jornalismo",
-    "data": "2025-09-08T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
-    "fonte": "JOTA Info",
-    "data": "2025-09-08T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Entidades do setor elétrico querem limitar geração distribuída para reduzir curtailment - jota.info",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dYdTZ5X003MTFEX1hyTkw1RENUOTlsQVRHUnk1aWdpUE1OV0p5UnFTc2xfNF9RSUNxY01abmZxNktxa2RJbHBJUEdtV2NDMlljUWc2NFJZMU52M0luWHR2amF2VXJjWW1XOGg4NFhfcGMxX0kwYks1cFViLVZnejJiQUsyQWlROHRBZjJ4MEJNS1N5V2hBQjh3NkotUjVlcVVyaURBS0pOWi1fMzdUZk9icTdzenhO?oc=5",
-    "fonte": "jota.info",
-    "data": "2025-09-08T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Diretor da Aneel defende mudança na regra de ressarcimento do curtailment - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFZMUmRmUUlQdjYwUVVYemtFZlJJOElrbTJ0MFd0MkJSNlFfakJwQWVxcjlRN1VJVDBCcDdCalpwWVRKRmg1SnFaTHBFdmVqWTc5STJ3WUVfcV91N3JqYU1ySHJxT2I5eVBrRzRlTEoyTDFBRFJkdmtPM0x5alA2UHk4MjIxdmJrQzJMSWpXVWNQOGJib1VRb2tFV3VDTUFWWVNjSWV5OHcyVGp4RnVLSHVR?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2025-09-03T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Agência Nacional de Energia Elétrica (ANEEL) - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzMmFFLWk3QWxyaWpHRGFDUUxmbC1NYUtORkxqMTUyT3hZYV9xSUJ5UEx2d3dPWFExZ2lfeEY3UGRsVm53M0VNc0R0amRzSkJUUWpyRmZqeFhmU0FNSjVWaEVJRzBOMnd2LXNBNkhEcTlkUk5qUm53?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2025-09-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
