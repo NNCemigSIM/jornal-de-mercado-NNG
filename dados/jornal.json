@@ -1,47 +1,55 @@
 {
- "geradoEm": "2026-11-06T01:20:13.872Z",
+ "geradoEm": "2026-11-06T16:41:18.880Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.18,
-   "pct": 1.729,
+   "preco": 11.61,
+   "pct": 3.846,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 88.25,
-   "pct": -0.226,
+   "preco": 87.35,
+   "pct": -1.02,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 28.97,
-   "pct": -8.177,
+   "preco": 28.79,
+   "pct": -0.621,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 195.76,
-   "pct": 0.643,
+   "preco": 201.56,
+   "pct": 2.963,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.64,
-   "pct": -0.874,
+   "preco": 30.92,
+   "pct": 0.914,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.16,
-   "pct": -0.392,
+   "preco": 10.4,
+   "pct": 2.362,
    "moeda": "BRL"
   }
  },
  "categorias": {
   "gd": [
    {
+    "titulo": "Geração distribuída solar chega a 54,9 GW no Brasil e amplia mercado do SNEL11 - Fiis",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMENZcUhROEJVQi10X1A3SmFxaXBQQVAyZ2c0U2pHTjVwX25pYzBMdWRhMkE1ZHZfclNTTlQ1UDY5M3VrRXR0NWlXakxPaHRabHN0UDlweTQxVVBYTWdsc1VaYk1jVDNvODltSnhPQ0duZTk4R0t4d2EyRlY4cUh0dnc2V2JDRXI0VkNLeEFHNHBuTVlXVksxdDZTcUo3d0lhaEE?oc=5",
+    "fonte": "Fiis",
+    "data": "2026-11-06T08:30:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída",
+    "imagem": null
+   },
+   {
     "titulo": "Aneel propõe regras mais rígidas para energia solar por assinatura - Paraíba Business",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkl0VUpud2ZMTG1xdlVQOVg2bmpUTEZqQzNqMzltd2tBalJVSDU1bXVPdl9uaGp4eS0yOGFoRGpOdmRMVTBhNWtCZ05NOTlyT0ZndG1SLUh3QXhtUWNtWkExMjBoSHBlVFRGTlBYS0cyS2Q0bjlzeXEyd3Ryd0dOcS1PYWE1WmtlejFWcUJxLUNfc0pLaGlXWExFZUc5WU0?oc=5",
     "fonte": "Paraíba Business",
     "data": "2026-11-05T12:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Taxação do sol: como funciona o marco da energia solar? - Página 1 MT",
@@ -2437,14 +2445,6 @@
     "data": "2026-05-02T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "RN alcança 122,2 mil conexões e supera 1 gWp em potência instalada de energia distribuída - tribunadonorte.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjNGVEFmclMtVGFmNVA4bTJDMDNyc1Jwby11VEZWckFYMU9qOUx1WndhUDRRWk9fLVRLVjdOZThLTFFaRFFRMDVJeTlfNjgyWkk5V2pzQkNOcFlwTkdNazBOTndTc1RHTG90S0dBN2ZDaTZVVmtzaVdpOGVtZTd3M3o5d0JSMzU2c3hmQ090WnV5Sk9TVXVad1FCSlJvbDAwUF9JUFRoM2ZRZEJBSW1hZGtIeW9UaW03ZHctS01RZlkzYUt6ZkJF?oc=5",
-    "fonte": "tribunadonorte.com.br",
-    "data": "2026-05-02T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
@@ -2462,8 +2462,7 @@
     "fonte": "mundial.fm.br",
     "data": "2026-11-05T12:04:07.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "ANEEL confirma bandeira verde para novembro e conta de luz segue sem taxa extra - Varginha Online",
@@ -2567,6 +2566,14 @@
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3dkYyNndQbXQwYTlhbFFlUWxVVWxIQWk0WHo2ODF5RklQZEJHczk4VWVIcW9lN09CaUdDSm9jZG1aeFkxNHhXT0czU0pudXZWNVlndjAtZGYxVVZsd1VLOG9LM2IzWlM3SDc2WDFUSkxpRzg1cVlYeU9BclM?oc=5",
     "fonte": "Canal Solar",
     "data": "2026-11-03T19:00:52.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel mantém bandeira verde em novembro; veja como fica a conta de luz - Jornal Folha do Progresso",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3VmYlhvUFVOUmxHaGc1cjlGMUUycVh0eWN3bjJEbDNWazZ5ekk0QjIybkJkdnU3cDNQRDdHNWlhUTFHd1RWTmNFNHRvUXdJVlNPN1JsODd5dkxOMElJUEUtaGhEVlBVVHBVSXpVakllNTFfTEczYndLODFRN1dIM2hQQVFmRnlZUlpYLVR1cHgxaVFLemRSRktrOV93VHJNbmkzMDVRSUQ2NGs?oc=5",
+    "fonte": "Jornal Folha do Progresso",
+    "data": "2026-11-03T18:55:14.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3202,7 +3209,8 @@
     "fonte": "G1",
     "data": "2026-10-30T20:41:24.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
@@ -4848,17 +4856,42 @@
     "data": "2026-09-28T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: outubro terá bandeira verde e sem custo extra - Goiás365",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1RrVXFzUDlGbkxJZDdBT3hYblM5dkFtQXRoZVE2N3kzUHd4T2RoOVFrWV9uazRYS2tXMUZGcG1Ja3c0dHFqOERPOFktOGtwbzFJbnlEQWNkR0VFUF8wZ2pEdmlfdU5ZOUszTkxPT1JjazNJb1Z6ZU50WGI2eXByT3RsQzlPZnVERHlrNzhFRU4?oc=5",
-    "fonte": "Goiás365",
-    "data": "2026-09-28T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Energisa afirma não ter sido notificada sobre ação do MPRO e garante ter cumprido metas de energia em Porto Velho - News Rondônia",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNS1sLXhuWUpteUdDdjh2Yk9SWEdoZ2ZVcG82cXVhWWNsRWFhSGJuV2RyX3YyRjFDSnhPVnhpQUV4VEhYeF9US0E1QUlzNkNGaXI3bmxkUkNsZ0dQMzVvNk8tQ1dsUkZkWDl5OHdmb25JQ3l2VEVyQlY1b05Ma2Eyclp2ZXRkcl9YaTlZbVBsb2d5X1ZtQmV2c1RmaGJtVHNsLUhScDJNVTA3N1M4UXlwVDh1OEl0UzdLWTctUVhjMzBNY29kSm1WelZ4RndXYUF3dnhqY2M3Y0otb2YtZXQ0c3d2cEFMalJDNEJUdGNZSHJVR2V5?oc=5",
+    "fonte": "News Rondônia",
+    "data": "2026-11-06T14:48:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Nota Energisa - Tudo Rondônia",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sLTR4Smw1ZzVVOTRUdkc4bFRNNFVsaHQ4N0tIRTBfdkx4RXNfQjBwNXF1a0xkRG9VUUlXdXlsQzBmLUVPbHRVSEpyY3pkUlNZTEhhQzhDa3dFRTk5TXNEaGdmdk9nRVl6RWI5aFlFU1pDQQ?oc=5",
+    "fonte": "Tudo Rondônia",
+    "data": "2026-11-06T14:38:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "‘’TAXAÇÃO DO SOL’’! Cobrança pelo uso da rede atinge 60% em 2026 para novos sistemas de energia solar. - Regional 24 Horas",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNclVaQWhadkV3cndDeEpRN1gzRHRJQ01ZdWotQ3k2RENxZDZkNmRmaWpHeFFzQVJCTUdOMUVXcUd2WF8zQ2hwMjJmNnA4NHFuVjFOdWdUNjJ5MFpKTFE1REl1UGxPNlJGSmtieEdWR2VmMUtvZGozck02Q3Z3WXVJM09qa29HNmxUc2Z3aXJveVBnTGF5cWlQT3NsZnpVVGhlaWh3cTZycjh5RXRVaXM2ZTJydnN0UElvTzlTMDJLYWdWeU1FaVZJRzlBZmNoWERUSWxPUHMwdFNLc2xHR0p5dEpHa2NWOHFONlBqQUloZTBmZ3pNSGR6YnBR?oc=5",
+    "fonte": "Regional 24 Horas",
+    "data": "2026-11-06T13:38:31.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Quase 280 mil famílias no Maranhão podem perder a Tarifa Social - Jornal Pequeno",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkphakxkSE5oSDBTdk4wVWRCLXZDR201RlBvR2RDaEVjZE93QUlGd0xMX3U1QWdGUjZ1bURMWHNHSkpSN3pTbTdQa3NWRS1VYXZfOExKTncyZDNuWmtMVmJNb3ZJazdHdjhYbWkwSUJNVUF2c0tvNGx5VmVSSEkyT1B1eVZTMWpfeHFndVFYQ2cyVV92RUhvX0VWTG1RN2owWDdhNUFaQQ?oc=5",
+    "fonte": "Jornal Pequeno",
+    "data": "2026-11-06T09:48:58.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Rádio Caçula recebe reclamações sobre cortes de energia antes do prazo e alerta consumidores sobre seus direitos - Rádio Caçula",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXdqNzBYUTBSYk83elowTWxOWVhVOHM1S2ZVY2NJVk4xUE1rdFF6c1NIY0tURHlMZ0tORmF5UE1oRy1leHYtdkxILUlfSkZmQXNwbGNhVXlmS25pVlc5R3NNdkdpYktCSkJtMUgzLWFfNDFrMDlYRm5PWjFxSGs3SzZaV0RybEF5WVJuNmNfVEdxWHpRdUcyRms1LWMtT2ZLNmRKemt3TWh5SmJEVURfU3FYN09YSjFaNmQ3aXRIdGFIbFY5RWJqajlteTBORTl1am1ObVJEejNuVHhL?oc=5",
@@ -4898,7 +4931,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-05T12:48:37.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "ANEEL revoga autorizações de 178 usinas solares e eólicas que somam 7,8 GW e abre espaço na rede de transmissão - CPG Click Petróleo e Gás",
@@ -4929,6 +4963,14 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGQxRHhQMTFPUjFNRm02b3ZzVlV6X3BDSWN5SUtVOHNHa1lQYm5mazJTcHZ5anlPS3otS184aXQ3enV3SlJQRlNJNDhoZUFhS05xSm1vZG82NUVuOW9XMmxjT1FUV1RKMGhGaGNTTVc1UWp6Um1fMU51REU3RGxtaU9DekhDNjlnQzVOTjFiUHg2RkZJQklsZFNpVktHU1lN?oc=5",
     "fonte": "Arena de Notícias",
     "data": "2026-11-04T18:22:47.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Taxação do sol: como funciona o marco da energia solar? - Portal VV8",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXBLTVNUT1p3Qk1TQS1TeDRWUFBGTEU0bmQtWVo2QVpmSEpQbGRuZmRyVmVlNDZqbzljRWxveVhrWVc5c3VXeXlQRzFhaWYxSzBtYVNzVVd4U0I4UEMwVlpFRHJWUHgxN1oxSG5sWkx6YkVzNmhTYjc4NHpKeFE2ZEMtZlRtblZJaF9vUFM1TGd4bjFKejlj?oc=5",
+    "fonte": "Portal VV8",
+    "data": "2026-11-04T18:22:41.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5038,17 +5080,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - Governo Federal",
+    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-10-30T13:20:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - GOV.BR",
+    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-10-30T13:20:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5233,17 +5275,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL - GOV.BR",
+    "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkpGZUQzQUpKRjlER3JBWHFpOFM4S3dmMjY0aVBURm0xSXZkSUlqX2xyRGFuVmlFV2VlRWYwUTF3YmRNTG1SSXlaYW9MQUNZS1VhdzZWdlFydkdySE5aQ2tVY3N1azJOZDhzVU9peVNIZFZSamt4MTNPUURyS05ERmpxbThlanlxNVEwVjdtMnllSGJZU3ZzNnd1WHkzTXB1VUU1akhISGdMcE1SRm0tdVF1R0VlMXFkTzRvSTV5MGpTVjBlUU83VWpSNlYtdkJIallSbUFNSWJEU2cwZDBlUFY2eWs?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-10-27T18:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL - Governo Federal",
+    "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkpGZUQzQUpKRjlER3JBWHFpOFM4S3dmMjY0aVBURm0xSXZkSUlqX2xyRGFuVmlFV2VlRWYwUTF3YmRNTG1SSXlaYW9MQUNZS1VhdzZWdlFydkdySE5aQ2tVY3N1azJOZDhzVU9peVNIZFZSamt4MTNPUURyS05ERmpxbThlanlxNVEwVjdtMnllSGJZU3ZzNnd1WHkzTXB1VUU1akhISGdMcE1SRm0tdVF1R0VlMXFkTzRvSTV5MGpTVjBlUU83VWpSNlYtdkJIallSbUFNSWJEU2cwZDBlUFY2eWs?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-10-27T18:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7241,46 +7283,6 @@
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0TXpOZWpvbDEyLXdmOWt5WHQtdFNhNDBLR0xxMXZTaW5veE8ycTdJYjQxZUs0TE1tSU40UkY0QnI1TmZOczVqSnBQTGhKdGJBR1JNRDg5RDRIbTkweldseVhRekQzZUVpMWlYeGNR?oc=5",
     "fonte": "Canal Solar",
     "data": "2025-10-09T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL aprova regras para uso de redes de transmissão e distribuição - Agência iNFRA",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc09pOE9qNk1Ob2s3UWN2MGp0akl2eVVVZFlid0NkMFVUR1laZG1kWWx5SGI3RDJTVnlHUGltbjhqM0ktQmRFbDdqSjhKdkpqZThlVXpoTmY3Vy1rZDd1eGp4ZTc3ZFI4NDdCWVJ1ZjdoMU0ySURUVlJVVUhTU0VyMDRBWmxaaXZOdFpZN05wTzhaNTgyUWFYM25kc1lhdXFj?oc=5",
-    "fonte": "Agência iNFRA",
-    "data": "2025-10-07T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL aprova regras para uso de redes de transmissão e distribuição - agenciainfra.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc09pOE9qNk1Ob2s3UWN2MGp0akl2eVVVZFlid0NkMFVUR1laZG1kWWx5SGI3RDJTVnlHUGltbjhqM0ktQmRFbDdqSjhKdkpqZThlVXpoTmY3Vy1rZDd1eGp4ZTc3ZFI4NDdCWVJ1ZjdoMU0ySURUVlJVVUhTU0VyMDRBWmxaaXZOdFpZN05wTzhaNTgyUWFYM25kc1lhdXFj?oc=5",
-    "fonte": "agenciainfra.com",
-    "data": "2025-10-07T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Quem colocou energia solar em casa pensando em economizar vai pagar caro com nova lei - Diário do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFJUQUV4a2xnYy1EZzJhSGZka0VXNWdoeld1NVNHNERoME43am1nSVdjTDRObU9GYmN6RWFGa0xEQTBWa0RQeFlJLU5MTFFRVzhKWWdXdkJQcmVEaU1iaXlnZ2lZTzU5UDdXQUFnNFBQbXI4TGJuMDczc1JjU1lHd0FCTkEyclVUZlB5S0tlSU56eTg3a2NyeDg4NmdlUUUxQUZoQVZwb24zaER4NEM5OERUbzZMSFpFRFRiNldFTQ?oc=5",
-    "fonte": "Diário do Comércio",
-    "data": "2025-10-02T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Quem colocou energia solar em casa pensando em economizar vai pagar caro com nova lei - diariodocomercio.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFJUQUV4a2xnYy1EZzJhSGZka0VXNWdoeld1NVNHNERoME43am1nSVdjTDRObU9GYmN6RWFGa0xEQTBWa0RQeFlJLU5MTFFRVzhKWWdXdkJQcmVEaU1iaXlnZ2lZTzU5UDdXQUFnNFBQbXI4TGJuMDczc1JjU1lHd0FCTkEyclVUZlB5S0tlSU56eTg3a2NyeDg4NmdlUUUxQUZoQVZwb24zaER4NEM5OERUbzZMSFpFRFRiNldFTQ?oc=5",
-    "fonte": "diariodocomercio.com.br",
-    "data": "2025-10-02T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Boletim de Energia e Recursos Naturais | Agosto 2025 - Demarest",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON21HTjJFaXJOd0dsT0dOV0p5d0h1bVU4eVlpSEN1anBXN25YQ290QTk4VXVBOTNOSl93U3psbEd1b24wcVFfNU4tNkEwRUVCbk9FcFVvWFVJSDNNampaV2I3RzluQUd6MXZUSVV3eTZSTTR1T0lYVzNBTHFVOUF0a0gyOXppdw?oc=5",
-    "fonte": "Demarest",
-    "data": "2025-09-25T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
