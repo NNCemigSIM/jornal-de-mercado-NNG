@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-07T00:34:35.493Z",
+ "geradoEm": "2026-11-07T15:36:23.735Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 11.57,
@@ -1116,7 +1116,8 @@
     "fonte": "CNN Brasil",
     "data": "2026-08-19T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Elera vê GD como causa de desequilíbrio entre oferta e demanda de energia - CNN Brasil",
@@ -2449,13 +2450,21 @@
   ],
   "tarifas": [
    {
+    "titulo": "Conta de luz em novembro terá bandeira verde: entenda o que muda no valor pago - www.guairanews.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUstRllVOXZJcEc0SU5XdlBFdkdfZ0JPSHd4bUFXcElKQWFyRy15NFpYa1A1akZCUjdoX0ZGRTBuZXp6YkRRQmR3SzU4WDBhNlBIUDlGMndYRm1iSTlKOU9icVd0RldHNzI4aC00WVBwZU5zdEJZSDVEZ19vVXFlLVp2UFBlNWVtRFhz?oc=5",
+    "fonte": "www.guairanews.com",
+    "data": "2026-11-07T14:57:57.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Como entender a conta de luz da Neoenergia Cosern - Agora RN",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MWVVqZHNtemVILWVTNEs5R1J5elJ1azJJdzd4RndxRndsY3VVc2I0Rjh3THJTSzN3ajBjTFMtOF9mUHFrcURXMTRWYnc5MW1zcWlYazB2OFdXTFQxUEh6ZnByZklmVDdKRXhOUmNIT2tKODFKcFBYZVVn?oc=5",
     "fonte": "Agora RN",
     "data": "2026-11-06T19:04:49.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Tarifas de energia elétrica devem cair 2% em 2027 - Surgiu",
@@ -2619,6 +2628,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Bandeira verde na conta de energia elétrica é mantida para o mês de novembro - Portal da Cidade - Andradas / MG",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRmFnMkU1WGxsOEZMNWtyd3IwYVVHWTZFcjR0RC1KREsyOXZTQXlEXzA4OHhsYWlncVRmaGhQQXhWTkZmS0RsLTJKTUVlYWNlTkt6Sjc4SU9kY1NJVDY2bER4ZHZ4bnNLRC1PcGRGMFRhUVZWV05oREdxRmx6SUxlVE5ZRjBVRm8yRnh0dUp6M2JMb0FSUWpCbnc4RENyQ0RtblpOVjdRV09DNUFLSThvejRFR3BfVmRaNUhPY016QmtmOFJBY1BwUjE0NnAtX28?oc=5",
+    "fonte": "Portal da Cidade - Andradas / MG",
+    "data": "2026-11-03T16:15:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Bandeira tarifária verde permanece na conta de luz em novembro no MA - Imperatriz Online",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVhKc2ZmVWVxcEU3NTFCbktxZUZOakM4cjM1ZXJZUDM1UVltTE4wVkhrUjFZOFc3Q0F5dXBycW1kY0dNT093Z0hobVNnOVpsWGxGT1BOUU95VEZhX2ZvalhoYUlxdFBiUUwyalBId2tFd1c5aHA1WUdjOHFSLUFFeUxxQnpQTkloSE9lOXpCWmg4WU1ISEVzSHhSNFk3ZXFfdl9n?oc=5",
     "fonte": "Imperatriz Online",
@@ -2663,6 +2680,14 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXZkYk5jREpNbzhWVVE5N1VCV0dBemEyaGtVbXJyNTBCQTRNd2VSdXFQWTg2ZUNrVFZUdTEwT3V5a1Y4YmdxRTJLbG0xTEZ1VGhXUy04Vi0xMXhTaTdWR3JLejFvcGFRdHFVUmx0WE1oaVFwT0x0X0s0UUdpaE5qWmoyN3c3R0Q4M19FWHBuYjZRNVdJenBzcFVkZDlwZ19Uei1PODEyclo?oc=5",
     "fonte": "Portal Gazeta RN",
     "data": "2026-11-03T12:55:30.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel mantem bandeira tarifária verde nas contas de luz de novembro - Grupo Chiru",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2dGUldEYW9Ub0NoeVVtTWprQjhWTnRCQ0pXUkhxS2prLTZmR0xMUkc2ZWx1ZGJveDdLTVF6SzRGNHhmUmVpdkZMdFBVT050VHA3eXlERXBrY2FidThsekNLdExvY3lkTXZzMzFwbXkwY0taUW96NDhIeVpkY3JBRG9HRk0tcTctZ0JiYWo2MXFOZ0J0YU9zZ0h1dGVTdWFNMmY2akVUdw?oc=5",
+    "fonte": "Grupo Chiru",
+    "data": "2026-11-03T12:34:47.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3277,14 +3302,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-10-30T16:34:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
     "fonte": "GOV.BR",
@@ -3297,6 +3314,14 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUVZWTB4YXpTSldld1FJRktXV2Y0dEFsZS0yUWUzZ0hXUlIyampHMFRaUFJOdHUzTUVwdkN3UEJTQW1jRmxETG0ydGh0SFhrTjdlZ3AtODd6endJV2dqS29SMFlnWU1DclRlYWVpb2h1cWRObi1Od2M4TmhHaENFZ05OOEpGTFVhdERuMXc2WW4yekJ0M0Q2enlkRHpsYmFjNFhra0phN1RpY0lERUJKend2MkNRWVc3U05OZks1aFNKSVF0LW5B?oc=5",
     "fonte": "Brasil 247",
     "data": "2026-10-30T10:35:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4832,30 +4857,6 @@
     "data": "2026-09-28T11:31:13.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz em outubro, terá bandeira tarifária será verde, ou seja, sem taxa extra - rinet.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2xia3ExS09fa2JkNmdQUzU2MkpPSmxsNDNjZC11TjNEOFdJNWR3RWI4amx3aUIzTzJGNnE0VWVWVkR3cnIxM1VlSGQxNGJEMVppLTlZMlJQVXNNbHlsMDlWUXNxbDlmX29RLWRSNUF6em12RXZudjRIbmF1SVpwUTBLQXc3RmdtQmxWVlhxZGRmQlJGZEMwSmQ5M19ZSTRrTDlaVHZuMnlZeEpBc3VHVGdJTTFhUmk1d21xN2ZUdEpnQ3lEc0JBOFJR?oc=5",
-    "fonte": "rinet.com.br",
-    "data": "2026-09-28T11:07:20.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: Aneel reduz bandeira tarifária para verde em outubro - 98fmcuritiba.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkcwcW5IUENHTmswT2Vmb29BME5MV0dBQmhYMS1GcmhuNWZEMlc4bmVZRVZUUTJLS1ZFbGNnYUlDU09ZUEVKeXdCTmRITUwwWHZRMHlPTTUycm9QWXFzV1V6RlFIOG1YRUtobnRhOUZHaDhvRWhsZ2Y4aVEzVldGRUZkMGVqMldGYkRiREl6WENtb0U1OGVwSS1fV0dUbVUtWGk3dkJR?oc=5",
-    "fonte": "98fmcuritiba.com.br",
-    "data": "2026-09-28T10:31:41.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Alívio na conta de energia: outubro terá bandeira verde - CidadeVerde.com",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnVoOVpiamV1TEg4UFFUd3RFTTl0ckIwcHpnUGZEMjR0RlZkN2NiSlRlaTgyZlVKREZ5MVhJVFQxLXVWaVpqeVlWbzAxWV9ZbTZjMjJOZlpjSVB1VEExUzJ3R1A5cnNCTHB6UXAtYU1NQ0dDQVRFSEpibHJMQmI1dEpoeUpkYzRfOWFLZ1hJLVM3TFYweTBsZEkyWlNvUjQ?oc=5",
-    "fonte": "CidadeVerde.com",
-    "data": "2026-09-28T10:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -4899,8 +4900,7 @@
     "fonte": "Tudo Rondônia",
     "data": "2026-11-06T14:38:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "‘’TAXAÇÃO DO SOL’’! Cobrança pelo uso da rede atinge 60% em 2026 para novos sistemas de energia solar. - Regional 24 Horas",
@@ -4957,7 +4957,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-05T12:48:37.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "ANEEL revoga autorizações de 178 usinas solares e eólicas que somam 7,8 GW e abre espaço na rede de transmissão - CPG Click Petróleo e Gás",
@@ -4980,6 +4981,14 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0hXcFkzUW94QU5xYTRhX05rYU1sVWxMNC1Ma21pM2FSa0I2eHRfWDRsUlM2X3BTZkRrOE10LW9YenJxUVVKMXp3bVc5OHlTYXNpUVpIZWtGeGQ5MGtYejRybl9hZGJXNVNoVU90S05fVlBTejBBRGJVd2dpN01IbVMzam1wdlFRQ1o2Y3M3TmJ3Zw?oc=5",
     "fonte": "Página 1 MT",
     "data": "2026-11-04T18:31:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Taxação do sol: como funciona o marco da energia solar? - Super Rádio Tupi",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnNVYzI0UlpFODNiUnRVZWtnYVRkZlZORlZoUUUtYmg2MzlWV0UydDNqLWwyTEJudElQUHZOZC15eVlvT0MxZWt1enhqOWNLTWJrdmFud2hQMGdCTFA5VnRVRjV3Qk5yMmR1X29TVGdsZkxMQl9nYk42eldTa2FTODBpejlHaml6TXdGSHh2MzY3Mi1hNEVV?oc=5",
+    "fonte": "Super Rádio Tupi",
+    "data": "2026-11-04T18:29:33.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5105,17 +5114,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - GOV.BR",
+    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-10-30T13:20:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - Governo Federal",
+    "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-10-30T13:20:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5713,17 +5722,17 @@
     "imagem": null
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7277,14 +7286,6 @@
     "data": "2025-10-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Regulação responsiva, legalidade e segurança jurídica em contratos de energia elétrica - JOTA Jornalismo",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNy1jS0E5Vk5sRVpxaDVSeGxBUUN5OHJ2Zmp6Wkh6eEViR3BuTk5UMUF6RTc2UmhMNm9DMWg1NEJtVkNaWDdMRkdERGxiYVduWUhxNlpKSTdmNm5WdHAySFBmV2Y1SHRuemVZZmFiOXFoTEx2MllEMS1SQTM1cmQ5SzZjbHpDRDM4cHI4YjJTSGJNdFM2NWtIYng0T0Q0eE9xaU8tb0pDNTZYSHNuemNfRTg3OEdyREVDeG1pdzZqcHpGWV9ENVNXd0RwaWlNMXVpWWRQSC1GSEsxZw?oc=5",
-    "fonte": "JOTA Jornalismo",
-    "data": "2025-10-17T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -7941,6 +7942,14 @@
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMFkzVU9Lb1F2S0o3YXRkYmVVX1AxVGhpMnpuOVJxTVVjNnZXaG95UzVPS3R4MHljTEJWbFloUDF0Vnh2X0dqdEFLVElwenpBZGZSNXd3V0ZqWHlTVnFlOC1ob0wzUXB0eHpOMTZUR09CeHJzN1JSeEJDVjRRN2NRaVJnbXFvdWhwQ0JKR2gweTNiQmNaOUhqZ2xxWlpsN2p0MDgtRVRIUU5DRFExTVdNY2N0WktFTXY5OVUybmdCMmhjbFFUXzU2WVNDY2xsSGstVks5MGpILVdHcVJHYTMwT2s1eVVLd21MX1A3MWpfdlE0SGNPSHVLd2xFWHVGRDZRWktMREpzcTNIcDg?oc=5",
     "fonte": "portalumuaramanews.com.br",
     "data": "2025-11-06T08:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
+    "titulo": "China Energy investe R$ 520 milhões em usinas solares na Paraíba, reforça presença no Brasil e consolida expansão global no mercado de energias renováveis e transição energética sustentável - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVTF0R1Y2ZDJRbjM2RXNuT0taUC0wMDdzWlVFS1ZudkVZWE40T2FjTVFkN0RtSm1KaGpuWWkzRHB2eTJ6dS1vUF9YSHk2Z0lZcmxkZ2tsbDhyU1FmTEZCOWNhME94eGVwSU9iak8xX2FRRko0am9Kak5TbWl6bllPZWZjWUNhbktZYWNVVnFGYjdRNTRYRkxrUFZrbUpaa3FXY0xMSDF1X0x6cHhPWmFGV0RkMnNlSlFvRnZrXzBqakZOZ1Y1UUpzSnhQQWNEbERLLU1fa01VTUlWa1RSWFFHbHZZYUJKX2x6NjNCNmlaNjdOMnd5amZqazBDRDNwSlR3MkUyNVZEMWt3a2JjbnhfcUNkZHFKbVhnNzdyT2tUSTZYMzdkVzJBMlVKajc1NmppUE5tWVpBcVV0UjY4UE9TbkphMGtkbnlaaUVERw?oc=5",
+    "fonte": "CPG Click Petróleo e Gás",
+    "data": "2025-11-05T08:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
