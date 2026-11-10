@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-09T19:42:41.364Z",
+ "geradoEm": "2026-11-10T03:06:31.132Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.76,
-   "pct": 1.641,
+   "preco": 11.89,
+   "pct": 2.766,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 87.205,
-   "pct": 0.293,
+   "preco": 86.86,
+   "pct": -0.104,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 29.58,
-   "pct": 3.917,
+   "preco": 29.08,
+   "pct": 2.161,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 193.17,
-   "pct": -3.962,
+   "preco": 191.61,
+   "pct": -4.738,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 31.39,
-   "pct": 0.803,
+   "preco": 31.19,
+   "pct": 0.161,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.61,
-   "pct": 2.117,
+   "preco": 10.69,
+   "pct": 2.887,
    "moeda": "BRL"
   }
  },
@@ -133,7 +133,8 @@
     "fonte": "Monitor Mercantil",
     "data": "2026-10-20T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Geração Distribuída Acima De 50 GW Pressiona Distribuidoras A Modernizar Redes Elétricas - Cenário Energia",
@@ -1116,8 +1117,7 @@
     "fonte": "CNN Brasil",
     "data": "2026-08-19T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Elera vê GD como causa de desequilíbrio entre oferta e demanda de energia - CNN Brasil",
@@ -2450,6 +2450,14 @@
   ],
   "tarifas": [
    {
+    "titulo": "Tarifa de energia elétrica poderá oscilar em função do horário - ParaibaOnline",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajZBUEkzZHUwaVVJektTNGJrbzU4SGxDUnNsakJ2ZGVVaGhUWmR6TGprVTBoYnhpazFhVjhIS1Y2MG4zcGNLSi1mUFNxMklMcC1qSlpQWC1yMG9QaTlxSXM3OXpmcmtJNGpyYTNWbUdqbHp3bHpzeUhuSEZNWUxpaVJMS3YtLXNWdVVIWGlsTkFRVDVMU0FyT2R6M1lCeVlnUG5pQU1aQmNxVUtMV2l2M1JR?oc=5",
+    "fonte": "ParaibaOnline",
+    "data": "2026-11-09T23:03:05.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Bandeira verde mantém conta de energia sem acréscimo em novembro - Blog do Edvaldo Magalhães",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnVvWWFxYWJwa0Y2akFaUk4tVGwyaGVVdVpOaWdkSmcxZUtaNnJ1M3RKT0NfdHRDTVp1TE1ZUWFVdWhKM0x6SnFIY1cyQ19FMTRISE9VT1FhbUFKVjUxeWVSQnZxVWVnOE1wbk05VTF4ZkdNVkRSRmtoNFRSYTlyUGhtdlEyTGZBZDdIWUctUEk1ZnRIbWdFMGZhZGdELThBdE0zb194STAtaWlpQTR4NHJsS1ZBZk04SzlxYThwM3NUdw?oc=5",
     "fonte": "Blog do Edvaldo Magalhães",
@@ -2503,8 +2511,7 @@
     "fonte": "mundial.fm.br",
     "data": "2026-11-05T12:04:07.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz: impostos, encargos e custos de geração e transmissão de energia representam quase 80% da fatura - G+ Notícias",
@@ -3431,6 +3438,15 @@
     "data": "2026-10-27T11:24:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
+    "fonte": "GOV.BR",
+    "data": "2026-10-27T00:04:49.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Aumento na conta de luz: como comparar faturas e entender o motivo - Quero Bolsa",
@@ -4843,33 +4859,33 @@
     "data": "2026-09-28T15:23:54.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira tarifária permanecerá amarela em setembro - Grupo AMANHÃ",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBzT3ZOa0t6UE9wdVRTeVNBM3JCOWNDX1lNM0IwT3I1U2tLbnRBZ3hxMngxOW8yTDlQT3kxVGtUa3RnZk9TVHJKdEg1TnFydk40bEx4aHpVTk5xSzZkOFZDbnYzVUVValFEZzUybHBjcDM4S3BMRDFockhjakVsV005Q3dtZw?oc=5",
-    "fonte": "Grupo AMANHÃ",
-    "data": "2026-09-28T15:13:44.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Chuva ajuda a aliviar conta de luz e bandeira verde volta em outubro - Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHcwN3NkTU55WlVCam0wemhNSTdVdUhHeTNvRWhBWXltVENkSjBHbzVVRnZjcHJPX3NkVGJTZ21JaW51T21aVmdvdWd6WWJ3amI0RUhBdXdyUzVrdVVnU2lseW05SHp3ZWdxVWdId3Y3cDNYRDFZQTNmMFd2Nkh3b2I3YlljNTBNMmFDSHNYdmZ5cmtZUjUtNDFTRWJoaElTY19jZHJjTG9QSGxSMlIzSVpqcGVURXN2RlQ4TzBLTHVoMHgxZm42blFwUW1qUTJGS2JWTFVnTdIB3AFBVV95cUxQdmhtd2Jab3NPaE92ZUJ6bG1ESXhOQndteF9PdXdoTjNreDBWZm1GdXMwZERCbUphWnVqekZ4QWlEek5CbnFRcVJPbU5FT09vN0pzM2MyZEJSekc2RUNSWjJlbi1OeWlVNFV5SEdOeTROWWw0RkRnVlJENllEdmZLdERBY1NsN0FsSXRkaUp6VHdDS0JpdmVUM3NFVm9KZkRSUzgzS2Vtc1RHRHJPSWNTRFZ2NWN5SW1IMTR1T2s3cmgyNHhVZVZkWnZ0VC0yZ0Uzdmw4eTJSSTc3Sms1?oc=5",
-    "fonte": "Notícias Agrícolas",
-    "data": "2026-09-28T15:01:34.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Cotia orienta os beneficiários de tarifa social de energia elétrica atualizarem o cadastro - Jornal Digital da Região Oeste",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVU0zRzhyTTJBUmVwV3dQVlJhVmY1ZkpjbTFBaDdrU21YM0FDMHl1d1ZRUXlTVUUyZzJZYVVMYUVEX3lOYjc4RzRtMXM1RGZpVEhHZG9LdVZkVjZqVVFSVmpIeE5RTVM3dWtjV1pFcnpDZmNJcjQxV2JOZXRPWVliclR1S3dacTFvZkFndkFEVi03eEVXT01FMzlsazdkWlNDSHA1QXlFRXp2YjJvSGFpWl81a05YMDVrMDhoX3h1cjNZTmdlNTZ4cS02VWtaQQ?oc=5",
+    "fonte": "Jornal Digital da Região Oeste",
+    "data": "2026-11-10T00:02:21.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Conta de luz até 14% mais barata: Arkanjo traz solução da iGreen Energy para São Gabriel do Oeste - Veja Folha",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNakp2V0dNbEpNUHZTZDRURFItQTAzNVRDN2tCQ0xrRnA1bkgzd09BYUNBeF8tQmdzallEZDVUem1STGdNM2d6R1F3VVBSMklOVkJKQk9FbjhvSjZWdXI3dzNWTnZVWGZSU24zMjNlaE5PZzRrQUJNQWxXSVRHVEMzSy00bHY4RGpKeHpxeTR3Z0RLQ0I3WlBINDBYZ0dZRGpmb0cyaUhYbGtob2FQd3FMVGdUaVB1ZExWRjJENjEzWEJfMlR0MmJFUGhR?oc=5",
+    "fonte": "Veja Folha",
+    "data": "2026-11-09T21:32:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
    {
     "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWZyaGVIX1F6WFFKQWxoRUlENVVLNFRIWDdRVWpQU3NzMHBUUmlGYW5udkhTZDRUSXpMLVpyU3lZQnlla29KLS1HVDFzTlZWdTEzZEpoNW1tOHVjbHZYalVFOHdYZnFMWTRoYzlQaGhFRU4yOHdvdGdaQ0gxWTBFUU03ZkRwUlRnVXhMSjBBcjZQZlp6TF85SzVUYnJGQ2ZxeGd2Vld2RTdUMjJPUFdvNnI1TFJSaXpLNzJ5aTRpdU5tTUpSRHByd3g0NTZqN3kz0gHWAUFVX3lxTFA4bGozbFpUaHdtMXd2SDdVQ2VoVVQ4d2lYeERNMDFJMHhlUzQ2Q0pKS1phZVlqaXhUN3laeHpfZV8tcHpLNERUZ1FfOHN3dVZ2V09NMnFDMnBXcHd5bjJVc1gwUzUzOG9qejMwRUpkellMQmdhaEM4X2tUaWRxODl3dUVURkdsaExEU2R0cUp3eUZldEswV0xsME9Gcl9MYWlCSnRIZU5yWE5rekE3cE5qZkEyNEJGbE10TjVFc3JocWZacTdoQlc3aWNTWmRQY2VoblJva3c?oc=5",
     "fonte": "Estadão",
     "data": "2026-11-09T15:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Em Osasco, concessionária de energia deve retirar fios de alta tensão de terreno de consumidor - Visão Oeste",
@@ -4893,7 +4909,8 @@
     "fonte": "Consultor Jurídico",
     "data": "2026-11-08T20:59:21.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Concessionária de energia deve retirar fios de alta tensão de terreno de consumidor - Bom Dia Advogado",
@@ -5211,8 +5228,7 @@
     "fonte": "Cenário Energia",
     "data": "2026-11-03T15:57:17.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Aposentado de 73 anos tem luz cortada por conta paga há três dias e empresa é obrigada a pagar R$ 6 mil - Midiamax",
@@ -7274,22 +7290,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3JEUENMbkpFUFVRWndnaG92ZTlxYklYTHlRam5jSzVwX0RSVnBWeUFkUFpvTE9ndVR1YnhNVWE1UjRlaXR3NlVzU1Q2d2RadHNsRWo2N1p2dzg5eG5iSm1qRFF6d2R6Slh1RXRNOVoyemRta3RxZE95Q1lqamhrajNwUzRrT2VKYXhHZU8xYmtZVzdlSWVIdks4YlhJTzM3RUtLbnNFb0g?oc=5",
     "fonte": "megawhat.uol.com.br",
     "data": "2025-12-02T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel vê avanço regulatório para mercado de energia a baixa tensão em 2027 - cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlFyLTJLZmNMeURtUUU5aFFRb0pYTDlpa2J3VFVfZHBtR1hLc2hMaGRLU2hQeTljeGpsRVpWN25rRkRQNXcxUGtiZGdRVDl4YVNfR3JFVjB6SzladkEwYVlfUUh3UVBoeklaQ1FvR29adkNTMWl3NW5vUUVQd000YndtUWxVZHlUZDhFazZqU1dfOGYzbGRmYjl0RG4xeVZoaTF6VTEyNlBLVWU3b3hDSlZRRmlIaXk5Y0daOE5valNXc2JhdUFRczVJVnlhdw?oc=5",
-    "fonte": "cnnbrasil.com.br",
-    "data": "2025-12-02T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel avalia auditoria na MMGD após indícios de ampliações irregulares - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkNWcHU4eGpJMXlId3JuNmY4MWMxWEZEZnlPRmxYYVBTOW9jeXJZV1A4d3VIODI0cnpMSVJETW5OSEdnQ25RTzl6anpkclBmZ1NYWFFVOUtNTWt3RlpJVUZCeDVwVG0ycy04MmNQT2laRWNscXNYU1FHTFh2dXdyLUpPMDZGNS1DSmVmU2Jqd0VlVnVhOVl2YmxaMFBicEJWdXFsQVp0RkVFRHBGMmRnN0JidkpPVjVUZjJVQ05wUmtDTzhOT3BlOUJPZGFfUVNVa2Fvd1VB?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2025-12-01T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
