@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-11T00:58:36.684Z",
+ "geradoEm": "2026-11-11T17:00:35.035Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.75,
-   "pct": -1.177,
+   "preco": 11.95,
+   "pct": 1.702,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 86.27,
-   "pct": -0.679,
+   "preco": 85.75,
+   "pct": -0.603,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 27.64,
-   "pct": -4.952,
+   "preco": 28.25,
+   "pct": 2.207,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 180.98,
-   "pct": -5.548,
+   "preco": 179.205,
+   "pct": -0.981,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.08,
-   "pct": -3.559,
+   "preco": 30.47,
+   "pct": 1.297,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.67,
-   "pct": -0.187,
+   "preco": 10.71,
+   "pct": 0.375,
    "moeda": "BRL"
   }
  },
@@ -2450,10 +2450,26 @@
   ],
   "tarifas": [
    {
+    "titulo": "Projeção para o IPCA: alívio de energia e passagens e pressão de alimentos e serviços - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdpeFlQb1pIb3ZwNk9QVkxXc2wxQ2poY1BSUzdRTXZ4T0NGWjllWF9tcjR6NkF1dERpN1EyTkNHRlRPOEkzYmFsNUdWME1PSjV1eVRBWThvZXk3NUhTN0o5V3huYzN2TlNTRFJmVVpSQkloNnBYYVl3bGRaMG9DR2NnTkl2N21QSldv0gGQAUFVX3lxTE9rb3ZZdXJRRU9aY0lmNjdPaHZoNTZsYUZOYWNmOFlkR1NPZmZ4NGxIUDRuR0RyZWZaZDRWSGJKM0JyRTBhZGwyQTBKVmcydXZrOXd3dHA3eGFWUUZSQjBnTW1uRHJvLURrblJiWXgxVjZ2bjVkN09GcS0wcjRUczM1a25wdWFtUW4xWWU5WFItRQ?oc=5",
+    "fonte": "InfoMoney",
+    "data": "2026-11-11T08:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "BANDEIRA VERDE EM NOVEMBRO: EQUATORIAL PARÁ ORIENTA CONSUMIDORES SOBRE ECONOMIA DE ENERGIA - O Impacto",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDIwX3FDNVFXYmtWdDZrNmlYTkRkYkRpNks5eTRTbDBmbHpURnlpbHBydzlfMGhVTkhsQ0pMYVRRNWFQRzZNUE8tSThRVkxPSmNFT1JsamZJV3FPWm4yYVZHaUhSWVpTdjJEWjlOYWVNdWlWMDFTdXRKQ0huMnUxdk9XYnlGZ1BqaUF3eXlpenRfSkJCb2dPMzVDOEpRZUMteFRyTEFiUEl3VjRmY2VQeWtwU2lKOEdKazYyT2VTQQ?oc=5",
     "fonte": "O Impacto",
     "data": "2026-11-10T20:31:14.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel propõe tarifa Hora Certa, que pode atingir 5,7 mi de consumidores - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEE1S2dmbjJfY04tV1piSXBDRXZfbUJNN1pOZ2Q2MnlSSWd5ZkhDWWlVTE9SVTlISUZ0WnBjd2VFTkhKZnVJbEZYeUxMM3ZjNkp2Zkd0MWRmVHJFUF9nTmtGRjUteGxOU3hyZ3ZqXzlHcWZmQVJQMTRSVFVhRDNUUW80TW1KVkpUb2hvVDJITjNzT0J0QlRDNjhvZFRTcFM3cEdBV1ZuYm0?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-10T18:16:04.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -2465,6 +2481,14 @@
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
+   },
+   {
+    "titulo": "Abradee propõe tarifas diferentes para GD local e remota - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEFtOHR6cGd6cWNJdXkwbUhqc1VWNFhvS0VYaDVoVGJlTWpFQkJyZm9ua1JGTVluNWlKQTQ3YmwtdFItSGFYbnFPeFEwWWhHOFZtUlM1QWlVMG1Ray1XSVMyWGw4S0JJNjlIMnJRWGNKc2wtVktyLUR0N05nV1pNZlRSU2ZnSzU5RnVxUnFpVlFjTHgzclhicEhCUWNkRDl1OXhDWlpGMDVKamoxeGtmVUJNMWIwbnVDNURzUjVyYXl1SFk?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-10T14:43:39.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Tarifa de energia elétrica poderá oscilar em função do horário - ParaibaOnline",
@@ -3387,7 +3411,8 @@
     "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - GOV.BR",
@@ -4837,33 +4862,52 @@
     "data": "2026-09-28T17:37:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz fica mais barata em outubro com bandeira verde - Portal Tri Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkliT05qaHRTckZJX3FpVTQwaXkxUUVOMlprdC1scjhuR2F4dVFIeXdLYjBQZEdtZnRBMV9ZRXpXQXpSYk0yYmoteDQ1WUVhUDZQNEVHT29rejhFZHNYc2tsSmdoSU9FTEpVUWNOQXY1WkU3T0RTdVlHUHJBWGQzdVhDTGdPZUVETFJtX3hJMkZPbUYzRk9lQmJwSExFekZjUVVjS253?oc=5",
-    "fonte": "Portal Tri Notícias",
-    "data": "2026-09-28T17:23:57.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz fica mais barata em outubro com bandeira verde - portaltri.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkliT05qaHRTckZJX3FpVTQwaXkxUUVOMlprdC1scjhuR2F4dVFIeXdLYjBQZEdtZnRBMV9ZRXpXQXpSYk0yYmoteDQ1WUVhUDZQNEVHT29rejhFZHNYc2tsSmdoSU9FTEpVUWNOQXY1WkU3T0RTdVlHUHJBWGQzdVhDTGdPZUVETFJtX3hJMkZPbUYzRk9lQmJwSExFekZjUVVjS253?oc=5",
-    "fonte": "portaltri.com.br",
-    "data": "2026-09-28T17:23:57.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira tarifária de energia muda e promete alívio na conta de luz - ndmais.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUVaT2lsMjhVdlZSYzVVeWdTUUwyc1Y0ZFVrWl81MmNLQl91aDZSU2NTNlVPOE54alhZVERNX0lCSEZvc3VjWWprU3VmMkV0T0Q0eGJLQlRoeVV5aGRtV19JVlJEZXBBS1FkN2FqcnBvYXVmVXlTQ0YwR1JTM2NRMk5WTF9pdm1MYmFvYzAtcVNpbXowb3FwQ3Q2Wjc?oc=5",
-    "fonte": "ndmais.com.br",
-    "data": "2026-09-28T17:03:51.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Aparelho de R$ 4 mil queima durante pico de luz no temporal, concessionária recusa o conserto e Justiça obriga o ressarcimento com danos morais - Super Rádio Tupi",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbmg1d2RzZFQ4WlBHQmY5NDY2cWpMVkptY2NIRG0wOWRUWjFMWS1wSmNBc0M5YmRjOXQxbVdfNXBZSkllbmY4LUtVX0c0b2RkSXZFR0NfakRXekVMTWFGS0cwcE1Xbnh1WHF5emJ6MExwQ0xrd0lFQVp1SzBGWU1RcFNWZkVCRzlLeDI3N1BnTExvYkpzeWwtZ1dITjdKRE53UkdyMkVvX1otYU1mTlhQNDFLYlhlUGVvZFZNZTVSYnA5RmQteVdNbm8zTW9EM1NaR1V0UlppT2VBUFYxYlB2VHRVS3J2R3VRMkxzeEFiRE1Ob0pBVmF0ZDhoa3FHOTY5?oc=5",
+    "fonte": "Super Rádio Tupi",
+    "data": "2026-11-11T16:20:58.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "REN 1.175/2026: o que o Open Energy exige e até quando - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNME1XS1lzaDdXS2pUOFUyYm5OMTJWT2JCR1V1QjhFODFONVo5REJlNHBfSXNyb0lxS0V0RlZPMFVrdnExM095ZG5CQUJlbEhqQWRaTzBJSzdEN3AxbFdMaXNuSWFFRDFLcWxQM2lqaUtQeGFYYVhwUVVzNGxVbWV0aFZjdEFWM3BVTGZXZzhSSE1DSnpVQWdmNHBobi0tV3hJQkJjLTZaT2E0VjFQakNiNnBR?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-11T15:33:28.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Open Energy: a energia começa a mudar de mãos - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56ZHlvOXFwOEEtdTZzWHdHTUQ4ekdhaHFCZnU0cHNORTlJTGVDMi0zT2pFVmYzRFZoX3c1RjlUSXZOSDBJdlhLakgwenJIUGQyVjRVTE5DclFtLWJVVHFPOFlCbnZ5TW52UGtyUXNhZXdUSmd6emc?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-11T14:01:36.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "ANEEL abre prazo para empresas estruturarem governança do Sandbox Energias da Floresta - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlVEZVRwa0hEcHZVX3duX3ZmdnhSVUd2NGVCdTBwMmJpTGpwVENYUW9XckY2MFhzM3VEM243Q1dzR2t2M0FicXltYm0yMW5sTU9rQ3RlU1gwdGhFWlRJMk5WV3Z0VTEwN3BPWmg5X25YNHlacW1EY0VJd25mdjJQbFZTeVRuenU2SUlUVl9pOEhlNEEtVExVYUYxYl9GaVRWSndR?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-11-11T13:39:21.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Manicure de 33 anos perde geladeira cheia em queda de energia e distribuidora paga R$ 4.500 - Midiamax",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXVuZXBNa1pBbTVDX0lCVFVOWV9fS0pwQ3Z6V1FHbVh1X2NEWkJvakZJLWNfZ0poRHR5bm5BcDVKVTFXTkF2Q0dPRG5jT0w1WW02ejNBa1RkcEs0Nnl3RVhFTEp4dFF5dWhJanMwUEh0TW5DcHI4VGg5UlFuMVdOR2ZDN2s3RWRaSU9jTGpTTFQ2bWJwSF8zdlhZOGZROGdiODBDX25fdVdlZUg4M2lfTExTRlZyWnRVQ0pUUDZ3LWZxZlE4eUFLYlpaemI1Zw?oc=5",
+    "fonte": "Midiamax",
+    "data": "2026-11-11T04:45:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Tem energia solar em casa? Atenção ao alerta da ONS a Aneel e ao Inmetro sobre o risco de conflito de regras sobre painéis solares - O Antagonista",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQalJpanBVN1V4ejBzY3pTb3RyTlVQRXYxV2Iwdnh1TWx5aGlMckhoYkVrNFR5Q2d2M094MnZtWlJHb2VHdTBrVnR5MjJqRURPa1FvU1NPLVFrSmljYl96VmYzQjVEZ2t6LXVGX3FVckNZaHVSNVB1WV9FMG5nazdlUnNhY2tORzY1cGZqX1NITUJiSVQzRDlLWld5c2VaVldGNlBKZHE5OG5qcV8tcmN4MDFycExyQ01XNmdOSWNxVnlkTGhHaEs0bF9OS3ZzSEw2WVhkS0dBTUxCY0o1bW9tWWhOTm9TaENMMHdlc2RKbXI0dUhRaWdPb1Y1SQ?oc=5",
@@ -4876,7 +4920,7 @@
     "titulo": "Tarifa Hora Certa e a nova realidade dos projetos solares no Brasil - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
     "fonte": "Canal Solar",
-    "data": "2026-11-10T19:49:28.000Z",
+    "data": "2026-11-10T20:28:28.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4894,8 +4938,7 @@
     "fonte": "Portal O Dia",
     "data": "2026-11-10T14:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Aneel propõe Tarifa Hora Certa: energia pode ficar mais barata dependendo do horário que você usa - News Rondônia",
@@ -4976,8 +5019,7 @@
     "fonte": "Consultor Jurídico",
     "data": "2026-11-08T20:59:21.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Concessionária de energia deve retirar fios de alta tensão de terreno de consumidor - Bom Dia Advogado",
@@ -7253,46 +7295,6 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVpMZ0h0TTVxeEdOc1Z1NzFKV3NSRURKaEQ1LXlnVkowem1DSjdWdGZaNUEzcmxVbUU5X2x0d2VXMTJLV1JGa0RGemFKY0wxR05rRnV2blNGNGdoTFRYOWZVLUpxX2dKdlo4MXdrUGF1S3VKTDBtaEMwOFlzZGJyQ041T2VFTkJsM1FSb2NCWkxKNGoyUG9mS3lPak5idzFkTTA1cGtweFplaERNT3hRbGZ5bzh5cmZhX0JWVGhRUQ?oc=5",
     "fonte": "www.gov.br",
     "data": "2026-01-07T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Bandeira Tarifária: ANEEL divulga calendário de acionamento para 2026 — Agência Nacional de Energia Elétrica - gov.br",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVpMZ0h0TTVxeEdOc1Z1NzFKV3NSRURKaEQ1LXlnVkowem1DSjdWdGZaNUEzcmxVbUU5X2x0d2VXMTJLV1JGa0RGemFKY0wxR05rRnV2blNGNGdoTFRYOWZVLUpxX2dKdlo4MXdrUGF1S3VKTDBtaEMwOFlzZGJyQ041T2VFTkJsM1FSb2NCWkxKNGoyUG9mS3lPak5idzFkTTA1cGtweFplaERNT3hRbGZ5bzh5cmZhX0JWVGhRUQ?oc=5",
-    "fonte": "gov.br",
-    "data": "2026-01-07T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Mudanças no Setor Elétrico que moldam os próximos anos - Editora Brasil Energia",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakFDZmRCLWFybElqLThmMUY4ZG5jQkl4VFlKczcyVm5BSEpPdFhfV0p1WkJpV2x6UjRUZDVUNi01N29YM1VxOG9GVHQtSkFGWHdROXRkRGJISFlFYXA1UGVoZlZhN0NTZFBycjk0ZjJneUx0MDZITDR2Y1VReDgwQ0swTUhMZjlkZUptZ1p4ZFl3ZHJjTkE?oc=5",
-    "fonte": "Editora Brasil Energia",
-    "data": "2026-01-05T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Mudanças no Setor Elétrico que moldam os próximos anos - brasilenergia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakFDZmRCLWFybElqLThmMUY4ZG5jQkl4VFlKczcyVm5BSEpPdFhfV0p1WkJpV2x6UjRUZDVUNi01N29YM1VxOG9GVHQtSkFGWHdROXRkRGJISFlFYXA1UGVoZlZhN0NTZFBycjk0ZjJneUx0MDZITDR2Y1VReDgwQ0swTUhMZjlkZUptZ1p4ZFl3ZHJjTkE?oc=5",
-    "fonte": "brasilenergia.com.br",
-    "data": "2026-01-05T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Beneficiários de tarifa social de energia elétrica precisam atualizar o cadastro - Prefeitura de Cotia",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDVJX3JkSWlQNEktS1hCVEdGLVpIQzNDcVdUU19TVmUtbmp2RGs2N3VzaEVDZHEzcWNwWmQ0VjBubUJKMk5iU2c3cHdWbG8xS3U1cDJPRG9jbGhSTUlEZGxvbktZQ05JNEZzSk10SHptSkRkV2wzRGlwY3FUbzFTcXdWdEdtdW9FMXFNNEdaUXpxZ05oODBZWFVUUGVIb0lfWkxSc01SV3E?oc=5",
-    "fonte": "Prefeitura de Cotia",
-    "data": "2025-12-31T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Entre remendos e reformas: O que realmente mudou no setor elétrico em 2025 - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFJveG04TWd2ZjJQY3RUT1dNOFM3bGFYemRjeGQ2ZlJWS3FsdlVwcE9Rb2tUdHMzS1JQSExlX1pOMzRrdTJydHBBVzVyd1VobGhMNll4dC1RLUxNeE5lYi1tdmVmb0RqSlJFbWNEeWVzR3J1bjZwR2ZKbUF2bDZGZlRmY2RhQkt2b0lhQnl0aU1TVUtySG11QVZYTzVqQzNiYlhrTlVBbURwSFNza2hJWDBKaHNGeDZjeldYZFV3?oc=5",
-    "fonte": "JOTA Info",
-    "data": "2025-12-26T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
