@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-12T02:05:44.367Z",
+ "geradoEm": "2026-11-12T17:30:00.560Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.8,
-   "pct": 0.426,
+   "preco": 11.81,
+   "pct": 0.085,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 85.99,
-   "pct": -0.325,
+   "preco": 86.47,
+   "pct": 0.558,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 28.3,
-   "pct": 2.388,
+   "preco": 27.32,
+   "pct": -3.463,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 178.11,
-   "pct": -1.586,
+   "preco": 174.235,
+   "pct": -2.176,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.49,
-   "pct": 1.363,
+   "preco": 30,
+   "pct": -1.607,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.72,
-   "pct": 0.469,
+   "preco": 10.68,
+   "pct": -0.373,
    "moeda": "BRL"
   }
  },
@@ -2451,13 +2451,110 @@
   ],
   "tarifas": [
    {
+    "titulo": "IPCA de outubro vem a 0,14% no Brasil, mas alimentos sobem 1,04% - TV Sim Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0lZT2gyYmo1VWZBeEl2QzhkSF9qMDJ5ZTJ1TmhyblozQ3hqZkd0Y3dFT1U3NHVfajZwWGZ3anhlYVdOUmh6cGxIZXZtTDl4Z1JiZWdQUUh3REctYndPRjN3ODBtNmp5QlZrTDZiSV9sWXRCYlliT3Ata2xiT09rM056RDBGRWcxRkUwUUNmT3B2RmhRdTFqc0dFSWM0eDhhUVVTdC13?oc=5",
+    "fonte": "TV Sim Brasil",
+    "data": "2026-11-12T15:58:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Controle da inflação no Brasil depende da conta de luz mais barata, mostram dados do IBGE - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vblJMQWxfNVNjWUxtQmk2dzBMV1c5SUs3WGVMeVh3THRETVEwMEtZTWdjU2s4ODB1eUE1N2cyTFpLU3JPWDBac3pwYmtYeDI0d2MteWRPdDZmWmgyYWZMYTRuRTNSWkNRcHlKZWZQX3BRclA5?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-12T15:44:17.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "IPCA de outubro fica em 0,14% com queda na conta de luz - ES Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3aFlnYlNERmhpQ3BwRUFEN1Y1X21VSHR1Ti1BS3hKbHNmNU1QQ25ua3pMM1VNRE1LNnExd1ozdUpmYU95UEJmY0ZudzY4RVJJbHA5QnpGMGpfbFpfblduTFRMeHhlOHRnZUE?oc=5",
+    "fonte": "ES Brasil",
+    "data": "2026-11-12T14:54:42.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Inflação desacelera para 0,14% em outubro com alívio na conta de luz e nos transportes - Região Noroeste",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnRfNVdxSXB4ZWcxR0U3MUVtMDhQZG1Gb08xZkJoejU5UUtjQ09KYk5YeTFTUEtjcXR3NzZEanJQN01NV3BTbXR1NF9JZEtBaWtnTGZIWU5Tc05uQXlNWkFBLXJNSnNUeVA4eExiRWJ4MjFUNVdxU2I5U2oyYW9HMl9KMkljdVFGSDJIdUstQ1pvSjlSenN1bmJkSGpfU1lETmJOLWVqRVc5c1dGNnluOE5R?oc=5",
+    "fonte": "Região Noroeste",
+    "data": "2026-11-12T14:53:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação cai para 0,14% em outubro; conta de luz fica mais barata - NOVO Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N5cUQ4a3UzWUl5Q1pHZWJuNkd3VElmel9ObHpCRjl5NnZEaEc2blRxVWxtN0lEUVVNaWhCbGZyQmdyNkR4SkstcUcyemllM1Z0ZFpJakJ1RDJmOTc4ODYtLTc0d1BmX0lvZjhtS284T2dfdUl6MTZFaTJJRW1PZnRxa002ajRUT2FNdS1zSV9zbnZEYlE?oc=5",
+    "fonte": "NOVO Notícias",
+    "data": "2026-11-12T14:15:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "IPCA sobe 0,14% em outubro e acumula 4,63% em 12 meses - Portal ABC do ABC",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JNWhJRERjRVpmcGNQaEwzZFkyZXhuWS1YOU40X0JGcWR2aFl4V2xrakFKSFhST3lKYThKTFZWbnNTd1JRYXFya056R3BlQkhtSE5FSE5peEtjUDY0SE84UHZQRnlMaDk2dGxnVkVqU25HVnlLNEZoWE9RbXQ?oc=5",
+    "fonte": "Portal ABC do ABC",
+    "data": "2026-11-12T13:25:45.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação desacelera para 0,14% em outubro com queda na conta de luz - CenárioMT",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ1pmM2FJUlBUcTdYUWhiZllZei1IdUQzS3I5dktaZVkyZkN4bVpCMFVEQXZfZm9YVWtydHAyamJUdDc3aGVydnd4NE16UUIzWWpHeXhxZUI5aUJpaDE5d1p5QTktVV9TYnVRU2JNODdoa3poZDFtNktRZzZoTEtPSm9IdnpZTVYtR1RHNjlGeTFKX1JxNjVhZTNyTGdadzg0Nmc?oc=5",
+    "fonte": "CenárioMT",
+    "data": "2026-11-12T13:25:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação perde força e fica em 0,14% em outubro; conta de luz cai - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtNM0tZazlQQnhZQU5hazBzN2JqczVTNFdGRGJmWFdzeE91Z2tNWERQUWFxYWs0UkNKZ3g4Z0t2c2xCWjJOZWZ3QmtsbzBLa0VaZVBsSmN4cDlZc3JsUmtaaUNJZmNqb2RBbGZ5TGpoYjV6NTUwWVNZUGxRWG5oZlRaN21LekFZS3JVX1lCZnRGUVNBOTI5R0tDd1pCeUM2VGhqdU9lVUV3OFY1alAtSEpGRS00d3A2cEltVA?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-12T13:18:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação desacelera para 0,14% em outubro, diz IBGE - Banzeiro News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfeEtLVmFTMkxqRGlCSnlnUkFRZmpxNW85OWNzLWhxa3FPU3VTSjVzZ2V2SUdlNTAwOE8yQ1BSb2ZLMmtpMFBYT1AzTUEwLU02Yk9PRTRHUHhBSDdpTGlZU1lxRTJlWXdfZXlDSWE5T2xPaDBiMlRKTGY4WDZ3RU0?oc=5",
+    "fonte": "Banzeiro News",
+    "data": "2026-11-12T12:38:22.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "IPCA em outubro desacelera e fica em 0,14%, aponta IBGE - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDODhjMnhsUzRKd0xxWG1GVEc1ZHlhbV9sUGlnTGhNaVZfQ0pvUm5ZWm0wSVpWTEtYT3BCUENFbW10WFg5Z3JPcVZSdDRLa0l5RnVjaTRVZEQzQVkwMHVfU3VxM0dBbTJPWlNSNzFyX0drRDJndzQw0gF8QVVfeXFMUHkzWVZuSC1PeFhEWnZXRS1jdVN2MGwxR1lhMDZiRmZhNzFiVUxBWHhyaW9hQU5YMW5meTJYbF80eVYyOWo3VEszRmxXdnF6NVFxTzRRdUxWR21HQlNBeUJ5dlIxYXh3V0l5NE5wMFBkTDZRLU9wOWtpcVRENg?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-12T12:08:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Bandeira tarifária verde será mantida nas contas de energia em fevereiro - - difusora973fm.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFRXTjI0U1VPMHhOaUJyNldsZ2ZYdUIwWEtzYy1hS3Nub1djZXpkNEpvZW54Um52VDRXU2FPN1FmZlFnVmJUTUY4WFZXLVhaSFdTNHQ1eXd0TlNIdGxmejNpQ19kRWg0azdVbGR2SlNYOXFqd2tobFNIMEVMRVhxRlpPZlNJY3ZOMjZ6S3EwT0dIY3IzTWNWRmRYY3dsM2trNzd2cg?oc=5",
+    "fonte": "difusora973fm.com.br",
+    "data": "2026-11-12T10:42:04.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Energia elétrica foi principal impacto para desaceleração do IPCA de outubro, afirma IBGE - Portal do Holanda",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVJDMlllMXYyVndjV3doUGVGV2EzTVRpd2dia3lqT2ZWX2NqWExJYjd3bTVTRi1MRERlYV9UZHV5aEVyUVlfX1kwMHUwMWdtZTNWSGlQWjh4QjMtNV96bEtQd0FwOW5hTUxjZ050SUFsanVZc0I0bThyNmNlb3c0ZEZrZUlkci1RNkt6LWEteWlBNWZpUXFZekp4Vlp4QnotbzlNVXV4SlJKbnlCWGEwNENvdC1seEVIclZQNmhvNWZSajVqd2pOWFA2dDI?oc=5",
+    "fonte": "Portal do Holanda",
+    "data": "2026-11-12T06:08:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Tarifa Hora Certa: associações apontam riscos para geração solar - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRFFkWjR2QlFyeVhJYy13amxtNC03eTFXY2VCS2ctdUJvckt3Uy13Ny1MZ0N3UmxOUC05aWNIOExOZ1FZVEw5Tk9FTHduaWo3czNGWUN4R2lqbXR4ZWZUQUwzQkczNk5xb2xCb0xtTm05dC1WcHNr?oc=5",
     "fonte": "Canal Solar",
     "data": "2026-11-11T19:30:14.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz segue sem taxa extra em novembro, mas Equatorial alerta para cuidados com a rede elétrica - Confirma Notícia",
@@ -3505,15 +3602,6 @@
     "data": "2026-10-27T11:24:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-10-27T00:04:49.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
    },
    {
     "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - GOV.BR",
@@ -4775,102 +4863,39 @@
     "data": "2026-09-28T22:20:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro e ficará sem cobrança extra - Notícia Livre",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTQwVkZZRFlNWDFMMU5KRUlpQ241WXZRNjRKbTBfekhUV2xXcUxhSzdINE9sQTZnM0l2cm1samFjYnQxV3BZMTNCVU1oNnpJdldVZDV2U0J6VHZNazFUc2laeHNnTllmbHVDNjRHQjJXOVNDMFgtd2lodUZMQ2JIcTRuMk9yejVCOWp3Z1duQVZKay1xeElxbWJGTU50MXgzU1E?oc=5",
-    "fonte": "Notícia Livre",
-    "data": "2026-09-28T22:11:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Outubro terá bandeira verde e conta de energia fica sem cobrança adicional - liberdade.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZmbVdXS0c0NDFEVVlhZWp5ekxBbDRieFJmdFFaSERfQ195MFNpTjZEaW5UMkpmdnk4SG9GVlFTWnVxOHF6QmlUbndiN1o0dnlhcG8xT0psVVlSU0FRTXJQcmpLQ19pR2cwSFFJY0VIYzE4V0ptMkdOM2pDaG1hNjgtNlZtNHVORk9BMTZEdTB1Y01Ca0ZCV0FmQ1dERG94V1E?oc=5",
-    "fonte": "liberdade.com.br",
-    "data": "2026-09-28T21:21:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz - Muzambinho.com",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSmVINHJvdzA4ZDNhUlhFUV9UQWpfVl9DeDRkaEJqYlppcFM0TTlSMjhIeDNvbGdGaVF6emhYRmhsaUpHTzM5TW9OWWJMeW9WZHc1OFVCZUVnVEZTRFJLd2EtTHJnclBBZm1MRXR3THpEdG4wbnBlQ0kwcHJQT3JpSHhsUjJZX0NHdTRmSEF2Z3J4a1NSZHVYS0djYVc2TmRXbXlkVEltZHZoU05RNHdBZEtoY0dvMG9fSjJ6TTQwQ3BZOC1NWGN4SXBGcXhDb1FhNGduMXR5XzdfTXpBVjB6T2RyUFdMNkllTERIWQ?oc=5",
-    "fonte": "Muzambinho.com",
-    "data": "2026-09-28T20:49:37.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz não terá cobrança extra em outubro com bandeira verde da Aneel - Diário do Rio Doce",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2d4aWk0SWpDdmNDOVl6SGJyRkc5bXhiN0lVcWVfbmR5UWRmbk83Rjg5dU05ZmxITGNiY0tNLVZ1NjVvN1ByZS1LckVuRURmN0RRSDdYanc0a28xNlU5enhXeXYxWGthaDlsNXZjRjRxMWxkdjFlV2dfTU9ZbnJjQmZGY0Z1R3NpcEZ6YzVJU01SM1dCY3oyQVpNWQ?oc=5",
-    "fonte": "Diário do Rio Doce",
-    "data": "2026-09-28T20:21:49.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz não terá cobrança extra em outubro com bandeira verde da Aneel - drd.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2d4aWk0SWpDdmNDOVl6SGJyRkc5bXhiN0lVcWVfbmR5UWRmbk83Rjg5dU05ZmxITGNiY0tNLVZ1NjVvN1ByZS1LckVuRURmN0RRSDdYanc0a28xNlU5enhXeXYxWGthaDlsNXZjRjRxMWxkdjFlV2dfTU9ZbnJjQmZGY0Z1R3NpcEZ6YzVJU01SM1dCY3oyQVpNWQ?oc=5",
-    "fonte": "drd.com.br",
-    "data": "2026-09-28T20:21:49.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Alerta: Brasil terá bandeira verde na conta de luz após cinco meses - Blog do Ismael Medeiros",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVVUMl95VmZHYmctQkt6TEpmVDJkNkZQMXluT0NYS2QxZWpHNmhSM1FRdmxUR3FETlB0VC1xdm5vdVphTzExSjR1WGlZOVJUdjJfRjhCQ0d0U3VoSWRKSDFYd0d0aHhud2hrdEx0VWZ1dkdlbHRCTkNISHBUVEU3QVk2OXE0ZVJZTVd4aUt2RGFQVy1WaU92cTNHSmY1QQ?oc=5",
-    "fonte": "Blog do Ismael Medeiros",
-    "data": "2026-09-28T19:10:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Alerta: Brasil terá bandeira verde na conta de luz após cinco meses - ismaelmedeiros.com.br",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVVUMl95VmZHYmctQkt6TEpmVDJkNkZQMXluT0NYS2QxZWpHNmhSM1FRdmxUR3FETlB0VC1xdm5vdVphTzExSjR1WGlZOVJUdjJfRjhCQ0d0U3VoSWRKSDFYd0d0aHhud2hrdEx0VWZ1dkdlbHRCTkNISHBUVEU3QVk2OXE0ZVJZTVd4aUt2RGFQVy1WaU92cTNHSmY1QQ?oc=5",
-    "fonte": "ismaelmedeiros.com.br",
-    "data": "2026-09-28T19:10:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - Jornal A Voz da Serra",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnJldXRSdUtPQlFhSFdvdjFOTFU2VzhUQWNPOTBYMEpqMVFBazNrVTFmUnZvOEcxUlp4ZUEzUDY4dUxtdnRESFotSmxyWkdkMXhsaGQ2SjJ3TG1zbXQ3M2EwWVp1MlNlWVlNWk9XVVZqcnRSU3ZQZ2dOZXNFNGVuOWxjNmg0SGFOUWtDeWVRR1dxMlE5d01fdGp4aE9IZl9y?oc=5",
-    "fonte": "Jornal A Voz da Serra",
-    "data": "2026-09-28T18:43:43.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro - avozdaserra.com.br",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnJldXRSdUtPQlFhSFdvdjFOTFU2VzhUQWNPOTBYMEpqMVFBazNrVTFmUnZvOEcxUlp4ZUEzUDY4dUxtdnRESFotSmxyWkdkMXhsaGQ2SjJ3TG1zbXQ3M2EwWVp1MlNlWVlNWk9XVVZqcnRSU3ZQZ2dOZXNFNGVuOWxjNmg0SGFOUWtDeWVRR1dxMlE5d01fdGp4aE9IZl9y?oc=5",
-    "fonte": "avozdaserra.com.br",
-    "data": "2026-09-28T18:43:43.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz voltará à bandeira verde, sem custo adicional, em outubro - Jornal Extra Alagoas",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFJHcVZwVFU2enRpcmZRbmVhRkdCYVZ4WEFDZ1ZfbElnZl9DUUl2Q3Npa0hsbmw4QXA2d0ZLN3FkNDdQOWMtRFFWRDB3S0VnOFlHUTRFTUNIYXVQT3JmTHZBbW9rQ1hPbVZoU0pvdUZQLXplRlk2MmRSVllmNUJHM2RZOV9JS0RtSkJORFBSZjVpd2RXNXBwQjctczhUTVZQX0wwV21majFqbDNaeHA2bU5YX0FxZWJUZFpVR0RLMklYRFlGR0E?oc=5",
-    "fonte": "Jornal Extra Alagoas",
-    "data": "2026-09-28T18:11:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz voltará à bandeira verde, sem custo adicional, em outubro - ojornalextra.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFJHcVZwVFU2enRpcmZRbmVhRkdCYVZ4WEFDZ1ZfbElnZl9DUUl2Q3Npa0hsbmw4QXA2d0ZLN3FkNDdQOWMtRFFWRDB3S0VnOFlHUTRFTUNIYXVQT3JmTHZBbW9rQ1hPbVZoU0pvdUZQLXplRlk2MmRSVllmNUJHM2RZOV9JS0RtSkJORFBSZjVpd2RXNXBwQjctczhUTVZQX0wwV21majFqbDNaeHA2bU5YX0FxZWJUZFpVR0RLMklYRFlGR0E?oc=5",
-    "fonte": "ojornalextra.com.br",
-    "data": "2026-09-28T18:11:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Cooperativas mineiras ampliam articulação por segurança regulatória no setor de energia - MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnNCZHdKcGtSVHlGZGhYdGJUTUptbE95bGVCeE9qZENiQXF0b1pSSDJ6cWh0cVNqdGh0ZnpsU1BocmVtcEpzMWFnWEh5WHFHQjI5elFHVGNROWZhSVk2Q05Gc3dGT3l4d2FEaTd2U0ViUnRaMFNtZXROOHd0T1c2LUZUeWpYbDZFVkNDLUVjcW9iSjFPdWEyTTR6c282OWRURnlLb2NRMENrUTlTeHd3QW5aOEJpZWw3VjQwaUNOMmZyQzlVZ2NybXZMRQ?oc=5",
+    "fonte": "MundoCoop",
+    "data": "2026-11-12T15:54:13.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "ONS Divulga Novas Regras De Cadastro De Agentes No SINtegre Válidas A Partir De 2027 - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzR5M3FNMVJvMWJiSTdUbUtPclI4c3pZcVlINTNCZWRyeC0tVVJQYU4tNVN4am1neXhObTNnS2FZYUVCOFI4Z2lmQ3p2aXRIVE5yeVJKN1hLeWlKckszTWN2OVFoa05vZjVReGgzU25DTTF3cVZNWmNsZm1XZTJQUlAwZ3lqY2lCb3poTFBGZ2NIQ3Jxd25jLUxjWkpBQXBUbzhrUS1tN0dPV1B6dkFNNFh5Yy1HVnFnazdhMEc2bC0yZkt3?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-11-12T13:27:18.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Energia solar vai ser taxada em 2027? Quem pediu conexão do painel após 7 de janeiro de 2023 passa a pagar 75% do fio B - CPG Click Petróleo e Gás",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNjdiUlY3dHkxYmNmZmc5WGtnVGZ0TGgyUGpBNWppQmN3ZUd4aTZubkJfN2N3aGlIMm1rWjkzRXBFa2xtNEhVb0s5bGdBY3JTamp5MGo2ZjVWcnRrNjJ5VmhyN3FBVkREbDhDSmtNWjhWVjQwRVJPV1YxQW5Da2s?oc=5",
     "fonte": "CPG Click Petróleo e Gás",
     "data": "2026-11-12T00:53:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Enel Ceará é multada em R$ 6,75 milhões por alterar vencimento de faturas sem autorização - Diário do Nordeste",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSV9LcXU5NXA3eVdReWdsVzNMRFI3X29MdEtrZTlRVnlrY3Zma1NzMUVIRXB5LWxIRzlCb2VzcWFFSE5LcDJNTjhOZ3l2Tk1zdlhLdkc4LVV6cEJtNkZzdGxwZVJQMmtuRkozMVRSRXYxRVVNQmhKVlcwQmFCZ0xtOVVQVThyckppamdBSENJLWlxQVlEQ1ZYa240UlV1WUpwWDBTTERtUHFwVk9remFRQzNvX2pPM3N6aU11NDNCWWtreHRHQnU3aUNqUk9jVlJOblpqejNDVjFKSlppV3dZdHc2Ylk?oc=5",
+    "fonte": "Diário do Nordeste",
+    "data": "2026-11-11T23:57:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4913,8 +4938,7 @@
     "fonte": "MegaWhat",
     "data": "2026-11-11T15:33:28.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Open Energy: a energia começa a mudar de mãos - Canal Solar",
@@ -5027,6 +5051,14 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWZyaGVIX1F6WFFKQWxoRUlENVVLNFRIWDdRVWpQU3NzMHBUUmlGYW5udkhTZDRUSXpMLVpyU3lZQnlla29KLS1HVDFzTlZWdTEzZEpoNW1tOHVjbHZYalVFOHdYZnFMWTRoYzlQaGhFRU4yOHdvdGdaQ0gxWTBFUU03ZkRwUlRnVXhMSjBBcjZQZlp6TF85SzVUYnJGQ2ZxeGd2Vld2RTdUMjJPUFdvNnI1TFJSaXpLNzJ5aTRpdU5tTUpSRHByd3g0NTZqN3kz0gHWAUFVX3lxTFA4bGozbFpUaHdtMXd2SDdVQ2VoVVQ4d2lYeERNMDFJMHhlUzQ2Q0pKS1phZVlqaXhUN3laeHpfZV8tcHpLNERUZ1FfOHN3dVZ2V09NMnFDMnBXcHd5bjJVc1gwUzUzOG9qejMwRUpkellMQmdhaEM4X2tUaWRxODl3dUVURkdsaExEU2R0cUp3eUZldEswV0xsME9Gcl9MYWlCSnRIZU5yWE5rekE3cE5qZkEyNEJGbE10TjVFc3JocWZacTdoQlc3aWNTWmRQY2VoblJva3c?oc=5",
     "fonte": "Estadão",
     "data": "2026-11-09T15:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-11-09T14:35:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -7266,38 +7298,6 @@
     "data": "2026-01-29T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Satisfação do consumidor passa a ter mais impacto no cálculo da tarifa de energia elétrica - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSVVhWTg3TDBwYnRzaWZsaTZuVy01OHNyUWVoVDhEZDRZbHpTanBBTi1Vd0ZuMDFTUXBWQmRwbUFfZGNlbERhMFQxMWtXSGhZczk5cnJldDl1MW4yaWJyekZZeVE3T1UxTDlBRXR4Q09XQWxJa1VGV3lYTDQxdUo1WnFEbFdFZ0pkNUJjV1RlNHNfcjJ2UmpyeTFLM0UyQjMzVURwNTg0QUpXTG50MUsxbUVLSDU3elAtRU9IaUlqVTFGVXVtV2d4NUNzaWhDX0NybzBRQWlRTndtLVhR?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-01-27T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Marco Regulatório do Armazenamento - Portal Solar",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0U3MlFxbTJKVlg4UTJmN1hYSUV0bkNpWHRES002aWswSGtDM3luQjdpa3NIX1F6MUJSYXZQckVXU09qZW1CTHpGQTZFRVh1VDJfTVhDT1Fhdmd5NjRQeEk4OW84RDZQZWFPc2pvVjBkdzhTcVNpbTRiZmxnZnBtajJRVGw3QllOREJObTRVM2RQcGxRa2xubg?oc=5",
-    "fonte": "Portal Solar",
-    "data": "2026-01-26T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Marco Regulatório do Armazenamento - portalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0U3MlFxbTJKVlg4UTJmN1hYSUV0bkNpWHRES002aWswSGtDM3luQjdpa3NIX1F6MUJSYXZQckVXU09qZW1CTHpGQTZFRVh1VDJfTVhDT1Fhdmd5NjRQeEk4OW84RDZQZWFPc2pvVjBkdzhTcVNpbTRiZmxnZnBtajJRVGw3QllOREJObTRVM2RQcGxRa2xubg?oc=5",
-    "fonte": "portalsolar.com.br",
-    "data": "2026-01-26T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Quando o decreto regula: Aneel, ONS e a disputa pelo acesso à transmissão - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlJqUXFndUdyVWVhVzV1UG1QbXk2eVU3XzNYdXEycU1wMG0tbW9wdWR5WEVndWRPdFlabkpTTGpYendfbTR4MGZxZThTTk03SHN6QWowdzNqb3pUc2h1d0dTOURVSzNBeGNSWG9nM3hrVjg3dzd5U2ZXMndhenB2QTh1UnJ0Z1hCM3V3aC1fOFBxSzNkYXZNNmljUWRrbGR1LXpLTFM1ZEI5VnJLTkIwQXhaUXBxMmZfdnlB?oc=5",
-    "fonte": "JOTA Info",
-    "data": "2026-01-14T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -9045,7 +9045,8 @@
     "fonte": "Portal Solar",
     "data": "2021-10-18T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado"
+    "catLabel": "Players & Mercado",
+    "imagem": null
    },
    {
     "titulo": "E1 Energia e GDSolar anunciam fusão para atuar em geração distribuída - portalsolar.com.br",
