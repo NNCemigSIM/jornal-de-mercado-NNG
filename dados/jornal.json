@@ -1,39 +1,48 @@
 {
- "geradoEm": "2026-11-13T01:38:01.880Z",
+ "geradoEm": "2026-11-13T17:06:08.454Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.8,
-   "pct": 0,
+   "preco": 12.09,
+   "pct": 2.458,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 85.29,
-   "pct": -0.814,
+   "preco": 84.92,
+   "pct": -0.434,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 26.78,
-   "pct": -5.371,
+   "preco": 25.87,
+   "pct": -3.398,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 172.3,
-   "pct": -3.262,
+   "preco": 168.62,
+   "pct": -2.136,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.58,
-   "pct": -2.985,
+   "preco": 29.8,
+   "pct": 0.743,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.62,
-   "pct": -0.933,
+   "preco": 10.95,
+   "pct": 3.104,
    "moeda": "BRL"
   }
  },
  "categorias": {
   "gd": [
+   {
+    "titulo": "ABGD agora é RED e amplia atuação para além da geração distribuída - Portal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2tiVWotWEtJOERyaWtfTzRHSjZBbGNVS1ozZXRsOURoM1N3by1ydmNyZWFrQzlRb0lUVkg5akloZ3hWSkVhYUhYTXRBRTNNbkhfdi1Pc1k3X0tDTXlqdjZocGNMb2RUZEQwcmpsX2llRlQwZEt4VnpfbGpHUzkzZVltTkhMaHlhSGV0TU5yc2djS3BjcFh6cTBCdDRLUHhqd1hZYXZKeFY5d3FGYi1SNExWM3RqN3ZQZ2tYOVJnMHU?oc=5",
+    "fonte": "Portal Solar",
+    "data": "2026-11-13T13:01:41.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída",
+    "imagem": null
+   },
    {
     "titulo": "Geração distribuída solar chega a 54,9 GW no Brasil e amplia mercado do SNEL11 - Fiis",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMENZcUhROEJVQi10X1A3SmFxaXBQQVAyZ2c0U2pHTjVwX25pYzBMdWRhMkE1ZHZfclNTTlQ1UDY5M3VrRXR0NWlXakxPaHRabHN0UDlweTQxVVBYTWdsc1VaYk1jVDNvODltSnhPQ0duZTk4R0t4d2EyRlY4cUh0dnc2V2JDRXI0VkNLeEFHNHBuTVlXVksxdDZTcUo3d0lhaEE?oc=5",
@@ -652,8 +661,7 @@
     "fonte": "Portal Solar",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia - Canal Solar",
@@ -2440,17 +2448,26 @@
     "data": "2026-05-04T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Minas lidera ranking de geração de energia solar no Brasil - cidadeconecta.com",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzRGZ2U5Z29IbEV1MXlEQTR2cUZkUFZEZ2R0NjFDYVBqdDhPSkUwMXA0bmxpRDhoclptUkNtSzQya25waWRfd0pTZ3Y0QWdjMDB0Z2hiQm5WVzhlUXR5a0RkN0k4bUVqSzlyU1ZTTEt2cTBZWENEY0l0SkRFVHJKNzNURVJ3QS1hcFFSZWNoTDdpeFR1d0Ruek92elR3ZkxGVThIU19mbWM3cHh1eHZ3?oc=5",
-    "fonte": "cidadeconecta.com",
-    "data": "2026-05-04T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
+   {
+    "titulo": "Conta de luz de novembro deve baixar em todo o país, revela Aneel - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3NMamM3WDRzbmkwRDhkeXRJMzkwa2d0RjFna1B2dE1iMWNzWUd3aGE0SmRZS0pjdFMyZlNrTk9XdHJrNWpKbVRqSzVCZTVZRmxLTmROTU5lem01cnZJc3o2SXkyQUlxWnhKOXdWaXVQaXN6NC11SUt5YVRBRHIxQS1hVEdGbGIxOGtPWEN4RzRjSmRLenJRM0Vrd3c3bDNLeHk2V0RpZw?oc=5",
+    "fonte": "Diário do Comércio",
+    "data": "2026-11-13T10:27:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Tarifas públicas e clima podem pressionar inflação brasileira e ameaçar Black Friday - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN1ZmUDcxRmI3bGhwTGlld0NwU1dwQ1dYcXFMR3RZOFVDZzJhOGhHMV9LYks2bFBNYnJZNUdqT1ZLSGg3d2E2VlFuaVVhYi1tMUhQb09FOUI3NEo3ZVRNNE1uYzVtcGlPNmxRaEZZaXpKcmpZdUU0cTdsbVdRNkVFS01CdnpVb0ZuTENyeWVrbkZUQkdkOTM2RDVPdUN1YkJnaGk4RE1JT3daeUhNbXVvbnh2UUhIOG4yRDBwd19xWHRKZFZKZUxycHZPb3U1SDQ4V1dfaE5B?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "data": "2026-11-12T21:16:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
    {
     "titulo": "IPCA de outubro vem a 0,14% no Brasil, mas alimentos sobem 1,04% - TV Sim Brasil",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0lZT2gyYmo1VWZBeEl2QzhkSF9qMDJ5ZTJ1TmhyblozQ3hqZkd0Y3dFT1U3NHVfajZwWGZ3anhlYVdOUmh6cGxIZXZtTDl4Z1JiZWdQUUh3REctYndPRjN3ODBtNmp5QlZrTDZiSV9sWXRCYlliT3Ata2xiT09rM056RDBGRWcxRkUwUUNmT3B2RmhRdTFqc0dFSWM0eDhhUVVTdC13?oc=5",
@@ -2465,8 +2482,7 @@
     "fonte": "Canal Solar",
     "data": "2026-11-12T15:44:17.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Controle da inflação no Brasil depende da conta de luz mais barata, mostram dados do IBGE - Canal Solar",
@@ -3568,7 +3584,8 @@
     "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - GOV.BR",
@@ -3644,15 +3661,6 @@
     "data": "2026-10-27T11:24:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-10-27T00:04:49.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
    },
    {
     "titulo": "Aumento na conta de luz: como comparar faturas e entender o motivo - Quero Bolsa",
@@ -4857,22 +4865,39 @@
     "data": "2026-09-29T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Contas de luz não terão custo extra em outubro - Diário de Petrópolis",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlZKWUl2ZTVIU2JfSWx5TDJnLXhDbHMzMlhOMzU1MkZTd3NyT0RDcFExTkJaR0JpWGRLWWdFZkpZTmtDZmFPSkJGZXVnc0Y0a3c4TG84RlJTdVJjbElSbnFxM3JBdFRyMkl2NGs3YUs0TDlNLTE1dEY2YXQzQjVmSVZqRDdtYkc4WS1QbnB1Z1ZPaW5NRFdJSDlB?oc=5",
-    "fonte": "Diário de Petrópolis",
-    "data": "2026-09-29T03:03:29.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Enel Ceará é multada em R$ 6,75 milhões pela Arce por mudar vencimento de contas sem autorização - Ceará Agora",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnBRVGd4QUkyZTkxdFd1V04zRGFidmNNdThSZ3czUUdKcDktNm9WY18wNjJFa3JtLWdoVnVfdUp1UGM4cVB2ZDJLSEs2Y0pSejB5cG4wWHlNS19tcERsRUxRZzNDamtrbXhnRk5idUVxQzB6bWNPcjNGSlJOQ3A1NHM4dC1LcVdCSkRfb3VOQkh0dGRZU0JNdExMQUpBMzdHRUduT0tHNTFyc01PdGwwUkZXOFZkbUVUM1hXN0Z3?oc=5",
+    "fonte": "Ceará Agora",
+    "data": "2026-11-13T13:50:22.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Fios emaranhados nos postes ameaçam segurança em Canoas - abc+",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGhkcExUM0pUYUp4WWpRNlU0UDhGeE9GRWF4M0RjX0xJS2pPTDRBaC1VcThKT0JWNTV2RHd5ekZoMXViX25aOFB1NjBobW5UVEliQTlPVnhEMTZSendnN0t3NlQ3TG9XWHpneFBDYW4wa1lPREJmd016djRrQjlMVEJjVjZkSFl0QjBLc2ItMUc3OG5aWXB1clJOLWRqZVBSZXJodFctdGxKNXFyLWNnTHh5WjdZaTZDZ2tjS1hQVXBXMWJEcVd3YnhOM3RtajQ?oc=5",
+    "fonte": "abc+",
+    "data": "2026-11-13T13:33:33.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Nova regra da ANEEL pode elevar em 73% os cortes atribuídos à energia solar no Nordeste e levar perdas contabilizadas de 7 para 11 TWh, aponta simulação com dados de 2025 - CPG Click Petróleo e Gás",
     "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZllSRkJwbklycUFfakNidGVLbWh1MGpVUE9RbmV4bUJ2VTVfWTM5REdMb0VDWFBqTlllcWFvQ2t2MFhYVGFUWTFydWxNbUVwMkpDMERkS0RCQjVSd3U4Si1EOVhIZjBSQXRlWGdMZnRFY2drODdIQUF4VjBrTWNwNnFwOWpZRE9TY1hlZy0wSVp1VnRkVFhnR3hrVU1BYVJxNGtvQTVzSGc5ZnBCVksxby02S1dMMjliSTVrNGVGdW5zVjM3eFdqWWNpVjlEaXBCSm4xMWVyRUk1THZtUGdweWJYelZxQmN4QW5PanpqREl3MV9oRlM1VE5VaWp6aGNIZkwzNUtIUWRSU0JzZUFCV1M3UVNucG1naEpHQ2UtdGJ3aGdOV0F2Nm1jNkxmUlUwWHc?oc=5",
     "fonte": "CPG Click Petróleo e Gás",
     "data": "2026-11-13T00:33:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Niterói avança com projeto que obriga aviso prévio sobre cortes programados de energia - Folha do Leste",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0lUU0NFWWVySTVPb05EU0pFNHBrYWxBei0wUk9SX2d3VFZaYTlaSmVZVzMzdDdEbHBrTjNyZHBFQ2xpTXdMam9PV2owSEVpT1FmcDZqS2FxRlVhTlhlQnNPM3d2UlJVTVdIZm41SG56YVdhM3dHZlpiQmJEMUtuUmRrRTBNUk9hR3MtQnZBZ1FPeUdrUlE?oc=5",
+    "fonte": "Folha do Leste",
+    "data": "2026-11-12T16:04:23.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4899,8 +4924,7 @@
     "fonte": "Cenário Energia",
     "data": "2026-11-12T13:27:18.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Niterói aprova em primeira votação aviso de 72 horas para desligamentos programados de luz - Cidade de Niterói",
@@ -5094,6 +5118,14 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWZyaGVIX1F6WFFKQWxoRUlENVVLNFRIWDdRVWpQU3NzMHBUUmlGYW5udkhTZDRUSXpMLVpyU3lZQnlla29KLS1HVDFzTlZWdTEzZEpoNW1tOHVjbHZYalVFOHdYZnFMWTRoYzlQaGhFRU4yOHdvdGdaQ0gxWTBFUU03ZkRwUlRnVXhMSjBBcjZQZlp6TF85SzVUYnJGQ2ZxeGd2Vld2RTdUMjJPUFdvNnI1TFJSaXpLNzJ5aTRpdU5tTUpSRHByd3g0NTZqN3kz0gHWAUFVX3lxTFA4bGozbFpUaHdtMXd2SDdVQ2VoVVQ4d2lYeERNMDFJMHhlUzQ2Q0pKS1phZVlqaXhUN3laeHpfZV8tcHpLNERUZ1FfOHN3dVZ2V09NMnFDMnBXcHd5bjJVc1gwUzUzOG9qejMwRUpkellMQmdhaEM4X2tUaWRxODl3dUVURkdsaExEU2R0cUp3eUZldEswV0xsME9Gcl9MYWlCSnRIZU5yWE5rekE3cE5qZkEyNEJGbE10TjVFc3JocWZacTdoQlc3aWNTWmRQY2VoblJva3c?oc=5",
     "fonte": "Estadão",
     "data": "2026-11-09T15:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "TJSP: Concessionária de energia deve retirar fios de alta tensão de terreno de consumidor - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3FxRFNST19wWlQ4dG5oZFMzTk52b0NsbEQzdmVzN2ZmMTVzR0piQWVXQjlvWEtVazFJUmF6UWJvRXI2WDVmOTZTTjdYblhTTEtGeXU4TTRWTXpESFNueGdSdG00MEw3Q3Ffb2Y0UUQyU0c4bUZnZWhaczlybENYOVZWZ3RENU5YTkd1d0xLcnhXV2t1ZEhsb2dZTEJUUXZ1TmN3ZDlkME9mZmlIM2xQaC04SGtpaW8tYWlSeUJrR1B5dWhJSWJ0amdIQnRJclJQczVvZS1TY2lsZjVqb0RSTmln0gHwAUFVX3lxTE1wZFRSNmJnVm4xQlNJTzUxVnNKRHhjMXZpTHQxN1p4Q0g1aTdfV3JVYUliVkc2THp6bkxjTlVob1dRYkk0aklpSDFDZmtoM25ISUNGeUdLUzFUR21ISGg2UllsdVZPUUhCNmpZbFdVRmxqTHlMdVA4RXRmZFBoYkJoNG14QW1RQVVSSjNlaXpkQUN3WHZMUS1UQjJucFBGV2s0emJCUEZXZzl6Qlo5UjQ1UjR0MjNnSDB1a1VQQXItZXd1QkVpZlpPelFWWEk0Z1BYODY1X2ZwZGFldkM0ODhJRVdXQUc1M2pta0JHdFM0SQ?oc=5",
+    "fonte": "Valor Econômico",
+    "data": "2026-11-09T14:50:13.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -7267,38 +7299,6 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmhKSmRZT01jQmVISXRlVWlaZ2U3UkZ4T2R4Y2x1QjJyUzVMMkNhT3RPQ2Mxa09nUVJ0bVVFN0k1QTdjc05aNlFEdFVNMlQ1MUd1d2syWjNlQ3gxYlBSTXRJVG1EejRfMUxJS0ZIeUk5M1BoZ2tXLUpHUDVNbDZrSGc5bHlhdzNxODEyTFlyZ3JtcDVRWFV2eWR2R0RsNERUN0JQZmpR?oc=5",
     "fonte": "agenciainfra.com",
     "data": "2026-02-10T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Beatriz Freire | Agenda energética entre regulação e campanha - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFhoS2h2WkhzbTduYUplc0JabzY4MmdXTVVoX256ZlpXaXA5eDJxa3NPTkZJdnpCV09oa2tXQ21HTm1XYUdjV1Y5WXBrdUNoaUtjMGFNUmJtZmpuWV9WZlpEem0tTFo1V1g5Wmg0QzBEZnN2Nk5YWnJwRkdwVkhaUmtTU3dpYzFKX0oyaHJJdw?oc=5",
-    "fonte": "Poder360",
-    "data": "2026-02-07T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "A regulação do armazenamento de energia no Brasil - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TMjgtZW5sdk9sV0p5UjFiTkM2NHF1bGdEU0dvZGk2QkwzR0Z3Mm9PRWRZOEFFMHItenVNMWFENFBPQVdDSWtWbFgwRHFZV3FzZnhXZHJrSVE1b3dORGZrZmJLMUFFVzRmTU1RVGhyUlJudzk2cXc0?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-02-04T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "A regulação do armazenamento de energia no Brasil - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TMjgtZW5sdk9sV0p5UjFiTkM2NHF1bGdEU0dvZGk2QkwzR0Z3Mm9PRWRZOEFFMHItenVNMWFENFBPQVdDSWtWbFgwRHFZV3FzZnhXZHJrSVE1b3dORGZrZmJLMUFFVzRmTU1RVGhyUlJudzk2cXc0?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2026-02-04T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Anaeel libera o uso de blockchain no setor elétrico do Brasil - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUWl1YWdLY0JJeU5kRGtPUE5Kblk3OHBybXhWS09GNEswbXlLOXJQZXJlOEVnR05vTFdXN0RvcjFtcEVIWjZIYTJxY2ZJWXJ2LTlLajQtNjZoNXRBcDIyLWJMemVpaWl1QmU0MFpLdw?oc=5",
-    "fonte": "TradingView",
-    "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
