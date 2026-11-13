@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-12T17:30:00.560Z",
+ "geradoEm": "2026-11-13T01:38:01.880Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.81,
-   "pct": 0.085,
+   "preco": 11.8,
+   "pct": 0,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 86.47,
-   "pct": 0.558,
+   "preco": 85.29,
+   "pct": -0.814,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 27.32,
-   "pct": -3.463,
+   "preco": 26.78,
+   "pct": -5.371,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 174.235,
-   "pct": -2.176,
+   "preco": 172.3,
+   "pct": -3.262,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30,
-   "pct": -1.607,
+   "preco": 29.58,
+   "pct": -2.985,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.68,
-   "pct": -0.373,
+   "preco": 10.62,
+   "pct": -0.933,
    "moeda": "BRL"
   }
  },
@@ -81,6 +81,14 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXBLTVNUT1p3Qk1TQS1TeDRWUFBGTEU0bmQtWVo2QVpmSEpQbGRuZmRyVmVlNDZqbzljRWxveVhrWVc5c3VXeXlQRzFhaWYxSzBtYVNzVVd4U0I4UEMwVlpFRHJWUHgxN1oxSG5sWkx6YkVzNmhTYjc4NHpKeFE2ZEMtZlRtblZJaF9vUFM1TGd4bjFKejlj?oc=5",
     "fonte": "Portal VV8",
     "data": "2026-11-04T18:22:41.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
+    "titulo": "Taxação do sol: como funciona o marco da energia solar? - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHBidXpwc3phMkZlQzdMTk0tMzFmV0NKN0xXaXpjS3pYVWt1UEtqT2wwRXFVRDJUTXRJNGQ0TGpuc3I3UXNzLXZsd2NXd0VKV0g5akliNXJaT1R6cTlYSkNmQ0tCSjloWGVpZnhnYTAzUkk2cXRNaVJUaDZpT21WMlRtTnc0b09FRXdhbUdoWlhlcG9URkUxeFJoaU5QX255MXpYeUoxaTZQcWVpQ1lwZjhnbUIxX3h5WlZ5ZkloQdIBzgFBVV95cUxPRXJGLXNDNWlsSWtQOEY0VjE5LWx4UnhBaGdTdkZBVmoyNnZsLWVPOFp2V2k3elBtTVRxbUU5ZThBOWpFZjdOSWtpVm4zVTdxZkJDRnF5bUhHcFVlYmlfUEFTOGxqNXMySEVFYTkwcE1jWlpmWGY5WG9kSUFWU0J2V1ViVzZDLWJ1Sm1pNmU0d1JIcUVzNmhRTUJWQVZuRTctWkhLQmhOMzF1N2twRWN3R0RoekVJdEtEeUgxdzJvYVYzMUNfV2RaZjhuYU10dw?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-11-04T18:19:15.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
@@ -644,7 +652,8 @@
     "fonte": "Portal Solar",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia - Canal Solar",
@@ -2439,14 +2448,6 @@
     "data": "2026-05-04T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "RN alcança 122,2 mil conexões e supera 1 gWp em potência instalada de energia distribuída - Tribuna do Norte",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjNGVEFmclMtVGFmNVA4bTJDMDNyc1Jwby11VEZWckFYMU9qOUx1WndhUDRRWk9fLVRLVjdOZThLTFFaRFFRMDVJeTlfNjgyWkk5V2pzQkNOcFlwTkdNazBOTndTc1RHTG90S0dBN2ZDaTZVVmtzaVdpOGVtZTd3M3o5d0JSMzU2c3hmQ090WnV5Sk9TVXVad1FCSlJvbDAwUF9JUFRoM2ZRZEJBSW1hZGtIeW9UaW03ZHctS01RZlkzYUt6ZkJF?oc=5",
-    "fonte": "Tribuna do Norte",
-    "data": "2026-05-02T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
@@ -2459,6 +2460,15 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Controle da inflação no Brasil depende da conta de luz mais barata - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vblJMQWxfNVNjWUxtQmk2dzBMV1c5SUs3WGVMeVh3THRETVEwMEtZTWdjU2s4ODB1eUE1N2cyTFpLU3JPWDBac3pwYmtYeDI0d2MteWRPdDZmWmgyYWZMYTRuRTNSWkNRcHlKZWZQX3BRclA5?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-12T15:44:17.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Controle da inflação no Brasil depende da conta de luz mais barata, mostram dados do IBGE - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vblJMQWxfNVNjWUxtQmk2dzBMV1c5SUs3WGVMeVh3THRETVEwMEtZTWdjU2s4ODB1eUE1N2cyTFpLU3JPWDBac3pwYmtYeDI0d2MteWRPdDZmWmgyYWZMYTRuRTNSWkNRcHlKZWZQX3BRclA5?oc=5",
     "fonte": "Canal Solar",
@@ -2466,6 +2476,14 @@
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
+   },
+   {
+    "titulo": "IPCA de outubro fica em 0,14% com queda na conta de luz - comunhao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54Sl93MndUYjBVLWNQWmpJeUx5aUpONmg1cFlaMVN1UGx2em1XXzA4eFRMZmpUYzQxaGxlMWV3ZnktUHV4b1A4Ti1vSHczOGIxODlYOG84SEZ1VUpFdERTMjNVb1FqZ1JyS0E?oc=5",
+    "fonte": "comunhao.com.br",
+    "data": "2026-11-12T14:55:10.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "IPCA de outubro fica em 0,14% com queda na conta de luz - ES Brasil",
@@ -2493,8 +2511,24 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Inflação cai para 0,14%, mas alimentos continuam pressionando o bolso dos brasileiros - Página1News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3dQNmF6OHB6djdEVWN6NmMxSGZsSWNOa2JtaGM3azUxdVRramtmUjhYTUdiODVBd1gzY1NEMmMxMm9Xa3lCeU4zdmZyUlZtN3g0RnlwcVVmUjlLYUJtWk56azZTdnNOcE5kenZoc0NBREZtak5TVkdjN1VkbGwxaU1PbC1lX21BYjlQQXcwdXF3NFdKVUU5ODMza0RJWkp5RVRJYW1UM2g3S05DOTBR?oc=5",
+    "fonte": "Página1News",
+    "data": "2026-11-12T14:06:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação de outubro tem menor alta com alívio na conta de luz - Jornal do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmNTbGlxZVhSZXVqWjBHZmNad2R0MExEZ2VOVC1tX1VuUW4wZ0hoRHlGaHhEZHdhUHJ0QlZkaWdlYVNKNjJ6NzRQa2lIX1RWOHBvWnJZY3k0Q1B6TGFkS2VOc0Z5T2pVV2VzSGIxMWhMU3dETlIyeEZkS2lLaG5MZGFScGN5YmFKMmlCWEMyejRVVWQxVGhEbmZtc0FKRHNw0gGmAUFVX3lxTE1qNGlSc0ZtQ2tsNlpDRkVJd2V6ODJmRjhiX1VHV2FXa1ZjdzVVRVF5M1BXeTh5Z2FwV1otNlpQUm5vOXlpeHZiTWVfTjNycm5BekxZclNHN3ZPLW5nNTVlYk5wMGJjVmJ6WFk3TnNtVmxSSFZkdmhxejJXbVZrTnZhdWNQd0premd1amVSa1p2bFI3V1BOM041UW1jZzZsZnN1SHhHN3c?oc=5",
+    "fonte": "Jornal do Brasil",
+    "data": "2026-11-12T13:38:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "IPCA sobe 0,14% em outubro e acumula 4,63% em 12 meses - Portal ABC do ABC",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JNWhJRERjRVpmcGNQaEwzZFkyZXhuWS1YOU40X0JGcWR2aFl4V2xrakFKSFhST3lKYThKTFZWbnNTd1JRYXFya056R3BlQkhtSE5FSE5peEtjUDY0SE84UHZQRnlMaDk2dGxnVkVqU25HVnlLNEZoWE9RbXQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeFNLR3VCbnpPTWZRTHM4MG43YUp3U21ia0puY1R1bi1QcGl5RXpER3JrZ01fV0ppZU1FY1FFaVY5UTcyeVh3eEMtenVwZzhsTXNYNWJ2MFczRllMTEtGTW4zSkpua19EQkgyOHExT3lSZWdfTG91ZnY2TzB1Zw?oc=5",
     "fonte": "Portal ABC do ABC",
     "data": "2026-11-12T13:25:45.000Z",
     "catId": "tarifas",
@@ -2529,6 +2563,14 @@
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDODhjMnhsUzRKd0xxWG1GVEc1ZHlhbV9sUGlnTGhNaVZfQ0pvUm5ZWm0wSVpWTEtYT3BCUENFbW10WFg5Z3JPcVZSdDRLa0l5RnVjaTRVZEQzQVkwMHVfU3VxM0dBbTJPWlNSNzFyX0drRDJndzQw0gF8QVVfeXFMUHkzWVZuSC1PeFhEWnZXRS1jdVN2MGwxR1lhMDZiRmZhNzFiVUxBWHhyaW9hQU5YMW5meTJYbF80eVYyOWo3VEszRmxXdnF6NVFxTzRRdUxWR21HQlNBeUJ5dlIxYXh3V0l5NE5wMFBkTDZRLU9wOWtpcVRENg?oc=5",
     "fonte": "Estadão",
     "data": "2026-11-12T12:08:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação desacelera para 0,14% em outubro, diz IBGE - SBT News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVpXM2hwTlpjZ2pkY19VajRfMEQ4eEtTQ2NrNXJxdlA0aldHLXBrUV9UcEc1VFNuZ210d3pzWVByS3JOMUtWWWJ0YWNpbjhxb0JxTGZ0UVdoQTVFMUNNdjcyLW9TaW16RG5feWhRcW5lVGpZOTlCTng3ZVh1b1J2UE1tYmZnRzZ3Q05oMHMtaWNKZDhjaldKdQ?oc=5",
+    "fonte": "SBT News",
+    "data": "2026-11-12T12:03:03.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4823,49 +4865,25 @@
     "data": "2026-09-29T03:03:29.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Contas de luz não terão custo extra em outubro - diariodepetropolis.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlZKWUl2ZTVIU2JfSWx5TDJnLXhDbHMzMlhOMzU1MkZTd3NyT0RDcFExTkJaR0JpWGRLWWdFZkpZTmtDZmFPSkJGZXVnc0Y0a3c4TG84RlJTdVJjbElSbnFxM3JBdFRyMkl2NGs3YUs0TDlNLTE1dEY2YXQzQjVmSVZqRDdtYkc4WS1QbnB1Z1ZPaW5NRFdJSDlB?oc=5",
-    "fonte": "diariodepetropolis.com.br",
-    "data": "2026-09-29T03:03:29.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz seguirá sem cobrança extra em outubro - Portal Diário do RN",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1VCT1pxXzFtTHZGRE5lN1A4QzJnZEdCRGRONHROSTlabkNLNnk4dU5yRDd6Mm9qTks3RDFaY29uM3h2S2VmM0l0ai01UU9hV3dPZWFpcmtlZEhxMkFEMDVsWG51elE1RUlYNjEwOVZnR1NNM1daSE9SMEkteWxVTElrOA?oc=5",
-    "fonte": "Portal Diário do RN",
-    "data": "2026-09-28T23:23:24.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz seguirá sem cobrança extra em outubro - diariodorn.com.br",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1VCT1pxXzFtTHZGRE5lN1A4QzJnZEdCRGRONHROSTlabkNLNnk4dU5yRDd6Mm9qTks3RDFaY29uM3h2S2VmM0l0ai01UU9hV3dPZWFpcmtlZEhxMkFEMDVsWG51elE1RUlYNjEwOVZnR1NNM1daSE9SMEkteWxVTElrOA?oc=5",
-    "fonte": "diariodorn.com.br",
-    "data": "2026-09-28T23:23:24.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz fica sem cobrança extra em outubro com a volta da bandeira verde - JC",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMaUZQcXRvOXc1d0o5dEJmalRpakl4Sm45dng4VXBscGZ2bWRYdEhXN2M1YUlDNHF1ZGRaeVdteUZ4aDE5VVZEdkFSYWZ4UFBVOXM5MGVFdlIzNmtnMEE5UnhXZlJjeDVuMlpIeHNubGZfVk4wODhMdURqUVczT0pqMTBpLVZkUEtPcHBpUjdoZldzQ0QyeTQ4eFNFYUQzamNkUTJqYTVNd01SVl85TTV1ZXE1MzU2Z0h6b3o1TFhOQQ?oc=5",
-    "fonte": "JC",
-    "data": "2026-09-28T22:20:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz fica sem cobrança extra em outubro com a volta da bandeira verde - jc.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMaUZQcXRvOXc1d0o5dEJmalRpakl4Sm45dng4VXBscGZ2bWRYdEhXN2M1YUlDNHF1ZGRaeVdteUZ4aDE5VVZEdkFSYWZ4UFBVOXM5MGVFdlIzNmtnMEE5UnhXZlJjeDVuMlpIeHNubGZfVk4wODhMdURqUVczT0pqMTBpLVZkUEtPcHBpUjdoZldzQ0QyeTQ4eFNFYUQzamNkUTJqYTVNd01SVl85TTV1ZXE1MzU2Z0h6b3o1TFhOQQ?oc=5",
-    "fonte": "jc.uol.com.br",
-    "data": "2026-09-28T22:20:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Nova regra da ANEEL pode elevar em 73% os cortes atribuídos à energia solar no Nordeste e levar perdas contabilizadas de 7 para 11 TWh, aponta simulação com dados de 2025 - CPG Click Petróleo e Gás",
+    "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZllSRkJwbklycUFfakNidGVLbWh1MGpVUE9RbmV4bUJ2VTVfWTM5REdMb0VDWFBqTlllcWFvQ2t2MFhYVGFUWTFydWxNbUVwMkpDMERkS0RCQjVSd3U4Si1EOVhIZjBSQXRlWGdMZnRFY2drODdIQUF4VjBrTWNwNnFwOWpZRE9TY1hlZy0wSVp1VnRkVFhnR3hrVU1BYVJxNGtvQTVzSGc5ZnBCVksxby02S1dMMjliSTVrNGVGdW5zVjM3eFdqWWNpVjlEaXBCSm4xMWVyRUk1THZtUGdweWJYelZxQmN4QW5PanpqREl3MV9oRlM1VE5VaWp6aGNIZkwzNUtIUWRSU0JzZUFCV1M3UVNucG1naEpHQ2UtdGJ3aGdOV0F2Nm1jNkxmUlUwWHc?oc=5",
+    "fonte": "CPG Click Petróleo e Gás",
+    "data": "2026-11-13T00:33:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Niterói aprova projeto sobre aviso de cortes de energia - Folha do Leste",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0lUU0NFWWVySTVPb05EU0pFNHBrYWxBei0wUk9SX2d3VFZaYTlaSmVZVzMzdDdEbHBrTjNyZHBFQ2xpTXdMam9PV2owSEVpT1FmcDZqS2FxRlVhTlhlQnNPM3d2UlJVTVdIZm41SG56YVdhM3dHZlpiQmJEMUtuUmRrRTBNUk9hR3MtQnZBZ1FPeUdrUlE?oc=5",
+    "fonte": "Folha do Leste",
+    "data": "2026-11-12T16:04:23.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Cooperativas mineiras ampliam articulação por segurança regulatória no setor de energia - MundoCoop",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnNCZHdKcGtSVHlGZGhYdGJUTUptbE95bGVCeE9qZENiQXF0b1pSSDJ6cWh0cVNqdGh0ZnpsU1BocmVtcEpzMWFnWEh5WHFHQjI5elFHVGNROWZhSVk2Q05Gc3dGT3l4d2FEaTd2U0ViUnRaMFNtZXROOHd0T1c2LUZUeWpYbDZFVkNDLUVjcW9iSjFPdWEyTTR6c282OWRURnlLb2NRMENrUTlTeHd3QW5aOEJpZWw3VjQwaUNOMmZyQzlVZ2NybXZMRQ?oc=5",
@@ -4880,6 +4898,23 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzR5M3FNMVJvMWJiSTdUbUtPclI4c3pZcVlINTNCZWRyeC0tVVJQYU4tNVN4am1neXhObTNnS2FZYUVCOFI4Z2lmQ3p2aXRIVE5yeVJKN1hLeWlKckszTWN2OVFoa05vZjVReGgzU25DTTF3cVZNWmNsZm1XZTJQUlAwZ3lqY2lCb3poTFBGZ2NIQ3Jxd25jLUxjWkpBQXBUbzhrUS1tN0dPV1B6dkFNNFh5Yy1HVnFnazdhMEc2bC0yZkt3?oc=5",
     "fonte": "Cenário Energia",
     "data": "2026-11-12T13:27:18.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Niterói aprova em primeira votação aviso de 72 horas para desligamentos programados de luz - Cidade de Niterói",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT09PSnRrc0xEMWUyUXMwUElOSF9uaUF1XzV1bGZvaXdGSzl4Wm9TaVBmVUlmMS1oaEhSd0RiT1M3cWhNNDI2MXF1Qk5pQnhpczlEdDBYck4tVXFzeFNJZXotY2RXSDRwM2d5SkV3eTVsanpJZ0JoYW80ZjF1a3JIQWw4eXNBVTBSYllhV1NsVVUybk5lZDhLYkdMR3JKRWFiblpaUllieTJEdTNoMWRwbUZGbVI3NTJlWTMxdVBOVjgtR0lSNC1v?oc=5",
+    "fonte": "Cidade de Niterói",
+    "data": "2026-11-12T12:04:54.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL apresenta iniciativa para ampliar acesso à energia na Amazônia na COP31 - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUVBREx3OENjQXp0NFNYSzJybHU1dzU2eHV6U2QyLXdMMWJZNUU5RzA1aVlhQzluSGRnTFRZVmNVWTNmcV93UXZENFd5UmU1VjllazZKekxwV3BGQlN3VTJjTHhwNDFTcXd5cm1CVFhUR3pZcmJvY0s3dmpWSkxmcTVnZXl1QmhndjNBXy1Yb0U3RHY3UlBjdHh6cXVEekRDZS05bTdHb1U4TEE2M2szaGFib2VRd0F1NDBCMWNpdnM1a1NhVUdVakVtbw?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-11-12T11:14:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4978,6 +5013,14 @@
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
     "fonte": "Canal Solar",
     "data": "2026-11-10T20:28:28.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Conta de luz por horário: o que muda com a Tarifa Hora Certa da Aneel - Exame",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFZ0T0dyajM1RE1BVkVNZTZDeVMxN29hSC10czFDNWphNDM0TkJuN1FrNEU3TkthSWZRbWRJMzBRbXktOWN2TFRyTGlrM2w1aEtxNXRsMWFmOEFuLWVuYktOMWNQTVJKS1ZMRFRSaWNNcjlJOGc1amp1Nm5yY2RaZTh2eDZReUh2TF93TC1hN1BLRVJFVlJ5ZUJR?oc=5",
+    "fonte": "Exame",
+    "data": "2026-11-10T16:38:09.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -7258,46 +7301,6 @@
     "data": "2026-02-03T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - Livecoins",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g50gGyAUFVX3lxTE1YdU1HSEZodlEtWXBKNXdyeF9PMm1MZ2JoVm1hYWtNOGY0SXNEWkVBamVrTkVZOG9hbmFXc253aldtVUNVcUlJVjRnVE5UdktVMDZtNm1Sc185NzlGaHljb3BPYkpJYkpjRFJvZENiM3cwYVBxSVpBRE5nNXFVSmtqd3lvaDZlTFRzVnR3d2U4a1BiMEhzVVFzWlFPZVVaQUpVWi1ULS1GQ3J3OGxYLUQxd3c?oc=5",
-    "fonte": "Livecoins",
-    "data": "2026-02-03T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Anaeel libera o uso de blockchain no setor elétrico do Brasil - br.tradingview.com",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUWl1YWdLY0JJeU5kRGtPUE5Kblk3OHBybXhWS09GNEswbXlLOXJQZXJlOEVnR05vTFdXN0RvcjFtcEVIWjZIYTJxY2ZJWXJ2LTlLajQtNjZoNXRBcDIyLWJMemVpaWl1QmU0MFpLdw?oc=5",
-    "fonte": "br.tradingview.com",
-    "data": "2026-02-03T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL autoriza distribuidoras de energia a explorarem serviços com blockchain e IA - livecoins.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDF2RlJWMU5jZVE3bWF5a1dfZEVubFNhRGpqdXZIQ2VBbTFQYm9xVlZrV0M4d2lSb3FwdTBUWGgyN1ZIUGwxMktzanlBWTA4NUZxZmdOY2s2NkNEenZpVjBvbkNIS1c0NWt4cWZRX0NXZDViRVlMU25TZG42VGhUeU00M1pZMmZMdUVTZDJnaUJrVk5BLVpzcVlsZzkwVDctT0g0X09paW8wY3g5?oc=5",
-    "fonte": "livecoins.com.br",
-    "data": "2026-02-03T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Iluminação pública: entenda quem deve realizar a manutenção de ruas e avenidas - Equatorial Energia",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2taZk1zajFNbEx0LUkza3JMQmNJVFYzS0RSY3IxOEx0dXg4dVZWV3djWHQ4VEh4cjVwcUdIeVNhNjVFQnZqdVNyUWpUWEc1ejhYSmJsSldGUm14SEVzazBLU2g4T3JZSU9BNmZnbXJHWjVscDg5SmstekxaaGd0VlhlSHRCUnNhWmxkSmdTZ3UzX0NoNUZCN0xwcm04cE5wUHd3ZFd5ZmRqUWY0cndPdGZJRjE?oc=5",
-    "fonte": "Equatorial Energia",
-    "data": "2026-01-29T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Iluminação pública: entenda quem deve realizar a manutenção de ruas e avenidas - pi.equatorialenergia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2taZk1zajFNbEx0LUkza3JMQmNJVFYzS0RSY3IxOEx0dXg4dVZWV3djWHQ4VEh4cjVwcUdIeVNhNjVFQnZqdVNyUWpUWEc1ejhYSmJsSldGUm14SEVzazBLU2g4T3JZSU9BNmZnbXJHWjVscDg5SmstekxaaGd0VlhlSHRCUnNhWmxkSmdTZ3UzX0NoNUZCN0xwcm04cE5wUHd3ZFd5ZmRqUWY0cndPdGZJRjE?oc=5",
-    "fonte": "pi.equatorialenergia.com.br",
-    "data": "2026-01-29T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -9045,8 +9048,7 @@
     "fonte": "Portal Solar",
     "data": "2021-10-18T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "E1 Energia e GDSolar anunciam fusão para atuar em geração distribuída - portalsolar.com.br",
