@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-13T17:06:08.454Z",
+ "geradoEm": "2026-11-14T01:12:13.202Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 12.09,
-   "pct": 2.458,
+   "preco": 12.06,
+   "pct": 2.203,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 84.92,
-   "pct": -0.434,
+   "preco": 85.12,
+   "pct": -0.199,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 25.87,
-   "pct": -3.398,
+   "preco": 26.07,
+   "pct": -2.651,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 168.62,
-   "pct": -2.136,
+   "preco": 171.39,
+   "pct": -0.528,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.8,
-   "pct": 0.743,
+   "preco": 29.98,
+   "pct": 1.352,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.95,
-   "pct": 3.104,
+   "preco": 11.03,
+   "pct": 3.861,
    "moeda": "BRL"
   }
  },
@@ -2452,6 +2452,15 @@
   ],
   "tarifas": [
    {
+    "titulo": "Conta de luz: impostos, encargos e custos de geração e transmissão de energia representam quase 80% da fatura - O Diário do Vale",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJNS21xa0dXNlRFTVVFOFd1am5YbG5rdmNTa20yeXplOXlxd3pBMkF4Y2UtbTZReFZKVW51c1hkdnZ5aERfc3ZMYWFIcTJhNjlQbF9VM054cTNkNzhpenozUDNmYzFQeE9BWWVCNjRpcXBYWkYzdWFMUEVYS05RajZuZTJTdncxSEF3WnFLOHNBeHNERFIwRkNmMTdZaVpfUXFQYlFZbV9zZ3Itank5SzZIZ2pQT1VtUVhmcnY2b0RVUUpQSWdyNlMyMW9XQQ?oc=5",
+    "fonte": "O Diário do Vale",
+    "data": "2026-11-13T20:41:19.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Conta de luz de novembro deve baixar em todo o país, revela Aneel - Diário do Comércio",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3NMamM3WDRzbmkwRDhkeXRJMzkwa2d0RjFna1B2dE1iMWNzWUd3aGE0SmRZS0pjdFMyZlNrTk9XdHJrNWpKbVRqSzVCZTVZRmxLTmROTU5lem01cnZJc3o2SXkyQUlxWnhKOXdWaXVQaXN6NC11SUt5YVRBRHIxQS1hVEdGbGIxOGtPWEN4RzRjSmRLenJRM0Vrd3c3bDNLeHk2V0RpZw?oc=5",
     "fonte": "Diário do Comércio",
@@ -2623,6 +2632,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Conta de luz continua sem taxa extra em novembro no oeste do Pará; veja como economizar - G1",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZUczdE1ORVJMSFVHQzRVMG1lLXhpZG53RHAyb21pMHlCSVJ5YWp6Sy1FRXF4emRmRWY4ak40bUtkb2pGcTN2VU1iNUpLWnBQTTdpZWpsNTcxVHJCWnBJZ1BFNFNCVy1nRkFINU1jUWdJc09BT0NTZTlCb0FhVHZLb2thVGFkU09SUlZVT1ZPSzBLV3dZN2w5Nml0elJLUlcyeHBCT1c0dFlOaWg5OFRRelBnb2xncjFPZTdpdzd1WjN2TkdmRVhJTHI5NVF3c2hFa1VwcG1iT2IwbG93dEhsQXhWZ2NSUdIB9AFBVV95cUxOVEpKa0w4eE56S2xPU0hJWVRtZVZxUUtLTkE2VHE4MmM3aThnX1RzZHRXS2lybk9oYld4ckhvWEZPRFRnclc3Njh4QlhBQ3BueVQ3NUtnWVZxbUdzRUp5M1lSMldBalEwVE5FSkd6WWhubEx2ZmtQaWlld1hXRXAtV2FxTm1kWk9SSngwTy1oNTdzYS1SSnUtSkJYQnFFWWNRNTlwT1hFRlVfT2JIRnM3QU9ndVNLcWtYak5la1h3NHhtWGxZeUd5QkFFRzluRWkzMEpoRVFGeElvUjA0ZzJQZm12RnVLb2NhallNSWJyQ2lsRzNf?oc=5",
+    "fonte": "G1",
+    "data": "2026-11-11T08:32:03.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Projeção para o IPCA: alívio de energia e passagens e pressão de alimentos e serviços - InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdpeFlQb1pIb3ZwNk9QVkxXc2wxQ2poY1BSUzdRTXZ4T0NGWjllWF9tcjR6NkF1dERpN1EyTkNHRlRPOEkzYmFsNUdWME1PSjV1eVRBWThvZXk3NUhTN0o5V3huYzN2TlNTRFJmVVpSQkloNnBYYVl3bGRaMG9DR2NnTkl2N21QSldv0gGQAUFVX3lxTE9rb3ZZdXJRRU9aY0lmNjdPaHZoNTZsYUZOYWNmOFlkR1NPZmZ4NGxIUDRuR0RyZWZaZDRWSGJKM0JyRTBhZGwyQTBKVmcydXZrOXd3dHA3eGFWUUZSQjBnTW1uRHJvLURrblJiWXgxVjZ2bjVkN09GcS0wcjRUczM1a25wdWFtUW4xWWU5WFItRQ?oc=5",
     "fonte": "InfoMoney",
@@ -2676,6 +2693,14 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzBEWEFkdXpoREg0N21fUnNzVlFwV1ZkajJBWm4xelo5dW9oblEwblNNYml3Ri1qcGJRbDVoY216N19HQU4wN0Z1a2lVZldxQkdZTzZ0Wmg1bkZkNHB3dnhpNzBjektWY1NMZkFFQTJIS3JDMUZkdktXYzJyUThHN3NybThlNm5kTG5UNWxFblk3S0tBVmdpYXJ0QzFqX3BGc19LTVFwMlpvTHE2VFlxMTFYenVOMFo2aGdJMnM0aFc4elk4MjQ0?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-09T22:23:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG9GSkR3eHRIZWFXQ2V6cnpIZnhlVWk5Wk1neHR2UjNHY3lHeU04RlA5ZGI5TzVFWTFXY21OVWVwcVJFRlJCQ0RwU3ZWcERjN1psU0NyYnBkUlhKNm1YUFlEZVVOYlg3QkFnQkx2YUdWU2E5VGpGNDlxdURCc3FkYk03RTZTZ3J4SEtLS25Vaw?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-09T20:36:36.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3584,8 +3609,7 @@
     "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - GOV.BR",
@@ -4841,38 +4865,30 @@
     "data": "2026-09-29T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel adota bandeira tarifária verde a partir de outubro; mudança vale para seis municípios do Amazonas - G1",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT1FyRG1hT3VXUlJKb3ZRU2VuM1VaaFBGNkZOYVZBRDUtcVRPRWNFSVdOZGdxalFGaEZtQTR4Mm1QZnExQW5wdnNmRkxnQUFsYjZsNGxDQVY0TTJUcEtCbGJDYktUcGVNc0o0dTBCcHkzOGZ4ZWhiLVVfcGxEYV9zQXhWSmd3bVNXZ0JwYXhQNFFVMHVYRGlPMnh4YlZPSkFIeEstVkdHbXA1T2Rxd3FYVzZwdm1hNGVEM0RfSW1jMm40X0NMd09PbUJfcUVlN2RNMjRxOXRPQVBiMDZjckN2amNrdDkwanRGM3U1dF8tSW9BUdIBgAJBVV95cUxPVDJNNnhqRklkRjhUYmdrdlFzRHpnWHNoMlduWmVKZTBfYnBmRnloU1ZEZ0Q5ZjJTYy1CUk1HVGZPa3c5dDdzOUdRMVVHUVJnUGdGV0I4OGh4RzlEazc4Q0lCbzQyaGZRdEtGY1U3T2Jkc25mcl9TUDVDcmxHbTRuNXRIQkhqdFBXNjJ5cEUxZkFiMlU2VG1obE1VVGJqOVhZelp5eGJiaFhCX2pEMXhncVNqRTZVaGcyVDVyMzZkbm5zUVludE05NWFQVGtsbk11Q0tXcUxpNHBIRjFGN1p5S3NZSExhcFFRcWZGYUh4dkVJSlk4MUNQWmpaRDRFQ2hT?oc=5",
-    "fonte": "G1",
-    "data": "2026-09-29T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro - Folha PE",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
-    "fonte": "Folha PE",
-    "data": "2026-09-29T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel reduz bandeira tarifária da conta de luz para verde em outubro - RibeiraoDasNeves.net",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUdkcDNROFBKUU9JTElMQ0JkeWNETHhMckUzbmJ6WUhSWHk5QnJHRjh1NWh1TjFabWJzNVJ6OVdRaDdQWTF6QWx5VU1pUTN2YWhlR0Zua1l1R0lobUNaWHFIOTVGZWdkUHZ1cW83MWpNcXNub1R5OTNFakRMeHF5SXRIMklueTJ6Um5TRk04RDZuVmF6X1MzTk5uOHRkYUZ0WktGVy1XN0pDcjJweFFJenNlNmx6WE90Rjl3ZVQ4bGtkZw?oc=5",
-    "fonte": "RibeiraoDasNeves.net",
-    "data": "2026-09-29T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "No Juspod, Ricardo Alpire e Tiago Trentinella explicam os desafios jurídicos, ambientais e de distribuição de energia para instalar grandes data centers no Brasil - Coluna - Justiça - Bahia Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGh5eExGWElhQmowVTdiRTVJQUMyRWEzbFdwQVpaX21xVS14dWNNLTgxVlZ6OTFWbFczUFg1M2JkMmp5QUd2c0JWX1JkMU9zcEs3Z2RSNEExSjAxWFF4QW9aTmdsWVVTYzBOaFRKV1BIUldaQWxGZWltMC1nckRHMVVvbnhmemR4RW5vRXlDUTFRWTFydEthZ2JYWVYzcVd4YTJtM0JRSEV4clpsWHcyRUN4b3JRY3UzeHhQajdkOTJ1bHJzd3hYdHozSWx6V01FdlJSS3dUQjBqc2o0TnN2SlpkR1F1Q3duV2hLcmtTU2IzNmszV1owYkZYRHV1ZzVGc25PZF9iYTNsdFRERUl4MjRoVDlVdXZseE85WFJCOXdDZWxha2RYdTFNbFVyYWtSdEZ0VkVjc3M?oc=5",
+    "fonte": "Bahia Notícias",
+    "data": "2026-11-13T18:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Enel Ceará é multada em R$ 6,75 milhões pela Arce por mudar vencimento de contas sem autorização - Ceará Agora",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnBRVGd4QUkyZTkxdFd1V04zRGFidmNNdThSZ3czUUdKcDktNm9WY18wNjJFa3JtLWdoVnVfdUp1UGM4cVB2ZDJLSEs2Y0pSejB5cG4wWHlNS19tcERsRUxRZzNDamtrbXhnRk5idUVxQzB6bWNPcjNGSlJOQ3A1NHM4dC1LcVdCSkRfb3VOQkh0dGRZU0JNdExMQUpBMzdHRUduT0tHNTFyc01PdGwwUkZXOFZkbUVUM1hXN0Z3?oc=5",
     "fonte": "Ceará Agora",
     "data": "2026-11-13T13:50:22.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Arce aplica multa de R$ 6,75 milhões à Enel Ceará por alteração de vencimento de faturas sem autorização dos consumidores - Governo do Estado do Ceará",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR0dBMlZ4VkU5VFBGa210WF9tSktNNDhYSEJSZGZhVV95MHVDOGJKVjZlRXVaMTV4ZzlOV2tjbVJjQlo5QWNvSnlKMkdNaks4czl4UTZIS2ZyUXJ4dGlSZ0I5cEkwRzU0d21FancwZUlTcVZ2TmphYnBLUFQybVRNUGJ0UkpZQkVkZGloVlBhYjFPRGJaZ25qc1laN2MteGZHM1djYmR5WGJRMGU3U0FYVGpBYThVbElxbVJvbHU4aktSdVMzV2V0QmNyUUpUUFk4dmFwVUVnU1YzS19VdEdoTDdKcUh6Nk1n?oc=5",
+    "fonte": "Governo do Estado do Ceará",
+    "data": "2026-11-13T13:38:31.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
     "imagem": null
@@ -4981,7 +4997,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-11T17:49:29.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Aparelho de R$ 4 mil queima durante pico de luz no temporal, concessionária recusa o conserto e Justiça obriga o ressarcimento com danos morais - Super Rádio Tupi",
@@ -5097,6 +5114,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzBEWEFkdXpoREg0N21fUnNzVlFwV1ZkajJBWm4xelo5dW9oblEwblNNYml3Ri1qcGJRbDVoY216N19HQU4wN0Z1a2lVZldxQkdZTzZ0Wmg1bkZkNHB3dnhpNzBjektWY1NMZkFFQTJIS3JDMUZkdktXYzJyUThHN3NybThlNm5kTG5UNWxFblk3S0tBVmdpYXJ0QzFqX3BGc19LTVFwMlpvTHE2VFlxMTFYenVOMFo2aGdJMnM0aFc4elk4MjQ0?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-09T22:23:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Conta de luz até 14% mais barata: Arkanjo traz solução da iGreen Energy para São Gabriel do Oeste - Veja Folha",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNakp2V0dNbEpNUHZTZDRURFItQTAzNVRDN2tCQ0xrRnA1bkgzd09BYUNBeF8tQmdzallEZDVUem1STGdNM2d6R1F3VVBSMklOVkJKQk9FbjhvSjZWdXI3dzNWTnZVWGZSU24zMjNlaE5PZzRrQUJNQWxXSVRHVEMzSy00bHY4RGpKeHpxeTR3Z0RLQ0I3WlBINDBYZ0dZRGpmb0cyaUhYbGtob2FQd3FMVGdUaVB1ZExWRjJENjEzWEJfMlR0MmJFUGhR?oc=5",
     "fonte": "Veja Folha",
@@ -5111,7 +5136,8 @@
     "fonte": "Canal Solar",
     "data": "2026-11-09T20:36:36.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
@@ -5130,17 +5156,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
+    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-11-09T14:35:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - GOV.BR",
+    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-11-09T14:35:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7277,30 +7303,6 @@
     "data": "2026-02-12T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL aprova nova regra para delegação de competências a estados e ao DF - Agência iNFRA",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmhKSmRZT01jQmVISXRlVWlaZ2U3UkZ4T2R4Y2x1QjJyUzVMMkNhT3RPQ2Mxa09nUVJ0bVVFN0k1QTdjc05aNlFEdFVNMlQ1MUd1d2syWjNlQ3gxYlBSTXRJVG1EejRfMUxJS0ZIeUk5M1BoZ2tXLUpHUDVNbDZrSGc5bHlhdzNxODEyTFlyZ3JtcDVRWFV2eWR2R0RsNERUN0JQZmpR?oc=5",
-    "fonte": "Agência iNFRA",
-    "data": "2026-02-10T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL aprova nova regra de delegação de competências e redefine modelo de fiscalização do setor elétrico nos estados - Cenário Energia",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDV6QmczTlZveUNFSFpFTWRvcHpydEdDTERwc3QzMnRFdlFBc05DSGtYajBwY0wxR1JhSGJaRHBjbkhCRk5GOUdCV1p6MFR5ZkF3aDVwU2E5eFVRRVh3ZVRZbENrUE90ZG5RWXl0LUVGdHNfYUlQMnR2UjIwajR4VVRBTVZZZ2k5SUFTYXRLNjMzbUpfRl9BNVBrMGdqazRHZF8xcS1hdDBCc1c2NmhqNmFkekd3cEhjc1NJQnJCaE1NU2dYMjFzZjVESkMtMV9sb2ZyUmJISWt6TXpIVGhXS2lFTDdraDc2VEZKc1ZMWQ?oc=5",
-    "fonte": "Cenário Energia",
-    "data": "2026-02-10T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL aprova nova regra para delegação de competências a estados e ao DF - agenciainfra.com",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmhKSmRZT01jQmVISXRlVWlaZ2U3UkZ4T2R4Y2x1QjJyUzVMMkNhT3RPQ2Mxa09nUVJ0bVVFN0k1QTdjc05aNlFEdFVNMlQ1MUd1d2syWjNlQ3gxYlBSTXRJVG1EejRfMUxJS0ZIeUk5M1BoZ2tXLUpHUDVNbDZrSGc5bHlhdzNxODEyTFlyZ3JtcDVRWFV2eWR2R0RsNERUN0JQZmpR?oc=5",
-    "fonte": "agenciainfra.com",
-    "data": "2026-02-10T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -8960,7 +8962,8 @@
     "fonte": "MegaWhat",
     "data": "2022-08-31T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado"
+    "catLabel": "Players & Mercado",
+    "imagem": null
    },
    {
     "titulo": "Mauricio Bähr, CEO da Engie Brasil: \"Brasil continuará sendo o país mais relevante na área de renováveis\" - Agência iNFRA",
