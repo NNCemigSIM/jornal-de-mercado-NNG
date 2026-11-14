@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-14T01:12:13.202Z",
+ "geradoEm": "2026-11-14T15:42:48.316Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 12.06,
@@ -2457,8 +2457,7 @@
     "fonte": "O Diário do Vale",
     "data": "2026-11-13T20:41:19.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz de novembro deve baixar em todo o país, revela Aneel - Diário do Comércio",
@@ -2466,8 +2465,7 @@
     "fonte": "Diário do Comércio",
     "data": "2026-11-13T10:27:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Tarifas públicas e clima podem pressionar inflação brasileira e ameaçar Black Friday - Times Brasil | CNBC",
@@ -2524,6 +2522,14 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnRfNVdxSXB4ZWcxR0U3MUVtMDhQZG1Gb08xZkJoejU5UUtjQ09KYk5YeTFTUEtjcXR3NzZEanJQN01NV3BTbXR1NF9JZEtBaWtnTGZIWU5Tc05uQXlNWkFBLXJNSnNUeVA4eExiRWJ4MjFUNVdxU2I5U2oyYW9HMl9KMkljdVFGSDJIdUstQ1pvSjlSenN1bmJkSGpfU1lETmJOLWVqRVc5c1dGNnluOE5R?oc=5",
     "fonte": "Região Noroeste",
     "data": "2026-11-12T14:53:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação desacelera para 0,14% em outubro com alívio na conta de luz - Band",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd19pd3JBTm1YdFpuam1FWGRCczg3YS1yTl8wZDY1T3FrVEFSbG9DVlFQYnlEa21ZV1k3aHhjWVYyQ3ZRN0JOZjRoaDhxUnFuMVJBeEtWTDRrOGlvWEtKNUpBOHF3bjNpazZjcTFPREVGYVMxc0xDRjA1MDBNaHBNY2pyRWxhdVA0bTlfcW9ZTlhuMGdwNHZXLWZNVWcwMVNJcnRzX2RlY3dkWVBHdFA4Skg2cw?oc=5",
+    "fonte": "Band",
+    "data": "2026-11-12T14:32:47.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3604,6 +3610,15 @@
     "imagem": null
    },
    {
+    "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro - G1",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM29QWHlmT0FWTWVaZF91ZjdSM3ZZOXpITm1aWDd4Z0EtV3VFMXZpUkluWjNqQXRTNkNoYU42NktRLWFNTGpvNEZwRnFqdHQ0c1hjQTh2M0t4MllXNmhLWlFjQlhBNUliVkRldFBEWlBoSjU5cFpqaWhTWmplZVJnUXFsU2V3UzFCLWtIZG9fY25ycVJNREdoS2JsUXVVcjV5bHlwbHNvVTRHR0NyWnhRd20zUk1XSHFfdDhrb0FMb9IBzgFBVV95cUxNT2FSa19HR3RhN1ZRSFBWSzhDWUE5TkMxM3NLUDhnUDVnZzhsa0hGV18ybmN5OTVCcVFlQXlYTzFmdEdXT1lYdjY2cG5NaHd0c2p3VUwwNW1IUTdYV0JkaUdBbEM0WWQwbFRNaE5Hc29CYmlwSk1kakZwTUQyclpTSXhPM3VZVWdrWUFqeFBjQWFPYUhKY3Fsd0o1U3lSMkxjUDhJNDRfRkRNMkRJaXNtX2dfenBubHJ3ZVFyb245YVdobE5Dbk9jY3ZSUjNkdw?oc=5",
+    "fonte": "G1",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
     "fonte": "O GLOBO",
@@ -3635,15 +3650,6 @@
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro - G1",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM29QWHlmT0FWTWVaZF91ZjdSM3ZZOXpITm1aWDd4Z0EtV3VFMXZpUkluWjNqQXRTNkNoYU42NktRLWFNTGpvNEZwRnFqdHQ0c1hjQTh2M0t4MllXNmhLWlFjQlhBNUliVkRldFBEWlBoSjU5cFpqaWhTWmplZVJnUXFsU2V3UzFCLWtIZG9fY25ycVJNREdoS2JsUXVVcjV5bHlwbHNvVTRHR0NyWnhRd20zUk1XSHFfdDhrb0FMb9IBzgFBVV95cUxNT2FSa19HR3RhN1ZRSFBWSzhDWUE5TkMxM3NLUDhnUDVnZzhsa0hGV18ybmN5OTVCcVFlQXlYTzFmdEdXT1lYdjY2cG5NaHd0c2p3VUwwNW1IUTdYV0JkaUdBbEM0WWQwbFRNaE5Hc29CYmlwSk1kakZwTUQyclpTSXhPM3VZVWdrWUFqeFBjQWFPYUhKY3Fsd0o1U3lSMkxjUDhJNDRfRkRNMkRJaXNtX2dfenBubHJ3ZVFyb245YVdobE5Dbk9jY3ZSUjNkdw?oc=5",
-    "fonte": "G1",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
    },
    {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
@@ -3685,6 +3691,15 @@
     "data": "2026-10-27T11:24:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-27T00:04:49.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Aumento na conta de luz: como comparar faturas e entender o motivo - Quero Bolsa",
@@ -4849,22 +4864,6 @@
     "data": "2026-09-29T10:18:23.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz - DiviNews",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWS1MTlRIQ3BWRDJGeHdsWjlKM081Wkh2dzlMWW50cVE5NnEwQXFiRDhEb2hGTTlFVVBEd1l0eTZHTmEyT0tleVp1Qm9XbWw2a3JINWdCWUdSanl2VG52cHhkd2xhWDVuRGoyVkV2VTMtbndhOHBCbERlOWFBWUpWRlRBQXVlQ091V0VjUHJJMlVBcktjOGtpNllRcWdQdTlRNmdlQjVFY2JZN2lCbXZ3Y1NJS29aRVFpZ0JydUxEYTBTSXNWVWEzczJkZFdINmc3cEMxTEtwZXpudXNkeHo4eGVCWkJPQQ?oc=5",
-    "fonte": "DiviNews",
-    "data": "2026-09-29T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - Gazeta de São Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzAxWVFBNVF2TVJYQ2E4QTFRUGJoTU9ZdXZRRzN2UG1UaFd5OF9rOE1XRTQ2RDFraGgxYm1KTW5wTTUzdkhfYXpHenUyN09YN1pxOFJ0azR0NUJJM0s5TUZkNmY5UHRrTXpLTXpaNU9wbFJFUWEzSDB5SWtlUF9zY25vZ1ZUWHp2dmlLRkVMMVZzT0lhVGF1VGozOE5EME1jWk9UVHQ3SDVNYXc0Xy1LbkVpY1k2ZXcxU1VOd1pBdTc2WWNJSzJ6TQ?oc=5",
-    "fonte": "Gazeta de São Paulo",
-    "data": "2026-09-29T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -4890,14 +4889,21 @@
     "fonte": "Governo do Estado do Ceará",
     "data": "2026-11-13T13:38:31.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Fios emaranhados nos postes ameaçam segurança em Canoas - abc+",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGhkcExUM0pUYUp4WWpRNlU0UDhGeE9GRWF4M0RjX0xJS2pPTDRBaC1VcThKT0JWNTV2RHd5ekZoMXViX25aOFB1NjBobW5UVEliQTlPVnhEMTZSendnN0t3NlQ3TG9XWHpneFBDYW4wa1lPREJmd016djRrQjlMVEJjVjZkSFl0QjBLc2ItMUc3OG5aWXB1clJOLWRqZVBSZXJodFctdGxKNXFyLWNnTHh5WjdZaTZDZ2tjS1hQVXBXMWJEcVd3YnhOM3RtajQ?oc=5",
     "fonte": "abc+",
     "data": "2026-11-13T13:33:33.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Norte Energia implanta arquitetura de inteligência artificial agêntica on-premises para gestão operacional em Belo Monte - Brasil Inovador",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMDVFRE9WUndEdVFnTW83X3hlai1CMm43MUZnaHdQTXFQbGJ0LUJYVjBfXy0zRWRUWmEtYmtqNlVlYzh1b1ZPX2RqNlduUENDTlZGZnZDTFJEcXVmZHJhS1FranFINHVpR2gyVWhTUkc5NXJTNmFoaTE2UHUxM1RpakxrMjFVa1dGbk5ZTXpNRmxfR2lPRGF6N3NLWFFfUXhkbmY4SlNDellCd3FQYk9MUEh6b0psRndXZGI0LUtpdkFibENmMHFBb0dSVUMxSzdJbG01NUo5NHpOSGJiNktRVjZwMFhmQQ?oc=5",
+    "fonte": "Brasil Inovador",
+    "data": "2026-11-13T10:40:07.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4997,8 +5003,7 @@
     "fonte": "MegaWhat",
     "data": "2026-11-11T17:49:29.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Aparelho de R$ 4 mil queima durante pico de luz no temporal, concessionária recusa o conserto e Justiça obriga o ressarcimento com danos morais - Super Rádio Tupi",
@@ -5014,7 +5019,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-11T15:33:28.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Open Energy: a energia começa a mudar de mãos - Canal Solar",
@@ -5136,8 +5142,7 @@
     "fonte": "Canal Solar",
     "data": "2026-11-09T20:36:36.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
@@ -6186,21 +6191,20 @@
     "imagem": null
    },
    {
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
+    "fonte": "GOV.BR",
+    "data": "2026-09-15T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
     "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-09-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
    },
    {
     "titulo": "TCU quer revisão do curtailment e avaliação de cortes na MMGD - MegaWhat",
@@ -7293,14 +7297,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS291SUI2eG1fNUNoMnNoSmN5b0pzOUI4M0ZzWlBwR3BHSXNiaUNnZEFXVF9ZQUh2MG1ReHRhdG5ESFJDWFlhdEJoNExXSy04TTJRY1Z3UlB0cVRVZVhwWUk2VElDOHRXMnJiU3B5X0N6TUN3a2gwZDBDYTVvOW55Vm1HMjdfNEFLXzF4NHN0YUtDTmt0T3JMRmh4azFZV3diUVFKNDlRNUJCSnNMSEtCalItU3hWU19SM254N0daaDhfcXFGMldySWhNa1Q1TEU?oc=5",
     "fonte": "tagdlaw.com.br",
     "data": "2026-02-13T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Técnicos da Aneel mantêm 'tarifa dupla' e afastam consumidores de encargo das baterias - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUhlUXY5VjRiN2lVVWVrZElPVTVtQXBPZWpTR2huNHZKdGxBYVUxaGs1dndWN1g1WE4yZ002bUR2VHRia1FpSzU5ZERYV050d0hPckdQY3ZXZGM3R0RTZW50RzN2M2xyWTE4MVB0RFFSanFKc0JPNzgwcVI3Wnc1ZjhBdHNpcGxHYU1LWXNVWEZWMUtRZTM5aGNoQ2RwV3MwaVMxZW9qcXA4THZaMXV1eGhCZnphQV9XQlhFQlRFZzk?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-02-12T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -8962,8 +8958,7 @@
     "fonte": "MegaWhat",
     "data": "2022-08-31T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "Mauricio Bähr, CEO da Engie Brasil: \"Brasil continuará sendo o país mais relevante na área de renováveis\" - Agência iNFRA",
