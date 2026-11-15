@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-14T15:42:48.316Z",
+ "geradoEm": "2026-11-15T00:39:33.265Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 12.06,
@@ -661,7 +661,8 @@
     "fonte": "Portal Solar",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia - Canal Solar",
@@ -4889,7 +4890,8 @@
     "fonte": "Governo do Estado do Ceará",
     "data": "2026-11-13T13:38:31.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Fios emaranhados nos postes ameaçam segurança em Canoas - abc+",
@@ -5003,7 +5005,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-11T17:49:29.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Aparelho de R$ 4 mil queima durante pico de luz no temporal, concessionária recusa o conserto e Justiça obriga o ressarcimento com danos morais - Super Rádio Tupi",
@@ -6191,17 +6194,17 @@
     "imagem": null
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
