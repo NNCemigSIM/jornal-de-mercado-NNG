@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-15T16:13:30.275Z",
+ "geradoEm": "2026-11-16T00:38:47.700Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 12.06,
@@ -2477,6 +2477,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Inflação desacelera para 0,14% em outubro, diz IBGE - V9 Vitoriosa",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzQ0MG5xTWc3aUFhbmlfbUNLNlZKYkRMdkJCMTFzckRqaUlzLUdJaUZhS1NVS2ViejgzSHZqTDJaZ1VTSWtERzFyaWZQYUtNZ2dHeU4wc3RnM3ZyTFl1aURwX0F2VXQ3SS14Q0tTSHc4V0wtRWtwN1pQTGd2em9zVw?oc=5",
+    "fonte": "V9 Vitoriosa",
+    "data": "2026-11-12T18:04:18.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Inflação desacelera para 0,14% em outubro com queda na conta de luz e transportes - WSCOM",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmYxemdJOWpuSmQzVG4zSHpaRlNYOXMwblRsOGl4cDZDVjU1RFJKNDZtZGFRLXVta1MzRzhzamR5X2pocUZzNnhyNVRFUWVKUWlRNlhHd2VzYXdPSzdzTXZhSWlDSzBVTEVKckFoQ2J3YUJPVFFnOXJUWDFvTGtabkZBMXZmM2lJUTMtLVdBaUI5eEpQV1lhd3N2T2VOaVJlY08weGI4QnhDR0tXWC1vQWpoaHF0d0ZvcFExYkx3?oc=5",
     "fonte": "WSCOM",
@@ -3710,6 +3718,15 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
+    "fonte": "GOV.BR",
+    "data": "2026-10-27T00:04:49.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
     "fonte": "Governo Federal",
@@ -4849,22 +4866,6 @@
     "data": "2026-09-29T12:50:17.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro - blogdoeloiltoncajuhy.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEJGSG50ckFHanJaeVdWVjFFTDNMU1NJVU8xd2U0Y2JmU3FQQ1VMOVcxMURaVFM2cUJfTy1USWxZNDA2VlBDR2x5OC0xNFZ1dDRLdUh0b1ZmaHpPTmV2bU9tWDVSdmk0aXlzUld4cG9OVFBoQXdjYnlWUkR3ZHJGZVYwZzJTVl9zdUdKbXpn?oc=5",
-    "fonte": "blogdoeloiltoncajuhy.com.br",
-    "data": "2026-09-29T11:20:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro - Blog do Eloilton Cajuhy",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEJGSG50ckFHanJaeVdWVjFFTDNMU1NJVU8xd2U0Y2JmU3FQQ1VMOVcxMURaVFM2cUJfTy1USWxZNDA2VlBDR2x5OC0xNFZ1dDRLdUh0b1ZmaHpPTmV2bU9tWDVSdmk0aXlzUld4cG9OVFBoQXdjYnlWUkR3ZHJGZVYwZzJTVl9zdUdKbXpn?oc=5",
-    "fonte": "Blog do Eloilton Cajuhy",
-    "data": "2026-09-29T11:20:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -5185,8 +5186,7 @@
     "fonte": "Canal Solar",
     "data": "2026-11-09T20:36:36.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
@@ -5194,8 +5194,7 @@
     "fonte": "Estadão",
     "data": "2026-11-09T15:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "TJSP: Concessionária de energia deve retirar fios de alta tensão de terreno de consumidor - Valor Econômico",
@@ -5206,17 +5205,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
+    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-11-09T14:35:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - GOV.BR",
+    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-11-09T14:35:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6236,6 +6235,15 @@
     "imagem": null
    },
    {
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-09-15T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
     "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
     "fonte": "GOV.BR",
@@ -6243,14 +6251,6 @@
     "catId": "regulacao",
     "catLabel": "Regulação",
     "imagem": null
-   },
-   {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-09-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    },
    {
     "titulo": "TCU quer revisão do curtailment e avaliação de cortes na MMGD - MegaWhat",
@@ -6421,7 +6421,8 @@
     "fonte": "MegaWhat",
     "data": "2026-08-17T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Armazenamento de energia: de equipamento complementar a ativo estratégico do sistema elétrico brasileiro - Canal Solar",
@@ -10751,6 +10752,14 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaTkwXzJHaGNYMW43cDg1NVhrWkNMWTV5dXFqOTFQUWdYVktwVTJxYmY2VWFwNWlSRmhCY2RiNThLNVQ3QlpSc2VRLXZPQndyTm5RRkoxWlo2aGxFUzVudV92MllVNF9UcjQ4dERLNTBla2s2VmtrUzRBRnZPMkJpV0owYXIwMENJd2NrYkVMM2poVHBiSHExTXhIVG9jSzFBMklEaQ?oc=5",
     "fonte": "canalsolar.com.br",
     "data": "2024-01-15T08:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "Energia solar e agronegócio: tendências e aplicações para 2024 - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlo1MVJEVkstVFJzbGh6UUx0VEhPSm9mcnNLS0dGVkRXSjZhMHQxeU1fN2xnU0tyTG9tRmNaMlRMUjZ3RWt5OUN4a2NsRVg2VFhPNG84X2xOcE5XbFpGMXVPMXlaV3dDSEhicFdMaE9jQ2VkTjNvc2ctLWNYN0JESGZhX1VyTDkwU2xjOGF3RnVPUQ?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2023-12-20T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
