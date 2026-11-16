@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-16T00:38:47.700Z",
+ "geradoEm": "2026-11-16T19:28:59.764Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 12.06,
-   "pct": 2.203,
+   "preco": 11.77,
+   "pct": -2.407,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 85.12,
-   "pct": -0.199,
+   "preco": 85.455,
+   "pct": 0.394,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 26.07,
-   "pct": -2.651,
+   "preco": 24.8,
+   "pct": -4.872,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 171.39,
-   "pct": -0.528,
+   "preco": 164.665,
+   "pct": -3.924,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.98,
-   "pct": 1.352,
+   "preco": 30.03,
+   "pct": 0.167,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 11.03,
-   "pct": 3.861,
+   "preco": 10.84,
+   "pct": -1.721,
    "moeda": "BRL"
   }
  },
@@ -39,6 +39,15 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2tiVWotWEtJOERyaWtfTzRHSjZBbGNVS1ozZXRsOURoM1N3by1ydmNyZWFrQzlRb0lUVkg5akloZ3hWSkVhYUhYTXRBRTNNbkhfdi1Pc1k3X0tDTXlqdjZocGNMb2RUZEQwcmpsX2llRlQwZEt4VnpfbGpHUzkzZVltTkhMaHlhSGV0TU5yc2djS3BjcFh6cTBCdDRLUHhqd1hZYXZKeFY5d3FGYi1SNExWM3RqN3ZQZ2tYOVJnMHU?oc=5",
     "fonte": "Portal Solar",
     "data": "2026-11-13T13:01:41.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída",
+    "imagem": null
+   },
+   {
+    "titulo": "Tarifa Hora Certa e a nova realidade dos projetos solares no Brasil - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-10T20:28:28.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída",
     "imagem": null
@@ -2319,8 +2328,7 @@
     "fonte": "NeoFeed",
     "data": "2026-05-13T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Energia solar reduz conta de luz sem instalação de placas - G1",
@@ -2441,17 +2449,17 @@
     "data": "2026-05-05T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "Minas lidera ranking de geração de energia solar no Brasil - Cidade Conecta",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzRGZ2U5Z29IbEV1MXlEQTR2cUZkUFZEZ2R0NjFDYVBqdDhPSkUwMXA0bmxpRDhoclptUkNtSzQya25waWRfd0pTZ3Y0QWdjMDB0Z2hiQm5WVzhlUXR5a0RkN0k4bUVqSzlyU1ZTTEt2cTBZWENEY0l0SkRFVHJKNzNURVJ3QS1hcFFSZWNoTDdpeFR1d0Ruek92elR3ZkxGVThIU19mbWM3cHh1eHZ3?oc=5",
-    "fonte": "Cidade Conecta",
-    "data": "2026-05-04T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
    }
   ],
   "tarifas": [
+   {
+    "titulo": "Conta de água da Cesan pode ficar mais barata em 2027 com redução de 5,52% - Portal Tempo Novo",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YalhKYmQyd1RjeUZITnF3YUdLY0Q2MWpsUW9heFByVmJqZHY0TzUtaWZwNmZ5cFo2Yko4eWZ6cUxtSlZINk5iVXlpWXpVRHJSUE1YN21hR1ZqWkh0NDdab1o3Y0VieDBhMEFkQkJtRU1zTjA?oc=5",
+    "fonte": "Portal Tempo Novo",
+    "data": "2026-11-16T16:41:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
    {
     "titulo": "Conta de luz: impostos, encargos e custos de geração e transmissão de energia representam quase 80% da fatura - O Diário do Vale",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJNS21xa0dXNlRFTVVFOFd1am5YbG5rdmNTa20yeXplOXlxd3pBMkF4Y2UtbTZReFZKVW51c1hkdnZ5aERfc3ZMYWFIcTJhNjlQbF9VM054cTNkNzhpenozUDNmYzFQeE9BWWVCNjRpcXBYWkYzdWFMUEVYS05RajZuZTJTdncxSEF3WnFLOHNBeHNERFIwRkNmMTdZaVpfUXFQYlFZbV9zZ3Itank5SzZIZ2pQT1VtUVhmcnY2b0RVUUpQSWdyNlMyMW9XQQ?oc=5",
@@ -2683,6 +2691,14 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDIwX3FDNVFXYmtWdDZrNmlYTkRkYkRpNks5eTRTbDBmbHpURnlpbHBydzlfMGhVTkhsQ0pMYVRRNWFQRzZNUE8tSThRVkxPSmNFT1JsamZJV3FPWm4yYVZHaUhSWVpTdjJEWjlOYWVNdWlWMDFTdXRKQ0huMnUxdk9XYnlGZ1BqaUF3eXlpenRfSkJCb2dPMzVDOEpRZUMteFRyTEFiUEl3VjRmY2VQeWtwU2lKOEdKazYyT2VTQQ?oc=5",
     "fonte": "O Impacto",
     "data": "2026-11-10T20:31:14.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Tarifa Hora Certa e a nova realidade dos projetos solares no Brasil - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-10T20:28:28.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4850,25 +4866,59 @@
     "data": "2026-09-29T13:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel confirma bandeira verde em outubro e conta de luz chega sem cobrança extra para consumidores - Cenário Energia",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWs2c2lmZGlHZWtaS0VldS01YmhqdVltOHZGVXRsaGpza0psdXFEZ01TUjFuUGtQaGcwMzJIcVlfcnIxMkgtMUMzdzRhNXc1R1Q0eVpnVm8wNGFoNnV2QlV4UERIWUpENkhUc3loMmc4VmRZTW0wNkF2ZU85NnJ5MnhfeVVGVms?oc=5",
-    "fonte": "Cenário Energia",
-    "data": "2026-09-29T12:50:17.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel confirma bandeira verde em outubro e conta de luz chega sem cobrança extra para consumidores - cenarioenergia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWs2c2lmZGlHZWtaS0VldS01YmhqdVltOHZGVXRsaGpza0psdXFEZ01TUjFuUGtQaGcwMzJIcVlfcnIxMkgtMUMzdzRhNXc1R1Q0eVpnVm8wNGFoNnV2QlV4UERIWUpENkhUc3loMmc4VmRZTW0wNkF2ZU85NnJ5MnhfeVVGVms?oc=5",
-    "fonte": "cenarioenergia.com.br",
-    "data": "2026-09-29T12:50:17.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito - TAGD Advogados",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM09KOWFNS1RHZjZzWXF3WjZ0UUMxdDFXa3l6bi0tTEtfYWo4WkpMM3lSVzZrRldRRmRRQ19lUGlXdFNoRDJkejg0U3p5TU5PY2taRWNLN2FtTkd5Rm5uR01rMmptc1lEalFoWGJuUVAxTWgxVkpXQkZfVm5oaUdnSTJvdGNYWkFyTUd5MHZKeUdvZDctekVLWU5fZTVCNnk3ZHNDcA?oc=5",
+    "fonte": "TAGD Advogados",
+    "data": "2026-11-16T19:24:38.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Aneel compensa UHEs Santo Antônio, Colíder e mais três hídricas por reflexos de Belo Monte - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2I1UzZENl9ZdGRFQjE0QzV6VTE0Y0J3QWdVbTljYmJsZ2ZYdWlTYnhDUmI2aVFOUTA0UXpUU1hmQTVzcUFfMENCbDRuWkdFc3F2cE1iZl9hYURvUmNPbG41dUEtV19jcUdKQnJVSzRsa2doZUlzT3A3S0VBMDA1ZXpLaXYwOXZQN3YweGlGcHNTRlo3QzBWQnZsLTRiMW83T2FyNnNnQmZnNXlZTVVzQVVna1UtYUowSXQ1VEp6QmVyWEY3anNBM1RlWmw5ZS1VTGdtZA?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-16T17:16:13.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Aneel propõe nova regra de curtailment que corta em 10 TWh ressarcimento a eólicas e solares - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkZjNlBlOEp1VGRGaGV1YWhJQzZjNDNQLTBSSXhUckFhWUlaNEI2bDBVZURjM3VuVEEtR1BlTVdqVDl6czVoUGJqN25ycll0cGdQemxIaG5LQk00QmhWbldkLUJYMGxMQ3dxNnNMMHR2cl85cWR4QmhvYUE0dXNCUDhMWnktS25DRUpOa0JOMExFd3BTczRDU1pJM3J6QnM?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-11-16T16:47:35.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Liquidação do MCP na CCEE movimenta R$ 2,1 bilhões com adimplência de 81% em setembro - Cenário Energia",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGs4UEZFcW9FWTh5aEZlV1FjX2g0NXJtT3lwLTcwLU1WeUJWdFl0S0U1bktoMHBKYklrS1ExRmNtc25LUmxsUmlsOWFHc2kwaGp4NEVmU0llS21kdWdDYzlQWDRXdHpCMzhpZTFUTHVDRVhwbWNWNC13N001bU1VSGxGMUZMd1MxeG5wb2dKUDlIeEZVS0lsZHdYS2FtRlg2Xzdkc3JKWnFGaHo1b2FCbGhrUDZKelRORnk4YXpKMUVLUQ?oc=5",
+    "fonte": "Cenário Energia",
+    "data": "2026-11-16T13:35:20.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "J&F tenta evitar cobrança de R$ 3,5 milhões por mês na UTE Uruguaiana - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLW91V3hsOUxJeE5XRTUxRXh2VEVuWVRhdXRqNmdyTVdrelpuRHBaOWRLekdrNlU4YVViNHRXRlRjNldRYzR5LVRWQXV0RDRROEdxZmo3dk4zLXJqbmRWUEVfZ19TaUlPcWg5RUFYS0JOOXJhU05CckRobEhPdmVqREV0cjVQRndJVi12Skp4aEUzd2dMUURXeUhXam9LOHo4N3pxeGk3MllJVm9mVXZ4SXZ5c2QyRmFnNTRRSFk5ZkdDQQ?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-16T13:04:32.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "ANACE alerta para risco de judicialização de novo encargo no setor - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ga2Fzb3doNGdMa1FvT3BVYkpvS3N1TUZQTXdFVV9STmppbnBkNW5jWWtnMUdraW1aTlI2ejdtR3hDOUNQczQ4eUp2Rmk3WkU3THZ6X2tPQnRpdnVkZ3pUclRQQVloaGU1aG5OQUxPaXctM1JjcTUwb0l3?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2026-11-16T11:56:14.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "Aneel propõe Tarifa Hora Certa e prevê mudanças na conta de luz a partir de 2028 - Jornal Grande Bahia",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTC1pS21qblV6azY5NEZrT2Z5S1VfaFJDSnp5TDF2SWJjZmpMRTh0aGJrTmpnZkRnbVNSM1ZQSkc2N0hRdldsSVh1bFFOTDNxSk43azRBSmdmbk1sTUpZemFYZXJ2TlNSZF9sMUN5UEhYYm9OOExMSjIxYmgtc0o0a2wtSlNULTlYN2cyYTNaS3ZVOHhPXy1wckxMSFVIUlRZSjJjU1dOUE9FR00yR0Y5LV9Pb1UzRXJ2MmZ6S2pZaw?oc=5",
@@ -5038,8 +5088,7 @@
     "fonte": "MegaWhat",
     "data": "2026-11-11T17:49:29.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Aparelho de R$ 4 mil queima durante pico de luz no temporal, concessionária recusa o conserto e Justiça obriga o ressarcimento com danos morais - Super Rádio Tupi",
@@ -6235,18 +6284,18 @@
     "imagem": null
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
     "imagem": null
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
@@ -6421,8 +6470,7 @@
     "fonte": "MegaWhat",
     "data": "2026-08-17T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Armazenamento de energia: de equipamento complementar a ativo estratégico do sistema elétrico brasileiro - Canal Solar",
@@ -7256,54 +7304,6 @@
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWFN1T3h1eVRpSHJHNDRUY190R3Voa19NT1JEU2h3MzRpV01ES3lKb3hvRUh0dE1RaFlMNm9YaDVuVkFhbFFIQnA5ZWhGLUcwREdEMDRFZ0NMOEtHa2FYUG9JWTZNd05iRU9zREZtTTRXTXVvQjZyQ2d2OTJEdmdyLURB?oc=5",
     "fonte": "Canal Solar",
     "data": "2026-04-08T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Regulamentação de baterias sofre nova postergação na ANEEL - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWFN1T3h1eVRpSHJHNDRUY190R3Voa19NT1JEU2h3MzRpV01ES3lKb3hvRUh0dE1RaFlMNm9YaDVuVkFhbFFIQnA5ZWhGLUcwREdEMDRFZ0NMOEtHa2FYUG9JWTZNd05iRU9zREZtTTRXTXVvQjZyQ2d2OTJEdmdyLURB?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2026-04-08T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Consumidor b-optante tem direito adquirido de enviar e receber excedentes e créditos de energia? - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEZpU3ZUeWpBYnMzNXV2cnZ5TW9mcjNoMlh1bmhLak9rN1dneXc4eWdlSmYxU2M5Nm9RTElhRF85UXR1Wktuam5EU3FyTExMc2xJN08zVTdfeC1HQXBfTzM4RnBIaURHRWVyLUQ2N1RCSmhhNWhtNGpRYm1yNkZEWFBFR0Exdw?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-03-23T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Consumidor b-optante tem direito adquirido de enviar e receber excedentes e créditos de energia? - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEZpU3ZUeWpBYnMzNXV2cnZ5TW9mcjNoMlh1bmhLak9rN1dneXc4eWdlSmYxU2M5Nm9RTElhRF85UXR1Wktuam5EU3FyTExMc2xJN08zVTdfeC1HQXBfTzM4RnBIaURHRWVyLUQ2N1RCSmhhNWhtNGpRYm1yNkZEWFBFR0Exdw?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2026-03-23T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Ampliação à revelia em sistemas solares: o que diz a regulação e como se defender - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbnEtbnZNNnhpTGtaR3V4Y1Z4cm5RM2RkbVAyQlhfNElkdlcyMlhlVTZGZkdNWTZHeGtiRG1hWnVCMnNZdkJIdnpWdDFNcVVVMDRURU1qWTJBYnV5ejI5aTBNZDlkUTBHNndvUGdneDhoeF9KRlFlTzZn?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-03-09T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Ampliação à revelia em sistemas solares: o que diz a regulação e como se defender - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbnEtbnZNNnhpTGtaR3V4Y1Z4cm5RM2RkbVAyQlhfNElkdlcyMlhlVTZGZkdNWTZHeGtiRG1hWnVCMnNZdkJIdnpWdDFNcVVVMDRURU1qWTJBYnV5ejI5aTBNZDlkUTBHNndvUGdneDhoeF9KRlFlTzZn?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2026-03-09T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Curtailment no setor elétrico: quem assume o risco? - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzFjWUpBbjJSeUd1SVByQS1fbk5BTEZjNU5CMFBkeElhdV9QcUVFVHJDMmZ6Q0tlYnlFZW0wZHM2aFU5T2FlWXF2bjBNcmhVT2c1S1hIel9hRG9ieFdxekJIQWJYRGUwS2ZHR1hJSHR6T2FkdkNOVE56ZWFYVmJZcHFjNGhZU2h5aVA3X3VHZEUxbmJBbEFHWklwRGFWQQ?oc=5",
-    "fonte": "JOTA Info",
-    "data": "2026-03-05T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -10961,8 +10961,7 @@
     "fonte": "Gazeta do Povo",
     "data": "2023-05-04T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Cresce o mercado de energia solar: tendências e oportunidade - gazetadopovo.com.br",
