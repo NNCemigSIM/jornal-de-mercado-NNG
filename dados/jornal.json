@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-18T17:55:48.752Z",
+ "geradoEm": "2026-11-19T02:12:09.695Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.94,
-   "pct": -0.583,
+   "preco": 11.88,
+   "pct": -1.082,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 84.93,
-   "pct": 0.604,
+   "preco": 84.78,
+   "pct": 0.426,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 22.52,
-   "pct": -2.342,
+   "preco": 22.66,
+   "pct": -1.735,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 152.93,
-   "pct": -0.026,
+   "preco": 150.98,
+   "pct": -1.301,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.94,
-   "pct": 2.757,
+   "preco": 30.54,
+   "pct": 1.428,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.94,
-   "pct": 0.183,
+   "preco": 10.93,
+   "pct": 0.092,
    "moeda": "BRL"
   }
  },
@@ -2453,6 +2453,22 @@
   ],
   "tarifas": [
    {
+    "titulo": "Absolar vê risco de alta nas tarifas de energia com IOF sobre debêntures - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHUzV2pidm5CMl83QzR5OFZqZ3NydVZQLVhlelRRSEJEUlpJUWZ1R1ZEUTNPV2hwbjVlRU9jaFJjWXNkRk1YVDJWNXZUVXNDUC1IaVd0OVFkTVNnLWZseURRZUZMYjROZEdEdkhKb1ozUzdSTjJyb1F0ZVhLYVA0TXprRFd0dFNzTkNHdVFxcUFoM0tEQnRSVnA1MTNOU2JIMDlsZVVQTlZJbzFORG9XRTkwS3kwOEtGRlRzcElR?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-18T17:05:30.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Energia elétrica vai subir 22,64% no RS a partir de domingo; veja quanto aumenta a conta de luz - Portal de Camaquã",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN3ZYVnlwNUFRVVFseExrWEJMYV9CSUpSYUtqZU14YlFGVW5IVW1uLXlRSURqeXdDUkstVEdTUFUtcGx1NEJxQ0o0bjNlQzNyQ0lONkRqUTR4VVFKeFZ2VEE5Z3ZVN0tTLUxLbmluVEpWVkJpdW5VNTUxNS1LejNHc2JVZUxpbXNSbDhmZU9xVFJQWDdJVmJrazZvYUJTS001MFViMmVrUFNZU054RUJHLXJqeHJVWjZRMUpLd09iUlFxZzZoNG41RzFCd0c1eHIxa0JzMFhLRUh2YnQtTVNUem1SMA?oc=5",
+    "fonte": "Portal de Camaquã",
+    "data": "2026-11-18T16:58:05.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Concen-MS participa de debate sobre compartilhamento de postes na Capital - Capivara News",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnVDQjBnY19sWVhqT2JhN2RQM3B3OG00bEVuZHhBODBlSWYybTZGR0ZaRVZudEIyNVFpNjNTMnJUNDJjV0VkV3Yydk05QnVzZldzc01nMkczUVZZMkJSa3VOSjBKT3ZPUFFzb2gxemRpZDZCem9zUVFrTVJyVzhRZngxcnFTakxDUXlKNDZzQ0d2NzV2M2pRRDJ4TWI5d2s?oc=5",
     "fonte": "Capivara News",
@@ -2473,7 +2489,16 @@
     "titulo": "Aumento na conta de luz da CEEE ocorre por custos de \"geração, transmissão e distribuição de energia\", diz gerente - Diário Gaúcho",
     "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNeEtCMUR3ZVZWOW5wdGZpWkExbmhBdENtbGFhbVoyNVZqT0hwZXRIS1ptOEZtUkhvZVA0a0pVc1BqSllKR1hnek5sTC15eVpnVEp3RmpQc20xaHlGOThtVVBERThBZUJzbHlZbjJLeVU4RXVpR0t6dE1YOGVvYy02Si1JOENIYnQxZF9FQUk4YTE2bXpST2VEY0xPclg0Tk5rLVRRdTFiVGVYUDVvZEx3UUxTcC1LY1Z5eVJ0YTBrcm5yRlVhcVlvQ192d1czQkI2VjFyOWxIS3l4VGNlS0VHUFdHWF9MazhQNkxMVWRzSHVMeTVMenpVanJPWHVqaGttbnE1Rms3X1UybWhRQUp1WXVqeVBrRnlRaUh4Mm16ODBHTlg0Tm11Skx2QQ?oc=5",
     "fonte": "Diário Gaúcho",
-    "data": "2026-11-18T13:11:54.000Z",
+    "data": "2026-11-18T13:14:09.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Conta de luz da CEEE Equatorial vai subir mais de 22% neste mês - Rádio Acústica FM",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43TDEwT2JHWDZIVHlkdDBocWZYMTNwUllaZmo1aUFJellxYUg1aVFHTU1aSnBGeFVobkZOcjhxZEdGRWJiYWw2SXUwb2UtRFd1R21BekR1NENGWElBMGlNb3I1Rk83WmRjMVp5MW1GSUI0bVk?oc=5",
+    "fonte": "Rádio Acústica FM",
+    "data": "2026-11-18T12:12:12.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3845,15 +3870,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU5nVUhJVWdMQzQzMEYwX2ZxRjZHZGwwSHY3U1V0bXJJTm9rbGhUcHVxbFVRUDZ2U0NZbVg2MElSV2RXVmo5cXBjbEdmYkNtQTZVemo2UVFwVE5sZUlYRDlIZEtfTllVZEduTjNJWFRwemNiLXJYX0ctZnI3T1ZGbm9MZE14RTB4VTJBbWxicVg1V1F4UDFVb28xVUNaOU1hSDZ5ZUVYVzlqTndiN3VKLQ?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-10-27T00:04:49.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
     "titulo": "Aumento na conta de luz: como comparar faturas e entender o motivo - Quero Bolsa",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QazgweWFfMnUyWDNyamU2aUNvREQtck1aUC1PeVEtRGN2Vy1KclpmbmNmazh0cVZuY0xraE1ROUhOXzJTX3FMNmlkVkFMWmxLNVJzbldpcF9FbEc0ZEVZOHB5a2JLSEVp?oc=5",
     "fonte": "Quero Bolsa",
@@ -4848,25 +4864,17 @@
     "data": "2026-09-29T22:45:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel define bandeira verde e retira cobrança extra da conta de luz em seis cidades do AM - Portal - Rios de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWZ0UU9ibmd0eVRtNnFER3R2LUNZU3dOS3RTalVoaEZleGxhcURXa0lPbFEzRExkTjBleEFjekM1dDdNVlI0NVVzVUtQZ3hVTHlhdnJVczQtQXl4Zmk5WUltTF9fU0FlTVl6QUVIcjRsbnJoWkdnbGNGTGxDYnpKTmd4cjduRXQxRDlNZ2hBQ2tzM1FNWFZtMnBTWndObnp5OG5vXy1Ba3FHQkFCQkxHUnR6dVRRMEFjWTlTSHpIdDkzUQ?oc=5",
-    "fonte": "Portal - Rios de Notícias",
-    "data": "2026-09-29T21:33:04.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel anuncia bandeira tarifária verde e conta de luz não terá cobrança adicional em outubro - Taboão em foco",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h1R1lPNWVTVTVTU2RrdjRMd2hNLVZfaExxWTNWVnQ4RnNKaGtjdDhKaWRvWlRNOFJoMlptR2FmN1JJMGdrTnFocnRuWi0tSE54cElEOEFMVHJfeENrX0puczh1MkYyZ2FES0hfYzFCY09JVWd2R3E2QTl6a3kxV2NseGRaX3lRaHFvc3ZMR3ZtcGEwalVJcE1nMU5zdWMydHRwWll2VnRSWlRZaHNUYXdjc09yUVFLSzJXNFVB?oc=5",
-    "fonte": "Taboão em foco",
-    "data": "2026-09-29T21:05:19.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
+   {
+    "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil - Agência eixos",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHN1THQzOGtBZFE2RXBYUU1zT1B5MU1NaW5INU1MUmJoNF9qTTNZUkdvMUxMOGVObktnTVVsUlZYejN0UFowYk04d0UybllxRFJVQ09TaUpybjdyME0yY2ZrRjhIck91WEFkN096VVA1WnpVT3JndEZ4YXl6eDlvSTVJVUlvTG1udHB2NWxHd3J2SllQRGdaRVRPWTVqQzBSR25CNy1HbUx4ZTRMRU1IV09ER3JCMVE1VXd1aDJkclRNblBTNmlmT21ISjhOQQ?oc=5",
+    "fonte": "Agência eixos",
+    "data": "2026-11-18T19:33:43.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
    {
     "titulo": "ABSAE defende LRCAP e pede revogação de encargo aos geradores - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LOXB5NzRLUnhGMDNQX1BIT2JpaTdTdVYzVzc5ajNPQUtIS3NHTHowTTJBUHNDd0NnY0haU0hxV0luSWc0blhxNEo5UVFzaVlmX1Z4MUNDY3VMMnRwblZCODg3VDFPZGx2S0IwcFhuaXhSZ0luQm8yS2FXbw?oc=5",
@@ -4880,6 +4888,14 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0o0eUhZekZQMjJ5Zjl5bHpNLUVjc1pyZnFxaTlseHFMSDdNNkt3aDgwZ1BpejFTNVFzTVh2QVRRSEpzT2tpY2lDZDNjZ2taVFN2V0NCZmxNZ1lmWnVGRzBRQjdRbWlvSE8yRi1DTnFUdk1WRzRNbjJOUFc0MnRFazhnLVY5SGlydG1HcGN2cUJIQ09EU1N3N1Q2RDVEN29zUGp2SHNLbDhYdw?oc=5",
     "fonte": "NF Notícias",
     "data": "2026-11-18T12:16:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Cemig troca vice-presidente antes de leilão - n3news.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3J5RFdsQ1RRWWlweVFUUzlqRWMyMldtS3NBSVFkRGNuemh1VFRiTndwajlBX3h6QUM0dTdlQ3lYaGxINzk0eVlGT1h3Z3o0SV93U2YyRGZNNnhfdGQ2b0hqLUdIZ3JkcWZoMksyLVAtWUZlS2h5ZXhvY0RIRk51OXNrcw?oc=5",
+    "fonte": "n3news.com.br",
+    "data": "2026-11-18T11:54:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5002,7 +5018,8 @@
     "fonte": "Canal Solar",
     "data": "2026-11-16T18:17:25.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Aneel compensa UHEs Santo Antônio, Colíder e mais três hídricas por reflexos de Belo Monte - UOL",
@@ -6434,6 +6451,15 @@
     "imagem": null
    },
    {
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
+    "fonte": "GOV.BR",
+    "data": "2026-09-15T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
     "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
     "fonte": "Governo Federal",
@@ -6441,14 +6467,6 @@
     "catId": "regulacao",
     "catLabel": "Regulação",
     "imagem": null
-   },
-   {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-09-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    },
    {
     "titulo": "TCU quer revisão do curtailment e avaliação de cortes na MMGD - MegaWhat",
@@ -7285,22 +7303,6 @@
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01YXZyamZZZkxUS2YwcV9tVk5EdTJQY24zOE1fTHJPNXNDM2NzdFdZOTNzX2tuUXdrSzRSTGJjR09FQV8xc1FyRmVXMmxFZ3hQSHZEV2w2UThER3l6UklDQnlTLV85WlpSN1N1QWw1cFhrNTZDelE?oc=5",
     "fonte": "Canal Solar",
     "data": "2026-05-29T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Autoprodução no ACL após a Lei 15.269 e novas regras da ANEEL e CCEE - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01YXZyamZZZkxUS2YwcV9tVk5EdTJQY24zOE1fTHJPNXNDM2NzdFdZOTNzX2tuUXdrSzRSTGJjR09FQV8xc1FyRmVXMmxFZ3hQSHZEV2w2UThER3l6UklDQnlTLV85WlpSN1N1QWw1cFhrNTZDelE?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2026-05-29T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Regulamentação do armazenamento de energia pode ser concluída até julho - Portal Solar",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbW1fZG9Ic2cwbHRWUFUxQVZpNHdhd2ZFbndwbzRGdXlDRXRKbnF5enlqSEtwaU1QMHNNVVdzeWw1Y1B1Xzc2TlpEZl90UXp3MFVOVlJzRVlPRVpmSERRbUZySUc4QWZwMEZkbWhYMjRIWGRsd2hRbFVzV1IweTJzTHkwelN0eEt3Vm0yaTBTMFNmOUpORmtqUXlmaUh3bjlmanY1T2VOVUJmNzlpeEw1T2MwcXZKblZWVFluNXBDOGpfUUxfXzBvbk9n?oc=5",
-    "fonte": "Portal Solar",
-    "data": "2026-05-28T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
