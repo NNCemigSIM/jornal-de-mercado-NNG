@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-20T01:58:56.127Z",
+ "geradoEm": "2026-11-20T17:41:45.279Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 11.91,
@@ -7,23 +7,23 @@
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 83.79,
-   "pct": -1.168,
+   "preco": 84.545,
+   "pct": 0.901,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 21.98,
-   "pct": -3.001,
+   "preco": 20.2,
+   "pct": -8.098,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 151.95,
-   "pct": 0.642,
+   "preco": 144.18,
+   "pct": -5.114,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.01,
-   "pct": -1.735,
+   "preco": 29.59,
+   "pct": -1.4,
    "moeda": "USD"
   },
   "CMIG4.SA": {
@@ -49,8 +49,7 @@
     "fonte": "MegaWhat",
     "data": "2026-11-17T18:49:27.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída",
-    "imagem": null
+    "catLabel": "Geração Distribuída"
    },
    {
     "titulo": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras - MegaWhat",
@@ -254,7 +253,8 @@
     "fonte": "Capital Reset",
     "data": "2026-10-13T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "Geração distribuída deve responder por 38% da expansão elétrica até 2036 - TrendsCE",
@@ -2449,6 +2449,14 @@
   ],
   "tarifas": [
    {
+    "titulo": "Adão Pretto Filho pede que MP apure reajuste de 22,64% na conta de luz da CEEE Equatorial - Sul 21",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVVfTm50QW16bHhwaDlPQnhxcnVkWTIwQ19qdzg5aDZ1VTBNREJPY2dwQmYxNGdtdmNXU3pSSXZSTm1RS0wxSUtvbTBKQ09jZlg5Tk5reks1N0YyVG1IMjJlQXNoMkhzSDBJd0RhTXNGVjU4RFlmUTY1ME8xZGZ0WUlmOEF1eC1zVDQxUGJYaExQNGltTzctZUo2dzZCa2NRQ2JBMzJTSTl1S0NubHRRcXBSb3BIMHRxOHQ3Q1Y4SkxsMms4MlNyUFRydjY?oc=5",
+    "fonte": "Sul 21",
+    "data": "2026-11-19T21:50:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Absolar vê risco de alta nas tarifas de energia com IOF sobre debêntures - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHUzV2pidm5CMl83QzR5OFZqZ3NydVZQLVhlelRRSEJEUlpJUWZ1R1ZEUTNPV2hwbjVlRU9jaFJjWXNkRk1YVDJWNXZUVXNDUC1IaVd0OVFkTVNnLWZseURRZUZMYjROZEdEdkhKb1ozUzdSTjJyb1F0ZVhLYVA0TXprRFd0dFNzTkNHdVFxcUFoM0tEQnRSVnA1MTNOU2JIMDlsZVVQTlZJbzFORG9XRTkwS3kwOEtGRlRzcElR?oc=5",
     "fonte": "MegaWhat",
@@ -2549,6 +2557,14 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXQzTF9SQk4tTjRyVjJuOEdrX0g5N2pqZEtNYXFVdHBOUzVxSXVBQlBMeFM0TjF5UUI4WDRHZHNoYVlwenp4cl9DYklYcTlpNDlUdGpUSVMydmVwMnItTkJpTlB5b2NIdkczZjJWaXM1dHBPc1oxWUZYcU85TGJ5OXEzWWozRDZ6NXdsRUtmNWNmUQ?oc=5",
     "fonte": "MegaWhat",
     "data": "2026-11-17T13:56:38.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel aprova reajuste médio de 20,16% para tarifas da CEEE-D no Rio Grande do Sul - eixos",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnR5MF9BMjcwcWh5Y21UQWJnOXFtS093NkxWZmlaSUVpN2l6R0d0bV9Kdk5IZHY1dlFIUXJyeXJfU0JZYWJJRE9vQ3I0a05pQmxPaHFqTEVzWjFhamZMUm1Kc203MTdBUlozZnhJc3dyVm5FWVdXRk16RmZtV2dJV2loMTBYa0tiV1FBc1diVkxNQXAxTFJUM0xrc0VPNkZfTEFRN3p1LW1YSDFZZ1E?oc=5",
+    "fonte": "eixos",
+    "data": "2026-11-17T13:26:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -4842,30 +4858,22 @@
     "data": "2026-09-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - Gazeta SP",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzAxWVFBNVF2TVJYQ2E4QTFRUGJoTU9ZdXZRRzN2UG1UaFd5OF9rOE1XRTQ2RDFraGgxYm1KTW5wTTUzdkhfYXpHenUyN09YN1pxOFJ0azR0NUJJM0s5TUZkNmY5UHRrTXpLTXpaNU9wbFJFUWEzSDB5SWtlUF9zY25vZ1ZUWHp2dmlLRkVMMVZzT0lhVGF1VGozOE5EME1jWk9UVHQ3SDVNYXc0Xy1LbkVpY1k2ZXcxU1VOd1pBdTc2WWNJSzJ6TQ?oc=5",
-    "fonte": "Gazeta SP",
-    "data": "2026-09-30T00:30:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde de outubro encerra ciclo de tarifas elevadas para as famílias, confirma Aneel - gazetasp.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzAxWVFBNVF2TVJYQ2E4QTFRUGJoTU9ZdXZRRzN2UG1UaFd5OF9rOE1XRTQ2RDFraGgxYm1KTW5wTTUzdkhfYXpHenUyN09YN1pxOFJ0azR0NUJJM0s5TUZkNmY5UHRrTXpLTXpaNU9wbFJFUWEzSDB5SWtlUF9zY25vZ1ZUWHp2dmlLRkVMMVZzT0lhVGF1VGozOE5EME1jWk9UVHQ3SDVNYXc0Xy1LbkVpY1k2ZXcxU1VOd1pBdTc2WWNJSzJ6TQ?oc=5",
-    "fonte": "gazetasp.com.br",
-    "data": "2026-09-30T00:30:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
    {
+    "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - jornaldosmunicipios.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
+    "fonte": "jornaldosmunicipios.com.br",
+    "data": "2026-11-20T11:58:21.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Morador denuncia fornecimento de energia abaixo de 127 volts e relata queima de equipamentos em Santo Estêvão - página da notícia",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNkZHRk5CLTVoLWJ4eVplWTQwSHprRHJHNHdsUHg5SERMWDhYbzZiVExRU2NVblVTVXlmZ2JnNVJZbnJCU2poWGJjNG5ucG1wcTd4bk1kcVBqbExqVHl4RVNLeTRJc2Zjc2FLRG9qY3NyWnpZa1pzTGgyckJKYTYzaS1hcFRrY1hZRG5feVJrWVAyMzBZeE9LVVFYODRySnBfMlNlU0J4RzNxLXhXMUtrQ2JXUVN5dzVLTWh3US1Bdm1xX1FBRGlfcnk0SEE0Nm4ycloyQXZJa09LS0YtWjNKUlphcTg?oc=5",
     "fonte": "página da notícia",
-    "data": "2026-11-20T01:14:37.000Z",
+    "data": "2026-11-19T16:39:37.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4883,23 +4891,21 @@
     "fonte": "Capital do Pantanal",
     "data": "2026-11-19T15:02:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Cerca de 9,8 mil famílias de Caucaia devem atualizar cadastro para garantir Tarifa Social de Energia - Prefeitura de Caucaia",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZkhFcW9VZlNXR3hxSWxhMDNlbUVqanhldnZNbUJ6Nm1RbGJnOGlpTG15cjFCbmUzMWNnb0xxOW5kOVM3b3h0UGcyVXhlVWl4MDBWdHBWWHBrVFo3a1lLMXFlbXUtcUROQnNvWGNLMXlFV0FUWWE1MldpMTUxTDhtbFU0b2RqVzVQcTFsUHpGUDk5aHhIenJaYQ?oc=5",
+    "fonte": "Prefeitura de Caucaia",
+    "data": "2026-11-19T14:27:47.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Abrace pede cautelar para limitar carga do Paraguai em Itaipu - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDRCdVlLU1VWT25SNWhUcWo1S2IzVV9fVGhWSTkwMDZUN2l4NXBERkZWVm5PNWFITlA1WThTempGcHF6TDRkeUc4eER2eW5iaWM5SkNCcHUwbVV0WGpiamtGcTVfRWd0LXhkSHA0REJoZWRrUk1BYUpUcTZVU2NwMnlfemo3RnBMMUdPb0JYWW5KZ3NkMHRLU3NiNjVPSlFMaGR2azNMdk1BTUNRUURZaW5seFVvWFhfNzhr?oc=5",
     "fonte": "MegaWhat",
     "data": "2026-11-19T14:22:21.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
-   },
-   {
-    "titulo": "Cerca de 9,8 mil famílias de Caucaia devem atualizar cadastro para garantir Tarifa Social de Energia - Prefeitura de Caucaia",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XU2lMbmc3VERwVENNZEE5WmluMnBpeVpYLWZLczQ3dDlnLXZ2ckI2TXI4UVFYRmtILXRaLWRGQUR0a25ZYU9PQkpveU1qUzRaUy1oRWFaTUlWUDV0OWc?oc=5",
-    "fonte": "Prefeitura de Caucaia",
-    "data": "2026-11-19T14:13:38.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5481,18 +5487,18 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-11-09T14:35:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
     "titulo": "Em Osasco, concessionária de energia deve retirar fios de alta tensão de terreno de consumidor - Visão Oeste",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2d0Y1JUaVhaWWVSMUlaSjNrTDJieHZITnhxWWlQU25yU0t6MF9WS2FyZm8xdE1FbUFLRnJObXFYWmpYdUNGQkhhTnlpMTB6cEdQZjBuWUg1Tm9EQ0wxb2NidXlIV3k2ejR4NnpPN0x6V2w0NXhwazBLeEVkWjFaT1ZfRmNtMkJkM0R1OExwbEUtbGEySjJGTTNSaUZrYk5FNkFKSzJaLUcxZ2I2MjA5WVlUaG9oa1JOMW5od9IBwgFBVV95cUxOenpfN3g3dHhlUXpqYldMbmkzNWEtWjZLd2pDRXdSSGV0ZjJiQzVQQ0oxV1dXaFpVUkpWUXdFanhNSEJlN292MW9OdDc2QjloR3NDcVNBNXB3aWlNSm9LS09NdnYzeG16RWp0aGpBSFlZS3VFNnRmZnVqeWJRRUNwUzZCbWpuaWZ2MW11MkQ5Ukl3SXlnNWtzMXpiZERKNGdzV2FQYjhOdDJOdmxiNi0xZWlkQTkydzRUVTY2SnZ0dzQyZw?oc=5",
     "fonte": "Visão Oeste",
     "data": "2026-11-09T14:34:25.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-11-09T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -6524,7 +6530,8 @@
     "fonte": "GOV.BR",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
@@ -7289,14 +7296,6 @@
     "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
     "fonte": "MegaWhat",
-    "data": "2026-06-02T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL define regras para armazenamento no Brasil com dois modelos distintos de tarifação - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlpTNHJNZEZpWWRoQVJLU3lYY3pXdGNXd3pfam1pTXhtRlJTNHNNR2Z5MnFrV3hCLTVodFBqNVU0WF83ZEo3bGhvdFI0aGd4SDdJclpvMXhBbnc1Y3VTbVhLLW42QmpPUklSWGtIUFY2bm1PQTBjZXhDX1FKSXpFTjFzY0RjY0Q2cEQ0UTZ1NmJxbXplSzlmcU5hTmMwUnNXRDVhc0luM1NFYVpBMy1lMGxZV2QwZw?oc=5",
-    "fonte": "Canal Solar",
     "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -9055,7 +9054,8 @@
     "fonte": "Portal Solar",
     "data": "2021-10-18T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado"
+    "catLabel": "Players & Mercado",
+    "imagem": null
    },
    {
     "titulo": "E1 Energia e GDSolar anunciam fusão para atuar em geração distribuída - portalsolar.com.br",
