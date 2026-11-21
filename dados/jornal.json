@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-21T01:56:01.629Z",
+ "geradoEm": "2026-11-21T16:43:23.509Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 11.91,
@@ -13,7 +13,7 @@
   },
   "ENPH": {
    "preco": 19.63,
-   "pct": -10.691,
+   "pct": -10.692,
    "moeda": "USD"
   },
   "FSLR": {
@@ -2450,6 +2450,14 @@
   ],
   "tarifas": [
    {
+    "titulo": "Infra em 1 Minuto: transportadoras tentam evitar revisão tarifária - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0pPOFNVcVowcDVLMGZya3g3R3kxRkZLV2k2X2gzRUdFNTZ3bEJ6THh5M1lQcXlSZG5hZGNwX1o2UVJKWXNRNWJhN09yZUFPaGMwU0xBam9XT09sbk51NjMtWVNiSXFzUVBrdTR4NGNmNHpyMjQyRHZGbWVrUG1wSTJ1NXEtZG9RVEppTWhxcUFKcnRwUTcySE16TC1qU2NxcDRrYXNoRExmZw?oc=5",
+    "fonte": "Poder360",
+    "data": "2026-11-21T09:06:29.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Adão Pretto Filho pede que MP apure reajuste de 22,64% na conta de luz da CEEE Equatorial - Sul 21",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVVfTm50QW16bHhwaDlPQnhxcnVkWTIwQ19qdzg5aDZ1VTBNREJPY2dwQmYxNGdtdmNXU3pSSXZSTm1RS0wxSUtvbTBKQ09jZlg5Tk5reks1N0YyVG1IMjJlQXNoMkhzSDBJd0RhTXNGVjU4RFlmUTY1ME8xZGZ0WUlmOEF1eC1zVDQxUGJYaExQNGltTzctZUo2dzZCa2NRQ2JBMzJTSTl1S0NubHRRcXBSb3BIMHRxOHQ3Q1Y4SkxsMms4MlNyUFRydjY?oc=5",
     "fonte": "Sul 21",
@@ -3814,6 +3822,15 @@
     "imagem": null
    },
    {
+    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
     "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro - G1",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM29QWHlmT0FWTWVaZF91ZjdSM3ZZOXpITm1aWDd4Z0EtV3VFMXZpUkluWjNqQXRTNkNoYU42NktRLWFNTGpvNEZwRnFqdHQ0c1hjQTh2M0t4MllXNmhLWlFjQlhBNUliVkRldFBEWlBoSjU5cFpqaWhTWmplZVJnUXFsU2V3UzFCLWtIZG9fY25ycVJNREdoS2JsUXVVcjV5bHlwbHNvVTRHR0NyWnhRd20zUk1XSHFfdDhrb0FMb9IBzgFBVV95cUxNT2FSa19HR3RhN1ZRSFBWSzhDWUE5TkMxM3NLUDhnUDVnZzhsa0hGV18ybmN5OTVCcVFlQXlYTzFmdEdXT1lYdjY2cG5NaHd0c2p3VUwwNW1IUTdYV0JkaUdBbEM0WWQwbFRNaE5Hc29CYmlwSk1kakZwTUQyclpTSXhPM3VZVWdrWUFqeFBjQWFPYUhKY3Fsd0o1U3lSMkxjUDhJNDRfRkRNMkRJaXNtX2dfenBubHJ3ZVFyb245YVdobE5Dbk9jY3ZSUjNkdw?oc=5",
     "fonte": "G1",
@@ -3823,16 +3840,8 @@
     "imagem": null
    },
    {
-    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
     "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
@@ -4851,30 +4860,39 @@
     "data": "2026-09-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro após 5 meses de taxa extra - Ao Vivo de Brasília",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEdJSzdlOWtqb2p6aFE5VTFzalZWUEFhV180RW9xNnFtYmg5ZjNMakcwSGpYSVhob1ZqTFREb3JYd2FhTmcyN3hUUG9qUUxycTgzZ25EMVZpZC1HMEhRN1YtTHR3bHhlVi16WkQ3eEVtN0phTEk3Z1RGSDBnZ2s5TXhqSVJqUkg0X0VIa3d4bnladzlMaFYzajJSOUVnM1B1YnNzNnQ4NFkxY0E?oc=5",
-    "fonte": "Ao Vivo de Brasília",
-    "data": "2026-09-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
    {
-    "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - Jornal dos Municípios",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
-    "fonte": "Jornal dos Municípios",
-    "data": "2026-11-20T11:58:21.000Z",
+    "titulo": "Abeeólica vai ao STF contra regra que define quem paga por baterias em leilões - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODRQb1hJbE5HaHRsWU0zR09VMWVVdW03d1c2WWVYR1pMYVRGOUZfVm84SVFvM1o3ZDJMZ2pyWUJuVV8xRHJMUzlYd0lmTVhSbFFGWXFaN2FQQjZZQUUyNTczYmhCRWd4MTlOLVowMmc2UEExcGpmM09TWUhYZE9PTlMtdFl3MlMteFhnVWs5T3FGY0ZkY0RsTDBLenk3djYtaWo4VEtCT3dhUUtsSWF1YjR2MHVQMWxXZTlmdmtWLTDSAcYBQVVfeXFMTXFQenQ3OWc2MU9hVkFxaEw1X25SMmFMbXVNS1ppazdrdGhLczRfdV9JLTdtcVVtTmlzbFNVajR4TTZWa0xpTWhhOVMtcVNyZTQ0eVdibDBOSml0OEFkVm9RRE0wel9heERBSVNmWjlleXBvdVFpX1NiQzF3Mk5qV1dBcnlyMUlTS3BPUTc2dTRpOF9lTzQtRE1EdTJ1Y0FVMkN6eUEzZERGLUpDZFVyWU1xd2Zra29TY1ZoR3UxSWE4NGlWZXVB?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-21T15:14:56.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Abeeólica vai ao STF contra regra de custeio de baterias a serem contratadas em leilão - Tribuna do Sertão",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWDdXNENCb3J3dkx3MWI4WHJBSVBBdzFfQWFEYUt3bFBtaF9yTTlsTFdGeTdIZzVKZWpPTzlnLXdrTVNfRGZwS292ejV6S2czOVhSYlRtcUtBQ2MwTEc3MEF5VHRfSGRuZGZFN0pCdEFYNUM5YTZhYWExanFablFBZ0RiUTlLczFwM3BjYlZ5WF90TEVwcDNyZU1BWGVOYUh1ZzBzZnRGQnhGWm1lbWxlUFFhOGFtWTlBQ0tTdkRmM21wb09ubmtCUmpmRmFzTV96WGFmWFdrQ3l0XzkzVHI0?oc=5",
+    "fonte": "Tribuna do Sertão",
+    "data": "2026-11-21T14:45:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - jornaldosmunicipios.com.br",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
     "fonte": "jornaldosmunicipios.com.br",
     "data": "2026-11-20T11:58:21.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - Jornal dos Municípios",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
+    "fonte": "Jornal dos Municípios",
+    "data": "2026-11-20T11:50:53.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4916,8 +4934,7 @@
     "fonte": "MegaWhat",
     "data": "2026-11-19T14:22:21.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "2W não consegue reverter desligamento na CCEE e caso segue para Aneel - MegaWhat",
@@ -4934,6 +4951,15 @@
     "data": "2026-11-19T11:21:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Congresso Nacional celebra 30 anos da ANEEL e destaca transformação do setor elétrico - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzhCS0UtbkY2YmEzV3dpc3NtSk9kMW80eExtckoxc1NDdS1oVnQ1XzlrMnhiTl9scG5RTF8wTi1IOVBnTFQ3dEltNEhpZDRyLThEQVBHNFphV0JaZ2JRUDkyZk81OFpWV19hT09EY3FQeC14dzdZM2FPMlFQT2hGeGpHeDZ4MUhjUW8zaEJsSUc5UGZGNkctcmtfQmhDS3Vid0pRT0kxNmFFUkdkRk5rRGJwWjFDdDdvLW1MTDVSdnFjdzNLT2hTMzB2Ulc4ajBLWlhVR0dn?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-11-19T10:04:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil - Agência eixos",
@@ -5102,8 +5128,7 @@
     "fonte": "Canal Solar",
     "data": "2026-11-16T18:17:25.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Aneel compensa UHEs Santo Antônio, Colíder e mais três hídricas por reflexos de Belo Monte - UOL",
@@ -5160,7 +5185,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-16T13:04:32.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "ANACE alerta para risco de judicialização de novo encargo no setor - Canal Solar",
@@ -6540,8 +6566,7 @@
     "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
@@ -7275,30 +7300,6 @@
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52dDQzM1d6VkNuTnRiakg3NWxxYnFFa0tkNkUtdVJyQXF6WVl2djJJQjA2cURuQ0F1RlJfeVV5eFpEeVZMODVPZ2RXdTFaTGlqMEY4SEI5WFVjekZJOE1VUmxudUJ4TEVUQVdhUWtJTExGLXdrUEpjQzcxNA?oc=5",
     "fonte": "Mattos Filho",
     "data": "2026-06-05T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ANEEL aprova regulamentação de baterias, com tarifas diferenciadas - Agência iNFRA",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1c5X3RwVGkyYjJtSFhoWVpVZGF4QkM1WVZ1bWhOZVdCMzhQOWRDdVNWSHprS1ZWWk1UTnBXYjBfN3ZZQjUyWUJPY205X0xxQWVvUWdzLTRJYTVCZUlJRmJCOHV0UkFlY1lMcXozY25sbVlsdUU1RFlKQlBuRHFqQTBvVEFUbHV2TkpWZkU2M0Q0Q05IQUpnajRfaXY?oc=5",
-    "fonte": "Agência iNFRA",
-    "data": "2026-06-03T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Como o “gato solar” virou ameaça bilionária ao sistema elétrico brasileiro e colocou a ANEEL em alerta máximo após explosão da energia fotovoltaica, fraudes clandestinas e risco crescente de colapso na rede - CPG Click Petróleo e Gás",
-    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVVU1OUN3S0ZZcVRoUGNEcXJMMGJ3RlB3d3FQR09zOWZRX3k1NE1TeVg5NlRnS2RYbnZaS2FIaE1EODZuUGxiNVR0RTVTQV9qRThEbXl2MnFORno0Uk5FRHNXaktoTXd3b2tQU09HX2JNV29QUEFyem5iVmg0VGRVNlZxX3NBOHpaV0o3YXhLUHJNYUJCMlJ0Wnhzc2RTSmRfWWt0UWpxRDk0cTVEYkFhUzBnZVZkZFhObWlITHhDNWNqRTZXNVdaUWdEZFRGNEs5TWpfRlhvR3ZvVmU4WGpCdGZiWVJpWUJfQU5LUDBOLXoteUNENlBhN0c1SjVYSFpyWnZMaFJxX2FWdU9KN1R1Ny1ZN0c2eVNYQ2EzMXI5ZUlqY1VKUVNNeTBlNmZZTC1UREp6WTBNNTZ0WEdvYlgzWkVB?oc=5",
-    "fonte": "CPG Click Petróleo e Gás",
-    "data": "2026-06-03T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Como o “gato solar” virou ameaça bilionária ao sistema elétrico brasileiro e colocou a ANEEL em alerta máximo após explosão da energia fotovoltaica, fraudes clandestinas e risco crescente de colapso na rede - clickpetroleoegas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVVU1OUN3S0ZZcVRoUGNEcXJMMGJ3RlB3d3FQR09zOWZRX3k1NE1TeVg5NlRnS2RYbnZaS2FIaE1EODZuUGxiNVR0RTVTQV9qRThEbXl2MnFORno0Uk5FRHNXaktoTXd3b2tQU09HX2JNV29QUEFyem5iVmg0VGRVNlZxX3NBOHpaV0o3YXhLUHJNYUJCMlJ0Wnhzc2RTSmRfWWt0UWpxRDk0cTVEYkFhUzBnZVZkZFhObWlITHhDNWNqRTZXNVdaUWdEZFRGNEs5TWpfRlhvR3ZvVmU4WGpCdGZiWVJpWUJfQU5LUDBOLXoteUNENlBhN0c1SjVYSFpyWnZMaFJxX2FWdU9KN1R1Ny1ZN0c2eVNYQ2EzMXI5ZUlqY1VKUVNNeTBlNmZZTC1UREp6WTBNNTZ0WEdvYlgzWkVB?oc=5",
-    "fonte": "clickpetroleoegas.com.br",
-    "data": "2026-06-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -9056,7 +9057,8 @@
     "fonte": "Portal Solar",
     "data": "2021-10-18T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado"
+    "catLabel": "Players & Mercado",
+    "imagem": null
    },
    {
     "titulo": "E1 Energia e GDSolar anunciam fusão para atuar em geração distribuída - portalsolar.com.br",
