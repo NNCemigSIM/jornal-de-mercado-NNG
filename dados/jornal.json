@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-20T17:41:45.279Z",
+ "geradoEm": "2026-11-21T01:56:01.629Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 11.91,
@@ -7,23 +7,23 @@
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 84.545,
-   "pct": 0.901,
+   "preco": 83.45,
+   "pct": -0.406,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 20.2,
-   "pct": -8.098,
+   "preco": 19.63,
+   "pct": -10.691,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 144.18,
-   "pct": -5.114,
+   "preco": 137.59,
+   "pct": -9.45,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.59,
-   "pct": -1.4,
+   "preco": 29.12,
+   "pct": -2.966,
    "moeda": "USD"
   },
   "CMIG4.SA": {
@@ -748,7 +748,8 @@
     "fonte": "Portal Solar",
     "data": "2026-09-03T07:00:00.000Z",
     "catId": "gd",
-    "catLabel": "Geração Distribuída"
+    "catLabel": "Geração Distribuída",
+    "imagem": null
    },
    {
     "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia - Canal Solar",
@@ -3831,7 +3832,7 @@
    },
    {
     "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL?oc=5",
     "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
@@ -4862,6 +4863,14 @@
   ],
   "regulacao": [
    {
+    "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - Jornal dos Municípios",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
+    "fonte": "Jornal dos Municípios",
+    "data": "2026-11-20T11:58:21.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - jornaldosmunicipios.com.br",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
     "fonte": "jornaldosmunicipios.com.br",
@@ -4907,7 +4916,8 @@
     "fonte": "MegaWhat",
     "data": "2026-11-19T14:22:21.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "2W não consegue reverter desligamento na CCEE e caso segue para Aneel - MegaWhat",
@@ -4926,17 +4936,17 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil - eixos",
+    "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil - Agência eixos",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHN1THQzOGtBZFE2RXBYUU1zT1B5MU1NaW5INU1MUmJoNF9qTTNZUkdvMUxMOGVObktnTVVsUlZYejN0UFowYk04d0UybllxRFJVQ09TaUpybjdyME0yY2ZrRjhIck91WEFkN096VVA1WnpVT3JndEZ4YXl6eDlvSTVJVUlvTG1udHB2NWxHd3J2SllQRGdaRVRPWTVqQzBSR25CNy1HbUx4ZTRMRU1IV09ER3JCMVE1VXd1aDJkclRNblBTNmlmT21ISjhOQQ?oc=5",
-    "fonte": "eixos",
+    "fonte": "Agência eixos",
     "data": "2026-11-18T19:33:43.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil - Agência eixos",
+    "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil - eixos",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHN1THQzOGtBZFE2RXBYUU1zT1B5MU1NaW5INU1MUmJoNF9qTTNZUkdvMUxMOGVObktnTVVsUlZYejN0UFowYk04d0UybllxRFJVQ09TaUpybjdyME0yY2ZrRjhIck91WEFkN096VVA1WnpVT3JndEZ4YXl6eDlvSTVJVUlvTG1udHB2NWxHd3J2SllQRGdaRVRPWTVqQzBSR25CNy1HbUx4ZTRMRU1IV09ER3JCMVE1VXd1aDJkclRNblBTNmlmT21ISjhOQQ?oc=5",
-    "fonte": "Agência eixos",
+    "fonte": "eixos",
     "data": "2026-11-18T19:33:43.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -5495,6 +5505,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWZyaGVIX1F6WFFKQWxoRUlENVVLNFRIWDdRVWpQU3NzMHBUUmlGYW5udkhTZDRUSXpMLVpyU3lZQnlla29KLS1HVDFzTlZWdTEzZEpoNW1tOHVjbHZYalVFOHdYZnFMWTRoYzlQaGhFRU4yOHdvdGdaQ0gxWTBFUU03ZkRwUlRnVXhMSjBBcjZQZlp6TF85SzVUYnJGQ2ZxeGd2Vld2RTdUMjJPUFdvNnI1TFJSaXpLNzJ5aTRpdU5tTUpSRHByd3g0NTZqN3kz0gHWAUFVX3lxTFA4bGozbFpUaHdtMXd2SDdVQ2VoVVQ4d2lYeERNMDFJMHhlUzQ2Q0pKS1phZVlqaXhUN3laeHpfZV8tcHpLNERUZ1FfOHN3dVZ2V09NMnFDMnBXcHd5bjJVc1gwUzUzOG9qejMwRUpkellMQmdhaEM4X2tUaWRxODl3dUVURkdsaExEU2R0cUp3eUZldEswV0xsME9Gcl9MYWlCSnRIZU5yWE5rekE3cE5qZkEyNEJGbE10TjVFc3JocWZacTdoQlc3aWNTWmRQY2VoblJva3c?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-09T08:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
     "fonte": "Governo Federal",
@@ -5506,14 +5524,6 @@
     "titulo": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG9GSkR3eHRIZWFXQ2V6cnpIZnhlVWk5Wk1neHR2UjNHY3lHeU04RlA5ZGI5TzVFWTFXY21OVWVwcVJFRlJCQ0RwU3ZWcERjN1psU0NyYnBkUlhKNm1YUFlEZVVOYlg3QkFnQkx2YUdWU2E5VGpGNDlxdURCc3FkYk03RTZTZ3J4SEtLS25Vaw?oc=5",
     "fonte": "Canal Solar",
-    "data": "2026-11-09T08:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWZyaGVIX1F6WFFKQWxoRUlENVVLNFRIWDdRVWpQU3NzMHBUUmlGYW5udkhTZDRUSXpMLVpyU3lZQnlla29KLS1HVDFzTlZWdTEzZEpoNW1tOHVjbHZYalVFOHdYZnFMWTRoYzlQaGhFRU4yOHdvdGdaQ0gxWTBFUU03ZkRwUlRnVXhMSjBBcjZQZlp6TF85SzVUYnJGQ2ZxeGd2Vld2RTdUMjJPUFdvNnI1TFJSaXpLNzJ5aTRpdU5tTUpSRHByd3g0NTZqN3kz0gHWAUFVX3lxTFA4bGozbFpUaHdtMXd2SDdVQ2VoVVQ4d2lYeERNMDFJMHhlUzQ2Q0pKS1phZVlqaXhUN3laeHpfZV8tcHpLNERUZ1FfOHN3dVZ2V09NMnFDMnBXcHd5bjJVc1gwUzUzOG9qejMwRUpkellMQmdhaEM4X2tUaWRxODl3dUVURkdsaExEU2R0cUp3eUZldEswV0xsME9Gcl9MYWlCSnRIZU5yWE5rekE3cE5qZkEyNEJGbE10TjVFc3JocWZacTdoQlc3aWNTWmRQY2VoblJva3c?oc=5",
-    "fonte": "Estadão",
     "data": "2026-11-09T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -6525,18 +6535,18 @@
     "imagem": null
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
     "imagem": null
    },
    {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação",
@@ -7289,14 +7299,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVVU1OUN3S0ZZcVRoUGNEcXJMMGJ3RlB3d3FQR09zOWZRX3k1NE1TeVg5NlRnS2RYbnZaS2FIaE1EODZuUGxiNVR0RTVTQV9qRThEbXl2MnFORno0Uk5FRHNXaktoTXd3b2tQU09HX2JNV29QUEFyem5iVmg0VGRVNlZxX3NBOHpaV0o3YXhLUHJNYUJCMlJ0Wnhzc2RTSmRfWWt0UWpxRDk0cTVEYkFhUzBnZVZkZFhObWlITHhDNWNqRTZXNVdaUWdEZFRGNEs5TWpfRlhvR3ZvVmU4WGpCdGZiWVJpWUJfQU5LUDBOLXoteUNENlBhN0c1SjVYSFpyWnZMaFJxX2FWdU9KN1R1Ny1ZN0c2eVNYQ2EzMXI5ZUlqY1VKUVNNeTBlNmZZTC1UREp6WTBNNTZ0WEdvYlgzWkVB?oc=5",
     "fonte": "clickpetroleoegas.com.br",
     "data": "2026-06-03T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel aprova regra para baterias e afasta tarifa dupla em casos com despacho pelo ONS - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNV9rZF9Zd3lxaThpQ0RCQXJLdGZtTU9TQ19FdnNHck8zMnFFRlBoMXRZZ2d3NGtNeFlTTUw4T1k2VlhTWXd3bk9SM0VkeC1tbnI1bGtOWE9oM3k2RTVNX1hOR3dqX2RSNEI5MklnQTktQ0RCQ1pKZDNrLW95VG8zc095azdLUTVJWW9MSFE3UnNBSGUzVU9RYU1LcHRSRkh5MU9UR01SZllzalJBRWRQTDJYMnh4UnVMN1JEbW40YW9rdw?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-06-02T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -9054,8 +9056,7 @@
     "fonte": "Portal Solar",
     "data": "2021-10-18T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "E1 Energia e GDSolar anunciam fusão para atuar em geração distribuída - portalsolar.com.br",
