@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-21T16:43:23.509Z",
+ "geradoEm": "2026-11-22T00:51:58.569Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 11.91,
@@ -13,7 +13,7 @@
   },
   "ENPH": {
    "preco": 19.63,
-   "pct": -10.692,
+   "pct": -10.691,
    "moeda": "USD"
   },
   "FSLR": {
@@ -2771,14 +2771,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Inflação perde força e fica em 0,14% em outubro; conta de luz cai - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtNM0tZazlQQnhZQU5hazBzN2JqczVTNFdGRGJmWFdzeE91Z2tNWERQUWFxYWs0UkNKZ3g4Z0t2c2xCWjJOZWZ3QmtsbzBLa0VaZVBsSmN4cDlZc3JsUmtaaUNJZmNqb2RBbGZ5TGpoYjV6NTUwWVNZUGxRWG5oZlRaN21LekFZS3JVX1lCZnRGUVNBOTI5R0tDd1pCeUM2VGhqdU9lVUV3OFY1alAtSEpGRS00d3A2cEltVA?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-12T13:18:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Energia elétrica foi principal impacto para desaceleração do IPCA de outubro, afirma IBGE - UOL Economia",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQWh5cEtwNkY4OWVfRV85QnRVcnBYcFZyV0NTc1E1QkZERnJEbXFUZVRlVHctU2o0NlJZa1BmWTJ0T29CTWFWOFUxVHJGUWE2aEJLV0RhUlhJRGpwdW8ybkl0MzNTQVh5V2Y3OHdIMXRldHh0WUR3TmhjNEMtNmZaV05sb25kRW94Z3EzUUkySjV5cmltdXRGenVmTGRiVnVLRnlUYXJCRDhEVHpaenJpWHlTSUEyNDc5MlBmOE9jYWJ3ZVVZUjZNT1JrTnhYcEJ4YzJuYlNMblRGaV9hUkd0Y3k5bjVjV1cteXBrUHVR?oc=5",
     "fonte": "UOL Economia",
@@ -2815,6 +2807,14 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFRXTjI0U1VPMHhOaUJyNldsZ2ZYdUIwWEtzYy1hS3Nub1djZXpkNEpvZW54Um52VDRXU2FPN1FmZlFnVmJUTUY4WFZXLVhaSFdTNHQ1eXd0TlNIdGxmejNpQ19kRWg0azdVbGR2SlNYOXFqd2tobFNIMEVMRVhxRlpPZlNJY3ZOMjZ6S3EwT0dIY3IzTWNWRmRYY3dsM2trNzd2cg?oc=5",
     "fonte": "difusora973fm.com.br",
     "data": "2026-11-12T10:42:04.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Inflação perde força e fica em 0,14% em outubro; conta de luz cai - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtNM0tZazlQQnhZQU5hazBzN2JqczVTNFdGRGJmWFdzeE91Z2tNWERQUWFxYWs0UkNKZ3g4Z0t2c2xCWjJOZWZ3QmtsbzBLa0VaZVBsSmN4cDlZc3JsUmtaaUNJZmNqb2RBbGZ5TGpoYjV6NTUwWVNZUGxRWG5oZlRaN21LekFZS3JVX1lCZnRGUVNBOTI5R0tDd1pCeUM2VGhqdU9lVUV3OFY1alAtSEpGRS00d3A2cEltVA?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-12T08:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3358,11 +3358,12 @@
    },
    {
     "titulo": "Bandeira tarifária de novembro é verde: veja o que significa - Enel",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmo5N00tV2o1akNyTXJiWUNzLTdwcGx6RzY1cFJUWkhUaGR1LVpoOGI5VEZSU0Jib05vMjczZ0lQT1MtZjZFR1R6R0FZb3d2T2lpV1RZaUNvV013WjY3YS02X2J2a3d4THVvUDhOb0s5TzFwTldVZy1RYVV4NFAzUDI5ZUtsQ01TWnhSaEs1bHlZRVBTZHNZN25EWWQzNTJreEdTU1VUQVNXNThEWjlsY2VB?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV193dl9GeHVjUnFmVkRkSnRqSWdPdmxKbm5BTDFiWURpb0lCR25xZU5DbURFSGxXZTVsNDNrSVFxakp2dElHRlRqTW81OU9PaGxMTGotdzNzUUNrUXVjb3Y5MmdRTGJLY1FJOXk1RkQ3V01jRDA1LWFrOWRLa2gtZUpXY1I1WEs4RVp1RFVKWU1LNGdDMG5QVTBITWJKODFsN2czNHJ3?oc=5",
     "fonte": "Enel",
     "data": "2026-11-01T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Alívio no bolso: Aneel mantém bandeira tarifária verde em novembro e conta de luz segue sem taxa extra - Clickfoz",
@@ -3831,6 +3832,14 @@
     "imagem": null
    },
    {
+    "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro - G1",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM29QWHlmT0FWTWVaZF91ZjdSM3ZZOXpITm1aWDd4Z0EtV3VFMXZpUkluWjNqQXRTNkNoYU42NktRLWFNTGpvNEZwRnFqdHQ0c1hjQTh2M0t4MllXNmhLWlFjQlhBNUliVkRldFBEWlBoSjU5cFpqaWhTWmplZVJnUXFsU2V3UzFCLWtIZG9fY25ycVJNREdoS2JsUXVVcjV5bHlwbHNvVTRHR0NyWnhRd20zUk1XSHFfdDhrb0FMb9IBzgFBVV95cUxNT2FSa19HR3RhN1ZRSFBWSzhDWUE5TkMxM3NLUDhnUDVnZzhsa0hGV18ybmN5OTVCcVFlQXlYTzFmdEdXT1lYdjY2cG5NaHd0c2p3VUwwNW1IUTdYV0JkaUdBbEM0WWQwbFRNaE5Hc29CYmlwSk1kakZwTUQyclpTSXhPM3VZVWdrWUFqeFBjQWFPYUhKY3Fsd0o1U3lSMkxjUDhJNDRfRkRNMkRJaXNtX2dfenBubHJ3ZVFyb245YVdobE5Dbk9jY3ZSUjNkdw?oc=5",
     "fonte": "G1",
@@ -3838,14 +3847,6 @@
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
-   },
-   {
-    "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
-    "fonte": "O GLOBO",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    },
    {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - GOV.BR",
@@ -6561,21 +6562,20 @@
     "imagem": null
    },
    {
+    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV09EYlJpRFRvZE8tVEpINEZTcGZNMzc2S1F4S1M3bjFub0NRc3A2WTJSbDhKUWNNZGU1ZDZXcmI1RWhyMHlDWDBSQTNaR2ZzMjFNWDV1amtyV1d4S1h0MHZTWUw2V0ZUMXdMT2tQVlNoRktrSlloaVFkeDVJclVaNzduSndUOFVDNFFZR1VjMk1tVlJ1RVRvOWNlRzEtQW5aTDRtLTRtRHlEQTQzUXNnRFNrX19mNEo1QS1ONGhtNG5oWHBVN1VpQVhYVmJfWmpQT1pueFFEZ0xhWWppRVE?oc=5",
+    "fonte": "GOV.BR",
+    "data": "2026-09-15T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
     "fonte": "Governo Federal",
     "data": "2026-09-15T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas - GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJpWmRsUF9oUmZaMzBEZU9vVDVkTzVUemZ0elgyMTFsdlNDbzlRRHk2YkJUR0hiWld0UHF6SGlRUlZmdGxpSlJ5cXlfcmE3akt6Y0xVYVNDSWFMLWpfQW8xN3NYX1RrQjdwNU1QTGw3RW1RLWZjVExGTDFHQnI2OXZCdXAwQ2ZkZ3d2Z1ROeFdoZHhyWW9OM1RUaXQxcXloY211TnBOczI4NTFNa3U4REwtaS0xVUpoYUo1MnJELUFmMkhnaTdB?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-09-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
    },
    {
     "titulo": "TCU quer revisão do curtailment e avaliação de cortes na MMGD - MegaWhat",
@@ -6981,6 +6981,15 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2FENXRVSEhueXpDUU11MjBiVWtqeTl1QW5MYnlxNXNLYUdPdEFlSTU3RVZEbm9WZ0RVQU9wRklvR2ZfRHFhT1hBandQd3JaME92WlpoUXBhX2VxLUd6dDhvMmlzNFdBUV8xVDFPZVQ0WlZ3aS1US2dyQnJGZzhTeWRIRWlyenRiZ1NiZF90YzlVb1RjR0Z3ZVhPdG03dTlLTmlWdzVRMHdvNjdMSFMyVWUyZ2x6SVBpXzNSWExfT2otX2pQNVVsZ3ZmcTdiNHBLa0NJY0VFUHZPYVdr?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-07-03T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
     "titulo": "A não incidência do ICMS sobre a energia elétrica compensada - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHV6Y3NuQVltNWFpanNJbnJFMmxxa2JldEpEM1dsdlhBVUFnc2FlanY0b1MwbXZKcGtiYmdwcDB5WUNSZ2xKMXJqMFZLZWZGcWxaOFdfeHdPUk9pUWdhYUcwT0pJTUFIMWk2cmxtUEtFbTBuWlhsVTg2cGRoY1gzdjJTMll5bmc?oc=5",
     "fonte": "Canal Solar",
@@ -6992,14 +7001,6 @@
     "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2FENXRVSEhueXpDUU11MjBiVWtqeTl1QW5MYnlxNXNLYUdPdEFlSTU3RVZEbm9WZ0RVQU9wRklvR2ZfRHFhT1hBandQd3JaME92WlpoUXBhX2VxLUd6dDhvMmlzNFdBUV8xVDFPZVQ0WlZ3aS1US2dyQnJGZzhTeWRIRWlyenRiZ1NiZF90YzlVb1RjR0Z3ZVhPdG03dTlLTmlWdzVRMHdvNjdMSFMyVWUyZ2x6SVBpXzNSWExfT2otX2pQNVVsZ3ZmcTdiNHBLa0NJY0VFUHZPYVdr?oc=5",
     "fonte": "GOV.BR",
-    "data": "2026-07-03T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2FENXRVSEhueXpDUU11MjBiVWtqeTl1QW5MYnlxNXNLYUdPdEFlSTU3RVZEbm9WZ0RVQU9wRklvR2ZfRHFhT1hBandQd3JaME92WlpoUXBhX2VxLUd6dDhvMmlzNFdBUV8xVDFPZVQ0WlZ3aS1US2dyQnJGZzhTeWRIRWlyenRiZ1NiZF90YzlVb1RjR0Z3ZVhPdG03dTlLTmlWdzVRMHdvNjdMSFMyVWUyZ2x6SVBpXzNSWExfT2otX2pQNVVsZ3ZmcTdiNHBLa0NJY0VFUHZPYVdr?oc=5",
-    "fonte": "Governo Federal",
     "data": "2026-07-03T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
