@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-22T00:51:58.569Z",
+ "geradoEm": "2026-11-22T17:02:06.073Z",
  "cotacoes": {
   "AURE3.SA": {
    "preco": 11.91,
@@ -13,7 +13,7 @@
   },
   "ENPH": {
    "preco": 19.63,
-   "pct": -10.691,
+   "pct": -10.692,
    "moeda": "USD"
   },
   "FSLR": {
@@ -4865,6 +4865,14 @@
   ],
   "regulacao": [
    {
+    "titulo": "Congresso Nacional celebra 30 anos da Aneel e destaca fiscalização do setor elétrico e proteção dos consumidores - Jornal Grande Bahia",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNno1Z0o1R0RLdFM4Q3BTdklRMlFmSzlTYlZlcHphdnBrdVRVQzBuY2tyb0ZpTUpMRlI3NmJkUmoxRTF6WURkSnluUlBWWlBpOWZDck0zTWxWYkFXY3ZfekttSGdDM3AzMHRNLVFXbDZxOEo5NjJNaF81RUo0b3VCdXRGcjd3U0I3d3hZVzkzLVBFZ0pPZ2tESjdod2w5YUtmTTdwN1JwLU1keVF6RmRrTEpmZDM3Z0gwNTMxNktRb3c0Rm5faVZFRlFXRjNvSS1qSTh5dHdRYnJGT21XZ0RtWFV6XzZSbnZJWEE?oc=5",
+    "fonte": "Jornal Grande Bahia",
+    "data": "2026-11-22T15:00:24.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Abeeólica vai ao STF contra regra que define quem paga por baterias em leilões - Estadão",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODRQb1hJbE5HaHRsWU0zR09VMWVVdW03d1c2WWVYR1pMYVRGOUZfVm84SVFvM1o3ZDJMZ2pyWUJuVV8xRHJMUzlYd0lmTVhSbFFGWXFaN2FQQjZZQUUyNTczYmhCRWd4MTlOLVowMmc2UEExcGpmM09TWUhYZE9PTlMtdFl3MlMteFhnVWs5T3FGY0ZkY0RsTDBLenk3djYtaWo4VEtCT3dhUUtsSWF1YjR2MHVQMWxXZTlmdmtWLTDSAcYBQVVfeXFMTXFQenQ3OWc2MU9hVkFxaEw1X25SMmFMbXVNS1ppazdrdGhLczRfdV9JLTdtcVVtTmlzbFNVajR4TTZWa0xpTWhhOVMtcVNyZTQ0eVdibDBOSml0OEFkVm9RRE0wel9heERBSVNmWjlleXBvdVFpX1NiQzF3Mk5qV1dBcnlyMUlTS3BPUTc2dTRpOF9lTzQtRE1EdTJ1Y0FVMkN6eUEzZERGLUpDZFVyWU1xd2Zra29TY1ZoR3UxSWE4NGlWZXVB?oc=5",
     "fonte": "Estadão",
@@ -4894,6 +4902,14 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1FQbEFiSnY0eGZmdDU0Z0NxaGxJZGMzRGxFME9YU2U3a0pzVDVXLUxIRm9Ub0NNcUdkWFlUV3Z5NmRTdlByRkRFRVJ4ajZlX2U2cnNFUTl5QWlyYWx4QldoOUZMU0dGR3Q0R0UwcVRfaGMwVEg4WU1lVTd1YURRcjlIY1FZTFEzSnVfTEJmQTJmV09VTXlzT2NXeWY5UkQzRXVOX0EwQy1LZHZ5NEkzaXNGVEZ5X05uSjhiZlQtVTdKNkgwSzNSb2pjM2JjN0k?oc=5",
     "fonte": "Jornal dos Municípios",
     "data": "2026-11-20T11:50:53.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Conta de luz por horário? Tarifa Hora Certa pode mudar quando vale a pena consumir energia - Portal Solar",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzk3VW8xVFQzS2pTTEFlM3k0V1JFRDZBY3RiUkFtYjZndjkwNFlYUXdlWENueVdnQ2lXTWJWTXZxMEVoS3Q1VzJUNjBYVVpmS19RQzdZZGgtQWhjM0hzOGxPMC1tMWtnS0ZXT0Fld3p5ZUprRnFjMGc0N2RZSk1iS2twSVQxa3ljZkdNR2d1ZUFPalVrNUZZQ0QtbTlIVHlpa0trdHVfMkdWM3B4VXkyMWR1YnpuUjNTa1JYUmt0aXRDajMzOE5RSFg2VkVSYVN6bjM2dTNQbF9nTWNlcmZfbE53?oc=5",
+    "fonte": "Portal Solar",
+    "data": "2026-11-19T17:29:18.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -5186,8 +5202,7 @@
     "fonte": "MegaWhat",
     "data": "2026-11-16T13:04:32.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "ANACE alerta para risco de judicialização de novo encargo no setor - Canal Solar",
@@ -7285,22 +7300,6 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkVBMXZhR3ZtQU5EeEpDMzdva0Zwd0xNQkU4VXZSVEhTY2VtMmVtY0VkdjlqTW55dHZaZGdZU0FyOHpJSW5LeDZrOWFZYm01LXNaWi1lUUY4Y01XUGI0cjZWOVFGQ2dRY3RJcnRUZE9DeWxZZUFVUjFnUDNfMVVkRzVBSlRONTlKT080TW1hcnBUQ3ZtbkhLVWpXNVM?oc=5",
     "fonte": "Migalhas",
     "data": "2026-06-09T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Capacidade institucional da ANEEL e deferência técnica no setor elétrico - migalhas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkVBMXZhR3ZtQU5EeEpDMzdva0Zwd0xNQkU4VXZSVEhTY2VtMmVtY0VkdjlqTW55dHZaZGdZU0FyOHpJSW5LeDZrOWFZYm01LXNaWi1lUUY4Y01XUGI0cjZWOVFGQ2dRY3RJcnRUZE9DeWxZZUFVUjFnUDNfMVVkRzVBSlRONTlKT080TW1hcnBUQ3ZtbkhLVWpXNVM?oc=5",
-    "fonte": "migalhas.com.br",
-    "data": "2026-06-09T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Sistemas de armazenamento de energia: novas regras para outorga e primeiro LRCAP de baterias - Mattos Filho",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52dDQzM1d6VkNuTnRiakg3NWxxYnFFa0tkNkUtdVJyQXF6WVl2djJJQjA2cURuQ0F1RlJfeVV5eFpEeVZMODVPZ2RXdTFaTGlqMEY4SEI5WFVjekZJOE1VUmxudUJ4TEVUQVdhUWtJTExGLXdrUEpjQzcxNA?oc=5",
-    "fonte": "Mattos Filho",
-    "data": "2026-06-05T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
