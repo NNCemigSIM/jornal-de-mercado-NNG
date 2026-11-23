@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-23T01:21:12.232Z",
+ "geradoEm": "2026-11-23T21:09:27.617Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.91,
-   "pct": 0.253,
+   "preco": 11.61,
+   "pct": -2.519,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 83.45,
-   "pct": -0.406,
+   "preco": 83.99,
+   "pct": 0.647,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 19.63,
-   "pct": -10.691,
+   "preco": 20.87,
+   "pct": 6.317,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 137.59,
-   "pct": -9.45,
+   "preco": 146.53,
+   "pct": 6.498,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.12,
-   "pct": -2.966,
+   "preco": 29.64,
+   "pct": 1.786,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.94,
-   "pct": 0.091,
+   "preco": 10.76,
+   "pct": -1.645,
    "moeda": "BRL"
   }
  },
@@ -2450,6 +2450,14 @@
   ],
   "tarifas": [
    {
+    "titulo": "Entenda sua conta de energia: Energisa detalha como é calculada a fatura mensal - Rondônia Dinâmica",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNODFRVi1Zd3ozVU5Dd0tiamU3VWlnR2JUS2laSnppU2FlRFJFRzZpcUttQUVVc2Rsdm1XQWdJTkNnQi1sbmNUVWM3M04xZlktOEluOHNiczM5eU9FVzVadmpzcGFjZ0lacjBEanMzYnZLYllpdk5jVjdCLU1idjMtSjZNNGRrSU1lU3h4Yl9EQnNOR2pXNUdVV1FpOVZZTzRISzhNY2tfOS1GMUNBeG0tS29OQnE0Mk1MdnBlZF9uR1dnMF9MSTYwUTNkTUZoWC0wSnlkQWExNnE?oc=5",
+    "fonte": "Rondônia Dinâmica",
+    "data": "2026-11-23T12:51:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Infra em 1 Minuto: transportadoras tentam evitar revisão tarifária - Poder360",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0pPOFNVcVowcDVLMGZya3g3R3kxRkZLV2k2X2gzRUdFNTZ3bEJ6THh5M1lQcXlSZG5hZGNwX1o2UVJKWXNRNWJhN09yZUFPaGMwU0xBam9XT09sbk51NjMtWVNiSXFzUVBrdTR4NGNmNHpyMjQyRHZGbWVrUG1wSTJ1NXEtZG9RVEppTWhxcUFKcnRwUTcySE16TC1qU2NxcDRrYXNoRExmZw?oc=5",
     "fonte": "Poder360",
@@ -2501,7 +2509,7 @@
     "titulo": "Aumento na conta de luz da CEEE ocorre por custos de \"geração, transmissão e distribuição de energia\", diz gerente - Diário Gaúcho",
     "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNeEtCMUR3ZVZWOW5wdGZpWkExbmhBdENtbGFhbVoyNVZqT0hwZXRIS1ptOEZtUkhvZVA0a0pVc1BqSllKR1hnek5sTC15eVpnVEp3RmpQc20xaHlGOThtVVBERThBZUJzbHlZbjJLeVU4RXVpR0t6dE1YOGVvYy02Si1JOENIYnQxZF9FQUk4YTE2bXpST2VEY0xPclg0Tk5rLVRRdTFiVGVYUDVvZEx3UUxTcC1LY1Z5eVJ0YTBrcm5yRlVhcVlvQ192d1czQkI2VjFyOWxIS3l4VGNlS0VHUFdHWF9MazhQNkxMVWRzSHVMeTVMenpVanJPWHVqaGttbnE1Rms3X1UybWhRQUp1WXVqeVBrRnlRaUh4Mm16ODBHTlg0Tm11Skx2QQ?oc=5",
     "fonte": "Diário Gaúcho",
-    "data": "2026-11-18T13:14:09.000Z",
+    "data": "2026-11-18T13:11:54.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -2819,17 +2827,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "IPCA de outubro vem a 0,14% no Brasil, mas alimentos sobem 1,04% - TV Sim Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0lZT2gyYmo1VWZBeEl2QzhkSF9qMDJ5ZTJ1TmhyblozQ3hqZkd0Y3dFT1U3NHVfajZwWGZ3anhlYVdOUmh6cGxIZXZtTDl4Z1JiZWdQUUh3REctYndPRjN3ODBtNmp5QlZrTDZiSV9sWXRCYlliT3Ata2xiT09rM056RDBGRWcxRkUwUUNmT3B2RmhRdTFqc0dFSWM0eDhhUVVTdC13?oc=5",
-    "fonte": "TV Sim Brasil",
+    "titulo": "Inflação perde força e fica em 0,14% em outubro; conta de luz cai - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtNM0tZazlQQnhZQU5hazBzN2JqczVTNFdGRGJmWFdzeE91Z2tNWERQUWFxYWs0UkNKZ3g4Z0t2c2xCWjJOZWZ3QmtsbzBLa0VaZVBsSmN4cDlZc3JsUmtaaUNJZmNqb2RBbGZ5TGpoYjV6NTUwWVNZUGxRWG5oZlRaN21LekFZS3JVX1lCZnRGUVNBOTI5R0tDd1pCeUM2VGhqdU9lVUV3OFY1alAtSEpGRS00d3A2cEltVA?oc=5",
+    "fonte": "Agência Brasil",
     "data": "2026-11-12T08:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Inflação perde força e fica em 0,14% em outubro; conta de luz cai - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtNM0tZazlQQnhZQU5hazBzN2JqczVTNFdGRGJmWFdzeE91Z2tNWERQUWFxYWs0UkNKZ3g4Z0t2c2xCWjJOZWZ3QmtsbzBLa0VaZVBsSmN4cDlZc3JsUmtaaUNJZmNqb2RBbGZ5TGpoYjV6NTUwWVNZUGxRWG5oZlRaN21LekFZS3JVX1lCZnRGUVNBOTI5R0tDd1pCeUM2VGhqdU9lVUV3OFY1alAtSEpGRS00d3A2cEltVA?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "IPCA de outubro vem a 0,14% no Brasil, mas alimentos sobem 1,04% - TV Sim Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0lZT2gyYmo1VWZBeEl2QzhkSF9qMDJ5ZTJ1TmhyblozQ3hqZkd0Y3dFT1U3NHVfajZwWGZ3anhlYVdOUmh6cGxIZXZtTDl4Z1JiZWdQUUh3REctYndPRjN3ODBtNmp5QlZrTDZiSV9sWXRCYlliT3Ata2xiT09rM056RDBGRWcxRkUwUUNmT3B2RmhRdTFqc0dFSWM0eDhhUVVTdC13?oc=5",
+    "fonte": "TV Sim Brasil",
     "data": "2026-11-12T08:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3394,8 +3402,7 @@
     "fonte": "Enel",
     "data": "2026-11-01T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "Alívio no bolso: Aneel mantém bandeira tarifária verde em novembro e conta de luz segue sem taxa extra - Clickfoz",
@@ -3824,6 +3831,22 @@
     "imagem": null
    },
    {
+    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Conta de luz terá bandeira verde em novembro - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSk50X2lDM2NMd1RIOVg3TWh1Y2ZNWDZzRGd3bldVY3ZTNm4tRDVqZHo5Z0pnQjBQd09TOXV1ZVkzQmZ3Y2NZU0plRGhiUk9VR3AzUWhQQTJhN1VJdEJLLU5oUDlMcWh4TGtqTnZMeE81ZzZid1RQYzlqa3hFUjE0bVdKV1VoNmM0RnFFOTI1bw?oc=5",
     "fonte": "MegaWhat",
@@ -3835,14 +3858,6 @@
     "titulo": "ANEEL mantém bandeira verde para novembro - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRnB3cTd2VnlraUJDa1U1RnFHSUNWRlRTYkZMS1c1YXVfamtFeHRMTVRBQ2lCTl9kQVY2eWh2NzNJMlpVTW1Hbm1wS19jZkJHZmdEOWljX19lUXVUSHItc2xteUdONWJjYk5INFNXZjU?oc=5",
     "fonte": "Canal Solar",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
-    "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4056,15 +4071,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
     "fonte": "GOV.BR",
@@ -4105,14 +4111,6 @@
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
-   },
-   {
-    "titulo": "Entenda sua conta de energia: Energisa detalha como é calculada a fatura mensal - Rondônia Dinâmica",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbFNyVFQzWTMzNzRnMUdsMDRGa1R4UWVEN0NmclhuSl9fR3VIU2hCVk9aY0t5bGFEWWdJUzNxQmFqeXBTSWtCWFRFS0c5MXNvT1dkNmxjMmZCVTZiQThxWVk1ZjU3MkZWRF9rOGRFdm41SElJMEJwX09reVhGcVJjZzQyTk1tMHhwZ0xZMUZMc2M3WC1hTmdBZWExeWIzNmx3RmliSXJ5WXdUaWdTcDBrMDFxcG9GLTlKV1c5akxRdWxHbmtsZFhCeUFEQ1pQN0NSSjdDekwydVg?oc=5",
-    "fonte": "Rondônia Dinâmica",
-    "data": "2026-10-27T12:30:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    },
    {
     "titulo": "Bandeira verde mantém conta de luz sem cobrança extra em outubro - O Alagoano",
@@ -4864,10 +4862,60 @@
   ],
   "regulacao": [
    {
+    "titulo": "A energia agora tem hora - Portal Solar",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mZ1B5TVZVZnNCeWRRa1NrOElPTk1veUgzQlJCSTV1OWxITzNteDZKR1FlcE5SZHZ6WnNlS2xtRFA2UmdybUY2OEFaT0dGSnBuTGZtcUk2ZW53cGZTMkt4TENWdkxPLXkyNThET0VPX3k2LW1XalNPaVRzS3E?oc=5",
+    "fonte": "Portal Solar",
+    "data": "2026-11-23T19:11:13.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Aneel vai reavaliar direito da Voltalia a desconto no fio em eolicas no RN - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGdPUzZxVEJzakRGVFpKbTVmLXBacUZ1LU1YbzB6YjhfQUxERnladjdaZXlUbUJReVBGR0lDb1o3OG94bEsteGVqa0ZwTmxRc21GWlc0RVhSME5nQ0dSeWtwejB0QkRPZ2JOb05Qa2JZdXVEREQ1dU93Tm0xR0hobjMyOElFYUd6UlNEcC1wNnQ2RkJGa0g5UFJ5OWtXbU1UQVNBc1JWTkw1RTRGU0ZYcDZRNDBVVGFoSXByNkpJZXE5UTU0ZXlPbnlPZUY?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-23T14:50:42.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação",
+    "imagem": null
+   },
+   {
+    "titulo": "Aneel anuncia nova fiscalização e alerta para desafios da abertura do mercado de energia a milhões de brasileiros - JBNEWS",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRGZlc0MyNlg1dXlXS3J4d2dPOTR0eWFfZ0dLeUcxMDgyUTRWN29jVjY3YjJSNWVBcjFnU0NWYllVVU5LTGVHWnF4WUFkRjRZeU9PQ0pEV3E2YmczdjExN1duTjZ4bHRvZTJjM2FGOTBxT3dQNGNxcnRYRmZmMTR3ajc4a2RBTFp2X0tyRkM0b1NXZEZ1dVpXWkw0NVJhRk1CSnBPQjUzbmJiRjg1OGhSWUlOOTF4a2tMSjZmUHpMMmZZOHRoWFpWbW1PdGx6UkZGVmc?oc=5",
+    "fonte": "JBNEWS",
+    "data": "2026-11-23T14:03:34.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL aprova nova versão do submódulo que calcula a cobertura tarifária do fundo de descomissionamento de Angra 1 e 2 - atlaspublico.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0R5ai0yV2dxaDNmMk1WUW9NRENCek0wbDZPTWo5c1B4alBaRS1SaFJ2cUlPcWcyTjNxb21zRFFQc0tLbEc0aDdYWUtUZVEyQ3hfR3hOQVFYRTVzbUZzTmlWZjFtcTNYSlRMcWtTRkVDZGcyU2tFdG1BMThrZ0ltZW5yNDVhNE8tLUFrZVE5TlRsVHBmVHVDOVdSYw?oc=5",
+    "fonte": "atlaspublico.com.br",
+    "data": "2026-11-23T06:02:36.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "ANEEL define regras de faturamento do Encargo Complementar de Recursos, com transição de janeiro a junho de 2027 - atlaspublico.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3pSUDFFOXFLXzIycWtuc1pORUxWb2E5eGQwaFQ1UHQzZ2t3MzVoRkNYNE9CSzdINzRBTGprU2tMRnRkbkQ1SHNsWnJJVTNVSTFMRVFyTDVmMVM1b3VrWTI5S3pEZHZ4YnFjcGRnQVdncTlHTjlGd010S2dCSE0xbkhBSGpESlhtNG5rQlZ6ZkFoR1NpaXYwUG5kdjE1dTY1MTlNZg?oc=5",
+    "fonte": "atlaspublico.com.br",
+    "data": "2026-11-23T05:07:17.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Presidente da Abraconee alerta para reforma tributária e cobra e destaca ética e transparência no setor elétrico - JBNEWS",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZko3a2loeHdJZnAxRzM5NjJzYjFwY2I0NXN6MjJQZ1k5R1VSWnJOVjhDeTRFRXV6MU9FbXBjbDlXRnNzWDlyTWgtQUNINk5tREF0SC1MMElheG5vWGJNR1M2QmhKV3JEcW56WXlyRHBZYWlBVUY4NGlBZWRyZ0lsM0ZOZGp1WDgtMy1XSng5aEo1dk9tQThVSTB0MW1rY0hQVUVwSGs0emxkb3NHcFAyc1dncXJvWjZ0WXp0d1BmWVVhcGlqR2ZtYlRQZ2s5enJN?oc=5",
     "fonte": "JBNEWS",
     "data": "2026-11-22T22:55:32.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Presidente da Abraconee alerta para reforma tributária; cobra e destaca ética e transparência no setor elétrico - JBNEWS",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZko3a2loeHdJZnAxRzM5NjJzYjFwY2I0NXN6MjJQZ1k5R1VSWnJOVjhDeTRFRXV6MU9FbXBjbDlXRnNzWDlyTWgtQUNINk5tREF0SC1MMElheG5vWGJNR1M2QmhKV3JEcW56WXlyRHBZYWlBVUY4NGlBZWRyZ0lsM0ZOZGp1WDgtMy1XSng5aEo1dk9tQThVSTB0MW1rY0hQVUVwSGs0emxkb3NHcFAyc1dncXJvWjZ0WXp0d1BmWVVhcGlqR2ZtYlRQZ2s5enJN?oc=5",
+    "fonte": "JBNEWS",
+    "data": "2026-11-22T22:55:28.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -4893,8 +4941,7 @@
     "fonte": "Tribuna do Sertão",
     "data": "2026-11-21T14:45:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Quase 10 mil famílias de Caucaia podem perder Tarifa Social de Energia - jornaldosmunicipios.com.br",
@@ -7253,54 +7300,6 @@
     "data": "2026-06-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel retira de pauta processo sobre corte de geração de energia - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEc3V0RNZ3gxWjc0NW1VWTc0Ykd5TjZvb2YwYkc0RlNWeHNmYkdQRU1sWG52UXRIMWN5SE1aWV9PUUJNSlBsN2FyeWhCWUY1UmRHcEVMSlFSQ011NjlsZV9ZcHlTRVhIZVNQM1kxVW1zRDFPT1VZR1g1R2RYYmV0dkl4TWt4S01pbGphVklCNzl4NTRBck45dWs1M3B3YXlJMFE?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-06-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Procuradoria da Aneel defende regulamentação para cortes de geração de energia - Tribuna do Sertão",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGdjWnZqZmFPanB3dEljR1pHU2p0VV9GeTZ5RUZaMktHaWt4T0sxQTRtZVJXdVUzZW1OMTVrR094Uy1PMXZHemgxN3NrTTZfZTladlhPbkE4ZkhkVlJzNUtFNFZVUDBRMExLd09MMzBWcU1iLXVpQktVMXRhMjduU0tGSUFqc25XU0E1SlZIWXYzUGFiOF9qdnBlZFlyZWg2TDlaTmRYWlpESzZQdDlrTmI5dUs2SFdRQVVaU01QU0JTcTB6WlVIUHlfU1dCeFpJbFIw?oc=5",
-    "fonte": "Tribuna do Sertão",
-    "data": "2026-06-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Procuradoria da Aneel defende regulamentação para cortes de geração de energia - tribunadosertao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGdjWnZqZmFPanB3dEljR1pHU2p0VV9GeTZ5RUZaMktHaWt4T0sxQTRtZVJXdVUzZW1OMTVrR094Uy1PMXZHemgxN3NrTTZfZTladlhPbkE4ZkhkVlJzNUtFNFZVUDBRMExLd09MMzBWcU1iLXVpQktVMXRhMjduU0tGSUFqc25XU0E1SlZIWXYzUGFiOF9qdnBlZFlyZWg2TDlaTmRYWlpESzZQdDlrTmI5dUs2SFdRQVVaU01QU0JTcTB6WlVIUHlfU1dCeFpJbFIw?oc=5",
-    "fonte": "tribunadosertao.com.br",
-    "data": "2026-06-15T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Leilão de baterias: o que muda para investidores, geradores e grandes consumidores? - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVJpajlGckxjTFNQLWpXdzVjUExCTlFGS19nZV9hMmgwR29NM3lMWlg5eU9mcWs4dFhVS24xLTRvcVM2c19mbm0xaEk1MllteFJ1dGpFNWtpUnhTWjg2WVkwQmNaa2RJdU5DeEtzWmNlbTVfOFVEUVkyMFVSYVg5QlF1STQwdU5ROVY3Z05pZw?oc=5",
-    "fonte": "Canal Solar",
-    "data": "2026-06-12T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Aneel pauta votação de regra que cria fila e rateio para cortes de geração - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2JLRWRZVXBQWnlBeEt5LTJJcTBBQ0xfaEZiMzY1NjhrNVp6RVIzTEVpdkFhdjdacmlqekJxdnJKcF9rSnN6VTNpeGRBSmp6OTFOVnU5X2lOQnBaY09KSExmeHdJelVWYlRsTnZSQzlXSTVJMlpYbTFDbUtMckVMNHB5U2tVWlJBN2VQOHpiZ0txaWdlTWNGVHU2NWp2T3lpX3dabnZ4eDlLeVd2S2hmVUhZOA?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-06-12T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "Leilão de baterias: o que muda para investidores, geradores e grandes consumidores? - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVJpajlGckxjTFNQLWpXdzVjUExCTlFGS19nZV9hMmgwR29NM3lMWlg5eU9mcWs4dFhVS24xLTRvcVM2c19mbm0xaEk1MllteFJ1dGpFNWtpUnhTWjg2WVkwQmNaa2RJdU5DeEtzWmNlbTVfOFVEUVkyMFVSYVg5QlF1STQwdU5ROVY3Z05pZw?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2026-06-12T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
    }
   ],
   "mea": [
@@ -9197,6 +9196,14 @@
    }
   ],
   "tendencias": [
+   {
+    "titulo": "ENERGIA | Cinco tendências moldam o futuro do mercado mundial - Brasil Mineral",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWVGWUpTT2FydkdlUFJheXh5RGtjazZzVmxDMmp0MjRMNG1kc01BQXVYR2VnbEZPY3BXYmQ2VW5zTHk4cFNCSE54aVJScWZnS1huSFRONzN2eUFTcng2T0dHM2RwYWQyc2pHalAwNTl4cjRXTm1HTFVzNGhYdjdIelB1cXdrVDQxbDkwVFZLaEYwV1E?oc=5",
+    "fonte": "Brasil Mineral",
+    "data": "2026-11-23T20:22:54.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
    {
     "titulo": "Performa Solar patrocina o 360 Solar 2026 e terá Paulo Pessuti entre os palestrantes - Portal Solar",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHE3QjBYY0ZlcEhMc0lqd01GbGs2WHpOOGxEdC1TbHdKQzZyOVY5bXMyMmF3WVA0Wnl6elZLa0ktekN0eHZRN00xT2VwUmw4U2t3UTJDZV9ySFVyb2h4ajJsNFFVQmJsN2JhOE01dXJzU2NmdFhKY0FIcHNJVVM4MDZJU1J0bXlMT2xIM3Z3TFBvcTJfWVl6RmYxYmNESEVNVmdoTVBIeEY0WFZCSzFzSEFQcU4tMlk3bnBLNU9xTkZmZTZIcEphTVhEZE5xVzVBSnJYaExTZXc?oc=5",
