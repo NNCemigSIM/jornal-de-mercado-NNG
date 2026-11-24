@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-24T05:06:39.467Z",
+ "geradoEm": "2026-11-24T20:04:53.547Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.69,
-   "pct": -1.847,
+   "preco": 11.88,
+   "pct": 1.625,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 83.97,
-   "pct": 0.623,
+   "preco": 84.505,
+   "pct": 0.637,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 20.87,
-   "pct": 6.317,
+   "preco": 20.47,
+   "pct": -1.917,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 146.53,
-   "pct": 6.498,
+   "preco": 147.33,
+   "pct": 0.546,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 29.66,
-   "pct": 1.854,
+   "preco": 29.97,
+   "pct": 1.045,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.78,
-   "pct": -1.463,
+   "preco": 10.82,
+   "pct": 0.371,
    "moeda": "BRL"
   }
  },
@@ -117,14 +117,6 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Taxação do sol: como funciona o marco da energia solar? - edestaquebrasilia.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTFtRVJhTjJzdEs4ZFJFWjdwQy12bUdyX3pkUEtrbml0enpjSXVBMGJ5Mkt6Z2l6Qld2WFBHa3dLdVBUeXFndWMwUk85UkljOV9GXzNBU2ZIWGl1VFU5dVdCRUFpSDZXb3gyNXprWUw0OC1PWmJyLVpuMlB4WFoyTFBoU0JucXZQOVNKVHB3b0tqYUlsQmdqMDBqYWpGWm9GeGk0?oc=5",
-    "fonte": "edestaquebrasilia.com.br",
-    "data": "2026-11-04T18:23:44.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
     "titulo": "Taxação do sol: como funciona o marco da energia solar? - Conectado News",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUdNc0ZqRkNiTGlwSENJSVJZZkdZYWN0Y05zVGVlbGpWMTRkZmFlNjhmaVBkdEVYWWt3TFRraVk4TVl2cXlqZmxiOW5OWXNhT0JSZmpyMVIzLW14X2k4UkdfcG8yVkRJbjZNLUZ3ZjkzblVsUGNxbXNiYVhyR3dpZzRCbjl1cFk1MW9yaE5KaDdOZE1RSFhZQTNxV3g?oc=5",
     "fonte": "Conectado News",
@@ -161,6 +153,14 @@
     "titulo": "Taxação do sol: como funciona o marco da energia solar? - Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjYzVVktQk1ZVjdaWnV6U05fajc4a2VJeHZMYUpHRFE5WV9pODFsU2NfbzRZZDBNY3gtcDFiXzRxVy1fSGlKTEx2eWFLOUVqaU90V3M3bmNldzdPb21QM2prNG1IbWtaWHRSd1JlVDVCdHc0QTl0NFhNVzNIVDVkdExUZWtJUDllb1poSy1Md3hhX0dDeTBiS3lpUEo3dXVSNzNMS0t1V3RQUHdFelFib2t3NFN0SmtGZmVIWVBB0gHMAUFVX3lxTE9kWmd4ZDd0VHU2UEctLUJVUGxQSTM4SldnLURSaW1IRVczSXUxSW5DbmxuYXFSOFRFRXl0RUUxQWd1V3JJN1B4c3FjOTZ1VkNXWkhUTUp1SndVWUxGSENzdUFhR2FGbG9ka0lTOVFQNEM3WVdkbmx1VUdCV0JsZVBudFdrN2o5OWoyRC03ZEtLYnhsSV9TU0lpdHN2SkJicG03UFhYOGxnakUydDNkaGhTLXRnQ3psODFFWkZYZmdOV2ZFalVIOG1PM2gtZw?oc=5",
     "fonte": "Valor Econômico",
+    "data": "2026-11-04T08:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
+    "titulo": "Taxação do sol: como funciona o marco da energia solar? - edestaquebrasilia.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTFtRVJhTjJzdEs4ZFJFWjdwQy12bUdyX3pkUEtrbml0enpjSXVBMGJ5Mkt6Z2l6Qld2WFBHa3dLdVBUeXFndWMwUk85UkljOV9GXzNBU2ZIWGl1VFU5dVdCRUFpSDZXb3gyNXprWUw0OC1PWmJyLVpuMlB4WFoyTFBoU0JucXZQOVNKVHB3b0tqYUlsQmdqMDBqYWpGWm9GeGk0?oc=5",
+    "fonte": "edestaquebrasilia.com.br",
     "data": "2026-11-04T08:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1046,17 +1046,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "ONS determina corte de geração distribuída de energia para evitar sobrecarga neste domingo - Rádio Metrópole",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWNPeUowS2FnWS1BdXB1T3NuVHM4dE1QeDBqaURJd0dEZ3pLU19PRnlkY29BMWJGVDZSQllHVS01d1dvR3hSeTdRLVM0RWNXQkNrOUF5ZWxCMUZVM2ktNHF0YWtBYnZTWnV1Q29rbGlGWkUyY3JZa0tTMUs5aXBNOHRVbmNTYjFoTmRVRGlmd2ZBVGx5cC13STlIQjU0VXJwUE9BUVlTRkVERFBHS0s4NmpfTFdxZXk0TEdlY08yNXlHc091X1poM00tQlFndDQ5SXBZb05R?oc=5",
-    "fonte": "Rádio Metrópole",
+    "titulo": "ONS suspende geração excedente de energia pela segunda vez no ano - CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUhZZE9CSzkwMGZGbWU3bURNcnJMYnFvTHlHaVFoUXliRlZmc2NWdU1Ya3pSM05NVWJFQ3paeXJNTkhJczJ6Q3NPV1Y4eV9PaDF3eVZsQzZROExJTUM0cC1CSWtNbkVjVTA2ZmFXNTd4VE1IeFJtUi1QMGJQNXBmcmQ3Ml82VnFOTVdGSlZRUmZxbGFqM0pBSHJqTzBQYWhabUtHV2tTMi1OZjg?oc=5",
+    "fonte": "CartaCapital",
     "data": "2026-08-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "ONS suspende geração excedente de energia pela segunda vez no ano - CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUhZZE9CSzkwMGZGbWU3bURNcnJMYnFvTHlHaVFoUXliRlZmc2NWdU1Ya3pSM05NVWJFQ3paeXJNTkhJczJ6Q3NPV1Y4eV9PaDF3eVZsQzZROExJTUM0cC1CSWtNbkVjVTA2ZmFXNTd4VE1IeFJtUi1QMGJQNXBmcmQ3Ml82VnFOTVdGSlZRUmZxbGFqM0pBSHJqTzBQYWhabUtHV2tTMi1OZjg?oc=5",
-    "fonte": "CartaCapital",
+    "titulo": "ONS determina corte de geração distribuída de energia para evitar sobrecarga neste domingo - Rádio Metrópole",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWNPeUowS2FnWS1BdXB1T3NuVHM4dE1QeDBqaURJd0dEZ3pLU19PRnlkY29BMWJGVDZSQllHVS01d1dvR3hSeTdRLVM0RWNXQkNrOUF5ZWxCMUZVM2ktNHF0YWtBYnZTWnV1Q29rbGlGWkUyY3JZa0tTMUs5aXBNOHRVbmNTYjFoTmRVRGlmd2ZBVGx5cC13STlIQjU0VXJwUE9BUVlTRkVERFBHS0s4NmpfTFdxZXk0TEdlY08yNXlHc091X1poM00tQlFndDQ5SXBZb05R?oc=5",
+    "fonte": "Rádio Metrópole",
     "data": "2026-08-23T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2448,6 +2448,14 @@
   ],
   "tarifas": [
    {
+    "titulo": "Aneel anuncia data para bandeira tarifária de dezembro - Terra Brasil Notícias",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkF5YzZrcGVNTnRZSXlmczVrS3ZMNUVIME5qSmdqVy0wT2k4SXRiNldsZlduVk5Qb084aWwtUTkwU1AzYm1LQkVncjlIVm5Pai1QdVgxT3FBX2dRU2x4Z0s5V0hTUjh0MURZeUpfTmNxUzRMMF9OVEJTMlY0WTZFbGFLSllFaUo0dm1lNk5LeGxHY1ZTak55dmwwcw?oc=5",
+    "fonte": "Terra Brasil Notícias",
+    "data": "2026-11-24T14:01:15.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Entenda sua conta de energia: Energisa detalha como é calculada a fatura mensal - Rondônia Dinâmica",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNODFRVi1Zd3ozVU5Dd0tiamU3VWlnR2JUS2laSnppU2FlRFJFRzZpcUttQUVVc2Rsdm1XQWdJTkNnQi1sbmNUVWM3M04xZlktOEluOHNiczM5eU9FVzVadmpzcGFjZ0lacjBEanMzYnZLYllpdk5jVjdCLU1idjMtSjZNNGRrSU1lU3h4Yl9EQnNOR2pXNUdVV1FpOVZZTzRISzhNY2tfOS1GMUNBeG0tS29OQnE0Mk1MdnBlZF9uR1dnMF9MSTYwUTNkTUZoWC0wSnlkQWExNnE?oc=5",
     "fonte": "Rondônia Dinâmica",
@@ -3400,7 +3408,8 @@
     "fonte": "Enel",
     "data": "2026-11-01T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas"
+    "catLabel": "Tarifas",
+    "imagem": null
    },
    {
     "titulo": "Alívio no bolso: Aneel mantém bandeira tarifária verde em novembro e conta de luz segue sem taxa extra - Clickfoz",
@@ -3825,8 +3834,7 @@
     "fonte": "G1",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
+    "catLabel": "Tarifas"
    },
    {
     "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
@@ -4848,14 +4856,6 @@
     "data": "2026-10-01T18:05:43.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Mutirão para atualização na Tarifa Social de Energia chega a Três Lagoas na próxima semana - Midiamax",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ21IbU16OTh1ME9oeWF5U1RWaVN4RWFJUjVVS3A3Y2lIMDJjNnlQTFVMNjJPYk9hd19LWjd4NlhtQmtiajNEYkJYbHJpbndub3dTOV93NVN3TEg1NW1ZRE1kcWtueER2WGI0UW9RamRvanRjRkNBOW9SZjBkbHA3NGV1TVBKX1RweVd0Umh4WnRIM2dkYU1VQjVlRHRFbG93QTJINHFaWnR1dTZBUXpCam9WQk8?oc=5",
-    "fonte": "Midiamax",
-    "data": "2026-10-01T16:40:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    }
   ],
   "regulacao": [
@@ -5453,15 +5453,6 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "REN 1.175/2026: o que o Open Energy exige e até quando - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNME1XS1lzaDdXS2pUOFUyYm5OMTJWT2JCR1V1QjhFODFONVo5REJlNHBfSXNyb0lxS0V0RlZPMFVrdnExM095ZG5CQUJlbEhqQWRaTzBJSzdEN3AxbFdMaXNuSWFFRDFLcWxQM2lqaUtQeGFYYVhwUVVzNGxVbWV0aFZjdEFWM3BVTGZXZzhSSE1DSnpVQWdmNHBobi0tV3hJQkJjLTZaT2E0VjFQakNiNnBR?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-11-11T15:33:28.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
-   },
-   {
     "titulo": "Open Energy: a energia começa a mudar de mãos - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56ZHlvOXFwOEEtdTZzWHdHTUQ4ekdhaHFCZnU0cHNORTlJTGVDMi0zT2pFVmYzRFZoX3c1RjlUSXZOSDBJdlhLakgwenJIUGQyVjRVTE5DclFtLWJVVHFPOFlCbnZ5TW52UGtyUXNhZXdUSmd6emc?oc=5",
     "fonte": "Canal Solar",
@@ -5475,6 +5466,14 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlVEZVRwa0hEcHZVX3duX3ZmdnhSVUd2NGVCdTBwMmJpTGpwVENYUW9XckY2MFhzM3VEM243Q1dzR2t2M0FicXltYm0yMW5sTU9rQ3RlU1gwdGhFWlRJMk5WV3Z0VTEwN3BPWmg5X25YNHlacW1EY0VJd25mdjJQbFZTeVRuenU2SUlUVl9pOEhlNEEtVExVYUYxYl9GaVRWSndR?oc=5",
     "fonte": "Cenário Energia",
     "data": "2026-11-11T13:39:21.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "REN 1.175/2026: o que o Open Energy exige e até quando - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNME1XS1lzaDdXS2pUOFUyYm5OMTJWT2JCR1V1QjhFODFONVo5REJlNHBfSXNyb0lxS0V0RlZPMFVrdnExM095ZG5CQUJlbEhqQWRaTzBJSzdEN3AxbFdMaXNuSWFFRDFLcWxQM2lqaUtQeGFYYVhwUVVzNGxVbWV0aFZjdEFWM3BVTGZXZzhSSE1DSnpVQWdmNHBobi0tV3hJQkJjLTZaT2E0VjFQakNiNnBR?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-11T08:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    },
@@ -6517,8 +6516,7 @@
     "fonte": "Valor Econômico",
     "data": "2026-10-08T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação",
-    "imagem": null
+    "catLabel": "Regulação"
    },
    {
     "titulo": "Empresários no ramo de energia solar relatam dificuldades para implantar sistemas - Folha BV",
@@ -6937,14 +6935,6 @@
     "catLabel": "Regulação"
    },
    {
-    "titulo": "Associações pedem revisão de rateio, cortes elétricos e autoprodução na CP 45 - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzhiZmt6TlNzNDNkT1B4RFgxNmQ0SDI5Zk1aNEFaTlo4RmZ3UllWRmtWUXhWQ011cU5LY25RdUdMdmFIQVVTWUNXWENnT2ZqcHZlWk5OdGJvWEcweXJmb0J2RmxNdkI3dnkzbEZ4RjZnSkZBTlItV3B4Mmx0ZEdKWnRNRFhjeVBJRm1JanFLWk0tX2pPbnlEajY1bkJtLXRRWjZsTVVtSWlFcVNSbEVQS0RqUi1hZw?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-07-21T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
     "titulo": "Regulamentação da ANEEL e novo Plano Safra ampliam mercado de baterias e impulsionam expansão da TTS Energia nos setores corporativo e agro - Tribuna do Sertão",
     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQTBtaWE3ZFFzc3QxT1hYVzZqeE1aVy0zbWI4V3lFWDVIeU00UXFITll3VnFRdU5odjZpbzBUbm1keDdrSHBXbThJVTZoZXZtLWFleXRrbFc2QVFSQ01sN1R2TmJrcExocFU5S3owUHZiNm1OUGJFeEJobWxKMXVnWGF6dENfQllZZlFhcDZKVVdsNGdpN3dIcHB0Y1hidjk5anQ1OTRvVXVhS1MtcEVtajR6Z3hfd0J2VHhfdWh5RHlYRzZ2emREdWRKZmVfMktxZDVueDgzdENCTXZ2aFRXaGtHVmN5RktEcmxrb1RmVHRKRlFhRngzeGZjcXhxLU9DNEZ5RTdKZC1ZY3NUWGJDdEVNU3hqVkZiOFlHMWlHVDNSay1w?oc=5",
     "fonte": "Tribuna do Sertão",
@@ -6956,6 +6946,14 @@
     "titulo": "Nova regra da ANEEL e Plano Safra impulsionam baterias e negócios da TTS Energia - bra1.com.br",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTZjeDN6NHNRZ0MzMkE5SHFJT29LR1lLV3FlY3R4NzdFNUhlX1dlekRxaGN5R3hJejVKVlAtNGJXS016bl9JS2VOVDljZFI1czJFbnNyRDQ1TlR3YlJ5T2UtNWVxS3diTzAtN2E4Z25laXFZOFpPN0l0XzdSSFh0ZWd3NVhLMEY1SlpTX2xSeFRST3R0OEpJdnVQMFg3Qk9XWkUybU9kVS1Ua1Rxa1BWelVfMDFMV3c0N0NSSEhnY2M?oc=5",
     "fonte": "bra1.com.br",
+    "data": "2026-07-21T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
+    "titulo": "Associações pedem revisão de rateio, cortes elétricos e autoprodução na CP 45 - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzhiZmt6TlNzNDNkT1B4RFgxNmQ0SDI5Zk1aNEFaTlo4RmZ3UllWRmtWUXhWQ011cU5LY25RdUdMdmFIQVVTWUNXWENnT2ZqcHZlWk5OdGJvWEcweXJmb0J2RmxNdkI3dnkzbEZ4RjZnSkZBTlItV3B4Mmx0ZEdKWnRNRFhjeVBJRm1JanFLWk0tX2pPbnlEajY1bkJtLXRRWjZsTVVtSWlFcVNSbEVQS0RqUi1hZw?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-07-21T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
@@ -7062,7 +7060,8 @@
     "fonte": "Governo Federal",
     "data": "2026-07-03T07:00:00.000Z",
     "catId": "regulacao",
-    "catLabel": "Regulação"
+    "catLabel": "Regulação",
+    "imagem": null
    },
    {
     "titulo": "A não incidência do ICMS sobre a energia elétrica compensada - Canal Solar",
@@ -7653,6 +7652,14 @@
     "catLabel": "Players & Mercado"
    },
    {
+    "titulo": "Superoferta de energia solar provoca sobrecarga no sistema elétrico brasileiro e obriga desligamento de usinas - G1",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQkZaSWNaT0RVS2tia3paQTJuUFdKUkpocE1WazRyNnFRZ1JwNy11cGNBaVNvY0M1VVpmcl9fcVd0aXNnbEYyNUFZYTVuMjdwenNQV0w3bUU4bUd3ZExJa1JTTWRGLTItV1NBSVBURUctSjMwcnIycHZ1WEh0SHNSTGQ0NG4yalY2RFQ0dV9YNGRnNVRIRjZIX3llem5mVzRPMm1jX0FjUkJReEJHaXFIYWRvQUhzTWhiektyQ2JrRmRZUThYVFREQlhSSGJYTTNGb2p2b2MtakF4SnVZcmdSZTVyRjZUZ1ZEWWJabDJudUNuSFFRWlE3NzRITjVqd0VxUFHSAZACQVVfeXFMTW5xWGpCSnNxNnNBVmswLV9xVEpHZkNkUVlLQktPT3NNSTF5VnNoRW9TVEFXUnFmYVZiQzM4MHI0MlRUaTFlNlhxYnBKZ0FVdHJKcVkySzNXOXZCbzV1NjhUR3N6NUlxUjJLbWdsODFTc3dpWGpLcVhZbU1DdUxDVXZQajNWWDVaZ0kzR2JsVXJjTExhcWxwTUZNR3ZHUkVtMW1qVFdCcXNCdXMtX1lMMWZJcmt3U18tNDh4dzliZDNXdHZtZnFUNWMwRVlNZzFVYXB1NkNfblVXelpOelhoeVR3amxtWE9QYmswRHA0MnVQU0Z2NV9XMGFiOF9LU2h0RjIwanppRlRySEdDRGRaWEc?oc=5",
+    "fonte": "G1",
+    "data": "2026-03-28T07:00:00.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
     "titulo": "Marcelo Zanatta deixa comando da Âmbar, da J&F - MegaWhat",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hTR0VQTlNpbDE0WmVLYkcxOVF0dVFoUFdFVHFpQ1ZadXBKZm5PV1FUNzlydk5xNm5NZ3lXWkdTY1dzekhBTTdwZmNEdm1lUVFQYnVqcmd5VEF2UllKNTYxT1JXZVZ1TzZiVVVBYWw0WGl4OGxpSjFveWszNXRtWUNOSnoyTWkyd3VHTVpUeVlEVmFJcHU4NkxWaW54SEpMYjI5dA?oc=5",
     "fonte": "MegaWhat",
@@ -7818,6 +7825,14 @@
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcWVJcXJWTHh2aVdvNjJMVkRjR0F5Vmd2cjV4U1pWZWthejZTRk9PQVIzZXlaWU10N3hRSEtKQUVvY0dyNVFQRi0zRVdZRHEzU2FKTkxYei1KQ3FoNU8yNFI4b0pVSk5hSHpidVh3SFVvNDFOVklIb3V0OFZJbjMtSVpsYjNXUy15bU1BUS1wcEhDbUdRN2lNekdPN0k0MkRBT2wtTGRYanRGZE9CYno3VF9QRTR0aUJndmZKRmlfQVFOMWQxTU9mcC1YMnF3WnFRTkZJR3B0TU5mQlNXZVpWTGhyaXg?oc=5",
     "fonte": "XP Investimentos",
     "data": "2025-12-19T11:57:29.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
+    "titulo": "Orizon projeta receita anual acima de R$ 3 bilhões após incorporação da Vital; veja o Radar Energia XP | Dezembro - XP",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWk8zSHhnRU53OURQR3lyb25ZQzZ5VTJLNG1UT0lvYW84U0tuOXFOY2MyRi1WTTRFVHM1cXM4MFV0a3RqRFBlcmtMTU1oalNhWHpJUm40dGoxVVdtVVlpbDZZdU1PMUM1MnhEcWx2eDhxNW56SDJlZzYydnB5bmlLTU1yS2tGbWxiNDVHdkZTUW9YV1Z0dExDb0JGRGFyNlY3dW1uOVZKMmRMM1VYU3hmVkdWSlh1TEcwNFBwa200SDVvc09ZU3d3X2hyNWkxaUtvWGgzdVE1TjJkXy1fZUJwZ2hGOG5EaFpXdEpadg?oc=5",
+    "fonte": "XP",
+    "data": "2025-12-18T11:47:48.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
@@ -8726,6 +8741,14 @@
     "catLabel": "Players & Mercado"
    },
    {
+    "titulo": "Assembleia de credores da Light aprova plano de recuperação judicial; veja o Radar Energia XP | Maio - XP",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHFBT09xX3pDbnpnRGYyZGhkcjNvRXNmVHg4X0d6RndEOHpkVTZ3OXFQMzR0ZWZjd2k3NXVBR3pJd1FRdEZ0S3ZRTnJyOEpzQ25sbkdpRVJNVWtkY0lqcmtDMmFzX3ZheXN6TkdDS0d0MXVWWmNRRVhRbnhFem5kUg?oc=5",
+    "fonte": "XP",
+    "data": "2024-05-02T10:45:11.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
     "titulo": "Assembleia de credores da Light aprova plano de recuperação judicial; veja o Radar Energia XP | Maio - XP Investimentos",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHFBT09xX3pDbnpnRGYyZGhkcjNvRXNmVHg4X0d6RndEOHpkVTZ3OXFQMzR0ZWZjd2k3NXVBR3pJd1FRdEZ0S3ZRTnJyOEpzQ25sbkdpRVJNVWtkY0lqcmtDMmFzX3ZheXN6TkdDS0d0MXVWWmNRRVhRbnhFem5kUg?oc=5",
     "fonte": "XP Investimentos",
@@ -9269,7 +9292,8 @@
     "fonte": "Brasil Mineral",
     "data": "2026-11-23T20:22:54.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências"
+    "catLabel": "Tendências",
+    "imagem": null
    },
    {
     "titulo": "Performa Solar patrocina o 360 Solar 2026 e terá Paulo Pessuti entre os palestrantes - Portal Solar",
@@ -9292,7 +9316,7 @@
     "titulo": "Relatório aponta 10 megatendências de energia para os próximos 25 anos; veja o papel do Brasil - Startups",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0ZXdkhFOGFycEpYQ0wyNEpNemhEbFpfT1pMWGpIa1BRV2lXRC1aeG00c0t1WHlTUEZfcXM2Qm1BYmlRcm1iaUtoenpSbFRwOXdad05wb3dJVXpHYkpJcFJWdWZMSGJEUlNObUpiNEZqU3RQaE5MUlpiRzFuR21odDJ5LURXamJJNF96bUhhcG9NcWZyMHBwY1JSdXBjT0lXclZKdmM4MXFDZGhhdWJJbUo4cHBOdnc?oc=5",
     "fonte": "Startups",
-    "data": "2026-10-28T16:15:00.000Z",
+    "data": "2026-10-28T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências",
     "imagem": null
@@ -9360,8 +9384,7 @@
     "fonte": "Canal Solar",
     "data": "2026-08-25T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Dia 1: Intersolar 2026 começa com novidades e debates sobre o futuro da energia solar - canalsolar.com.br",
@@ -9693,8 +9716,7 @@
     "fonte": "Canal Solar",
     "data": "2026-02-02T08:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "As cinco principais tendências do mercado global de armazenamento de energia em 2026 - canalsolar.com.br",
@@ -10722,10 +10744,10 @@
     "catLabel": "Tendências"
    },
    {
-    "titulo": "SolaX promove roadshows com foco em capacitar cadeia de distribuição - canalsolar.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0p3UG56RENFbVYzQWhxOTE1TXdzeFAyamNVTm4xekNHVk92czdMSmR6b05qaUw2RS1WbURQVHhCMTFxcTJTSXZpZV82REgwWmlON2JmaHhMY2x0c3JpVU1iOUlLdjgwV1hxVFdWN21HeTVGemJKN1pIZ1JzdG50Z0ZiOEl6TTZOakNaa0RQMFl6R0M1SzRNVHh6bw?oc=5",
-    "fonte": "canalsolar.com.br",
-    "data": "2024-03-06T08:00:00.000Z",
+    "titulo": "Tendências e perspectivas para o futuro do mercado offshore no Brasil - Folha Vitória",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWndFZUhrZ3NLSkVuX09OWW8yXzdSS1o0N0kycllkdkMxVmtReUJYaVBYRzdtVnlHUjgxdFN5a3hKQWFxQm5aUW1BYm5yRzBZOGZBX2tqZVAtNGgxbUdlN0NveWRMVW82TUxMMDVDd0Q1MlJjWTMybl9jUjQzdHlpNnItXzBweDIxc19qaU9oa0ZBZlZ0SXBEOHNpTm9sY29YWDlpYTNPME9EeHhzTUJab0t3OWR1VzQ?oc=5",
+    "fonte": "Folha Vitória",
+    "data": "2024-03-27T07:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
@@ -10733,6 +10755,14 @@
     "titulo": "SolaX promove roadshows com foco em capacitar cadeia de distribuição - Canal Solar",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0p3UG56RENFbVYzQWhxOTE1TXdzeFAyamNVTm4xekNHVk92czdMSmR6b05qaUw2RS1WbURQVHhCMTFxcTJTSXZpZV82REgwWmlON2JmaHhMY2x0c3JpVU1iOUlLdjgwV1hxVFdWN21HeTVGemJKN1pIZ1JzdG50Z0ZiOEl6TTZOakNaa0RQMFl6R0M1SzRNVHh6bw?oc=5",
     "fonte": "Canal Solar",
+    "data": "2024-03-06T08:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "SolaX promove roadshows com foco em capacitar cadeia de distribuição - canalsolar.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0p3UG56RENFbVYzQWhxOTE1TXdzeFAyamNVTm4xekNHVk92czdMSmR6b05qaUw2RS1WbURQVHhCMTFxcTJTSXZpZV82REgwWmlON2JmaHhMY2x0c3JpVU1iOUlLdjgwV1hxVFdWN21HeTVGemJKN1pIZ1JzdG50Z0ZiOEl6TTZOakNaa0RQMFl6R0M1SzRNVHh6bw?oc=5",
+    "fonte": "canalsolar.com.br",
     "data": "2024-03-06T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
