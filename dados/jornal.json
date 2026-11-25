@@ -1,34 +1,34 @@
 {
- "geradoEm": "2026-11-25T03:54:55.449Z",
+ "geradoEm": "2026-11-25T19:05:56.590Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 11.85,
-   "pct": 1.369,
+   "preco": 11.95,
+   "pct": 0.844,
    "moeda": "BRL"
   },
   "NEE": {
-   "preco": 84.58,
-   "pct": 0.726,
+   "preco": 85.67,
+   "pct": 1.289,
    "moeda": "USD"
   },
   "ENPH": {
-   "preco": 20.37,
-   "pct": -2.396,
+   "preco": 21.05,
+   "pct": 3.338,
    "moeda": "USD"
   },
   "FSLR": {
-   "preco": 148,
-   "pct": 1.003,
+   "preco": 149.09,
+   "pct": 0.736,
    "moeda": "USD"
   },
   "BEP": {
-   "preco": 30.25,
-   "pct": 1.989,
+   "preco": 30.51,
+   "pct": 0.86,
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 10.82,
-   "pct": 0.371,
+   "preco": 10.75,
+   "pct": -0.647,
    "moeda": "BRL"
   }
  },
@@ -68,18 +68,18 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnJQWkpZOUxpRFduNHdwT3FEZWZ5N2JLdHFpbllNemppdVNGRndxSEVTcU8wLVVaQXNCS25LYmxaY21ETzdNMVE1bW1tVWduU1pxdkt0NVN2Z0FCMm1seEZNM0hJNGgwRm9GQTlvUHRna3N4QmtoaTFFdFFtVk1DczR0ZE1PRDFPQktqR25RWXZ2a09Hbkk0SFlHVHlyTmlYVDJ3OXFpa2V5M3NZdUpxNWE1WUZmSlAyMmc?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-11-17T17:59:59.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
     "titulo": "Aneel vê desvirtuamento em geração solar \"por assinatura\" e propõe endurecer regras - Portal do Holanda",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeUJqaVZIMlJRQ1Y5a3lqaEVwWnFGb0plZUJjNDdYTVNtNHNvbVV0ekdhV202WHhOSGFmeGJ2YnVUeWRlLWpOaWkxOFNDQ0dDX3pZUzY2dkJ4MFhxZ21ZS3BTNFB4M2tsNERENjdneXZLamh6Q19FNnlwSFA5aWxqVHU1bkI3VDFrV2xuTkVfLWhCMVB5SlNrbHBKNFBpajJOQndQQVZYVktpbndOYlNrOFQ1R0ZOX1VMTFNIaDVGZ3R1TmFQU3pzSDdDSTU?oc=5",
     "fonte": "Portal do Holanda",
     "data": "2026-11-17T15:33:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
+    "titulo": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnJQWkpZOUxpRFduNHdwT3FEZWZ5N2JLdHFpbllNemppdVNGRndxSEVTcU8wLVVaQXNCS25LYmxaY21ETzdNMVE1bW1tVWduU1pxdkt0NVN2Z0FCMm1seEZNM0hJNGgwRm9GQTlvUHRna3N4QmtoaTFFdFFtVk1DczR0ZE1PRDFPQktqR25RWXZ2a09Hbkk0SFlHVHlyTmlYVDJ3OXFpa2V5M3NZdUpxNWE1WUZmSlAyMmc?oc=5",
+    "fonte": "MegaWhat",
+    "data": "2026-11-17T08:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
@@ -1326,6 +1326,14 @@
     "catLabel": "Geração Distribuída"
    },
    {
+    "titulo": "A usina que ninguém precisou construir: como as VPPs transformam telhados solares em infraestrutura elétrica - eixos",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZFTFZFc1BnNGRpOUlNSlMwSkdjNFpMSzFwdGppc09Pb2ZrY1VWME9pSjNDRk5vcjZUcDRISjgxVG1IdlRrTjdtUEM5WE5DRzQ1ZHMzUzAzWVd4Y0JOeDZEV3hrRXZENkFIRm5fR29LTG5DWDJUTEtwVS1tbEtfMWQzVGczMUFqckpISTBsNWVEbWFFNURNSjZVRVBuNnp3TmItQTA5Q1VNblgzZXZteW0xR1pkSzZ6Qi1nWHN6TFBXWS1vZ2JoMmJUM0tneUFWYndlcmJVSVlYSGRhZV9F?oc=5",
+    "fonte": "eixos",
+    "data": "2026-08-17T07:00:00.000Z",
+    "catId": "gd",
+    "catLabel": "Geração Distribuída"
+   },
+   {
     "titulo": "A usina que ninguém precisou construir: como as VPPs transformam telhados solares em infraestrutura elétrica - Agência eixos",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZFTFZFc1BnNGRpOUlNSlMwSkdjNFpMSzFwdGppc09Pb2ZrY1VWME9pSjNDRk5vcjZUcDRISjgxVG1IdlRrTjdtUEM5WE5DRzQ1ZHMzUzAzWVd4Y0JOeDZEV3hrRXZENkFIRm5fR29LTG5DWDJUTEtwVS1tbEtfMWQzVGczMUFqckpISTBsNWVEbWFFNURNSjZVRVBuNnp3TmItQTA5Q1VNblgzZXZteW0xR1pkSzZ6Qi1nWHN6TFBXWS1vZ2JoMmJUM0tneUFWYndlcmJVSVlYSGRhZV9F?oc=5",
     "fonte": "Agência eixos",
@@ -1345,14 +1353,6 @@
     "titulo": "Avanço da geração distribuída reforça papel das baterias - REDE BRASIL DE TELEVISÃO",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnl5SlVTa0V1QVNTdmJ5dGZaX1hmd0NEMVRNRzNtZVNBYzhaMThTV3JNUzVLeTJtYkU4MlRrbTVrd0lZNEJNTmRnV1ozdTRfdm83dThhVXQyaGRVVEZ3N0pqQ0RhaVhvUVBwY2NsNHFFaHJxNmUxZmlZMnJoWkRqZFBqSXdGVFBmYldWVjczdG1CdWc?oc=5",
     "fonte": "REDE BRASIL DE TELEVISÃO",
-    "data": "2026-08-17T07:00:00.000Z",
-    "catId": "gd",
-    "catLabel": "Geração Distribuída"
-   },
-   {
-    "titulo": "A usina que ninguém precisou construir: como as VPPs transformam telhados solares em infraestrutura elétrica - eixos",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZFTFZFc1BnNGRpOUlNSlMwSkdjNFpMSzFwdGppc09Pb2ZrY1VWME9pSjNDRk5vcjZUcDRISjgxVG1IdlRrTjdtUEM5WE5DRzQ1ZHMzUzAzWVd4Y0JOeDZEV3hrRXZENkFIRm5fR29LTG5DWDJUTEtwVS1tbEtfMWQzVGczMUFqckpISTBsNWVEbWFFNURNSjZVRVBuNnp3TmItQTA5Q1VNblgzZXZteW0xR1pkSzZ6Qi1nWHN6TFBXWS1vZ2JoMmJUM0tneUFWYndlcmJVSVlYSGRhZV9F?oc=5",
-    "fonte": "eixos",
     "data": "2026-08-17T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1462,17 +1462,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
-    "fonte": "MegaWhat",
+    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
+    "fonte": "BBC",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-    "fonte": "BBC",
+    "titulo": "reEnergisa amplia carteira no mercado livre e base de clientes em geração distribuída - MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnJSMWxQdkRYa2ZMUnJCTXZGUlJST29lTXhOMWZDREktZjhkR0diVndMTXNnNUVqaVdWQzdWakFpVFFCZy1yQ1dQQTRxNmxLekNOeXlneEVmUHRZdGRCZGQwWlRZRDZ6bE1wd1JIU1k1UzNPUGNQa2p0cklCNTNnYkxQcEtaM2VmSXY3b3RPdlR3bHhVWkVjYS14dXJsS0dpcmVlTEtUTGMxNWdOZVM3bkxDNnVSejkyczk5eUZnYk8teTVaTm1oWWlNQzlCZThpdk1fYlNjR1laMUU?oc=5",
+    "fonte": "MegaWhat",
     "data": "2026-08-07T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -1990,17 +1990,17 @@
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Energia solar avança e transforma o setor elétrico no Brasil - revistaencontro.com.br",
+    "titulo": "Energia solar avança e transforma o setor elétrico no Brasil - Revista Encontro",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHpRbUY1OFVMUGdPRkxYNjJIcjhrclpuZG13NUJhUzZPY1ppcHlZZE5FdkVyMV84YURwdkJEVG1jcDRUWnRNdWZrdVczdktZSWQ3bzhvN21tQ3VHQ3JINkhRcFVGeFAyVU82cWpDRGY2cDFHX1BIUjBrRVlBdm85cm4yeDRETG9aZFlBbXJEZDdidUw0SUR0Zm5mR3J5YlQ3VjVsY01RTDVUd2lxNlo4eGlueWR3bVd5NWo2TjNVYw?oc=5",
-    "fonte": "revistaencontro.com.br",
+    "fonte": "Revista Encontro",
     "data": "2026-06-19T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
    },
    {
-    "titulo": "Energia solar avança e transforma o setor elétrico no Brasil - Revista Encontro",
+    "titulo": "Energia solar avança e transforma o setor elétrico no Brasil - revistaencontro.com.br",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHpRbUY1OFVMUGdPRkxYNjJIcjhrclpuZG13NUJhUzZPY1ppcHlZZE5FdkVyMV84YURwdkJEVG1jcDRUWnRNdWZrdVczdktZSWQ3bzhvN21tQ3VHQ3JINkhRcFVGeFAyVU82cWpDRGY2cDFHX1BIUjBrRVlBdm85cm4yeDRETG9aZFlBbXJEZDdidUw0SUR0Zm5mR3J5YlQ3VjVsY01RTDVUd2lxNlo4eGlueWR3bVd5NWo2TjNVYw?oc=5",
-    "fonte": "Revista Encontro",
+    "fonte": "revistaencontro.com.br",
     "data": "2026-06-19T07:00:00.000Z",
     "catId": "gd",
     "catLabel": "Geração Distribuída"
@@ -2584,17 +2584,17 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel aprova reajuste médio de 20,16% para tarifas da CEEE-D no Rio Grande do Sul - Agência eixos",
+    "titulo": "Aneel aprova reajuste médio de 20,16% para tarifas da CEEE-D no Rio Grande do Sul - eixos",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnR5MF9BMjcwcWh5Y21UQWJnOXFtS093NkxWZmlaSUVpN2l6R0d0bV9Kdk5IZHY1dlFIUXJyeXJfU0JZYWJJRE9vQ3I0a05pQmxPaHFqTEVzWjFhamZMUm1Kc203MTdBUlozZnhJc3dyVm5FWVdXRk16RmZtV2dJV2loMTBYa0tiV1FBc1diVkxNQXAxTFJUM0xrc0VPNkZfTEFRN3p1LW1YSDFZZ1E?oc=5",
-    "fonte": "Agência eixos",
+    "fonte": "eixos",
     "data": "2026-11-17T13:26:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel aprova reajuste médio de 20,16% para tarifas da CEEE-D no Rio Grande do Sul - eixos",
+    "titulo": "Aneel aprova reajuste médio de 20,16% para tarifas da CEEE-D no Rio Grande do Sul - Agência eixos",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnR5MF9BMjcwcWh5Y21UQWJnOXFtS093NkxWZmlaSUVpN2l6R0d0bV9Kdk5IZHY1dlFIUXJyeXJfU0JZYWJJRE9vQ3I0a05pQmxPaHFqTEVzWjFhamZMUm1Kc203MTdBUlozZnhJc3dyVm5FWVdXRk16RmZtV2dJV2loMTBYa0tiV1FBc1diVkxNQXAxTFJUM0xrc0VPNkZfTEFRN3p1LW1YSDFZZ1E?oc=5",
-    "fonte": "eixos",
+    "fonte": "Agência eixos",
     "data": "2026-11-17T13:26:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3013,7 +3013,7 @@
     "titulo": "BANDEIRA TARIFÁRIA VERDE GARANTE SEGUNDO MÊS CONSECUTIVO SEM COBRANÇA EXTRA NA CONTA DE ENERGIA - mundial.fm.br",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnVEVjVxLUdBZTVaNHhfZVBQekNEWmQ4d3BTSW5xMHF3VDYxM3ZrV0hrcXI3UTYyVUZvckIyMkZIRE1CR1kyOXljRlg1WURJT1dyN25tdEFmTUlFZGluYmNtQm1GZ1Z1MzRVSUthd2VRZ2VOOXpfaDJINlE0WFQ2ZTd5aVMtVnN0V2pvbUowdkpQMk1pX1ZrRzlpRmd0OHVrM3I4TXNhSV9uT2NSVldZbjRjdnAtZGI4eVE?oc=5",
     "fonte": "mundial.fm.br",
-    "data": "2026-11-05T12:04:07.000Z",
+    "data": "2026-11-05T08:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3050,14 +3050,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Novembro a bandeira tarifária da conta de luz será verde - A Voz dos Municípios",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1sYWVaTTJ6dTFabDc3akVZWVBGUXR3ckFVLURBc2ozRFJsRlR5RFdGdzJxZVZDRFJ3NDJEVW9yVWNhckZfUkJUU0l2bG9xeEJCTFN4VXNPSFMydzExTWZKelZud2hlSl9xOXJ2TkJkbG9LcHZ1SEZXQTJ4Q0taSUlHOW5idmwzR3U3QzQ1SE40X3lHYnBJV19xaVVoYk0?oc=5",
-    "fonte": "A Voz dos Municípios",
-    "data": "2026-11-04T12:36:25.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Novembro bandeira tarifária da conta de luz será verde - A Voz dos Municípios",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1sYWVaTTJ6dTFabDc3akVZWVBGUXR3ckFVLURBc2ozRFJsRlR5RFdGdzJxZVZDRFJ3NDJEVW9yVWNhckZfUkJUU0l2bG9xeEJCTFN4VXNPSFMydzExTWZKelZud2hlSl9xOXJ2TkJkbG9LcHZ1SEZXQTJ4Q0taSUlHOW5idmwzR3U3QzQ1SE40X3lHYnBJV19xaVVoYk0?oc=5",
     "fonte": "A Voz dos Municípios",
@@ -3079,6 +3071,14 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDZ1dnkybHJON1diNjdENXNVaERKdU43Sk0zRDV4c2JFNjVsS19QdDBYb3dTZ3Z1Yi1Pck1nQjdLV2pNT1QyNFdyTk1kS04tdmhUc1I2YWZEelk4QmFpeEE2LU15NEFDTTlQcWMtaWEyMFo2V1ZuUWYzWFViUXJET0ZZZ1RpaUxNelB0ejIybE5nblM3MGtuRnBKTTNyNERIXzJqUUxwc05yTFV0V3lJUmdyZDVfNjV5ZklyRDZ2V0piaTJvSjFv?oc=5",
     "fonte": "CidadeVerde.com",
     "data": "2026-11-04T10:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Novembro a bandeira tarifária da conta de luz será verde - A Voz dos Municípios",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1sYWVaTTJ6dTFabDc3akVZWVBGUXR3ckFVLURBc2ozRFJsRlR5RFdGdzJxZVZDRFJ3NDJEVW9yVWNhckZfUkJUU0l2bG9xeEJCTFN4VXNPSFMydzExTWZKelZud2hlSl9xOXJ2TkJkbG9LcHZ1SEZXQTJ4Q0taSUlHOW5idmwzR3U3QzQ1SE40X3lHYnBJV19xaVVoYk0?oc=5",
+    "fonte": "A Voz dos Municípios",
+    "data": "2026-11-04T08:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3408,6 +3408,15 @@
     "fonte": "Enel",
     "data": "2026-11-01T07:00:00.000Z",
     "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Nova News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlNlZ1lOODZ4QURUZGNyYVM1am5xTWRlenVSRU1oeWg5YXdqb2s2ZFBVYWZtSFlVVGp4ZGxtWTN0eGdwWlVFVlludTBjeWdUNzZtdUY4OUZxTzBQZ2h1OVcyblJnZldJbWVzNU05cHZ2Y2lISkdDZ1RPNlhEZzhic0ozR1NuNUJvY1E?oc=5",
+    "fonte": "Nova News",
+    "data": "2026-11-01T07:00:00.000Z",
+    "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
@@ -3475,14 +3484,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Tarifa de energia elétrica fica sem adicional em novembro, mas reajustes continuam - Economic News Brasil",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjZMQy1hcXZFeWpNN21LR2NMVmZiczlVR2VLLWIzRE1KYWpuRlJEZ01xaUFwUk5uMTF4WmdpYVJWNUFVZnQ2a3NhOVdRcWRYOUhLa0lUWjZlVE5NbTdZVmdXTjNxcEZlb2o2TFJJbjl6U3B0UE5NaklyV1RxYzBGdkxtc0Q2ekxsNXV0S1BJazY5SGF4Tk8zR1ZocWU?oc=5",
-    "fonte": "Economic News Brasil",
-    "data": "2026-10-31T14:07:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Alívio no bolso: Aneel mantém bandeira verde e conta de luz segue sem taxas extras em novembro - Plantão Brasil",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHRyUEItWTViTlU0SGxHa00wSHRTR0thLTVkV01hY1RxVUMzM3B3YXFCbnpRYktWSkJ3dzZDMmpDeWVFSU8yeWVPZDVQbjMxcTVuZWpGZUxfMEJYTzVqNVh4S1NPRjBIWHF2OFhGeWg5ZDUxN3J5ZDZEQ3V2aDFFQlhLUEQtdzBxbzNtbW0tRVF6Zl9kQWx6RnVvOHU5M3NHUGZ2QzI1RURpWjdoVW1ZV005YVRsLVkwZUFJTG1mZGs2dXVIWHk1WnVEWnNkTklQRTlHNmtR?oc=5",
     "fonte": "Plantão Brasil",
@@ -3503,14 +3504,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM1RTQmVMZzBzNDNwenVmLVRBQXlIMUktZWRFTGhWZm12YV9rVFdSV1NXcVZvNjNXUzBsZW1HN3Q1Nmd2bDFxV0FGQUhGX3l4dDNWZ2ticmdJZFZvMEVNclZfa3d5NDkyVGN0YWw3TzZwNTdVd0pIRjgtaUt0eWRCZEZYbVBBTER1VEtHVzEwcjVabzNweGx1TDFxWndmV29TOWxPdWtlcEZ5b0ZRckpHTXVvXzZyeUhrVDFoTmZQQTJldw?oc=5",
     "fonte": "Interior da Bahia",
     "data": "2026-10-31T13:41:56.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel mantém bandeira verde e conta de luz não terá taxa extra em novembro - Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxmZHNMZ29xRnZJSkswSENZUHVYYzJoRTF2c1dFZ1VpWXd3QnF3ZkVsbHZ0R2dsMnJYdkp6bjlqQkJVSlJBZlJnZG5tV3ZvY2JsaGRRUXkyakRCT2FBZllhLUVsM0RpQ3gtTC1IRy1qVDVHSnlrVXlwazBTUVVQVFpla0psb2ozMmRPeURDS0IwUW1JSE1mVXExVFI5eDktaUdHVHhlZ0JBX2lB?oc=5",
-    "fonte": "Metrópoles",
-    "data": "2026-10-31T13:34:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
@@ -3563,6 +3556,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Mantida bandeira verde na conta de luz de novembro - Destaque Noticias",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTRza0NvWmx2OS0xRHNGeTRDbHdBUF9OaDB4dkJjaVppN2tadGJWajVUOXlfMzItdVh4bGJxWFVkTVBWY2JzS014ZlhrR1dMTlZvenBKN1VNNlkzTGZyTTFkWlZ6ZEZwX1BaaWxVWENUZHVISUgxWGItUzFCTWM4dkNuNm5MQnUzWkFyS253SjkzbEk?oc=5",
+    "fonte": "Destaque Noticias",
+    "data": "2026-10-31T08:46:16.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Análise: bandeira verde convive com alta nas tarifas - CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbENfU0gtX3FNdm1ZNHNyNGpSQTNNdm1XNk1PSHNKWGZ6Wmstd1AwWFlha3lnVWRQazhxZlZTS2tGVWx5b1pyc3FPNV8yOTVkRXJwSXZBdVZFZTNDcFZRLW5fcUVjRDNERmJMUUJ2ODdQN3UtaU1TLU5WdmpfWk9XQVVPRmhmUzlmTjgwT0dkc1R5cWZmLU4wX3kwTjVMUkRrNEFPcFZtQUVtZw?oc=5",
     "fonte": "CNN Brasil",
@@ -3579,33 +3580,9 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "RN terá bandeira verde nas contas de energia em novembro de 2026, diz Aneel - G1",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR202TkxOcnlIb0dqYW1PVjFVR1NnOGlzSVpzZmRTdkVXV01Bc1RxTkttNndSTF85b0FXY3RKR1g4VXN4UHl0MWxtYk56ak1iNTJZVnVzYkZqamxlM2NSRnpfa2oyNmNUNDVZSjdEaU9TbGhUTXVSMTdsc2I0TGo5cXZuYjdoNWFIMEZEdVB2djQ4VkQ5dzlmQkUza18wMUZNd2JPUGxSMWlYM0YydlRLOFMzZk9YZ3NxdTBWNXRZYWpkT0luZk1lMHp4VFJNdWtjdThxRTFjYzlUNzDSAeoBQVVfeXFMT1hQVEE5ZFQ2SzVDclB0RnpKMmU4bmo3SWZ6TlhfcXpzZjdBZl9SRlNJaXpQVkNjc1ptSU50MW9GUUQwa3FfYUg3S0I0MlFueXBhZF9EbmFTbFVOcGZTQlo1NzNiSENvOGJGMXdidDJCVzBOclJ6YkFFWFZfUXhrSi1DYzBtcVVfT0VuMDRzTGNVdDZkSDVvamdiNEhyNGdzc1ZCNTJQLTd3MzV2UHNidXRvLWZycnZyUWxtT1JYVVVlS2NaM3dqaU15VUpfajRIdTlEbi1leU5QaDJQQkRTUlg4VWpERms1M3FR?oc=5",
-    "fonte": "G1",
-    "data": "2026-10-31T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde pelo 2º mês seguido - Click Guarulhos",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3FULUJ1dU5OZ3lBQk9GNGVLMUIyc1FrcTR5MEg5Q0FTVkJqcHRaSGVGVGRqSDZXYjlYN3dSWE85UHk4a1V1d0pud0hheE8yVUFTTl9CcTV0NzJBdTNpR0pKblNTeHp0YjJWNGVZVmhzMkU1ZWY2SlNnUi1VS0ZjUDI5Njd4Yml3OVZWRXQ3VnZsOGhZczNheWI2QVFPenM?oc=5",
-    "fonte": "Click Guarulhos",
-    "data": "2026-10-31T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro - ClickPB",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zN0JFMUZEZWpFeEU4emc2TDlKYUVpaUF3aUFmcDJxZXJQVFJGRl9PM08yb041S2lCQ0NuNzVwR0RFWFY3dnBSRHNHNTVqZGZGLVZEZm1BY3EwWi1ueC1JWDBxR0hwR25zT2FwWmRjVzZnMDdZYk5YRmpB?oc=5",
     "fonte": "ClickPB",
-    "data": "2026-10-31T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Pelo segundo mês consecutivo, as contas de luz não terão cobrança de tarifa extra, informou nesta sexta-feira (30) a Agência Nacional de Energia Elétrica (Aneel). A manutenção da bandeira verde permanece em novembro devido às condições favoráveis d - Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GX0JjVURDZFlWbzRaOGVMSlZuekg0d3BtUC1zWXctdFNLRW5Ub1lnZGtQTG5LZnhVNmpFZmVUS2p4MkNTaWVFeUZzbmd2T1E1U0E?oc=5",
-    "fonte": "Instagram",
     "data": "2026-10-31T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3619,9 +3596,41 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Correio de Carajás",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNHSTc5MVN4T0tYWmdWZ2ZKSE5HbnRJOXZsanc0SEpxSEstMFVZeF9rX0MzTHlZdWtYOXJiT2MxTVBoVTVMLWlkZHVDWVNIdE5IS0NTWGpBUm5tb1ZvaDZqbEladGVVYmhKTlJJWjFTWXlDZDR5X0RVSUhPYkQtNERlbFVnTERXTlE?oc=5",
-    "fonte": "Correio de Carajás",
+    "titulo": "Conta de luz terá bandeira verde pelo 2º mês seguido - Click Guarulhos",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3FULUJ1dU5OZ3lBQk9GNGVLMUIyc1FrcTR5MEg5Q0FTVkJqcHRaSGVGVGRqSDZXYjlYN3dSWE85UHk4a1V1d0pud0hheE8yVUFTTl9CcTV0NzJBdTNpR0pKblNTeHp0YjJWNGVZVmhzMkU1ZWY2SlNnUi1VS0ZjUDI5Njd4Yml3OVZWRXQ3VnZsOGhZczNheWI2QVFPenM?oc=5",
+    "fonte": "Click Guarulhos",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Pelo segundo mês consecutivo, as contas de luz não terão cobrança de tarifa extra, informou nesta sexta-feira (30) a Agência Nacional de Energia Elétrica (Aneel). A manutenção da bandeira verde permanece em novembro devido às condições favoráveis d - Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GX0JjVURDZFlWbzRaOGVMSlZuekg0d3BtUC1zWXctdFNLRW5Ub1lnZGtQTG5LZnhVNmpFZmVUS2p4MkNTaWVFeUZzbmd2T1E1U0E?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel mantém bandeira verde e conta de luz não terá taxa extra em novembro - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxmZHNMZ29xRnZJSkswSENZUHVYYzJoRTF2c1dFZ1VpWXd3QnF3ZkVsbHZ0R2dsMnJYdkp6bjlqQkJVSlJBZlJnZG5tV3ZvY2JsaGRRUXkyakRCT2FBZllhLUVsM0RpQ3gtTC1IRy1qVDVHSnlrVXlwazBTUVVQVFpla0psb2ozMmRPeURDS0IwUW1JSE1mVXExVFI5eDktaUdHVHhlZ0JBX2lB?oc=5",
+    "fonte": "Metrópoles",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Maracaju Em Foco",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYS14eG5meTdKc09saXlORkhwMWhzQU1UMXhzbk80R1JVM1RHbzFlQmJsUm9qV1M2REJhVENFd3VfRlBjbDlQc1UxM3JHMWg3aERsSU9uY21LUnFqZXg4WUpoaWhqeThUdTlTekZvaElzcTBqaGczZ0w4ekdZOVppRWhmdVV2SkhhWmpBVE11dU1md2YzNFR0Sg?oc=5",
+    "fonte": "Maracaju Em Foco",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Jornal da Mídia",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWlKNHVxQy1uOEZodjBVVVZ6NnpUMWVXTktydDloVW1rWU5OVFJHS1lVUTY4Q2VPSGxnN1dfSmwzWkN5S0pjbTFSeE5nTWVGdEo2ZVdiSXBkZW9KSnd1aXh5bi1qTjVaa3NobTZ2LU1pX2VrbUwtaDI4MXNUVTJYZ1hVeGstemxDbFhYN1RacWxEeUdwZHlYbTdn?oc=5",
+    "fonte": "Jornal da Mídia",
     "data": "2026-10-31T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3630,6 +3639,30 @@
     "titulo": "Aneel mantém bandeira verde e conta de luz não terá cobrança extra em novembro - Portal Piauí Hoje",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRDJnV0pTdlU1eFRLVEVscmVBV1BuNHNHMm1KVC1QWm1pSzBsUm5lOXFuTHpYMk9Fc3VCTEJ4OTlJTUlSTGI2NlhKWVNNMUxIbUNlN0RDb0hiNmtZYzA5RHozbXdMME5kMXJCYjVQTHVZS0hfX3VMVjNzX0x2VXU3UVhjVHJGYTBrMVNHWUROTHRjcDhXWDBvaHdtTGxxTW5VcE84ZXRhZ0lpZklpUHlqZ1lnRnNJVHNLV2dfY2JXTDk2X0YzT3M0eVVn0gHPAUFVX3lxTE92QV8wWjgxQ2dGSUZHU2RrUkhobVFDOFZ1b0M3Ukg5OG56MkxWcmdGeDNJTlBoTFVGVURfd2dQaGdTT3ZkaUpDc05FT29jTGdXbl9MRGIxekk5Q052VldGQ2I0cTNFMmliNW9nSExPeXNhUnltUXllUUFjTlh4ZDhNRjlQQnQ2Vl94ZXN4THBHdEVMYjhueFlTdzdlbkhzZmJ6WUNkTG9tRUtycnc4SzB3RGhZTnRvX3BZN2VkdXg2a2JnblhyTDRDSzZ3M0JmQQ?oc=5",
     "fonte": "Portal Piauí Hoje",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Tarifa de energia elétrica fica sem adicional em novembro, mas reajustes continuam - Economic News Brasil",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjZMQy1hcXZFeWpNN21LR2NMVmZiczlVR2VLLWIzRE1KYWpuRlJEZ01xaUFwUk5uMTF4WmdpYVJWNUFVZnQ2a3NhOVdRcWRYOUhLa0lUWjZlVE5NbTdZVmdXTjNxcEZlb2o2TFJJbjl6U3B0UE5NaklyV1RxYzBGdkxtc0Q2ekxsNXV0S1BJazY5SGF4Tk8zR1ZocWU?oc=5",
+    "fonte": "Economic News Brasil",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "RN terá bandeira verde nas contas de energia em novembro de 2026, diz Aneel - G1",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR202TkxOcnlIb0dqYW1PVjFVR1NnOGlzSVpzZmRTdkVXV01Bc1RxTkttNndSTF85b0FXY3RKR1g4VXN4UHl0MWxtYk56ak1iNTJZVnVzYkZqamxlM2NSRnpfa2oyNmNUNDVZSjdEaU9TbGhUTXVSMTdsc2I0TGo5cXZuYjdoNWFIMEZEdVB2djQ4VkQ5dzlmQkUza18wMUZNd2JPUGxSMWlYM0YydlRLOFMzZk9YZ3NxdTBWNXRZYWpkT0luZk1lMHp4VFJNdWtjdThxRTFjYzlUNzDSAeoBQVVfeXFMT1hQVEE5ZFQ2SzVDclB0RnpKMmU4bmo3SWZ6TlhfcXpzZjdBZl9SRlNJaXpQVkNjc1ptSU50MW9GUUQwa3FfYUg3S0I0MlFueXBhZF9EbmFTbFVOcGZTQlo1NzNiSENvOGJGMXdidDJCVzBOclJ6YkFFWFZfUXhrSi1DYzBtcVVfT0VuMDRzTGNVdDZkSDVvamdiNEhyNGdzc1ZCNTJQLTd3MzV2UHNidXRvLWZycnZyUWxtT1JYVVVlS2NaM3dqaU15VUpfajRIdTlEbi1leU5QaDJQQkRTUlg4VWpERms1M3FR?oc=5",
+    "fonte": "G1",
+    "data": "2026-10-31T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Correio de Carajás",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNHSTc5MVN4T0tYWmdWZ2ZKSE5HbnRJOXZsanc0SEpxSEstMFVZeF9rX0MzTHlZdWtYOXJiT2MxTVBoVTVMLWlkZHVDWVNIdE5IS0NTWGpBUm5tb1ZvaDZqbEladGVVYmhKTlJJWjFTWXlDZDR5X0RVSUhPYkQtNERlbFVnTERXTlE?oc=5",
+    "fonte": "Correio de Carajás",
     "data": "2026-10-31T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3755,14 +3788,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel mantém bandeira tarifária verde em novembro - tribunadopovoto.com.br",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFdPV0JJLUZvMFZSUnU3NzFobnRxeXpCQ1dlQ1g0NWZ3MU9mbEpINVl0RlBQWFltQ3JoUms5dkJVb3hpQ2NpOVVNNDNiTmVHdGVuSERzQU5udEVGTG5WeTEtYXp1OVV1Vy1waXp5dUFETGY5b3IwSXdURXlFVFBVNTRGSTY2VFIyUHJpRjZhbF93cEhxY1ZyZ3lVR0kxcFE4?oc=5",
-    "fonte": "tribunadopovoto.com.br",
-    "data": "2026-10-30T21:26:09.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Aneel mantém bandeira tarifária verde em novembro - Jeremoabo.com",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVJndEhkMTA5Sk1Gb1ZzQkN4RTFOQXVaQmk3NFZtRXplNl9YU1h2cTNaTDFwSGlsX3FtMGY1S2o1SFdzdUVTMGlHTWtFU2EwYWd2WGpkTy1YWDNqVkFXLXBjZW05ZmtVTW40eDI4LWh3eGg0R29XcjdJYUdObjRxQTZfZGFqQV83bXBkcTZxeV9razZybjVFRg?oc=5",
     "fonte": "Jeremoabo.com",
@@ -3828,15 +3853,6 @@
     "imagem": null
    },
    {
-    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas",
-    "imagem": null
-   },
-   {
     "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro - G1",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM29QWHlmT0FWTWVaZF91ZjdSM3ZZOXpITm1aWDd4Z0EtV3VFMXZpUkluWjNqQXRTNkNoYU42NktRLWFNTGpvNEZwRnFqdHQ0c1hjQTh2M0t4MllXNmhLWlFjQlhBNUliVkRldFBEWlBoSjU5cFpqaWhTWmplZVJnUXFsU2V3UzFCLWtIZG9fY25ycVJNREdoS2JsUXVVcjV5bHlwbHNvVTRHR0NyWnhRd20zUk1XSHFfdDhrb0FMb9IBzgFBVV95cUxNT2FSa19HR3RhN1ZRSFBWSzhDWUE5TkMxM3NLUDhnUDVnZzhsa0hGV18ybmN5OTVCcVFlQXlYTzFmdEdXT1lYdjY2cG5NaHd0c2p3VUwwNW1IUTdYV0JkaUdBbEM0WWQwbFRNaE5Hc29CYmlwSk1kakZwTUQyclpTSXhPM3VZVWdrWUFqeFBjQWFPYUhKY3Fsd0o1U3lSMkxjUDhJNDRfRkRNMkRJaXNtX2dfenBubHJ3ZVFyb245YVdobE5Dbk9jY3ZSUjNkdw?oc=5",
     "fonte": "G1",
@@ -3844,14 +3860,6 @@
     "catId": "tarifas",
     "catLabel": "Tarifas",
     "imagem": null
-   },
-   {
-    "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
-    "fonte": "O GLOBO",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
    },
    {
     "titulo": "Conta de luz terá bandeira verde em novembro - MegaWhat",
@@ -3873,6 +3881,14 @@
     "titulo": "Aneel anuncia hoje (30/10) a bandeira da conta de luz de novembro veja o que muda - Brasil 247",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUVZWTB4YXpTSldld1FJRktXV2Y0dEFsZS0yUWUzZ0hXUlIyampHMFRaUFJOdHUzTUVwdkN3UEJTQW1jRmxETG0ydGh0SFhrTjdlZ3AtODd6endJV2dqS29SMFlnWU1DclRlYWVpb2h1cWRObi1Od2M4TmhHaENFZ05OOEpGTFVhdERuMXc2WW4yekJ0M0Q2enlkRHpsYmFjNFhra0phN1RpY0lERUJKend2MkNRWVc3U05OZks1aFNKSVF0LW5B?oc=5",
     "fonte": "Brasil 247",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Conta de luz: bandeira tarifária será verde em novembro, decide Aneel - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JGSlhzYTlPU1lRczBVa1pjVHgzaW52RzAwOWltX0RzMng2ZUxYb2puRUlWZjE3bjZjMlZHWlNZWUdtWkFoNmJSb3p5ck1lTzBHXzFBbWRFQUl4b2p0MVdZcVExaTZCeVNMM3NLUGtRQzFONGNiT3k0amxRd3BXVk82bFM5ajRLTklXeFhONHdhcWxBOTVIdS1mb1pmazRzWk9heW5xRUtEdG92ZjlOd0ZlVC1MenNoLVBSYTdrRmkyeHpL0gHTAUFVX3lxTE05a2p2OTlFWTVwNUFiY2Q1UGstU2Vvb1laWjN4cjR4N0xSVnNxc19DMUQtNzR6MkUwNXBrYTZpY0FpNm02MHB5RlY2MU5NTzNzb2tvOFV2bXh6d016QTNVZ3hVM3d3WldZalhoY2lLRkVrNFRqXzNyRFNicTZvUEl3ZUtsT1FNa0pIelZJaHktOW1FVzZfNzhlUUdQQno4cXJpOHpCWXg5a21fNUlsN251ZFZyMnNodlRaMUF4STBYWGZtNW00X29JYVJnNjBHOTNSS1E?oc=5",
+    "fonte": "O GLOBO",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -3918,6 +3934,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Aneel mantém bandeira verde na conta de luz em novembro - SBT News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUm9oNjI0dXVzOUlsekc2V2hhRWlDSlRSYnB4blBvSmdRV2V1azdUdnlLczk1Z1IxeTlUUGVJQkppOHV0OFd4RVQtMUdJeEV0STBmd2d1bTJrVElyNDdtd0ZIV3J3Q1RLZHc3a0ZsOUV3aXFUMWlWN2VrQUhJYXZVNzJ1V3l4SzZmYlNXOVp1ZURUYS1iV0FDYlpiOGwtTG9S?oc=5",
+    "fonte": "SBT News",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Aneel mantém bandeira tarifária verde e evita tarifas extras em novembro - Metrô News Jornal",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDZQVllLS2loTlNkMFdhN3VTOXE4aU5wc0FscXVoX0tfSVlmeDk1R1FPVWMxNXVYVkhfWGJ2OWYzd2Y3RXpCNlUtZ1FSXzNCcEV2RFBCQlo2VHh3SzJHRkgxZWpFbExwZW1qcEF1U2pBd2pMUDJHUFY3cGdGUHFTNk1fazI4OFdyanFhaGRTeWtvLVdKODEzQXlBdGRaaUE?oc=5",
     "fonte": "Metrô News Jornal",
@@ -3934,14 +3958,6 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel mantém bandeira verde na conta de luz em novembro - SBT News",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUm9oNjI0dXVzOUlsekc2V2hhRWlDSlRSYnB4blBvSmdRV2V1azdUdnlLczk1Z1IxeTlUUGVJQkppOHV0OFd4RVQtMUdJeEV0STBmd2d1bTJrVElyNDdtd0ZIV3J3Q1RLZHc3a0ZsOUV3aXFUMWlWN2VrQUhJYXZVNzJ1V3l4SzZmYlNXOVp1ZURUYS1iV0FDYlpiOGwtTG9S?oc=5",
-    "fonte": "SBT News",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
     "titulo": "Aneel anunciou que bandeira tarifária em novembro será verde - CBN",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGQ1SS1lSVJQTHUtelNwdGJUSG8xVHRWdEV2Z216SXhaRkdCREVMOFhGVGdpZ1ZVaHE4SWRLSGNhNXJSRUxoNTVCQWNtZkpFSjkyenFFYTZ4b3RwTy1xQW16YnYxUHhmTUh3T1o1XzZEQmFEZ2RLa3pTSkNfMGJsMHJjXzlOcnFrdE1QYzFrQ2MxMU8wbXVHb1NORy01XzNvNEFsSnV2bkFIYUJjN0V6MDA1dkTSAcMBQVVfeXFMTnE2ZXBXUlR0cVozSnFIWnJXaldvaFVMV1d5NGo5Yktfa1JNckd6a2VLV2xQTGFUbW1pU09tY042OUlNQW0xR1paVWxDLWs4eEpsTXpZRDdDeXVwR1lhSGJiZmR4VHgxdVRENEJHWFNBOUh5ZW1WX3BfZXpMbHN0UzQ4WmJ0cS14dV9GNjdreFlhSnliZFhydTZ4ek5OZWlJWm1PTktKaFZQZktIMWRkc2ZsMDBMcC1iUFNhVkRCaUt1ODYw?oc=5",
     "fonte": "CBN",
@@ -3953,14 +3969,6 @@
     "titulo": "Aneel mantém bandeira verde na conta de luz em novembro - 30/10/2026 - Economia - Folha de S.Paulo",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkdLQTNpVXkzbWtBMXRucmVvWXBGaGFKUksxRW9WczNFLTZ3QTN3SEVjVHVHWjZzTFlEamRPZUJiT0VfMzJrVGJLSzBaTmNsV01uRkNXUTJHLU44eE4xVFJSN3NneENzTEx4b0RBalMtMEtud25rTHBSU1JsNWRpN3lKUGVGZjYxVHVxcHNRZ202Y202eG13ZE9SbW9UVmM4Vkpja0RZQnZxdTQ?oc=5",
     "fonte": "Folha de S.Paulo",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Imirante.com",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTEFnREd1emhVMWNIQzh5SU9ranMxYThLYzljWXdkQjNzaGFBcXRhUmZ0N0Z4SVMzWXdEUkVsN0VmSFRWclNaVzlKZEU1TEZKMlV3aTNhbE52d0hpeFhvUWZNOVBVdGZOdmRTMzFENTRpUXd3eVJtWDZMRWtWVHVtTWZmWS1OTHFpM2dIcnRMYXhaOExGZjJHY1JR0gGfAUFVX3lxTE1vdW15cm5oS1Jqdi1SV25xZFptTHhNd1FyX0JkYTZRRW9CQy1jVFpBalhVcjRZY1dBeTRfNGN6U0JzbEhRR3NUYmktVDBsV1ZKRF94LUhUVnJjMTVIdDJmTmxEVS1RVjZlZk9TeUcyNThQc3o0by1pSkREWHc1WWZ3N090b053Rlo3NUdQTjVQeEFjRVRlUjlsS2xELWFRVQ?oc=5",
-    "fonte": "Imirante.com",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4006,6 +4014,14 @@
     "catLabel": "Tarifas"
    },
    {
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - tribunadopovoto.com.br",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFdPV0JJLUZvMFZSUnU3NzFobnRxeXpCQ1dlQ1g0NWZ3MU9mbEpINVl0RlBQWFltQ3JoUms5dkJVb3hpQ2NpOVVNNDNiTmVHdGVuSERzQU5udEVGTG5WeTEtYXp1OVV1Vy1waXp5dUFETGY5b3IwSXdURXlFVFBVNTRGSTY2VFIyUHJpRjZhbF93cEhxY1ZyZ3lVR0kxcFE4?oc=5",
+    "fonte": "tribunadopovoto.com.br",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
     "titulo": "Conta de luz fica mais barata em novembro? Veja o que decidiu a Aneel - Primeira Página",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGdZRFdVRFBEd25fR3RkMEhyMWdZWmRjSFZUT19kOW1YMmY0VEVQWlV4OGpZSkx2OUlid0Y3bXNSQ0kteEk5eC1zanotSHZJVVcxdndmdmh3dHdTTTN0V0tTYW0tVTUzcVFobUhzbGtTVEsxZHNSUk1ac2JZU21JZ0FyUXozS0x1UjdBTklldWNHdElfT3NldTJ5dGNTTDR6WlpTMW5RcmxyakFn?oc=5",
     "fonte": "Primeira Página",
@@ -4022,17 +4038,25 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Conta de luz segue sem cobrança extra em novembro - Campo Grande News",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTJjeldtYXJDdE1GVHM0Q1MwUGdEbkxacEZ1U0ZkWUctVktBTTMyQUhRbHRyY0RLODUyNmh0eWQ2NC1xcG41cHJxUXA3dXdibTBjckYtclR4ektpa1J2MzBGajJyOXlrbnRzRzR1UlZJNTR2LURDc01aRWdrUGNOUkh4b3hGM1dXZDdXNmFNSHNmSnk3VTllMA?oc=5",
+    "titulo": "Bandeira tarifária em novembro segue verde, sem adicional na conta de luz - Sem Pauta News",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWk1zTlBNa0luQ2NUTmJKbFJ1Z3E1WS1HUEpTeFI1TlJkWHV4R1NsNTdqYi15QjAzOVVlZmFMVWppT2N2ME12NEN5NGc0cEI4bk9yUGxkekNKeWlUblF3Y3pvQ29wVWpDX1JjRXpHellUVkZpVnljOGFjY0JHVE9FVV9CY2RGSG9Kck9vN1Yyb2lNV05Id2VRdmZUSFMydkJwR3c1RVZjakhzQUhNUXJ4MnpXX09SQQ?oc=5",
+    "fonte": "Sem Pauta News",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Bandeira verde mantém conta de luz sem taxa extra em novembro - Campo Grande News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTJjeldtYXJDdE1GVHM0Q1MwUGdEbkxacEZ1U0ZkWUctVktBTTMyQUhRbHRyY0RLODUyNmh0eWQ2NC1xcG41cHJxUXA3dXdibTBjckYtclR4ektpa1J2MzBGajJyOXlrbnRzRzR1UlZJNTR2LURDc01aRWdrUGNOUkh4b3hGM1dXZDdXNmFNSHNmSnk3VTllMNIBmAFBVV95cUxOUHZnYnNqakZNamxPVFNCLWNBNGtrOVVaRFhCLWtzREFTY24tWmVUY05QWm15aUNrMWg0WkI4d1J6Zl9wNE13dVRESzhJakc3RXFlRGZiajNxc0FNY214aFZpUWcyN1pVeG9mR2g0RVJKSkxmTEl5Slg5OW5BY1VsWWZIUXJyaVN0R0RzWWRqQl8xeDVyNWdXcg?oc=5",
     "fonte": "Campo Grande News",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel: mês de novembro terá bandeira tarifária verde - Times Brasil | CNBC",
+    "titulo": "Aneel: mês de novembro terá bandeira tarifária verde - Times Brasil",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenBxNUFfaDlVakwxcjdMc29ld0VNbUg2eVNvbTRCTVpERktTZGRwSDF3M0g2M3RaazFGb3FVTmExSUJZellXeGlqaGR6MlpUXzgzbXJUbDMwUUkyTEp0TW1DSE11M2s3ZUc1WVprNlc4MU84ZzhIcVV2WnJiYTVxNFdzTmJCb2gta1NQa3dzRXF1b1VqREE1NlRQOTFqbndGVDkzOHpaRjRVNjg?oc=5",
-    "fonte": "Times Brasil | CNBC",
+    "fonte": "Times Brasil",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4046,17 +4070,42 @@
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Bandeira tarifária em novembro segue verde, sem adicional na conta de luz - Sem Pauta News",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWk1zTlBNa0luQ2NUTmJKbFJ1Z3E1WS1HUEpTeFI1TlJkWHV4R1NsNTdqYi15QjAzOVVlZmFMVWppT2N2ME12NEN5NGc0cEI4bk9yUGxkekNKeWlUblF3Y3pvQ29wVWpDX1JjRXpHellUVkZpVnljOGFjY0JHVE9FVV9CY2RGSG9Kck9vN1Yyb2lNV05Id2VRdmZUSFMydkJwR3c1RVZjakhzQUhNUXJ4MnpXX09SQQ?oc=5",
-    "fonte": "Sem Pauta News",
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Aracaju Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWRDb3RDZ1U0WjVxbnBTZ1NQVkxrNTI1dEdHVVhnb1lWbm9hdDZWejQ4LXB5ZzN6eHRhZGZDeGljVnZvZ0lGZ3BEcktYdkcxemp3MEl4aFdlRk93QnBUV3NqcktZVmxtUE1TVGZrSGItVVVqSWNHU2FVVzgtMHZUaTMyV2xPaGxz?oc=5",
+    "fonte": "Aracaju Magazine",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    },
    {
-    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Aracaju Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWRDb3RDZ1U0WjVxbnBTZ1NQVkxrNTI1dEdHVVhnb1lWbm9hdDZWejQ4LXB5ZzN6eHRhZGZDeGljVnZvZ0lGZ3BEcktYdkcxemp3MEl4aFdlRk93QnBUV3NqcktZVmxtUE1TVGZrSGItVVVqSWNHU2FVVzgtMHZUaTMyV2xPaGxz?oc=5",
-    "fonte": "Aracaju Magazine",
+    "titulo": "ANEEL anuncia bandeira verde para vigorar em novembro - Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVZpd3lvV184dTVGTmw0bzNtTFZjb1kzcWYzdlp2VGpjdThrU0FnVTd1aE9NNzZRTm1pZy1rZktZZm9CWEtvYmpPc1pRc1FhTnVzWXhPQUk0Z0w0MlRlOWdHOTEzYzZKQ2I3Z0pvT0NsbUJqSDBNcVRMd091bWRjNmpTWWVJcTN6cE9NM3VYekJFMHo2Y1gxaFM4LW9PS3RjdUViQVlTUTRIdkU?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas",
+    "imagem": null
+   },
+   {
+    "titulo": "Aneel mantém bandeira tarifária verde em novembro - Imirante.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTEFnREd1emhVMWNIQzh5SU9ranMxYThLYzljWXdkQjNzaGFBcXRhUmZ0N0Z4SVMzWXdEUkVsN0VmSFRWclNaVzlKZEU1TEZKMlV3aTNhbE52d0hpeFhvUWZNOVBVdGZOdmRTMzFENTRpUXd3eVJtWDZMRWtWVHVtTWZmWS1OTHFpM2dIcnRMYXhaOExGZjJHY1JR0gGfAUFVX3lxTE1vdW15cm5oS1Jqdi1SV25xZFptTHhNd1FyX0JkYTZRRW9CQy1jVFpBalhVcjRZY1dBeTRfNGN6U0JzbEhRR3NUYmktVDBsV1ZKRF94LUhUVnJjMTVIdDJmTmxEVS1RVjZlZk9TeUcyNThQc3o0by1pSkREWHc1WWZ3N090b053Rlo3NUdQTjVQeEFjRVRlUjlsS2xELWFRVQ?oc=5",
+    "fonte": "Imirante.com",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Conta de luz segue sem cobrança extra em novembro - Campo Grande News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTJjeldtYXJDdE1GVHM0Q1MwUGdEbkxacEZ1U0ZkWUctVktBTTMyQUhRbHRyY0RLODUyNmh0eWQ2NC1xcG41cHJxUXA3dXdibTBjckYtclR4ektpa1J2MzBGajJyOXlrbnRzRzR1UlZJNTR2LURDc01aRWdrUGNOUkh4b3hGM1dXZDdXNmFNSHNmSnk3VTllMA?oc=5",
+    "fonte": "Campo Grande News",
+    "data": "2026-10-30T07:00:00.000Z",
+    "catId": "tarifas",
+    "catLabel": "Tarifas"
+   },
+   {
+    "titulo": "Aneel: mês de novembro terá bandeira tarifária verde - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenBxNUFfaDlVakwxcjdMc29ld0VNbUg2eVNvbTRCTVpERktTZGRwSDF3M0g2M3RaazFGb3FVTmExSUJZellXeGlqaGR6MlpUXzgzbXJUbDMwUUkyTEp0TW1DSE11M2s3ZUc1WVprNlc4MU84ZzhIcVV2WnJiYTVxNFdzTmJCb2gta1NQa3dzRXF1b1VqREE1NlRQOTFqbndGVDkzOHpaRjRVNjg?oc=5",
+    "fonte": "Times Brasil | CNBC",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4090,14 +4139,6 @@
     "titulo": "Aneel mantém bandeira verde na conta de luz em novembro - Gazeta do Povo",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVFUMTRMWFByakpUOHFZellwOVJxVFh5MTczdi12NUFONXRZUmRyTHV4UE0wUGR2bHA4QkNxQzZMXzk2TzlVY3pQX0liTlJ0YXZuMkw3R1BEZG9NNUJIVVBhazExdUFEU21IRGZfMldxaWtnWDZaS1M3dWU5LUoyX18wbWQzamQ0NXNYbHU4MXZlRkhIT2pYU0hSbVZoQQ?oc=5",
     "fonte": "Gazeta do Povo",
-    "data": "2026-10-30T07:00:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Bandeira verde mantém conta de luz sem taxa extra em novembro - Campo Grande News",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTJjeldtYXJDdE1GVHM0Q1MwUGdEbkxacEZ1U0ZkWUctVktBTTMyQUhRbHRyY0RLODUyNmh0eWQ2NC1xcG41cHJxUXA3dXdibTBjckYtclR4ektpa1J2MzBGajJyOXlrbnRzRzR1UlZJNTR2LURDc01aRWdrUGNOUkh4b3hGM1dXZDdXNmFNSHNmSnk3VTllMNIBmAFBVV95cUxOUHZnYnNqakZNamxPVFNCLWNBNGtrOVVaRFhCLWtzREFTY24tWmVUY05QWm15aUNrMWg0WkI4d1J6Zl9wNE13dVRESzhJakc3RXFlRGZiajNxc0FNY214aFZpUWcyN1pVeG9mR2g0RVJKSkxmTEl5Slg5OW5BY1VsWWZIUXJyaVN0R0RzWWRqQl8xeDVyNWdXcg?oc=5",
-    "fonte": "Campo Grande News",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
@@ -4815,46 +4856,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTdfNnFfUVk4TUpuaXZocFZDai1XRWlVLUhEcVFOY09FMmxpVDFaTUs4LWVlSS1abmZYeC1OQkVKaEdMQUYxRW01c0RyY0Y1dERjZUkyVnJGVFl0dEFsellxSUpBR3BuT3d2eWRGb2hBazUzWlJXQnpjRUpkYnc4aUsxbDZKUTYweTMwajI3NmJkSE9MUW9DVjFBU3AwekN2elBqMlppbkwtMk1BVUNHOXBEX0kwcllEQWs1WkVISFZscU9PZUowOVUxZzBOUjQ?oc=5",
     "fonte": "Sou de Palmas",
     "data": "2026-10-01T20:09:46.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Após cinco meses de cobrança extra, consumidores do Tocantins terão bandeira verde na conta de luz - soudepalmas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTdfNnFfUVk4TUpuaXZocFZDai1XRWlVLUhEcVFOY09FMmxpVDFaTUs4LWVlSS1abmZYeC1OQkVKaEdMQUYxRW01c0RyY0Y1dERjZUkyVnJGVFl0dEFsellxSUpBR3BuT3d2eWRGb2hBazUzWlJXQnpjRUpkYnc4aUsxbDZKUTYweTMwajI3NmJkSE9MUW9DVjFBU3AwekN2elBqMlppbkwtMk1BVUNHOXBEX0kwcllEQWs1WkVISFZscU9PZUowOVUxZzBOUjQ?oc=5",
-    "fonte": "soudepalmas.com.br",
-    "data": "2026-10-01T20:09:46.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz terá bandeira verde em outubro; entenda o motivo - gazetasbs.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2ZzOV95UkY0Ym1Kck1Yc3ZETUk1V2stTGhSRWRvSGlDNHVsdDlpMTl5NkhKXzNBOUpPUjZtM0tnSk9ZWUFiNDAxUXh6WHc2aVd1VTQ0TVRWYUxuNkVUSjZScjlKMmR2RVM3Q2NBRHh6S0NwbnNVT2VhMm9rSlRhTVRTOTVvR2tGeG93VmVYNA?oc=5",
-    "fonte": "gazetasbs.com.br",
-    "data": "2026-10-01T19:24:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de energia terá bandeira verde em outubro após cinco meses de cobrança adicional - tocantins.jornalopcao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2RNSHBZeG1rRTBSNVlVNEF1Y1JXNERyN1dEakowcF84M0FmdTB1Wmk3ZGVCRTdzOXNqb1BDa1ZtN1NiOExJdlAtQ2F4QmFZWjNBSjloUnJVUDhkblVSMjBKa0RDczRmX0RXZzktQjRtM21XOVBzNjNnOXBqeEl3aHBZbTFEcjhjVFVtUWFGNTgxZTc5SDJWSXBkUXlpTlJQUnBsYkdOTXpXWFNWTHNyNnllbEZqdHlFZnVSaVljYmJ4U2F0eGR4SG9XdXhJWkVLUENqY09nTQ?oc=5",
-    "fonte": "tocantins.jornalopcao.com.br",
-    "data": "2026-10-01T18:42:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de energia terá bandeira verde em outubro após cinco meses de cobrança adicional - Jornal Opção | Tocantins",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2RNSHBZeG1rRTBSNVlVNEF1Y1JXNERyN1dEakowcF84M0FmdTB1Wmk3ZGVCRTdzOXNqb1BDa1ZtN1NiOExJdlAtQ2F4QmFZWjNBSjloUnJVUDhkblVSMjBKa0RDczRmX0RXZzktQjRtM21XOVBzNjNnOXBqeEl3aHBZbTFEcjhjVFVtUWFGNTgxZTc5SDJWSXBkUXlpTlJQUnBsYkdOTXpXWFNWTHNyNnllbEZqdHlFZnVSaVljYmJ4U2F0eGR4SG9XdXhJWkVLUENqY09nTQ?oc=5",
-    "fonte": "Jornal Opção | Tocantins",
-    "data": "2026-10-01T18:42:00.000Z",
-    "catId": "tarifas",
-    "catLabel": "Tarifas"
-   },
-   {
-    "titulo": "Conta de luz: ANEEL confirma bandeira verde em outubro - HoraMS",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LbXg0WGdrMzVvTElONktGVFljbHhwb21sYTQwTEFnVE1xdGxzQVhhMWhpdEhqeVI0T0xhQnM1ZEh1QmpPRXdlVWY3VDVZQjI5S0t1YjUzMEZ0VzN0NGRqM2tPVVZNMDg?oc=5",
-    "fonte": "HoraMS",
-    "data": "2026-10-01T18:05:43.000Z",
     "catId": "tarifas",
     "catLabel": "Tarifas"
    }
@@ -6905,6 +6906,14 @@
     "catLabel": "Regulação"
    },
    {
+    "titulo": "Aneel adia decisão sobre novas regras para curtailment e rateio dos custos - eixos",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1JCQW53MnJvdUYzWkx3TkRkd2Rmc0dwU0lYQmVjZWRqMmNxbm4wTGx1VU1hcHFIVkVuTEZ4R2w1ek9tVE1nNW4xSHQ1YnhmdmhZU0lqN2VrdUJHMzMzTTNSN0w4YWJhVExsenRxWXhBZnZoWERwOFZVd2ZDQ1lQYkZSa1gxSlpkT1VDRy02Ym1iRi16OGE0ZElFQjFvNk5QR3A0Uko3S2hFdEFZOHJwd0xLRQ?oc=5",
+    "fonte": "eixos",
+    "data": "2026-07-28T07:00:00.000Z",
+    "catId": "regulacao",
+    "catLabel": "Regulação"
+   },
+   {
     "titulo": "Aneel adia decisão sobre novas regras para curtailment e rateio dos custos - Agência eixos",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1JCQW53MnJvdUYzWkx3TkRkd2Rmc0dwU0lYQmVjZWRqMmNxbm4wTGx1VU1hcHFIVkVuTEZ4R2w1ek9tVE1nNW4xSHQ1YnhmdmhZU0lqN2VrdUJHMzMzTTNSN0w4YWJhVExsenRxWXhBZnZoWERwOFZVd2ZDQ1lQYkZSa1gxSlpkT1VDRy02Ym1iRi16OGE0ZElFQjFvNk5QR3A0Uko3S2hFdEFZOHJwd0xLRQ?oc=5",
     "fonte": "Agência eixos",
@@ -7288,14 +7297,6 @@
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzJEcjVZeEZ1eVJwcUI0cEJXQmlDOWVpTE1lR3hYZjJCSkhORWFpMDBuREdzc3pRYVRNSjZaOVVTc1l6TlNfTEw5THkyRU9BckpaMW9Zc0p5LUUtWG93bDhZdUtWTnNWZ0Q3a09lTTlrSk5POVZkazl5Yzh5UHJpdnlfUHZKMHI4WkNmMFQ2VU55cFFMVVl0aQ?oc=5",
     "fonte": "megawhat.uol.com.br",
     "data": "2026-06-18T07:00:00.000Z",
-    "catId": "regulacao",
-    "catLabel": "Regulação"
-   },
-   {
-    "titulo": "ONS aponta riscos em reservas de capacidade para projetos da Casa dos Ventos e Odata - MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHFCSVl4MXVXNFoxYzgyazc2bkIxdWo2a2Mwd1h5MXhSRzUzRmxFNmRpSEVORVR0dHM1cFBzTXBEOWl6eGV5RFdPS2Y1d2tPTGtiQkljSk12emVGcjFVOW1zNnRpZE9uUDZHMHBwUGpweURVMVdWZ1hxOUJKMHJNQWQwWF9fS3EyTDVoQk9INE52Zzlvd2dXcWl3R1FaLUFPUEUxNURmbjA4Y0JDMTF5QVpicGx3SVVKVW9WMXBSRkNaT0U?oc=5",
-    "fonte": "MegaWhat",
-    "data": "2026-06-17T07:00:00.000Z",
     "catId": "regulacao",
     "catLabel": "Regulação"
    }
@@ -8339,8 +8340,7 @@
     "fonte": "CNN Brasil",
     "data": "2025-01-23T08:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "Fusões e aquisições em energia solar crescem 76% em 2024, aponta Greener - cnnbrasil.com.br",
@@ -8615,17 +8615,17 @@
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Auren compra a AES Brasil e nova empresa passa a ser a 3ª maior geradora de energia do país - Agência iNFRA",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkFVaGQ3blJoeDFMaS1Zb3IzQTlYNVdvZzlhSUNJeGhDY0VTX3NnUGNZYWFnZnNpbUplcTQwVnlZcVlmUUVaM0x4MEppQWxxd2JsYUR4VEtfeEUtSm01TXJFaUZIcGpJYXB5aGtIVlYxLWkwMTVIQnozdk9NOV9UTmdaNk01Rk1KeXZXWG5vX0p2Mmk2cEVjMkFZWEFjbWxmc3poc3ZPSHpRcUQ0LVN3cjZkbk5ZNlFjZE85MUNTcw?oc=5",
-    "fonte": "Agência iNFRA",
+    "titulo": "Fusão entre Auren e AES Brasil forma 3ª maior geradora de energia do país - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFFOUm1jUWwxUFh4eGp3N0c4djZ1QzVCMHVseF9mYjlIa0t3YmtoT1hwLVgwMjdJcVJlejdyYUFneGhha3dZZW9Nd1RwemhDbGpYTmg0NnFkYWlJN3RUaWVnb3UtVGhXdXpZX1FIR2JuaDc3bHVGN1J2UWtXajZ3c2pnOUV5VWZSdk5aV3NwbDRKLXp1REN2VUVUVlBGNldxOVE?oc=5",
+    "fonte": "Canal Solar",
     "data": "2024-05-17T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
    {
-    "titulo": "Fusão entre Auren e AES Brasil forma 3ª maior geradora de energia do país - Canal Solar",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFFOUm1jUWwxUFh4eGp3N0c4djZ1QzVCMHVseF9mYjlIa0t3YmtoT1hwLVgwMjdJcVJlejdyYUFneGhha3dZZW9Nd1RwemhDbGpYTmg0NnFkYWlJN3RUaWVnb3UtVGhXdXpZX1FIR2JuaDc3bHVGN1J2UWtXajZ3c2pnOUV5VWZSdk5aV3NwbDRKLXp1REN2VUVUVlBGNldxOVE?oc=5",
-    "fonte": "Canal Solar",
+    "titulo": "Auren compra a AES Brasil e nova empresa passa a ser a 3ª maior geradora de energia do país - Agência iNFRA",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkFVaGQ3blJoeDFMaS1Zb3IzQTlYNVdvZzlhSUNJeGhDY0VTX3NnUGNZYWFnZnNpbUplcTQwVnlZcVlmUUVaM0x4MEppQWxxd2JsYUR4VEtfeEUtSm01TXJFaUZIcGpJYXB5aGtIVlYxLWkwMTVIQnozdk9NOV9UTmdaNk01Rk1KeXZXWG5vX0p2Mmk2cEVjMkFZWEFjbWxmc3poc3ZPSHpRcUQ0LVN3cjZkbk5ZNlFjZE85MUNTcw?oc=5",
+    "fonte": "Agência iNFRA",
     "data": "2024-05-17T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
@@ -8763,6 +8763,14 @@
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHFBT09xX3pDbnpnRGYyZGhkcjNvRXNmVHg4X0d6RndEOHpkVTZ3OXFQMzR0ZWZjd2k3NXVBR3pJd1FRdEZ0S3ZRTnJyOEpzQ25sbkdpRVJNVWtkY0lqcmtDMmFzX3ZheXN6TkdDS0d0MXVWWmNRRVhRbnhFem5kUg?oc=5",
     "fonte": "conteudos.xpi.com.br",
     "data": "2024-05-02T10:45:11.000Z",
+    "catId": "mea",
+    "catLabel": "Players & Mercado"
+   },
+   {
+    "titulo": "Com Engie, RD Saúde acelera projeto de energia renovável e mira 100% das lojas - Exame",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmlTeHdqRjctdGhiQlQ0WG9mWFllRDFkZ0FHODF3VHQ0bGRLMzE3Z0g5SEZZZHJaUll2VEtVSjMyYkJMRVp5dzMwdWt3a1Y3VlRyTDUzVS1RR0tPcDBEa0VtOGVWeWtkTTQ0WHlUdmVicUFZMUNqSHhfSG9wT3NJaVVBTUFJcTJ2N1RubzRlSW9uYVZLU3h3T2h5OGkxQWRl?oc=5",
+    "fonte": "Exame",
+    "data": "2024-04-26T07:00:00.000Z",
     "catId": "mea",
     "catLabel": "Players & Mercado"
    },
@@ -9148,8 +9156,7 @@
     "fonte": "Portal Solar",
     "data": "2021-10-18T07:00:00.000Z",
     "catId": "mea",
-    "catLabel": "Players & Mercado",
-    "imagem": null
+    "catLabel": "Players & Mercado"
    },
    {
     "titulo": "E1 Energia e GDSolar anunciam fusão para atuar em geração distribuída - portalsolar.com.br",
@@ -9295,7 +9302,8 @@
     "fonte": "Brasil Mineral",
     "data": "2026-11-23T20:22:54.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências"
+    "catLabel": "Tendências",
+    "imagem": null
    },
    {
     "titulo": "Performa Solar patrocina o 360 Solar 2026 e terá Paulo Pessuti entre os palestrantes - Portal Solar",
@@ -9386,8 +9394,7 @@
     "fonte": "Canal Solar",
     "data": "2026-08-25T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Dia 1: Intersolar 2026 começa com novidades e debates sobre o futuro da energia solar - canalsolar.com.br",
@@ -9719,8 +9726,7 @@
     "fonte": "Canal Solar",
     "data": "2026-02-02T08:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "As cinco principais tendências do mercado global de armazenamento de energia em 2026 - canalsolar.com.br",
