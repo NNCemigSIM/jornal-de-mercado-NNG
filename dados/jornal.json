@@ -1,9 +1,9 @@
 {
- "geradoEm": "2026-11-27T18:48:47.047Z",
+ "geradoEm": "2026-11-28T03:02:01.020Z",
  "cotacoes": {
   "AURE3.SA": {
-   "preco": 13.33,
-   "pct": 3.735,
+   "preco": 13.16,
+   "pct": 2.412,
    "moeda": "BRL"
   },
   "NEE": {
@@ -27,8 +27,8 @@
    "moeda": "USD"
   },
   "CMIG4.SA": {
-   "preco": 11.33,
-   "pct": 0.355,
+   "preco": 11.32,
+   "pct": 0.266,
    "moeda": "BRL"
   }
  },
@@ -9320,7 +9320,8 @@
     "fonte": "Brasil Mineral",
     "data": "2026-11-23T20:22:54.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências"
+    "catLabel": "Tendências",
+    "imagem": null
    },
    {
     "titulo": "Performa Solar patrocina o 360 Solar 2026 e terá Paulo Pessuti entre os palestrantes - Portal Solar",
@@ -9328,8 +9329,7 @@
     "fonte": "Portal Solar",
     "data": "2026-10-30T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Relatório aponta 10 megatendências de energia para os próximos 25 anos; veja o papel do Brasil - startups.com.br",
@@ -9411,8 +9411,7 @@
     "fonte": "Canal Solar",
     "data": "2026-08-25T07:00:00.000Z",
     "catId": "tendencias",
-    "catLabel": "Tendências",
-    "imagem": null
+    "catLabel": "Tendências"
    },
    {
     "titulo": "Dia 1: Intersolar 2026 começa com novidades e debates sobre o futuro da energia solar - canalsolar.com.br",
@@ -11489,6 +11488,14 @@
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVlaaVlscHVqRTVBVWpubzhKSV9OeXNVR29TNzJTUnBkeWUyY0NMUzI0d2VJX1ljUGdUeHJoZFRlUnF4M0hZNHJ5VkdwMmlmQm50WlhtWU9jZjRjM2ZFUTIxZkJicnhBM2YzWW81dW5mNHVDaGZITi16TWJVZXh5TjZjeWZ3SklqUlNqbklmYw?oc=5",
     "fonte": "Canal Solar",
     "data": "2021-07-07T07:00:00.000Z",
+    "catId": "tendencias",
+    "catLabel": "Tendências"
+   },
+   {
+    "titulo": "GoodWe anuncia novidades para mercado de energia solar no Brasil - Canal Solar",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjBFeXRsMDUxN0RoVjhOcUZkX1dGbkFNZUdOdnFCQ2lseGZwMkkzMlRibkZsY09qaGxKOUhSLWk0VlJMQUhVNnlNeWw1QjNZLVlLOTY2cFY1YVVPNFg2WEw5N2JwZkpiRXhtcm1ZZnpoQm1kYXZfeldMMFpaWTBuSHVpVEZIRWxQb25qdjM5SWFBR2FxZEE?oc=5",
+    "fonte": "Canal Solar",
+    "data": "2021-01-13T08:00:00.000Z",
     "catId": "tendencias",
     "catLabel": "Tendências"
    },
